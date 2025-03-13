@@ -271,7 +271,7 @@ def generate_background(output_path=None, test=False, audio_path=None):
         # Case 1: Video with character overlays and subtitles
         filter_complex = (
             f"[0:v]{crop_filter}[cropped]{character_overlay};"
-            f"[with_characters]subtitles={subtitle_file}:force_style='FontName=Montserrat ExtraBold,FontSize=14,PrimaryColour=&HFFFFFF,OutlineColour=&H000000,BackColour=&H000000,BorderStyle=1,Outline=1,Shadow=0,MarginV=150,Fontsize=24'[v]"
+            f"[with_characters]subtitles={subtitle_file}:force_style='FontName=Montserrat ExtraBold,FontSize=14,PrimaryColour=&HFFFFFF,OutlineColour=&H000000,BackColour=&H000000,BorderStyle=1,Outline=1,Shadow=0,MarginV=150'[v]"
         )
         
         cmd = [
@@ -297,7 +297,7 @@ def generate_background(output_path=None, test=False, audio_path=None):
         # Case 2: Video with subtitles only
         filter_complex = (
             f"[0:v]{crop_filter}[cropped];"
-            f"[cropped]subtitles={subtitle_file}:force_style='FontName=Montserrat ExtraBold,FontSize=14,PrimaryColour=&HFFFFFF,OutlineColour=&H000000,BackColour=&H000000,BorderStyle=1,Outline=1,Shadow=0,MarginV=150,Fontsize=24'[v]"
+            f"[cropped]subtitles={subtitle_file}:force_style='FontName=Montserrat ExtraBold,FontSize=14,PrimaryColour=&HFFFFFF,OutlineColour=&H000000,BackColour=&H000000,BorderStyle=1,Outline=1,Shadow=0,MarginV=150'[v]"
         )
         
         cmd = [
