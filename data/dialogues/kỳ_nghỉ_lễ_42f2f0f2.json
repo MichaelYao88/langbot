@@ -1,0 +1,60 @@
+{
+  "id": "42f2f0f2",
+  "timestamp": 1741336790,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Anh có định đi đâu đó vào kỳ nghỉ lễ sắp tới không? Em nghe nói anh vừa chia tay với bạn gái cũ và đang muốn tìm một nơi để thay đổi không khí."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Ừ, anh đang nghĩ đến việc đi du lịch một mình. Anh cảm thấy cần một kỳ nghỉ để suy ngẫm lại mọi thứ sau khi chia tay. Em có đề xuất điểm đến nào thú vị cho kỳ nghỉ lễ không?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Sao anh không thử đến Sa Pa nhỉ? Vào kỳ nghỉ lễ, Sa Pa sẽ rất đẹp với khung cảnh núi non hùng vĩ. Anh có thể đi leo núi, khám phá các bản làng và thưởng thức ẩm thực địa phương. Em nghĩ đó sẽ là một trải nghiệm đáng nhớ cho anh."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Nghe có vẻ thú vị đấy. Nhưng liệu đi một mình vào kỳ nghỉ lễ có hơi buồn không? Anh đang tự hỏi liệu mình có nên rủ ai đó cùng đi không, nhưng lại không biết nên mời ai."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vậy sao anh không thử rủ một người bạn thân đi cùng? Hoặc có thể là một người mà anh đang có cảm tình? Đôi khi những chuyến đi như thế này lại giúp người ta xích lại gần nhau hơn đấy. Nhưng dù sao đi nữa, em nghĩ việc đi du lịch một mình vào kỳ nghỉ lễ cũng sẽ giúp anh có nhiều khoảng lặng để suy ngẫm và khám phá bản thân."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Do you plan to go somewhere for the upcoming <vietnamese>kỳ nghỉ lễ</vietnamese>? I heard you just broke up with your ex-girlfriend and want to find a place to change the atmosphere."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Yeah, I'm thinking about <vietnamese>đi</vietnamese> traveling <vietnamese>một mình</vietnamese>. I feel like I need a <vietnamese>kỳ nghỉ lễ</vietnamese> to reflect on everything after the breakup. Do you have any interesting destination suggestions for the <vietnamese>kỳ nghỉ lễ</vietnamese>?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Why don't you try đi to Sapa? During the kỳ nghỉ lễ, Sapa will be very beautiful with majestic mountain scenery. You can go hiking, explore the villages, and enjoy the local cuisine. I think it will be a memorable experience for you."
+    },
+    {
+      "speaker": "Michael",
+      "text": "That sounds interesting. But wouldn't it be a bit sad to đi một mình on a kỳ nghỉ lễ? I'm wondering if I should invite someone to go with me, but I don't know who to invite."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Why don't you try inviting a close friend to đi with you? Or maybe someone you have feelings for? I was going to đi to a chess tournament một mình this kỳ nghỉ lễ. You could also join me if you want."
+    }
+  ],
+  "topic_word": "kỳ nghỉ lễ",
+  "topic_word_translation": "holiday",
+  "common_words": [
+    {
+      "word": "đi",
+      "translation": "go"
+    },
+    {
+      "word": "một mình",
+      "translation": "alone"
+    }
+  ]
+}

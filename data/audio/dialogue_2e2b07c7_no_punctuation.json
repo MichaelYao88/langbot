@@ -1,0 +1,415 @@
+{
+  "id": "2e2b07c7",
+  "topic_word": "giấc mơ",
+  "topic_word_translation": "dream",
+  "common_words": [
+    {
+      "word": "Sài Gòn",
+      "translation": "Saigon"
+    },
+    {
+      "word": "trùng hợp",
+      "translation": "coincidence"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "You know what",
+      "viet_words": [],
+      "start_time": 0,
+      "end_time": 0.73
+    },
+    {
+      "speaker": "Mira",
+      "text": " I dreamed",
+      "viet_words": [],
+      "start_time": 0.73,
+      "end_time": 1.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "about you last",
+      "viet_words": [],
+      "start_time": 1.5,
+      "end_time": 2.29
+    },
+    {
+      "speaker": "Mira",
+      "text": "night ",
+      "viet_words": [],
+      "start_time": 2.29,
+      "end_time": 2.73
+    },
+    {
+      "speaker": "Mira",
+      "text": "In that giấc mơ",
+      "viet_words": [
+        "giấc mơ"
+      ],
+      "start_time": 2.73,
+      "end_time": 3.66
+    },
+    {
+      "speaker": "Mira",
+      "text": " we were",
+      "viet_words": [],
+      "start_time": 3.66,
+      "end_time": 4.22
+    },
+    {
+      "speaker": "Mira",
+      "text": "walking along the",
+      "viet_words": [],
+      "start_time": 4.22,
+      "end_time": 5.22
+    },
+    {
+      "speaker": "Mira",
+      "text": "Sài Gòn river and",
+      "viet_words": [
+        "Sài Gòn"
+      ],
+      "start_time": 5.22,
+      "end_time": 6.22
+    },
+    {
+      "speaker": "Mira",
+      "text": "having a really",
+      "viet_words": [],
+      "start_time": 6.22,
+      "end_time": 7.21
+    },
+    {
+      "speaker": "Mira",
+      "text": "pleasant conversation ",
+      "viet_words": [],
+      "start_time": 7.21,
+      "end_time": 8.64
+    },
+    {
+      "speaker": "Michael",
+      "text": "What a trùng hợp",
+      "viet_words": [
+        "trùng hợp"
+      ],
+      "start_time": 8.69,
+      "end_time": 9.71
+    },
+    {
+      "speaker": "Michael",
+      "text": "",
+      "viet_words": [],
+      "start_time": 9.71,
+      "end_time": 9.81
+    },
+    {
+      "speaker": "Michael",
+      "text": "I also dreamed",
+      "viet_words": [],
+      "start_time": 9.81,
+      "end_time": 10.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "about you last",
+      "viet_words": [],
+      "start_time": 10.7,
+      "end_time": 11.47
+    },
+    {
+      "speaker": "Michael",
+      "text": "night ",
+      "viet_words": [],
+      "start_time": 11.47,
+      "end_time": 11.88
+    },
+    {
+      "speaker": "Michael",
+      "text": "But in my",
+      "viet_words": [],
+      "start_time": 11.88,
+      "end_time": 12.46
+    },
+    {
+      "speaker": "Michael",
+      "text": "giấc mơ  we",
+      "viet_words": [
+        "giấc mơ"
+      ],
+      "start_time": 12.46,
+      "end_time": 13.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "were sitting in",
+      "viet_words": [],
+      "start_time": 13.2,
+      "end_time": 14.09
+    },
+    {
+      "speaker": "Michael",
+      "text": "my room and",
+      "viet_words": [],
+      "start_time": 14.09,
+      "end_time": 14.73
+    },
+    {
+      "speaker": "Michael",
+      "text": "",
+      "viet_words": [],
+      "start_time": 14.73,
+      "end_time": 14.83
+    },
+    {
+      "speaker": "Michael",
+      "text": "",
+      "viet_words": [],
+      "start_time": 14.83,
+      "end_time": 14.92
+    },
+    {
+      "speaker": "Michael",
+      "text": "",
+      "viet_words": [],
+      "start_time": 14.92,
+      "end_time": 15.02
+    },
+    {
+      "speaker": "Michael",
+      "text": "oh actually I",
+      "viet_words": [],
+      "start_time": 15.02,
+      "end_time": 15.92
+    },
+    {
+      "speaker": "Michael",
+      "text": "don't remember",
+      "viet_words": [],
+      "start_time": 15.92,
+      "end_time": 16.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "How can there",
+      "viet_words": [],
+      "start_time": 16.79,
+      "end_time": 17.48
+    },
+    {
+      "speaker": "Mira",
+      "text": "be such a",
+      "viet_words": [],
+      "start_time": 17.48,
+      "end_time": 18.1
+    },
+    {
+      "speaker": "Mira",
+      "text": "strange trùng hợp ",
+      "viet_words": [
+        "trùng hợp"
+      ],
+      "start_time": 18.1,
+      "end_time": 19.17
+    },
+    {
+      "speaker": "Mira",
+      "text": "I find it",
+      "viet_words": [],
+      "start_time": 19.17,
+      "end_time": 19.79
+    },
+    {
+      "speaker": "Mira",
+      "text": "a bit weird",
+      "viet_words": [],
+      "start_time": 19.79,
+      "end_time": 20.47
+    },
+    {
+      "speaker": "Mira",
+      "text": "",
+      "viet_words": [],
+      "start_time": 20.47,
+      "end_time": 20.57
+    },
+    {
+      "speaker": "Mira",
+      "text": "",
+      "viet_words": [],
+      "start_time": 20.57,
+      "end_time": 20.66
+    },
+    {
+      "speaker": "Mira",
+      "text": "",
+      "viet_words": [],
+      "start_time": 20.66,
+      "end_time": 20.76
+    },
+    {
+      "speaker": "Michael",
+      "text": "I don't believe",
+      "viet_words": [],
+      "start_time": 20.81,
+      "end_time": 21.82
+    },
+    {
+      "speaker": "Michael",
+      "text": "in fate ",
+      "viet_words": [],
+      "start_time": 21.82,
+      "end_time": 22.38
+    },
+    {
+      "speaker": "Michael",
+      "text": "but this trùng hợp",
+      "viet_words": [
+        "trùng hợp"
+      ],
+      "start_time": 22.38,
+      "end_time": 23.47
+    },
+    {
+      "speaker": "Michael",
+      "text": "is interesting ",
+      "viet_words": [],
+      "start_time": 23.47,
+      "end_time": 24.51
+    },
+    {
+      "speaker": "Michael",
+      "text": "How about we",
+      "viet_words": [],
+      "start_time": 24.51,
+      "end_time": 25.25
+    },
+    {
+      "speaker": "Michael",
+      "text": "try going for",
+      "viet_words": [],
+      "start_time": 25.25,
+      "end_time": 25.99
+    },
+    {
+      "speaker": "Michael",
+      "text": "a walk along",
+      "viet_words": [],
+      "start_time": 25.99,
+      "end_time": 26.8
+    },
+    {
+      "speaker": "Michael",
+      "text": "the Sài Gòn river",
+      "viet_words": [
+        "Sài Gòn"
+      ],
+      "start_time": 26.8,
+      "end_time": 27.81
+    },
+    {
+      "speaker": "Michael",
+      "text": "like in your",
+      "viet_words": [],
+      "start_time": 27.81,
+      "end_time": 28.55
+    },
+    {
+      "speaker": "Michael",
+      "text": "giấc mơ and see",
+      "viet_words": [
+        "giấc mơ"
+      ],
+      "start_time": 28.55,
+      "end_time": 29.43
+    },
+    {
+      "speaker": "Michael",
+      "text": "what happens ",
+      "viet_words": [],
+      "start_time": 29.43,
+      "end_time": 30.28
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's a good",
+      "viet_words": [],
+      "start_time": 30.33,
+      "end_time": 31.21
+    },
+    {
+      "speaker": "Mira",
+      "text": "idea ",
+      "viet_words": [],
+      "start_time": 31.21,
+      "end_time": 31.58
+    },
+    {
+      "speaker": "Mira",
+      "text": "But why the",
+      "viet_words": [],
+      "start_time": 31.58,
+      "end_time": 32.19
+    },
+    {
+      "speaker": "Mira",
+      "text": "Sài Gòn riverbank and",
+      "viet_words": [
+        "Sài Gòn"
+      ],
+      "start_time": 32.19,
+      "end_time": 33.48
+    },
+    {
+      "speaker": "Mira",
+      "text": "not at your",
+      "viet_words": [],
+      "start_time": 33.48,
+      "end_time": 34.15
+    },
+    {
+      "speaker": "Mira",
+      "text": "place in your",
+      "viet_words": [],
+      "start_time": 34.15,
+      "end_time": 34.96
+    },
+    {
+      "speaker": "Mira",
+      "text": "giấc mơ ",
+      "viet_words": [
+        "giấc mơ"
+      ],
+      "start_time": 34.96,
+      "end_time": 35.54
+    },
+    {
+      "speaker": "Michael",
+      "text": "Well  because",
+      "viet_words": [],
+      "start_time": 35.59,
+      "end_time": 36.21
+    },
+    {
+      "speaker": "Michael",
+      "text": "",
+      "viet_words": [],
+      "start_time": 36.21,
+      "end_time": 36.32
+    },
+    {
+      "speaker": "Michael",
+      "text": "",
+      "viet_words": [],
+      "start_time": 36.32,
+      "end_time": 36.43
+    },
+    {
+      "speaker": "Michael",
+      "text": "",
+      "viet_words": [],
+      "start_time": 36.43,
+      "end_time": 36.53
+    }
+  ]
+}

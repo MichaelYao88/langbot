@@ -1,0 +1,60 @@
+{
+  "id": "5133a54a",
+  "timestamp": 1741340639,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael này, món phở hôm qua anh mời em ăn ngon thật đấy. Nhưng mà... sao anh lại mời Linh đi cùng vậy? Em thấy hai người nói chuyện rất vui vẻ."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Linh chỉ là bạn thôi, Mira. Cô ấy hiểu biết nhiều về ẩm thực Việt Nam nên anh nghĩ cô ấy có thể giới thiệu cho chúng ta những món ngon. Anh không ngờ em để ý đến điều đó. Em thích món phở đó thật à?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm, \"chỉ là bạn\" ư? Em không tin lắm đâu. Mà phở đó... phở rất ngon, nhưng em thích cách người Việt Nam ăn phở buổi sáng. Ở Nga, chúng em không có thói quen ăn súp vào buổi sáng. Thú vị thật đấy."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Vậy à? Anh có thể dẫn em đi ăn phở buổi sáng vào cuối tuần này, chỉ hai chúng ta thôi. Còn về Linh... thôi, không quan trọng. Em có muốn nói về món ăn Nga mà em thích không? Anh tò mò về ẩm thực quê hương em."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Chỉ hai chúng ta? Em... em cũng không biết nữa. Em đang bận học cờ vua cho giải đấu tháng sau. Còn về món ăn Nga, em nhớ món bánh Pelmeni nhất. Đó là món bánh bột nhân thịt, hơi giống món hoành thánh của Việt Nam, nhưng khác. Nếu... nếu anh thực sự muốn thử, em có thể nấu cho anh ăn một lần."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael, the phở you treated me to yesterday was really ngon. But... why did you invite Linh to come along? I saw you two talking very happily."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Linh is just a friend, Mira. She knows a lot about Vietnamese cuisine so I thought she could recommend some good dishes to us. I didn't know you noticed that. Did you really like that phở?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm, \"just a friend\"? I'm not so sure. About that phở... the phở was very ngon, but I like how Vietnamese people ăn phở in the morning. In Russia, we don't have the habit of ăn soup in the morning. That's interesting."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? I can take you to ăn phở in the morning this weekend, just the two of us. As for Linh... well, it doesn't matter. Would you like to talk about Russian dishes that you like? I'm curious about your homeland's cuisine."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Just the two of us? I... I don't know. I'm busy practicing chess for next month's tournament. About Russian food, I miss Pelmeni dumplings the most. They're meat-filled dough, somewhat similar to Vietnamese wontons, but different. If... if you really want to try, I could cook them for you sometime."
+    }
+  ],
+  "topic_word": "phở",
+  "topic_word_translation": "Vietnamese noodle soup",
+  "common_words": [
+    {
+      "word": "ngon",
+      "translation": "delicious"
+    },
+    {
+      "word": "ăn",
+      "translation": "eat"
+    }
+  ]
+}

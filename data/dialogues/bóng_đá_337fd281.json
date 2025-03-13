@@ -1,0 +1,60 @@
+{
+  "id": "337fd281",
+  "timestamp": 1741339619,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael này, cậu có xem trận đấu bóng đá tối qua không? Đội Việt Nam đá hay quá, nhưng tôi thấy cách cổ vũ của người Việt Nam thật độc đáo."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tất nhiên là có rồi! Tôi không thể bỏ lỡ trận đấu nào của đội tuyển Việt Nam cả. Mà này, tôi không biết là bạn thích bóng đá đấy. Tôi cứ tưởng bạn chỉ thích cờ vua thôi chứ."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hừm, đừng đánh giá người khác qua vẻ ngoài. Ở Nga, bóng đá là môn thể thao quốc gia và tôi lớn lên với nó. Nhưng tôi phải thừa nhận là cách cổ vũ của người Việt Nam nhiệt tình hơn nhiều so với ở Nga. Đặc biệt là những bài hát cổ vũ ấy..."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Xin lỗi, tôi không có ý đánh giá bạn. Nhưng phải công nhận là văn hóa cổ vũ ở mỗi nước một khác. Này, nếu Mira thích, chúng mình có thể đi xem trận đấu tuần sau cùng nhau không? Tôi biết một quán café có màn hình lớn chiếu trận đấu, không khí rất sôi động."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Đi xem bóng đá à? Chỉ có hai người thôi sao? Tôi... tôi không biết nữa... Mà quán café đó có đông người không? Tôi không thích chỗ quá ồn ào."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael, did you watch the bóng đá match last night? Vietnam's team played so well, but I found the way Vietnamese people đánh giá quite unique."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Of course I did! I can't miss any matches of the Vietnamese national team. By the way, I didn't know you liked bóng đá. I thought you only liked chess."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmph, don't đánh giá others by their appearance. In Kazan, bóng đá is very popular and I grew up with it. But I must admit that the way Vietnamese people cổ vũ is much more enthusiastic than in Russia. Especially those chanting songs..."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sorry, I didn't mean to đánh giá you. But I have to agree that the cổ vũ culture is different in each country. Hey, if Mira likes, could we go watch the match together next week? I know a café with a big screen showing the match, the atmosphere is very lively."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Going to watch bóng đá? Just the two of us? I... I don't know... Is that café crowded? I don't like places that are too noisy."
+    }
+  ],
+  "topic_word": "bóng đá",
+  "topic_word_translation": "soccer",
+  "common_words": [
+    {
+      "word": "cổ vũ",
+      "translation": "cheer/support"
+    },
+    {
+      "word": "đánh giá",
+      "translation": "judge/evaluate"
+    }
+  ]
+}

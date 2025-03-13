@@ -1,0 +1,68 @@
+{
+  "id": "2e2b07c7",
+  "timestamp": 1741338396,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Anh có biết không, đêm qua em mơ thấy anh đấy. Trong giấc mơ ấy, chúng ta đang đi dạo bên bờ sông Sài Gòn và nói chuyện rất vui vẻ."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thật là trùng hợp! Anh cũng mơ thấy em đêm qua. Nhưng trong giấc mơ của anh, chúng ta lại đang ngồi uống cà phê bên một con đường nhỏ ở Sài Gòn."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Sao lại có sự trùng hợp kỳ lạ như vậy nhỉ? Hay là số phận đang muốn nói với chúng ta điều gì đó? Em thấy hơi rợn người..."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Anh không tin vào số phận đâu, nhưng mà sự trùng hợp này quả thật rất thú vị. Hay là chúng ta thử đi dạo bên bờ sông Sài Gòn như trong giấc mơ của em xem sao?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Ý hay đấy! Nhưng tại sao lại là bờ sông Sài Gòn mà không phải là uống cà phê như trong giấc mơ của anh?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thì đơn giản là vì..."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "You know what, I dreamed about you last night. In that giấc mơ, we were walking along the Sài Gòn river and having a really pleasant conversation."
+    },
+    {
+      "speaker": "Michael",
+      "text": "What a trùng hợp! I also dreamed about you last night. But in my giấc mơ, we were sitting in my room and... oh actually I don't remember"
+    },
+    {
+      "speaker": "Mira",
+      "text": "How can there be such a strange trùng hợp? I find it a bit weird..."
+    },
+    {
+      "speaker": "Michael",
+      "text": "I don't believe in fate, but this trùng hợp is interesting. How about we try going for a walk along the Sài Gòn river like in your giấc mơ and see what happens?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's a good idea! But why the Sài Gòn riverbank and not at your place in your giấc mơ?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Well, because..."
+    }
+  ],
+  "topic_word": "giấc mơ",
+  "topic_word_translation": "dream",
+  "common_words": [
+    {
+      "word": "Sài Gòn",
+      "translation": "Saigon"
+    },
+    {
+      "word": "trùng hợp",
+      "translation": "coincidence"
+    }
+  ]
+}

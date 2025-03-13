@@ -1,0 +1,68 @@
+{
+  "id": "44900d44",
+  "timestamp": 1741339361,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Mira, anh xin lỗi về chuyện tối qua. Anh không cố ý làm em khó chịu."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Không sao đâu. Chúng ta quên chuyện đó đi. Tôi không muốn nhắc lại nữa."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Cảm ơn em đã hiểu. Anh thực sự không biết em sợ pháo hoa. Nếu biết trước, anh đã không rủ em đi xem."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tôi không sợ pháo hoa. Chỉ là... những tiếng nổ lớn làm tôi nhớ về quá khứ. Quên đi, tôi không muốn nói về chuyện này nữa."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Anh hiểu rồi. Nhưng nếu em cần người để chia sẻ về quá khứ, anh sẽ luôn ở đây lắng nghe em, Mira."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Quá khứ chỉ là quá khứ thôi. Tôi đã cố gắng quên nó đi rất lâu rồi. Nhưng... cảm ơn anh vì đã quan tâm."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Mira, I'm sorry about last night. I didn't mean to make you uncomfortable."
+    },
+    {
+      "speaker": "Mira",
+      "text": "It's okay. Let's quên that incident. I don't want to mention it again."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thank you for understanding. I really didn't know you were sợ of fireworks. If I had known, I wouldn't have invited you to see them."
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm not sợ of fireworks. It's just... the loud explosions remind me of the quá khứ. quên it, I don't want to talk about this anymore."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Is it okay if I ask you about your quá khứ? If you need want to talk about your sợ or share about your quá khứ, I'll always be here to listen."
+    },
+    {
+      "speaker": "Mira",
+      "text": "quá khứ is just quá khứ. I've been trying to quên it for a long time. But... thank you for caring."
+    }
+  ],
+  "topic_word": "quá khứ",
+  "topic_word_translation": "past",
+  "common_words": [
+    {
+      "word": "quên",
+      "translation": "forget"
+    },
+    {
+      "word": "sợ",
+      "translation": "afraid/fear"
+    }
+  ]
+}

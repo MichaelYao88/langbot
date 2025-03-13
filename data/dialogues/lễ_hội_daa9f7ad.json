@@ -1,0 +1,60 @@
+{
+  "id": "daa9f7ad",
+  "timestamp": 1741339816,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael này, cậu có nghe về lễ hội bí ẩn ở Sài Gòn vào đêm trăng tròn không? Người ta nói rằng nếu hai người cùng tham gia lễ hội đó, họ sẽ gắn kết với nhau mãi mãi. Tất nhiên... không phải là tôi quan tâm đến chuyện đó đâu!"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Lễ hội gì vậy? Tôi sống ở Sài Gòn cũng lâu rồi mà chưa từng nghe đến. Nhưng nếu cậu muốn đi, tôi có thể đi cùng. Tôi rất thích khám phá những lễ hội truyền thống, đặc biệt là những lễ hội có ý nghĩa về tình cảm như vậy."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Đừng hiểu lầm! Tôi chỉ tò mò thôi. Nhưng... nếu cậu muốn đi, tôi cũng không phiền đâu. Nghe nói lễ hội này chỉ xuất hiện mỗi năm một lần, và phải có hai người cùng nhau tìm kiếm mới thấy được. Cậu tin vào những chuyện như vậy không?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tôi nghĩ văn hóa và truyền thống luôn có những điều bí ẩn thú vị. Lễ hội như vậy có thể là cách người dân địa phương kết nối với nhau. Nhưng khoan đã, đêm trăng tròn tới là ngày mai rồi! Cậu có muốn chúng ta thử tìm kiếm lễ hội này không? Tôi có thể đón cậu lúc 7 giờ tối."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tôi... tôi chưa nói là muốn đi mà! Nhưng... được rồi, tôi sẽ chuẩn bị. Có một điều cậu cần biết về lễ hội này - nghe nói những người tham gia phải mặc đồ truyền thống. Cậu có trang phục truyền thống Việt Nam không? Tôi có một chiếc áo dài Nga mà bà ngoại tôi đã may..."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael, have you heard about the bí ẩn lễ hội in Saigon during the full moon? They say if two people attend this lễ hội together, they'll be connected forever. Of course... it's not like I care about that!"
+    },
+    {
+      "speaker": "Michael",
+      "text": "What lễ hội is that? I've lived in Saigon for quite a while but never heard of it. But if you want to go, I could go with you. I really enjoy exploring truyền thống lễ hội, especially ones with romantic significance like that."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't misunderstand! I'm just curious. But... if you want to go, I wouldn't mind. They say this lễ hội only appears once a year, and two people must search for it together to find it. Do you believe in things like that?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "I think culture and truyền thống always have interesting bí ẩn elements. Such lễ hội might be ways for locals to connect with each other. But wait, the next full moon is tomorrow! Would you like us to try finding this lễ hội? I could pick you up at 7 PM."
+    },
+    {
+      "speaker": "Mira",
+      "text": "I... I didn't say I wanted to go! But... okay, I'll get ready. There's one thing you should know about this lễ hội - they say participants must wear truyền thống clothes. Do you have truyền thống Vietnamese clothing? I have a Russian traditional dress that my grandmother made..."
+    }
+  ],
+  "topic_word": "lễ hội",
+  "topic_word_translation": "festival",
+  "common_words": [
+    {
+      "word": "truyền thống",
+      "translation": "traditional"
+    },
+    {
+      "word": "bí ẩn",
+      "translation": "mysterious"
+    }
+  ]
+}
