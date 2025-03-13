@@ -27,7 +27,8 @@ def generate_background(output_path=None, test=False, audio_path=None):
     
     # Get a random audio file from data/audio if audio_path is not provided
     if audio_path is None:
-        audio_files = glob.glob("data/audio/dialogue_*_elevenlabs_slow.mp3")
+        # Look for audio files with both old and new naming conventions
+        audio_files = glob.glob("data/audio/*.mp3")
         if not audio_files:
             raise ValueError("No audio files found in data/audio directory")
         
@@ -38,11 +39,26 @@ def generate_background(output_path=None, test=False, audio_path=None):
     
     # Get the dialogue ID from the audio filename
     audio_filename = os.path.basename(audio_path)
-    match = re.match(r'dialogue_([a-f0-9]+)_elevenlabs_slow\.mp3', audio_filename)
-    if not match:
-        raise ValueError(f"Could not extract dialogue ID from filename: {audio_filename}")
     
-    dialogue_id = match.group(1)
+    # Try different filename patterns
+    # Old pattern: dialogue_ID_elevenlabs_slow.mp3
+    old_pattern_match = re.match(r'dialogue_([a-f0-9]+)_elevenlabs_slow\.mp3', audio_filename)
+    
+    # New pattern without topic word: dialogue_ID.mp3
+    new_pattern_without_topic_match = re.match(r'dialogue_([a-f0-9]+)\.mp3', audio_filename)
+    
+    # New pattern with topic word: topic_word_ID.mp3
+    new_pattern_with_topic_match = re.match(r'.*_([a-f0-9]+)\.mp3', audio_filename)
+    
+    # Determine which pattern matched
+    if old_pattern_match:
+        dialogue_id = old_pattern_match.group(1)
+    elif new_pattern_without_topic_match:
+        dialogue_id = new_pattern_without_topic_match.group(1)
+    elif new_pattern_with_topic_match:
+        dialogue_id = new_pattern_with_topic_match.group(1)
+    else:
+        raise ValueError(f"Could not extract dialogue ID from filename: {audio_filename}")
     
     # Set the output path based on the dialogue ID if not provided
     if output_path is None:

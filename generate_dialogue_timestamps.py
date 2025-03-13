@@ -365,13 +365,27 @@ def generate_timestamp_json(audio_file):
     """Generate a JSON file with dialogue timestamps for the given audio file."""
     # Extract the dialogue ID from the filename
     filename = os.path.basename(audio_file)
-    match = re.match(r'dialogue_([a-f0-9]+)_elevenlabs_slow\.mp3', filename)
     
-    if not match:
+    # Try different filename patterns
+    # Old pattern: dialogue_ID_elevenlabs_slow.mp3
+    old_pattern_match = re.match(r'dialogue_([a-f0-9]+)_elevenlabs_slow\.mp3', filename)
+    
+    # New pattern without topic word: dialogue_ID.mp3
+    new_pattern_without_topic_match = re.match(r'dialogue_([a-f0-9]+)\.mp3', filename)
+    
+    # New pattern with topic word: topic_word_ID.mp3
+    new_pattern_with_topic_match = re.match(r'.*_([a-f0-9]+)\.mp3', filename)
+    
+    # Determine which pattern matched
+    if old_pattern_match:
+        dialogue_id = old_pattern_match.group(1)
+    elif new_pattern_without_topic_match:
+        dialogue_id = new_pattern_without_topic_match.group(1)
+    elif new_pattern_with_topic_match:
+        dialogue_id = new_pattern_with_topic_match.group(1)
+    else:
         print(f"Could not extract dialogue ID from filename: {filename}")
         return None
-    
-    dialogue_id = match.group(1)
     
     # Find the corresponding dialogue file
     dialogue_data = find_dialogue_file(dialogue_id)
@@ -396,7 +410,7 @@ def generate_timestamp_json(audio_file):
         "dialogue": timestamps
     }
     
-    # Create the output filename (without _elevenlabs_slow)
+    # Create the output filename
     output_filename = f"dialogue_{dialogue_id}.json"
     output_path = os.path.join(config.AUDIO_PATH, output_filename)
     
@@ -409,8 +423,18 @@ def generate_timestamp_json(audio_file):
 
 def main():
     """Main function to process all audio files."""
-    # Get all audio files
-    audio_files = glob.glob(os.path.join(config.AUDIO_PATH, "dialogue_*_elevenlabs_slow.mp3"))
+    # Get all audio files (both old and new naming conventions)
+    audio_files = []
+    
+    # Old naming convention
+    old_files = glob.glob(os.path.join(config.AUDIO_PATH, "dialogue_*_elevenlabs_slow.mp3"))
+    audio_files.extend(old_files)
+    
+    # New naming convention - look for any MP3 files that aren't already covered
+    all_mp3_files = glob.glob(os.path.join(config.AUDIO_PATH, "*.mp3"))
+    for file in all_mp3_files:
+        if file not in old_files and not os.path.basename(file).startswith("dialogue_"):
+            audio_files.append(file)
     
     if not audio_files:
         print("No audio files found.")

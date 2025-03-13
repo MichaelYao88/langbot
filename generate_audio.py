@@ -352,14 +352,31 @@ def process_dialogue_line(line, speaker, output_dir, vietnamese_vocab=None):
 def get_processed_dialogues():
     """Get a list of dialogue IDs that have already been processed."""
     processed_ids = set()
-    audio_files = glob.glob(os.path.join(config.AUDIO_PATH, "dialogue_*.mp3"))
+    
+    # Check for both old and new naming conventions
+    # Old: dialogue_ID_elevenlabs_slow.mp3
+    # New: topic_word_ID.mp3 or dialogue_ID.mp3
+    audio_files = glob.glob(os.path.join(config.AUDIO_PATH, "*.mp3"))
     
     for file_path in audio_files:
         # Extract the dialogue ID from the filename
         filename = os.path.basename(file_path)
-        if "_" in filename:
+        
+        # Check for old naming convention
+        if filename.startswith("dialogue_") and "_elevenlabs_slow" in filename:
+            dialogue_id = filename.split("_")[1]
+            processed_ids.add(dialogue_id)
+        # Check for new naming convention without topic word
+        elif filename.startswith("dialogue_"):
             dialogue_id = filename.split("_")[1].split(".")[0]
             processed_ids.add(dialogue_id)
+        # Check for new naming convention with topic word
+        else:
+            # The ID is the last part before the extension
+            parts = filename.split("_")
+            if len(parts) > 1:
+                dialogue_id = parts[-1].split(".")[0]
+                processed_ids.add(dialogue_id)
     
     return processed_ids
 
@@ -418,8 +435,17 @@ def process_dialogue_file(file_path, output_dir):
             
             combined_audio += line_audio
     
-    # Save the combined audio
-    output_file = os.path.join(output_dir, f"dialogue_{dialogue_id}_elevenlabs_slow.mp3")
+    # Get the topic word from the dialogue data
+    topic_word = dialogue_data.get("topic_word", "")
+    
+    # Save the combined audio with the topic word in the filename
+    if topic_word:
+        # Create a filename similar to the dialogue files (topic_word_id.mp3)
+        output_file = os.path.join(output_dir, f"{topic_word}_{dialogue_id}.mp3")
+    else:
+        # Fallback to just using the ID if no topic word is found
+        output_file = os.path.join(output_dir, f"dialogue_{dialogue_id}.mp3")
+    
     combined_audio.export(output_file, format="mp3")
     
     logger.info(f"Generated audio for entire dialogue saved to: {output_file}")
@@ -443,13 +469,24 @@ def main():
             dialogue_data = json.load(f)
         
         dialogue_id = dialogue_data["id"]
-        # Check if we have a version with "_elevenlabs_slow" suffix
-        if f"dialogue_{dialogue_id}_elevenlabs_slow.mp3" not in [os.path.basename(f) for f in glob.glob(os.path.join(config.AUDIO_PATH, "*.mp3"))]:
+        topic_word = dialogue_data.get("topic_word", "")
+        
+        # Check if we have a version with the new naming convention
+        if topic_word:
+            expected_filename = f"{topic_word}_{dialogue_id}.mp3"
+        else:
+            expected_filename = f"dialogue_{dialogue_id}.mp3"
+        
+        # Also check for the old naming convention for backward compatibility
+        old_filename = f"dialogue_{dialogue_id}_elevenlabs_slow.mp3"
+        
+        existing_files = [os.path.basename(f) for f in glob.glob(os.path.join(config.AUDIO_PATH, "*.mp3"))]
+        if expected_filename not in existing_files and old_filename not in existing_files:
             unprocessed_file = file_path
             break
     
     if not unprocessed_file:
-        logger.info("All dialogues have been processed with ElevenLabs. No new dialogues to generate.")
+        logger.info("All dialogues have been processed. No new dialogues to generate.")
         return
     
     logger.info(f"Processing dialogue file: {unprocessed_file}")
