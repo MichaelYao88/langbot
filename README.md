@@ -9,6 +9,8 @@ A system for generating language learning content for TikTok/Reels and YouTube. 
 - Convert dialogue text to speech using ElevenLabs API
 - Generate videos with text, images, and audio
 - Track used vocabulary words to avoid repetition
+- Automatic speech recognition for accurate subtitle timing
+- Timestamp adjustment for better subtitle synchronization
 
 ## Setup
 
@@ -24,7 +26,15 @@ A system for generating language learning content for TikTok/Reels and YouTube. 
 
 4. Create directories for data storage:
    ```
-   mkdir -p data/dialogues data/audio data/videos
+   mkdir -p data/dialogues data/audio data/videos models
+   ```
+
+5. Download a Vosk model for speech recognition:
+   ```
+   # Download a model from https://alphacephei.com/vosk/models
+   # For example, the small English model:
+   wget https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip
+   unzip vosk-model-small-en-us-0.15.zip -d models/
    ```
 
 ## Usage
@@ -56,6 +66,7 @@ Options:
 - `--provider`: LLM provider to use (openai, anthropic)
 - `--vocab_file`: JSON file containing vocabulary words
 - `--num_dialogues`: Number of dialogues to generate
+- `--topic_word`: Specific topic word to use in the dialogue
 
 ### 3. Generate Audio
 
@@ -68,17 +79,49 @@ Options:
 - `--output_dir`: Directory to save audio files
 - `--generate_translations`: Generate audio for translations as well
 
-### 4. Generate Video
+### 4. Generate Dialogue Timestamps
 
 ```bash
-python generate_video.py --dialogue_file data/dialogues/example_12345678.json --audio_dir data/audio/example_12345678 --image_paths images/character1.jpg images/character2.jpg
+python generate_dialogue_timestamps.py
+```
+
+This script analyzes the audio files and creates corresponding JSON files with dialogue timestamps for subtitle display.
+
+### 5. Generate Accurate Timestamps with Speech Recognition
+
+```bash
+python auto_subtitle.py --audio data/audio/example_12345678.mp3
 ```
 
 Options:
-- `--dialogue_file`: JSON file containing dialogue data
-- `--audio_dir`: Directory containing audio files and metadata
-- `--image_paths`: Paths to image files to use in the video
-- `--output_path`: Path to save the output video
+- `--audio`: Path to a specific audio file to process
+- `--model`: Path to the Vosk model directory (default: models/vosk-model-small-en-us-0.15)
+
+This script uses automatic speech recognition to generate more accurate timestamps for the dialogue.
+
+### 6. Adjust Timestamps
+
+```bash
+python adjust_timestamps.py --dialogue-id 12345678
+```
+
+Options:
+- `--dialogue-id`: Dialogue ID to process
+
+This script adjusts the timings in the generated timestamp JSON files based on the auto-generated timestamps.
+
+### 7. Generate Background Video
+
+```bash
+python generate_background.py --audio data/audio/example_12345678.mp3
+```
+
+Options:
+- `--output`: Output path for the video
+- `--test`: Generate a 10-second test clip
+- `--audio`: Specific audio file to use
+
+This script generates a background video with audio and subtitles.
 
 ## Example Workflow
 
@@ -94,12 +137,27 @@ Options:
 
 3. Generate audio for a dialogue:
    ```
-   python generate_audio.py --dialogue_file data/dialogues/word_12345678.json
+   python generate_audio.py
    ```
 
-4. Generate a video using the audio and images:
+4. Generate dialogue timestamps:
    ```
-   python generate_video.py --dialogue_file data/dialogues/word_12345678.json --audio_dir data/audio/word_12345678 --image_paths images/char1.jpg images/char2.jpg
+   python generate_dialogue_timestamps.py
+   ```
+
+5. Generate accurate timestamps with speech recognition:
+   ```
+   python auto_subtitle.py
+   ```
+
+6. Adjust timestamps:
+   ```
+   python adjust_timestamps.py
+   ```
+
+7. Generate a background video:
+   ```
+   python generate_background.py
    ```
 
 ## Monetization Strategy
@@ -123,6 +181,8 @@ You can customize the system by modifying the `config.py` file:
 - OpenAI API key
 - ElevenLabs API key
 - Anthropic API key (optional)
+- FFmpeg for audio/video processing
+- Vosk for speech recognition
 - Images for video generation (e.g., from Midjourney)
 
 ## License

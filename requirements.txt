@@ -1,14 +1,19 @@
-openai==1.12.0
-anthropic==0.8.1
-requests==2.31.0
-moviepy==1.0.3
-Pillow==10.0.0
+# Core dependencies
 python-dotenv==1.0.0
-pyperclip==1.8.2
+requests==2.31.0
 pydub==0.25.1
+nltk==3.8.1
 gTTS==2.3.2
-elevenlabs==1.13.5
-azure-cognitiveservices-speech==1.32.1
+
+# Speech recognition
+vosk==0.3.45
+
+# Audio/video processing
+ffmpeg-python==0.2.0
+
+# Optional: for development
+black==23.3.0
+pylint==2.17.4
 
 # Note: FFmpeg is required for audio processing
 # Install FFmpeg from https://ffmpeg.org/download.html

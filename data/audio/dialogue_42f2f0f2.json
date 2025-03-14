@@ -17,21 +17,21 @@
       "speaker": "Mira",
       "text": "Do you plan",
       "viet_words": [],
-      "start_time": 0,
-      "end_time": 0.6
+      "start_time": 0.03,
+      "end_time": 0.54
     },
     {
       "speaker": "Mira",
       "text": "to go somewhere",
       "viet_words": [],
-      "start_time": 0.6,
-      "end_time": 1.49
+      "start_time": 0.63,
+      "end_time": 1.23
     },
     {
       "speaker": "Mira",
       "text": "for the upcoming",
       "viet_words": [],
-      "start_time": 1.49,
+      "start_time": 1.47,
       "end_time": 2.32
     },
     {
@@ -40,7 +40,21 @@
       "viet_words": [
         "kỳ nghỉ lễ"
       ],
-      "start_time": 2.32,
+      "start_time": 3.09,
+      "end_time": 3.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "just broke up",
+      "viet_words": [],
+      "start_time": 3.6,
+      "end_time": 4.2
+    },
+    {
+      "speaker": "Mira",
+      "text": "with your ex-girlfriend",
+      "viet_words": [],
+      "start_time": 4.35,
       "end_time": 4.4
     },
     {
@@ -48,28 +62,14 @@
       "text": "I heard you",
       "viet_words": [],
       "start_time": 4.4,
-      "end_time": 5.06
-    },
-    {
-      "speaker": "Mira",
-      "text": "just broke up",
-      "viet_words": [],
-      "start_time": 5.06,
-      "end_time": 5.76
-    },
-    {
-      "speaker": "Mira",
-      "text": "with your ex-girlfriend",
-      "viet_words": [],
-      "start_time": 5.76,
-      "end_time": 6.95
+      "end_time": 5.94
     },
     {
       "speaker": "Mira",
       "text": "and want to",
       "viet_words": [],
-      "start_time": 6.95,
-      "end_time": 7.55
+      "start_time": 5.94,
+      "end_time": 6.44
     },
     {
       "speaker": "Mira",
@@ -106,7 +106,14 @@
         "đi"
       ],
       "start_time": 10.19,
-      "end_time": 12.4
+      "end_time": 11.28
+    },
+    {
+      "speaker": "Michael",
+      "text": "I need a",
+      "viet_words": [],
+      "start_time": 11.28,
+      "end_time": 11.52
     },
     {
       "speaker": "Michael",
@@ -126,25 +133,25 @@
     },
     {
       "speaker": "Michael",
-      "text": "I need a",
-      "viet_words": [],
-      "start_time": 15.45,
-      "end_time": 16.05
-    },
-    {
-      "speaker": "Michael",
       "text": "<vietnamese>kỳ nghỉ lễ</vietnamese> to reflect",
       "viet_words": [
         "kỳ nghỉ lễ"
       ],
-      "start_time": 16.05,
-      "end_time": 18.56
+      "start_time": 15.45,
+      "end_time": 15.95
     },
     {
       "speaker": "Michael",
       "text": "on everything after",
       "viet_words": [],
       "start_time": 18.56,
+      "end_time": 19.17
+    },
+    {
+      "speaker": "Michael",
+      "text": "Do you have",
+      "viet_words": [],
+      "start_time": 19.17,
       "end_time": 19.58
     },
     {
@@ -153,13 +160,6 @@
       "viet_words": [],
       "start_time": 19.58,
       "end_time": 20.26
-    },
-    {
-      "speaker": "Michael",
-      "text": "Do you have",
-      "viet_words": [],
-      "start_time": 20.26,
-      "end_time": 20.87
     },
     {
       "speaker": "Michael",
@@ -214,7 +214,14 @@
         "kỳ nghỉ lễ"
       ],
       "start_time": 26.92,
-      "end_time": 28.03
+      "end_time": 26.94
+    },
+    {
+      "speaker": "Mira",
+      "text": "scenery .",
+      "viet_words": [],
+      "start_time": 26.94,
+      "end_time": 27.54
     },
     {
       "speaker": "Mira",
@@ -235,14 +242,14 @@
       "text": "with majestic mountain",
       "viet_words": [],
       "start_time": 29.53,
-      "end_time": 30.68
+      "end_time": 30.57
     },
     {
       "speaker": "Mira",
-      "text": "scenery .",
+      "text": "and enjoy the",
       "viet_words": [],
-      "start_time": 30.68,
-      "end_time": 31.18
+      "start_time": 30.57,
+      "end_time": 31.08
     },
     {
       "speaker": "Mira",
@@ -255,28 +262,21 @@
       "speaker": "Mira",
       "text": "hiking , explore",
       "viet_words": [],
-      "start_time": 31.76,
-      "end_time": 32.6
+      "start_time": 32.52,
+      "end_time": 32.52
     },
     {
       "speaker": "Mira",
       "text": "the villages ,",
       "viet_words": [],
-      "start_time": 32.6,
-      "end_time": 33.35
-    },
-    {
-      "speaker": "Mira",
-      "text": "and enjoy the",
-      "viet_words": [],
-      "start_time": 33.35,
-      "end_time": 34.02
+      "start_time": 32.52,
+      "end_time": 33.51
     },
     {
       "speaker": "Mira",
       "text": "local cuisine .",
       "viet_words": [],
-      "start_time": 34.02,
+      "start_time": 33.51,
       "end_time": 34.81
     },
     {
@@ -291,13 +291,13 @@
       "text": "will be a",
       "viet_words": [],
       "start_time": 35.48,
-      "end_time": 36.1
+      "end_time": 35.94
     },
     {
-      "speaker": "Mira",
-      "text": "memorable experience for",
+      "speaker": "Michael",
+      "text": "That sounds interesting",
       "viet_words": [],
-      "start_time": 36.1,
+      "start_time": 35.94,
       "end_time": 37.38
     },
     {
@@ -305,14 +305,14 @@
       "text": "you .",
       "viet_words": [],
       "start_time": 37.38,
-      "end_time": 37.67
+      "end_time": 37.47
     },
     {
-      "speaker": "Michael",
-      "text": "That sounds interesting",
+      "speaker": "Mira",
+      "text": "memorable experience for",
       "viet_words": [],
-      "start_time": 37.72,
-      "end_time": 38.89
+      "start_time": 37.47,
+      "end_time": 37.97
     },
     {
       "speaker": "Michael",
@@ -333,7 +333,7 @@
       "text": "be a bit",
       "viet_words": [],
       "start_time": 39.78,
-      "end_time": 40.32
+      "end_time": 39.99
     },
     {
       "speaker": "Michael",
@@ -341,7 +341,7 @@
       "viet_words": [
         "đi"
       ],
-      "start_time": 40.32,
+      "start_time": 39.99,
       "end_time": 40.86
     },
     {
@@ -351,6 +351,13 @@
         "một mình"
       ],
       "start_time": 40.86,
+      "end_time": 41.34
+    },
+    {
+      "speaker": "Michael",
+      "text": "I should invite",
+      "viet_words": [],
+      "start_time": 41.34,
       "end_time": 41.66
     },
     {
@@ -367,20 +374,13 @@
       "text": "I'm wondering if",
       "viet_words": [],
       "start_time": 42.3,
-      "end_time": 43.16
-    },
-    {
-      "speaker": "Michael",
-      "text": "I should invite",
-      "viet_words": [],
-      "start_time": 43.16,
-      "end_time": 44.0
+      "end_time": 42.6
     },
     {
       "speaker": "Michael",
       "text": "someone to go",
       "viet_words": [],
-      "start_time": 44.0,
+      "start_time": 42.6,
       "end_time": 44.75
     },
     {
@@ -402,6 +402,13 @@
       "text": "know who to",
       "viet_words": [],
       "start_time": 45.88,
+      "end_time": 46.08
+    },
+    {
+      "speaker": "Mira",
+      "text": "close friend to",
+      "viet_words": [],
+      "start_time": 46.08,
       "end_time": 46.46
     },
     {
@@ -427,22 +434,6 @@
     },
     {
       "speaker": "Mira",
-      "text": "close friend to",
-      "viet_words": [],
-      "start_time": 48.43,
-      "end_time": 49.25
-    },
-    {
-      "speaker": "Mira",
-      "text": "đi with you",
-      "viet_words": [
-        "đi"
-      ],
-      "start_time": 49.25,
-      "end_time": 49.86
-    },
-    {
-      "speaker": "Mira",
       "text": "?",
       "viet_words": [],
       "start_time": 49.86,
@@ -453,27 +444,43 @@
       "text": "Or maybe someone",
       "viet_words": [],
       "start_time": 49.95,
-      "end_time": 50.83
+      "end_time": 50.28
+    },
+    {
+      "speaker": "Mira",
+      "text": "đi with you",
+      "viet_words": [
+        "đi"
+      ],
+      "start_time": 50.28,
+      "end_time": 50.37
     },
     {
       "speaker": "Mira",
       "text": "you have feelings",
       "viet_words": [],
-      "start_time": 50.83,
-      "end_time": 51.71
+      "start_time": 50.37,
+      "end_time": 50.87
     },
     {
       "speaker": "Mira",
       "text": "for ?",
       "viet_words": [],
       "start_time": 51.71,
-      "end_time": 51.99
+      "end_time": 51.75
     },
     {
       "speaker": "Mira",
       "text": "I was going",
       "viet_words": [],
-      "start_time": 51.99,
+      "start_time": 51.75,
+      "end_time": 51.81
+    },
+    {
+      "speaker": "Mira",
+      "text": "a chess tournament",
+      "viet_words": [],
+      "start_time": 51.81,
       "end_time": 52.65
     },
     {
@@ -487,19 +494,19 @@
     },
     {
       "speaker": "Mira",
-      "text": "a chess tournament",
-      "viet_words": [],
-      "start_time": 53.21,
-      "end_time": 54.27
-    },
-    {
-      "speaker": "Mira",
       "text": "một mình this kỳ nghỉ lễ",
       "viet_words": [
         "kỳ nghỉ lễ",
         "một mình"
       ],
       "start_time": 54.27,
+      "end_time": 55.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "You could also",
+      "viet_words": [],
+      "start_time": 55.5,
       "end_time": 55.54
     },
     {
@@ -511,24 +518,17 @@
     },
     {
       "speaker": "Mira",
-      "text": "You could also",
-      "viet_words": [],
-      "start_time": 55.64,
-      "end_time": 56.35
-    },
-    {
-      "speaker": "Mira",
       "text": "join me if",
       "viet_words": [],
-      "start_time": 56.35,
-      "end_time": 56.95
+      "start_time": 55.92,
+      "end_time": 56.61
     },
     {
       "speaker": "Mira",
       "text": "you want .",
       "viet_words": [],
-      "start_time": 56.95,
-      "end_time": 57.46
+      "start_time": 56.73,
+      "end_time": 57.06
     }
   ]
 }

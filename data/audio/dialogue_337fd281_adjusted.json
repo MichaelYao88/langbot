@@ -1,0 +1,578 @@
+{
+  "id": "337fd281",
+  "topic_word": "bóng đá",
+  "topic_word_translation": "soccer",
+  "common_words": [
+    {
+      "word": "cổ vũ",
+      "translation": "cheer/support"
+    },
+    {
+      "word": "đánh giá",
+      "translation": "judge/evaluate"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael ,",
+      "viet_words": [],
+      "start_time": 0.06,
+      "end_time": 0.75
+    },
+    {
+      "speaker": "Mira",
+      "text": "did you watch",
+      "viet_words": [],
+      "start_time": 0.75,
+      "end_time": 1.29
+    },
+    {
+      "speaker": "Mira",
+      "text": "the bóng đá match",
+      "viet_words": [
+        "bóng đá"
+      ],
+      "start_time": 1.64,
+      "end_time": 2.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "last night ?",
+      "viet_words": [],
+      "start_time": 2.79,
+      "end_time": 3.39
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnam's team played",
+      "viet_words": [],
+      "start_time": 3.57,
+      "end_time": 4.83
+    },
+    {
+      "speaker": "Mira",
+      "text": "so well ,",
+      "viet_words": [],
+      "start_time": 4.83,
+      "end_time": 5.49
+    },
+    {
+      "speaker": "Mira",
+      "text": "but I found",
+      "viet_words": [],
+      "start_time": 5.49,
+      "end_time": 6.24
+    },
+    {
+      "speaker": "Mira",
+      "text": "the way Vietnamese",
+      "viet_words": [],
+      "start_time": 6.33,
+      "end_time": 7.14
+    },
+    {
+      "speaker": "Mira",
+      "text": "people đánh giá quite",
+      "viet_words": [
+        "đánh giá"
+      ],
+      "start_time": 7.14,
+      "end_time": 8.82
+    },
+    {
+      "speaker": "Mira",
+      "text": "unique .",
+      "viet_words": [],
+      "start_time": 8.82,
+      "end_time": 9.38
+    },
+    {
+      "speaker": "Michael",
+      "text": "Of course I",
+      "viet_words": [],
+      "start_time": 9.72,
+      "end_time": 9.99
+    },
+    {
+      "speaker": "Michael",
+      "text": "did !",
+      "viet_words": [],
+      "start_time": 10.26,
+      "end_time": 10.57
+    },
+    {
+      "speaker": "Michael",
+      "text": "I can't miss",
+      "viet_words": [],
+      "start_time": 11.13,
+      "end_time": 11.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "any matches of",
+      "viet_words": [],
+      "start_time": 11.58,
+      "end_time": 12.18
+    },
+    {
+      "speaker": "Michael",
+      "text": "the Vietnamese national",
+      "viet_words": [],
+      "start_time": 12.33,
+      "end_time": 13.32
+    },
+    {
+      "speaker": "Michael",
+      "text": "team .",
+      "viet_words": [],
+      "start_time": 13.32,
+      "end_time": 13.68
+    },
+    {
+      "speaker": "Michael",
+      "text": "By the way",
+      "viet_words": [],
+      "start_time": 14.1,
+      "end_time": 14.7
+    },
+    {
+      "speaker": "Michael",
+      "text": ", I didn't",
+      "viet_words": [],
+      "start_time": 14.82,
+      "end_time": 15.15
+    },
+    {
+      "speaker": "Michael",
+      "text": "know you liked",
+      "viet_words": [],
+      "start_time": 15.15,
+      "end_time": 16.4
+    },
+    {
+      "speaker": "Michael",
+      "text": "bóng đá .",
+      "viet_words": [
+        "bóng đá"
+      ],
+      "start_time": 16.4,
+      "end_time": 16.74
+    },
+    {
+      "speaker": "Michael",
+      "text": "I thought you",
+      "viet_words": [],
+      "start_time": 16.74,
+      "end_time": 16.95
+    },
+    {
+      "speaker": "Michael",
+      "text": "only liked chess",
+      "viet_words": [],
+      "start_time": 17.04,
+      "end_time": 17.94
+    },
+    {
+      "speaker": "Michael",
+      "text": ".",
+      "viet_words": [],
+      "start_time": 18.91,
+      "end_time": 19.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmph , don't",
+      "viet_words": [],
+      "start_time": 19.05,
+      "end_time": 19.8
+    },
+    {
+      "speaker": "Mira",
+      "text": "đánh giá others by",
+      "viet_words": [
+        "đánh giá"
+      ],
+      "start_time": 19.8,
+      "end_time": 20.82
+    },
+    {
+      "speaker": "Mira",
+      "text": "their appearance .",
+      "viet_words": [],
+      "start_time": 20.82,
+      "end_time": 21.78
+    },
+    {
+      "speaker": "Mira",
+      "text": "In Kazan ,",
+      "viet_words": [],
+      "start_time": 22.17,
+      "end_time": 22.83
+    },
+    {
+      "speaker": "Mira",
+      "text": "bóng đá is very",
+      "viet_words": [
+        "bóng đá"
+      ],
+      "start_time": 22.83,
+      "end_time": 24.06
+    },
+    {
+      "speaker": "Mira",
+      "text": "popular and I",
+      "viet_words": [],
+      "start_time": 24.06,
+      "end_time": 24.69
+    },
+    {
+      "speaker": "Mira",
+      "text": "grew up with",
+      "viet_words": [],
+      "start_time": 24.93,
+      "end_time": 25.35
+    },
+    {
+      "speaker": "Mira",
+      "text": "it .",
+      "viet_words": [],
+      "start_time": 25.5,
+      "end_time": 25.81
+    },
+    {
+      "speaker": "Mira",
+      "text": "But I must",
+      "viet_words": [],
+      "start_time": 26.16,
+      "end_time": 26.51
+    },
+    {
+      "speaker": "Mira",
+      "text": "admit that the",
+      "viet_words": [],
+      "start_time": 26.51,
+      "end_time": 27.25
+    },
+    {
+      "speaker": "Mira",
+      "text": "way Vietnamese people",
+      "viet_words": [],
+      "start_time": 27.25,
+      "end_time": 28.65
+    },
+    {
+      "speaker": "Mira",
+      "text": "cổ vũ is much",
+      "viet_words": [
+        "cổ vũ"
+      ],
+      "start_time": 28.72,
+      "end_time": 29.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "more enthusiastic than",
+      "viet_words": [],
+      "start_time": 29.88,
+      "end_time": 31.11
+    },
+    {
+      "speaker": "Mira",
+      "text": "in Russia .",
+      "viet_words": [],
+      "start_time": 31.23,
+      "end_time": 31.77
+    },
+    {
+      "speaker": "Mira",
+      "text": "Especially those chanting",
+      "viet_words": [],
+      "start_time": 32.4,
+      "end_time": 33.54
+    },
+    {
+      "speaker": "Mira",
+      "text": "songs .",
+      "viet_words": [],
+      "start_time": 33.54,
+      "end_time": 33.81
+    },
+    {
+      "speaker": "Mira",
+      "text": ".",
+      "viet_words": [],
+      "start_time": 33.81,
+      "end_time": 33.91
+    },
+    {
+      "speaker": "Mira",
+      "text": ".",
+      "viet_words": [],
+      "start_time": 33.91,
+      "end_time": 34.01
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sorry , I",
+      "viet_words": [],
+      "start_time": 34.44,
+      "end_time": 34.72
+    },
+    {
+      "speaker": "Michael",
+      "text": "didn't mean to",
+      "viet_words": [],
+      "start_time": 34.72,
+      "end_time": 35.34
+    },
+    {
+      "speaker": "Michael",
+      "text": "đánh giá you .",
+      "viet_words": [
+        "đánh giá"
+      ],
+      "start_time": 35.64,
+      "end_time": 37.11
+    },
+    {
+      "speaker": "Michael",
+      "text": "But I have",
+      "viet_words": [],
+      "start_time": 37.11,
+      "end_time": 37.47
+    },
+    {
+      "speaker": "Michael",
+      "text": "to agree that",
+      "viet_words": [],
+      "start_time": 37.59,
+      "end_time": 37.95
+    },
+    {
+      "speaker": "Michael",
+      "text": "the cổ vũ culture",
+      "viet_words": [
+        "cổ vũ"
+      ],
+      "start_time": 38.08,
+      "end_time": 39.48
+    },
+    {
+      "speaker": "Michael",
+      "text": "is different in",
+      "viet_words": [],
+      "start_time": 39.6,
+      "end_time": 39.99
+    },
+    {
+      "speaker": "Michael",
+      "text": "each country .",
+      "viet_words": [],
+      "start_time": 40.14,
+      "end_time": 40.77
+    },
+    {
+      "speaker": "Michael",
+      "text": "Hey , if",
+      "viet_words": [],
+      "start_time": 41.4,
+      "end_time": 41.61
+    },
+    {
+      "speaker": "Michael",
+      "text": "Mira likes ,",
+      "viet_words": [],
+      "start_time": 41.61,
+      "end_time": 42.72
+    },
+    {
+      "speaker": "Michael",
+      "text": "could we go",
+      "viet_words": [],
+      "start_time": 42.81,
+      "end_time": 43.26
+    },
+    {
+      "speaker": "Michael",
+      "text": "watch the match",
+      "viet_words": [],
+      "start_time": 43.26,
+      "end_time": 43.86
+    },
+    {
+      "speaker": "Michael",
+      "text": "together next week",
+      "viet_words": [],
+      "start_time": 44.05,
+      "end_time": 44.79
+    },
+    {
+      "speaker": "Michael",
+      "text": "I know a",
+      "viet_words": [],
+      "start_time": 45.15,
+      "end_time": 45.21
+    },
+    {
+      "speaker": "Michael",
+      "text": "?",
+      "viet_words": [],
+      "start_time": 45.21,
+      "end_time": 45.3
+    },
+    {
+      "speaker": "Michael",
+      "text": "café with a",
+      "viet_words": [
+        "café"
+      ],
+      "start_time": 45.99,
+      "end_time": 46.56
+    },
+    {
+      "speaker": "Michael",
+      "text": "big screen showing",
+      "viet_words": [],
+      "start_time": 46.56,
+      "end_time": 47.4
+    },
+    {
+      "speaker": "Michael",
+      "text": "the match ,",
+      "viet_words": [],
+      "start_time": 47.49,
+      "end_time": 47.88
+    },
+    {
+      "speaker": "Michael",
+      "text": "the atmosphere is",
+      "viet_words": [],
+      "start_time": 48.15,
+      "end_time": 48.6
+    },
+    {
+      "speaker": "Michael",
+      "text": "very lively .",
+      "viet_words": [],
+      "start_time": 48.72,
+      "end_time": 49.44
+    },
+    {
+      "speaker": "Mira",
+      "text": "Going to watch",
+      "viet_words": [],
+      "start_time": 49.74,
+      "end_time": 50.61
+    },
+    {
+      "speaker": "Mira",
+      "text": "bóng đá ?",
+      "viet_words": [
+        "bóng đá"
+      ],
+      "start_time": 51.48,
+      "end_time": 52.06
+    },
+    {
+      "speaker": "Mira",
+      "text": "Just the two",
+      "viet_words": [],
+      "start_time": 52.06,
+      "end_time": 52.14
+    },
+    {
+      "speaker": "Mira",
+      "text": "of us ?",
+      "viet_words": [],
+      "start_time": 52.29,
+      "end_time": 52.71
+    },
+    {
+      "speaker": "Mira",
+      "text": "I .",
+      "viet_words": [],
+      "start_time": 53.26,
+      "end_time": 53.57
+    },
+    {
+      "speaker": "Mira",
+      "text": ".",
+      "viet_words": [],
+      "start_time": 53.57,
+      "end_time": 53.68
+    },
+    {
+      "speaker": "Mira",
+      "text": ".",
+      "viet_words": [],
+      "start_time": 53.68,
+      "end_time": 53.7
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't know",
+      "viet_words": [],
+      "start_time": 53.7,
+      "end_time": 54.09
+    },
+    {
+      "speaker": "Mira",
+      "text": ".",
+      "viet_words": [],
+      "start_time": 54.6,
+      "end_time": 54.7
+    },
+    {
+      "speaker": "Mira",
+      "text": ".",
+      "viet_words": [],
+      "start_time": 54.7,
+      "end_time": 54.8
+    },
+    {
+      "speaker": "Mira",
+      "text": ".",
+      "viet_words": [],
+      "start_time": 54.8,
+      "end_time": 54.91
+    },
+    {
+      "speaker": "Mira",
+      "text": "Is that café",
+      "viet_words": [
+        "café"
+      ],
+      "start_time": 54.91,
+      "end_time": 55.35
+    },
+    {
+      "speaker": "Mira",
+      "text": "crowded ?",
+      "viet_words": [],
+      "start_time": 55.35,
+      "end_time": 56.01
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't like",
+      "viet_words": [],
+      "start_time": 56.25,
+      "end_time": 56.58
+    },
+    {
+      "speaker": "Mira",
+      "text": "places that are",
+      "viet_words": [],
+      "start_time": 56.58,
+      "end_time": 56.97
+    },
+    {
+      "speaker": "Mira",
+      "text": "too noisy .",
+      "viet_words": [],
+      "start_time": 57.3,
+      "end_time": 58.17
+    }
+  ]
+}

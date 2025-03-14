@@ -4,17 +4,40 @@ Script to generate JSON files with dialogue timestamps for audio files.
 This script analyzes the audio files and creates corresponding JSON files
 with the same name (without the _elevenlabs_slow suffix) containing dialogue
 with timestamps broken into very small phrases for better subtitle display.
+
+This script now includes a complete workflow:
+1. Generate initial timestamps based on audio duration
+2. Run speech recognition to get more accurate timestamps
+3. Adjust the timestamps and replace the original file
 """
 
 import os
 import json
 import glob
-from pathlib import Path
-import subprocess
 import re
+import argparse
+import subprocess
+from pathlib import Path
 import config
 from pydub import AudioSegment
 import nltk
+import shutil
+
+# Import functions from auto_subtitle.py
+try:
+    from auto_subtitle import generate_auto_timestamps, convert_to_wav, recognize_speech, assign_speakers_to_words, group_words_into_phrases, identify_vietnamese_words, create_word_timestamp_log
+    VOSK_AVAILABLE = True
+except ImportError:
+    print("Warning: auto_subtitle module not fully imported. Speech recognition features may not be available.")
+    VOSK_AVAILABLE = False
+
+# Import functions from adjust_timestamps.py
+try:
+    from adjust_timestamps import simple_adjust_timestamps, adjust_timestamps
+    ADJUST_AVAILABLE = True
+except ImportError:
+    print("Warning: adjust_timestamps module not fully imported. Timestamp adjustment features may not be available.")
+    ADJUST_AVAILABLE = False
 
 # Download NLTK data if not already downloaded
 try:
@@ -421,9 +444,109 @@ def generate_timestamp_json(audio_file):
     print(f"Generated timestamp JSON file: {output_path}")
     return output_path
 
+def process_audio_file_complete(audio_file, model_path="models/vosk-model-small-en-us-0.15", skip_steps=None):
+    """
+    Process an audio file through the complete workflow:
+    1. Generate initial timestamps
+    2. Run speech recognition for accurate timestamps
+    3. Adjust timestamps and replace the original file
+    
+    Args:
+        audio_file: Path to the audio file
+        model_path: Path to the Vosk model directory
+        skip_steps: List of steps to skip (e.g., ["auto", "adjust"])
+    
+    Returns:
+        Path to the final JSON file
+    """
+    if skip_steps is None:
+        skip_steps = []
+    
+    print(f"\n=== STEP 1: Generating initial timestamps for {audio_file} ===")
+    initial_json_path = generate_timestamp_json(audio_file)
+    
+    if not initial_json_path:
+        print(f"Failed to generate initial timestamps for {audio_file}")
+        return None
+    
+    # Extract dialogue ID from the filename
+    filename = os.path.basename(audio_file)
+    dialogue_id = None
+    
+    # Try different filename patterns
+    old_pattern_match = re.match(r'dialogue_([a-f0-9]+)_elevenlabs_slow\.mp3', filename)
+    new_pattern_without_topic_match = re.match(r'dialogue_([a-f0-9]+)\.mp3', filename)
+    new_pattern_with_topic_match = re.match(r'.*_([a-f0-9]+)\.mp3', filename)
+    
+    if old_pattern_match:
+        dialogue_id = old_pattern_match.group(1)
+    elif new_pattern_without_topic_match:
+        dialogue_id = new_pattern_without_topic_match.group(1)
+    elif new_pattern_with_topic_match:
+        dialogue_id = new_pattern_with_topic_match.group(1)
+    
+    if not dialogue_id:
+        print(f"Could not extract dialogue ID from filename: {filename}")
+        return initial_json_path
+    
+    # Step 2: Run speech recognition if available and not skipped
+    if VOSK_AVAILABLE and "auto" not in skip_steps:
+        print(f"\n=== STEP 2: Running speech recognition for {audio_file} ===")
+        auto_json_path = generate_auto_timestamps(audio_file, model_path)
+        
+        if not auto_json_path:
+            print(f"Failed to generate auto timestamps for {audio_file}")
+            return initial_json_path
+        
+        # Step 3: Adjust timestamps if available and not skipped
+        if ADJUST_AVAILABLE and "adjust" not in skip_steps:
+            print(f"\n=== STEP 3: Adjusting timestamps for dialogue {dialogue_id} ===")
+            original_json_path = os.path.join(config.AUDIO_PATH, f"dialogue_{dialogue_id}.json")
+            auto_json_path = os.path.join(config.AUDIO_PATH, f"dialogue_{dialogue_id}_auto.json")
+            
+            if os.path.exists(original_json_path) and os.path.exists(auto_json_path):
+                # Use the simple approach for better results
+                adjusted_json_path = simple_adjust_timestamps(original_json_path, auto_json_path, replace_original=True)
+                
+                if adjusted_json_path:
+                    print(f"Successfully completed all steps for {audio_file}")
+                    return original_json_path  # Return the path to the original file, which now contains the adjusted timestamps
+                else:
+                    print(f"Failed to adjust timestamps for {audio_file}")
+                    return auto_json_path
+            else:
+                print(f"Missing JSON files for adjustment: {original_json_path} or {auto_json_path}")
+                return auto_json_path
+        else:
+            print("Skipping timestamp adjustment step")
+            return auto_json_path
+    else:
+        if "auto" in skip_steps:
+            print("Skipping speech recognition step")
+        else:
+            print("Speech recognition not available")
+        return initial_json_path
+
 def main():
     """Main function to process all audio files."""
-    # Get all audio files (both old and new naming conventions)
+    parser = argparse.ArgumentParser(description="Generate dialogue timestamps with complete workflow")
+    parser.add_argument("--audio", type=str, help="Path to a specific audio file to process")
+    parser.add_argument("--model", type=str, default="models/vosk-model-small-en-us-0.15", 
+                        help="Path to the Vosk model directory")
+    parser.add_argument("--skip", type=str, nargs="+", choices=["auto", "adjust"], 
+                        help="Steps to skip: 'auto' for speech recognition, 'adjust' for timestamp adjustment")
+    args = parser.parse_args()
+    
+    # Process a specific audio file if provided
+    if args.audio:
+        if not os.path.exists(args.audio):
+            print(f"Audio file not found: {args.audio}")
+            return
+        
+        process_audio_file_complete(args.audio, args.model, args.skip)
+        return
+    
+    # Otherwise, process all audio files
     audio_files = []
     
     # Old naming convention
@@ -442,10 +565,9 @@ def main():
     
     print(f"Found {len(audio_files)} audio files to process.")
     
-    # Process each audio file
+    # Process each audio file through the complete workflow
     for audio_file in audio_files:
-        print(f"Processing: {audio_file}")
-        generate_timestamp_json(audio_file)
+        process_audio_file_complete(audio_file, args.model, args.skip)
 
 if __name__ == "__main__":
     main() 
