@@ -63,10 +63,17 @@
     "speaker": "Mira"
   },
   {
-    "conf": 0.576661,
-    "end": 2.88,
+    "conf": 0.447428,
+    "end": 2.34,
     "start": 2.16,
-    "word": "gengler",
+    "word": "can",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.360825,
+    "end": 2.88,
+    "start": 2.52,
+    "word": "last",
     "speaker": "Mira"
   },
   {
@@ -238,28 +245,28 @@
     "speaker": "Mira"
   },
   {
-    "conf": 0.562612,
+    "conf": 0.554625,
     "end": 9.21,
     "start": 8.85,
     "word": "be",
     "speaker": "Mira"
   },
   {
-    "conf": 0.7398,
+    "conf": 0.743511,
     "end": 9.81,
     "start": 9.3,
     "word": "traveling",
     "speaker": "Mira"
   },
   {
-    "conf": 0.715126,
+    "conf": 0.703382,
     "end": 10.2,
     "start": 9.99,
     "word": "but",
     "speaker": "Michael"
   },
   {
-    "conf": 0.715126,
+    "conf": 0.703382,
     "end": 10.47,
     "start": 10.2,
     "word": "when",
@@ -308,21 +315,21 @@
     "speaker": "Michael"
   },
   {
-    "conf": 0.53069,
+    "conf": 0.526631,
     "end": 12.0,
     "start": 11.82,
     "word": "can",
     "speaker": "Michael"
   },
   {
-    "conf": 0.53069,
+    "conf": 0.526631,
     "end": 12.12,
     "start": 12.0,
     "word": "you",
     "speaker": "Michael"
   },
   {
-    "conf": 0.892919,
+    "conf": 0.891246,
     "end": 12.48,
     "start": 12.12,
     "word": "lay",
@@ -371,7 +378,7 @@
     "speaker": "Michael"
   },
   {
-    "conf": 0.771297,
+    "conf": 0.767472,
     "end": 14.61,
     "start": 14.1,
     "word": "breakup",
@@ -441,21 +448,21 @@
     "speaker": "Michael"
   },
   {
-    "conf": 1.0,
-    "end": 18.235582,
-    "start": 17.88,
+    "conf": 0.56716,
+    "end": 18.235604,
+    "start": 17.91,
     "word": "king",
     "speaker": "Michael"
   },
   {
-    "conf": 0.772222,
+    "conf": 0.438753,
     "end": 18.33,
     "start": 18.24,
     "word": "he",
     "speaker": "Michael"
   },
   {
-    "conf": 1.0,
+    "conf": 0.737938,
     "end": 18.63,
     "start": 18.33,
     "word": "lay",
@@ -504,7 +511,7 @@
     "speaker": "Michael"
   },
   {
-    "conf": 0.534143,
+    "conf": 0.527727,
     "end": 21.36,
     "start": 20.73,
     "word": "suffer",
@@ -518,7 +525,7 @@
     "speaker": "Michael"
   },
   {
-    "conf": 0.678141,
+    "conf": 0.677597,
     "end": 22.47,
     "start": 22.32,
     "word": "that",
@@ -532,14 +539,14 @@
     "speaker": "Michael"
   },
   {
-    "conf": 0.887578,
-    "end": 23.4,
+    "conf": 0.894749,
+    "end": 23.43,
     "start": 23.01,
     "word": "low",
     "speaker": "Michael"
   },
   {
-    "conf": 0.514701,
+    "conf": 0.518382,
     "end": 24.15,
     "start": 23.58,
     "word": "supper",
@@ -548,7 +555,7 @@
   {
     "conf": 1.0,
     "end": 24.36,
-    "start": 24.194559,
+    "start": 24.194449,
     "word": "will",
     "speaker": "Michael"
   },
@@ -630,7 +637,7 @@
     "speaker": "Mira"
   },
   {
-    "conf": 0.841476,
+    "conf": 0.841493,
     "end": 29.7,
     "start": 29.13,
     "word": "explore",
@@ -834,15 +841,15 @@
   },
   {
     "conf": 1.0,
-    "end": 38.614017,
+    "end": 38.614475,
     "start": 38.49,
     "word": "the",
     "speaker": "Michael"
   },
   {
-    "conf": 0.831205,
+    "conf": 0.811892,
     "end": 39.09,
-    "start": 38.614017,
+    "start": 38.614475,
     "word": "moment",
     "speaker": "Michael"
   },
@@ -854,28 +861,28 @@
     "speaker": "Michael"
   },
   {
-    "conf": 1.0,
+    "conf": 0.980862,
     "end": 39.57,
     "start": 39.45,
     "word": "a",
     "speaker": "Michael"
   },
   {
-    "conf": 0.980805,
-    "end": 39.99,
-    "start": 39.69,
+    "conf": 0.980862,
+    "end": 39.973997,
+    "start": 39.72,
     "word": "king",
     "speaker": "Michael"
   },
   {
-    "conf": 0.463867,
-    "end": 40.08,
-    "start": 39.99,
+    "conf": 0.482728,
+    "end": 40.059781,
+    "start": 39.973997,
     "word": "a",
     "speaker": "Michael"
   },
   {
-    "conf": 0.463867,
+    "conf": 0.46359,
     "end": 40.32,
     "start": 40.08,
     "word": "lie",
@@ -1064,7 +1071,7 @@
     "speaker": "Michael"
   },
   {
-    "conf": 0.871248,
+    "conf": 0.859366,
     "end": 47.37,
     "start": 46.71,
     "word": "tuesday",
@@ -1085,7 +1092,7 @@
     "speaker": "Mira"
   },
   {
-    "conf": 0.35262,
+    "conf": 0.346482,
     "end": 48.78,
     "start": 48.72,
     "word": "or",
@@ -1094,7 +1101,7 @@
   {
     "conf": 1.0,
     "end": 49.02,
-    "start": 48.787833,
+    "start": 48.788745,
     "word": "maybe",
     "speaker": "Mira"
   },
@@ -1197,14 +1204,14 @@
     "speaker": "Mira"
   },
   {
-    "conf": 0.591152,
+    "conf": 0.583706,
     "end": 53.22,
     "start": 52.92,
     "word": "mode",
     "speaker": "Mira"
   },
   {
-    "conf": 0.365869,
+    "conf": 0.347132,
     "end": 53.61,
     "start": 53.22,
     "word": "mean",
@@ -1218,21 +1225,21 @@
     "speaker": "Mira"
   },
   {
-    "conf": 0.807412,
-    "end": 54.543915,
+    "conf": 0.785196,
+    "end": 54.543552,
     "start": 54.21,
     "word": "king",
     "speaker": "Mira"
   },
   {
-    "conf": 0.569976,
+    "conf": 0.568412,
     "end": 54.69,
-    "start": 54.543915,
+    "start": 54.543552,
     "word": "you",
     "speaker": "Mira"
   },
   {
-    "conf": 0.569976,
+    "conf": 0.568412,
     "end": 55.11,
     "start": 54.72,
     "word": "know",

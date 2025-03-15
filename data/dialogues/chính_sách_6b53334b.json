@@ -1,0 +1,60 @@
+{
+  "id": "6b53334b",
+  "timestamp": 1741949886,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Anh có thấy chính sách hẹn hò ở Việt Nam hơi kỳ lạ không? Ở Nga, chúng tôi không có nhiều quy tắc phức tạp như vậy."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thật ra, mỗi nơi đều có chính sách riêng về chuyện yêu đương. Tôi thấy người Việt có xu hướng muốn gặp mặt gia đình sớm, còn ở Mỹ thì thoải mái hơn nhiều. Nhưng tôi nghĩ quan trọng là cảm xúc thật sự giữa hai người."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Cảm xúc ư? Đàn ông các anh toàn nói về cảm xúc nhưng lại không hiểu gì cả. Chính sách của tôi là phải tìm người đàn ông biết tôn trọng giá trị truyền thống. Anh có nghĩ mình là người như vậy không?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tôi tôn trọng giá trị truyền thống, nhưng cũng tin vào sự bình đẳng. Có lẽ chính sách hẹn hò của chúng ta có thể là sự kết hợp - vừa tôn trọng truyền thống mà vẫn cởi mở với những ý tưởng mới. Nhưng... khoan đã, tại sao chúng ta lại nói về chuyện này vậy?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tôi... tôi chỉ đang thảo luận thôi! Đừng hiểu lầm! Không phải tôi đang gợi ý gì đâu. Mà này, tuần sau anh có muốn đi xem triển lãm nghệ thuật không? Nghe nói có cả tác phẩm của họa sĩ Nga đấy..."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Do you find the dating chính sách in Vietnam a bit strange? In Russia, we don't have so many complicated rules."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Actually, every place has its own chính sách about relationships. I notice Vietnamese people tend to want to meet family early, while in America it's much more relaxed. But I think what matters is the real feelings between two people."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Feelings? Men like you always talk about feelings but understand nothing. My chính sách is to find a man who knows how to tôn trọng truyền thống values. Do you think you're that type of person?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "I tôn trọng truyền thống values, but I also believe in equality. Perhaps our dating chính sách could be a combination - both tôn trọng truyền thống while still being open to new ideas. But... wait, why are we talking about this anyway?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "I... I'm just discussing! Don't misunderstand! I'm not suggesting anything. By the way, would you like to go to an art exhibition next week? I heard they'll have works by Russian artists too..."
+    }
+  ],
+  "topic_word": "chính sách",
+  "topic_word_translation": "policy",
+  "common_words": [
+    {
+      "word": "tôn trọng",
+      "translation": "respect"
+    },
+    {
+      "word": "truyền thống",
+      "translation": "tradition"
+    }
+  ]
+}

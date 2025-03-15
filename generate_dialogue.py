@@ -51,7 +51,9 @@ DIALOGUE_HOOKS = [
     "flirtatious banter",
     "ambiguous relationship with ex",
     "vietnamese slang",
-    "stupid joke"
+    "stupid joke",
+    "you're not mira! something is off",
+    "I have the feeling reality is not what it seems",
 ]
 
 # Possible conversation topics
@@ -98,7 +100,7 @@ def generate_dialogue_with_openai(topic=None, topic_word=None):
     - They are romantically interested in each other but have not yet confessed their feelings.
     
     The dialogue should:
-    1. Be 4-6 exchanges long (each character speaks 2-3 times)
+    1. Be 4-5 exchanges long (each character speaks 2-3 times)
     2. Be entirely in Vietnamese
     3. Be about the topic: {topic}
     4. Have a hook related to: {hook}
@@ -146,6 +148,10 @@ def generate_dialogue_with_anthropic(topic=None, topic_word=None):
     """Generate a dialogue using Anthropic API."""
     client = anthropic.Anthropic(api_key=config.ANTHROPIC_API_KEY)
     
+    if not topic_word
+        topic_word=""
+        else
+        topic_word=f'1. "Actually the topic word is {topic_word}. Please make sure this is in the conversation three times.'
     hook = random.choice(DIALOGUE_HOOKS)
     hook2 = random.choice(DIALOGUE_HOOKS)
     if not topic:
@@ -170,13 +176,14 @@ def generate_dialogue_with_anthropic(topic=None, topic_word=None):
     8. Avoid this positive conversation ending that doesn't sound natural. Conversations should be with some tension and unresolved unless they are humorous.
     9. Speakers can have short responses and long responses. Dialogue doesn't always need to be the same length.
     10. Please make these dialogues as viral as possible. Employ strangeness, romantic tension, indirect/ambiguous flirtation, interesting facts, ambiguity, controversial topics/events, recent controversies, recent memes, and/or other viral elements.
-    
+    11. Randomly decide who starts the conversation.
+
     Format the dialogue as follows:
     Mira: [Vietnamese dialogue]
     Michael: [Vietnamese dialogue]
     
     After creating the dialogue, please:
-    1. Choose a topic word or phrase from the dialogue that appears at least 3 times. DO NOT CHOOSE chúng ta.
+    1. Choose a topic word or phrase from the dialogue that appears at least 3 times. DO NOT CHOOSE chúng ta. {topic_word}
     2. Choose two common Vietnamese words that aren't pronouns that appear in the dialogue at least 2 times. DO NOT CHOOSE chúng ta.
     3. If this cannot be done, regenerate the dialogue.
     

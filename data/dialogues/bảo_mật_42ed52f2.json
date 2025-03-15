@@ -1,0 +1,60 @@
+{
+  "id": "42ed52f2",
+  "timestamp": 1741979866,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Anh nghĩ sao về mối quan hệ bảo mật? Tôi có một người bạn đang hẹn hò với một người đàn ông có vợ. Cô ấy nói rằng tình yêu của họ cần phải bảo mật vì hoàn cảnh xã hội."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thật sự à? Tôi không nghĩ mối quan hệ bảo mật nào cũng tốt đẹp. Nếu phải giấu giếm tình cảm, thì có lẽ đó không phải là tình yêu đích thực. Tình yêu nên được công khai và tự hào."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Anh nói nghe dễ lắm. Nhưng đôi khi, tình cảm không đơn giản như vậy. Có những mối quan hệ cần phải bảo mật vì nhiều lý do... Giống như... cảm xúc của tôi bây giờ."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Cảm xúc của cô? Mira, cô đang ám chỉ điều gì vậy? Nếu cô có điều gì muốn nói, tôi luôn sẵn sàng lắng nghe. Tôi nghĩ rằng sự thật luôn tốt hơn là giữ mọi thứ trong bóng tối."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Không có gì đâu! Tôi chỉ nói về tình cảm nói chung thôi! Anh đừng nghĩ nhiều. Nhưng... nếu tôi thực sự có điều gì đó muốn nói với anh, anh sẽ phản ứng thế nào?"
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "What do you think about bảo mật relationships? I have a friend who's dating a married man. She says their love needs to be bảo mật because of social circumstances."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? I don't think any bảo mật relationship is good. If you have to hide your feelings, then perhaps it's not true tình yêu. Tình yêu should be open and proud."
+    },
+    {
+      "speaker": "Mira",
+      "text": "You make it sound so easy. But sometimes, feelings aren't that simple. There are relationships that need to be bảo mật for many reasons... Like... my cảm xúc right now."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Your cảm xúc? Mira, what are you implying? If you have something to say, I'm always ready to listen. I think the truth is always better than keeping everything in the dark."
+    },
+    {
+      "speaker": "Mira",
+      "text": "It's nothing! I'm just talking about feelings in general! Don't think too much. But... if I really did have something to tell you, how would you react?"
+    }
+  ],
+  "topic_word": "bảo mật",
+  "topic_word_translation": "security/secrecy",
+  "common_words": [
+    {
+      "word": "tình yêu",
+      "translation": "love"
+    },
+    {
+      "word": "cảm xúc",
+      "translation": "emotions"
+    }
+  ]
+}

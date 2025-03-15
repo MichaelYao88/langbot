@@ -1,0 +1,60 @@
+{
+  "id": "8749e26e",
+  "timestamp": 1741980281,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Tôi không thể tin là anh không bao giờ rửa tay kỹ! Bạn trai cũ của tôi ở Nga luôn dành 2 phút ở bồn rửa sau khi đi vệ sinh. Đó là điều tối thiểu để giữ sức khỏe."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Này, tôi có rửa tay chứ! Chỉ là không phải lúc nào cũng ở bồn rửa công cộng. Những bồn rửa đó còn bẩn hơn cả tay tôi. Nhưng nếu em quan tâm đến sức khỏe như vậy, tại sao tôi thấy em ăn đồ ăn đường phố mỗi ngày?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Bồn rửa công cộng không phải lý do để bỏ qua vệ sinh cá nhân! Và đồ ăn đường phố... đó là chuyện khác. Miễn là người bán hàng sạch sẽ... Anh có biết vi khuẩn có thể sống trên tay bao lâu không? Đến bồn rửa và rửa tay đúng cách đi!"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thôi được rồi! Tôi sẽ dành thêm thời gian ở bồn rửa. Nhưng này, tôi thấy em đang ho. Em có đang chăm sóc bản thân không đấy? Tôi có một số thuốc thảo dược mẹ tôi gửi từ Mỹ, có thể giúp tăng cường miễn dịch... Nếu em muốn, tôi có thể mang đến cho em?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tôi không cần thuốc của anh đâu... Nhưng... nếu anh thực sự muốn giúp, có lẽ chúng ta có thể cùng đi uống trà gừng ở quán gần công viên? Họ có bồn rửa sạch sẽ và trà của họ thực sự tốt cho sức khỏe. Không phải vì tôi muốn đi với anh, chỉ là..."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I can't believe you never wash your hands thoroughly! My ex-boyfriend in Russia always spent 2 minutes at the bồn rửa after using the bathroom. That's the minimum to maintain sức khỏe."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Hey, I do rửa my hands! Just not always at public bồn rửa. Those bồn rửa are dirtier than my hands. But if you care so much about sức khỏe, why do I see you eating street food every day?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Public bồn rửa are no excuse to neglect personal hygiene! And street food... that's different. As long as the vendor is clean... Do you know how long bacteria can live on hands? Go to the bồn rửa and rửa your hands properly!"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Alright, fine! I'll spend more time at the bồn rửa. But hey, I notice you're coughing. Are you taking care of your sức khỏe? I have some herbal medicine my mom sent from America that could help boost immunity... If you want, I could bring it to you?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't need your medicine... But... if you really want to help, maybe we could go drink ginger tea at that place near the park? They have clean bồn rửa and their tea is really good for sức khỏe. Not because I want to go with you, just..."
+    }
+  ],
+  "topic_word": "bồn rửa",
+  "topic_word_translation": "sink",
+  "common_words": [
+    {
+      "word": "sức khỏe",
+      "translation": "health"
+    },
+    {
+      "word": "rửa",
+      "translation": "wash"
+    }
+  ]
+}

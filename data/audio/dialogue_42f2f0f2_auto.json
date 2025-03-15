@@ -87,34 +87,39 @@
     },
     {
       "speaker": "Mira",
-      "text": "gengler i heard",
+      "text": "can last i",
       "start_time": 2.16,
-      "end_time": 3.48,
+      "end_time": 3.24,
       "word_timestamps": [
         {
-          "word": "gengler",
+          "word": "can",
           "start": 2.16,
+          "end": 2.34
+        },
+        {
+          "word": "last",
+          "start": 2.52,
           "end": 2.88
         },
         {
           "word": "i",
           "start": 3.09,
           "end": 3.24
-        },
-        {
-          "word": "heard",
-          "start": 3.24,
-          "end": 3.48
         }
       ],
       "viet_words": []
     },
     {
       "speaker": "Mira",
-      "text": "you just broke",
-      "start_time": 3.48,
-      "end_time": 4.08,
+      "text": "heard you just",
+      "start_time": 3.24,
+      "end_time": 3.84,
       "word_timestamps": [
+        {
+          "word": "heard",
+          "start": 3.24,
+          "end": 3.48
+        },
         {
           "word": "you",
           "start": 3.48,
@@ -124,21 +129,21 @@
           "word": "just",
           "start": 3.6,
           "end": 3.84
-        },
-        {
-          "word": "broke",
-          "start": 3.84,
-          "end": 4.08
         }
       ],
       "viet_words": []
     },
     {
       "speaker": "Mira",
-      "text": "up with your",
-      "start_time": 4.08,
-      "end_time": 4.47,
+      "text": "broke up with",
+      "start_time": 3.84,
+      "end_time": 4.35,
       "word_timestamps": [
+        {
+          "word": "broke",
+          "start": 3.84,
+          "end": 4.08
+        },
         {
           "word": "up",
           "start": 4.08,
@@ -148,21 +153,21 @@
           "word": "with",
           "start": 4.2,
           "end": 4.35
-        },
-        {
-          "word": "your",
-          "start": 4.35,
-          "end": 4.47
         }
       ],
       "viet_words": []
     },
     {
       "speaker": "Mira",
-      "text": "ex girlfriend and",
-      "start_time": 4.47,
-      "end_time": 5.4,
+      "text": "your ex girlfriend",
+      "start_time": 4.35,
+      "end_time": 5.28,
       "word_timestamps": [
+        {
+          "word": "your",
+          "start": 4.35,
+          "end": 4.47
+        },
         {
           "word": "ex",
           "start": 4.47,
@@ -172,21 +177,21 @@
           "word": "girlfriend",
           "start": 4.68,
           "end": 5.28
-        },
-        {
-          "word": "and",
-          "start": 5.28,
-          "end": 5.4
         }
       ],
       "viet_words": []
     },
     {
       "speaker": "Mira",
-      "text": "want to find",
-      "start_time": 5.4,
-      "end_time": 5.91,
+      "text": "and want to",
+      "start_time": 5.28,
+      "end_time": 5.64,
       "word_timestamps": [
+        {
+          "word": "and",
+          "start": 5.28,
+          "end": 5.4
+        },
         {
           "word": "want",
           "start": 5.4,
@@ -196,21 +201,21 @@
           "word": "to",
           "start": 5.58,
           "end": 5.64
-        },
-        {
-          "word": "find",
-          "start": 5.64,
-          "end": 5.91
         }
       ],
       "viet_words": []
     },
     {
       "speaker": "Mira",
-      "text": "a place to",
-      "start_time": 5.91,
-      "end_time": 6.36,
+      "text": "find a place",
+      "start_time": 5.64,
+      "end_time": 6.24,
       "word_timestamps": [
+        {
+          "word": "find",
+          "start": 5.64,
+          "end": 5.91
+        },
         {
           "word": "a",
           "start": 5.91,
@@ -220,21 +225,21 @@
           "word": "place",
           "start": 5.94,
           "end": 6.24
-        },
-        {
-          "word": "to",
-          "start": 6.24,
-          "end": 6.36
         }
       ],
       "viet_words": []
     },
     {
       "speaker": "Mira",
-      "text": "change the atmosphere",
-      "start_time": 6.36,
-      "end_time": 7.41,
+      "text": "to change the",
+      "start_time": 6.24,
+      "end_time": 6.75,
       "word_timestamps": [
+        {
+          "word": "to",
+          "start": 6.24,
+          "end": 6.36
+        },
         {
           "word": "change",
           "start": 6.36,
@@ -244,21 +249,21 @@
           "word": "the",
           "start": 6.63,
           "end": 6.75
-        },
-        {
-          "word": "atmosphere",
-          "start": 6.75,
-          "end": 7.41
         }
       ],
       "viet_words": []
     },
     {
       "speaker": "Mira",
-      "text": "yeah i'm thinking",
-      "start_time": 7.71,
-      "end_time": 8.43,
+      "text": "atmosphere yeah i'm",
+      "start_time": 6.75,
+      "end_time": 8.13,
       "word_timestamps": [
+        {
+          "word": "atmosphere",
+          "start": 6.75,
+          "end": 7.41
+        },
         {
           "word": "yeah",
           "start": 7.71,
@@ -268,21 +273,21 @@
           "word": "i'm",
           "start": 8.01,
           "end": 8.13
-        },
-        {
-          "word": "thinking",
-          "start": 8.13,
-          "end": 8.43
         }
       ],
       "viet_words": []
     },
     {
       "speaker": "Mira",
-      "text": "about be traveling",
-      "start_time": 8.43,
-      "end_time": 9.81,
+      "text": "thinking about be",
+      "start_time": 8.13,
+      "end_time": 9.21,
       "word_timestamps": [
+        {
+          "word": "thinking",
+          "start": 8.13,
+          "end": 8.43
+        },
         {
           "word": "about",
           "start": 8.43,
@@ -292,7 +297,16 @@
           "word": "be",
           "start": 8.85,
           "end": 9.21
-        },
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "traveling",
+      "start_time": 9.3,
+      "end_time": 9.81,
+      "word_timestamps": [
         {
           "word": "traveling",
           "start": 9.3,
@@ -520,13 +534,13 @@
     {
       "speaker": "Michael",
       "text": "king he lay",
-      "start_time": 17.88,
+      "start_time": 17.91,
       "end_time": 18.63,
       "word_timestamps": [
         {
           "word": "king",
-          "start": 17.88,
-          "end": 18.235582
+          "start": 17.91,
+          "end": 18.235604
         },
         {
           "word": "he",
@@ -627,7 +641,7 @@
         {
           "word": "low",
           "start": 23.01,
-          "end": 23.4
+          "end": 23.43
         },
         {
           "word": "supper",
@@ -645,7 +659,7 @@
       "word_timestamps": [
         {
           "word": "will",
-          "start": 24.194559,
+          "start": 24.194449,
           "end": 24.36
         },
         {
@@ -977,11 +991,11 @@
         {
           "word": "the",
           "start": 38.49,
-          "end": 38.614017
+          "end": 38.614475
         },
         {
           "word": "moment",
-          "start": 38.614017,
+          "start": 38.614475,
           "end": 39.09
         }
       ],
@@ -991,7 +1005,7 @@
       "speaker": "Michael",
       "text": "on a king",
       "start_time": 39.24,
-      "end_time": 39.99,
+      "end_time": 39.97,
       "word_timestamps": [
         {
           "word": "on",
@@ -1005,8 +1019,8 @@
         },
         {
           "word": "king",
-          "start": 39.69,
-          "end": 39.99
+          "start": 39.72,
+          "end": 39.973997
         }
       ],
       "viet_words": []
@@ -1014,13 +1028,13 @@
     {
       "speaker": "Michael",
       "text": "a lie i'm",
-      "start_time": 39.99,
+      "start_time": 39.97,
       "end_time": 40.8,
       "word_timestamps": [
         {
           "word": "a",
-          "start": 39.99,
-          "end": 40.08
+          "start": 39.973997,
+          "end": 40.059781
         },
         {
           "word": "lie",
@@ -1278,7 +1292,7 @@
         },
         {
           "word": "maybe",
-          "start": 48.787833,
+          "start": 48.788745,
           "end": 49.02
         },
         {
@@ -1423,11 +1437,11 @@
         {
           "word": "king",
           "start": 54.21,
-          "end": 54.543915
+          "end": 54.543552
         },
         {
           "word": "you",
-          "start": 54.543915,
+          "start": 54.543552,
           "end": 54.69
         }
       ],

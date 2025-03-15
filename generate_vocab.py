@@ -88,7 +88,7 @@ def generate_vocab_with_anthropic(num_words=20, difficulty_number=5, topic="most
     """
     
     response = client.messages.create(
-        model="claude-3-opus-20240229",
+        model="claude-3-7-sonnet-20250219",
         max_tokens=1000,
         messages=[
             {"role": "user", "content": prompt}

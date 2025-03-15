@@ -1,0 +1,60 @@
+{
+  "id": "ea443c7d",
+  "timestamp": 1741980237,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Nhà hàng này có kiến trúc đẹp quá, nhưng đồ ăn thì hơi mắc. Tôi không hiểu sao người Việt lại thích những nơi chỉ chú trọng vào kiến trúc mà quên mất chất lượng món ăn."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Kiến trúc đôi khi là một phần của trải nghiệm ăn uống mà. Người Việt mình thích không gian đẹp để chụp ảnh \"sống ảo\". Nhưng phải công nhận là đồ ăn ở đây ngon thật, đặc biệt là món phở gà."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Anh toàn bênh người Việt thôi! Phở thì ở đâu cũng có, có gì đặc biệt đâu. Ở Nga, chúng tôi quan tâm đến hương vị nhiều hơn là kiến trúc hay mấy bức ảnh vô nghĩa. Nhưng... món phở này cũng không tệ."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Haha, Mira \"gắt\" quá! Đúng là người Nga các bạn thích đồ ăn đậm đà. Nhưng văn hóa ẩm thực mỗi nơi một khác mà. Nè, để tôi gọi thêm chả giò cho cậu thử, món này nhất định phải ăn với rau sống mới ngon."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tôi không \"gắt\" nhé! Chỉ là... thôi được rồi, tôi sẽ thử món chả giò của anh. Nhưng lần sau chúng ta nên đi đến một nơi ít chú trọng vào kiến trúc và nhiều hơn vào hương vị. Tôi biết một quán Nga ở quận 1..."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "This restaurant has beautiful kiến trúc, but the food is a bit expensive. I don't understand why Vietnamese people like places that focus only on kiến trúc and forget about food quality."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sometimes kiến trúc is part of the dining experience. Vietnamese people like beautiful spaces for taking \"living virtual\" photos. But I have to admit the food here is really ngon, especially the chicken pho."
+    },
+    {
+      "speaker": "Mira",
+      "text": "You always defend Vietnamese people! Pho is everywhere, nothing special. In Russia, we care more about flavor than kiến trúc or meaningless photos. But... this pho isn't bad."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Haha, Mira, you're so \"harsh\"! It's true that Russians like strong flavors. But food culture is different everywhere. Here, let me order some spring rolls for you to try, this dish must be ăn with fresh herbs to be ngon."
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm not \"harsh\"! It's just... okay fine, I'll try your spring rolls. But next time we should go somewhere that focuses less on kiến trúc and more on flavor. I know a Russian place in District 1..."
+    }
+  ],
+  "topic_word": "kiến trúc",
+  "topic_word_translation": "architecture",
+  "common_words": [
+    {
+      "word": "ăn",
+      "translation": "eat"
+    },
+    {
+      "word": "ngon",
+      "translation": "delicious"
+    }
+  ]
+}

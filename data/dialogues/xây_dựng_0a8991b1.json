@@ -1,0 +1,60 @@
+{
+  "id": "0a8991b1",
+  "timestamp": 1741980257,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael này, anh nghĩ gì về việc mình đi ăn tối ở nhà hàng mới xây dựng gần đây? Tôi nghe nói đó là công trình xây dựng của người yêu cũ anh phải không?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Đúng là Linh có tham gia xây dựng nhà hàng đó, nhưng chúng tôi đã chia tay hơn một năm rồi. Món ăn ở đó ngon lắm, đặc biệt là món phở. Mira có thích phở không?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tôi... tôi thích phở, nhưng không biết có nên đến nhà hàng đó không. Cảm giác kỳ kỳ khi ăn ở nơi người yêu cũ anh đã bỏ công xây dựng. Anh không thấy khó xử sao?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Đôi khi mình phải tách biệt giữa con người và công việc của họ. Linh là kiến trúc sư giỏi, và nhà hàng là nơi nhiều người kiếm sống. Phở ở đó thực sự ngon. Hơn nữa, tôi muốn được ăn tối với Mira, không quan tâm đến địa điểm."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Anh nói vậy làm tôi... Thôi được, chúng ta có thể thử. Nhưng nếu tôi thấy cô ấy ở đó, tôi sẽ về ngay. Mà anh thích phở đến vậy sao? Hay là anh vẫn còn nhớ người ta?"
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael, what do you think about us having dinner at the newly xây dựng restaurant nearby? I heard it's a xây dựng project of your ex-girlfriend, isn't it?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "It's true that Linh was involved in xây dựng that restaurant, but we broke up more than a year ago. The food there is really good, especially the phở. Does Mira like phở?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "I... I like phở, but I'm not sure if we should go to that nhà hàng. It feels weird to eat at a place your ex put effort into xây dựng. Don't you find it awkward?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sometimes we need to separate people from their work. Linh is a good architect, and the nhà hàng is where many people make their living. The phở there is truly delicious. Besides, I want to have dinner with Mira, regardless of the location."
+    },
+    {
+      "speaker": "Mira",
+      "text": "You saying that makes me... Fine, we can try. But if I see her there, I'm leaving immediately. Do you really like phở that much? Or are you still thinking about her?"
+    }
+  ],
+  "topic_word": "xây dựng",
+  "topic_word_translation": "build/construct",
+  "common_words": [
+    {
+      "word": "phở",
+      "translation": "pho (Vietnamese noodle soup)"
+    },
+    {
+      "word": "nhà hàng",
+      "translation": "restaurant"
+    }
+  ]
+}

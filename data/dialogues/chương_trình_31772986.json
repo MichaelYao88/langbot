@@ -1,0 +1,60 @@
+{
+  "id": "31772986",
+  "timestamp": 1741980194,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael, anh có thấy quảng cáo cho chương trình lễ hội văn hóa Nga tối qua không? Tự nhiên họ dùng hình ảnh của tôi từ giải cờ vua năm ngoái mà không xin phép. Thật là thiếu tôn trọng!"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Ồ, tôi có thấy chương trình đó! Thật sự là một sự trùng hợp thú vị. Nhưng họ không nên dùng hình ảnh của cô mà không xin phép. Ở Mỹ, văn hóa tôn trọng quyền cá nhân rất được coi trọng. Cô định làm gì về việc này?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Văn hóa Nga của tôi dạy phải kiên nhẫn, nhưng đôi khi tôi thấy khó chịu với cách người Việt Nam làm việc. Tôi đã gửi email phàn nàn nhưng họ chỉ nói rằng tôi nên tự hào khi được xuất hiện trong chương trình văn hóa lớn như vậy. Anh nghĩ sao?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tôi hiểu cảm giác của cô. Văn hóa và luật pháp đôi khi khác nhau giữa các quốc gia. Có lẽ tôi có thể giúp cô liên hệ với ban tổ chức chương trình? Tôi có vài người bạn làm trong lĩnh vực truyền thông ở Sài Gòn."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Anh sẽ làm vậy sao? Không phải vì tôi cần giúp đỡ đâu... chỉ là... nếu anh rảnh thôi. Có lẽ chúng ta có thể thảo luận về việc này trong lúc đi uống cà phê? Tôi muốn biết thêm về quan điểm của anh về sự khác biệt văn hóa giữa Việt Nam và phương Tây..."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael, did you see the advertisement for the Russian cultural festival chương trình last night? They suddenly used my image from last year's chess tournament without permission. It's so disrespectful!"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Oh, I did see that chương trình! What an interesting coincidence. But they shouldn't use your photo without permission. In America, the văn hóa of respecting personal rights is highly valued. What do you plan to do about this?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "My Russian văn hóa teaches patience, but sometimes I find it difficult to deal with how Vietnamese people work. I sent a complaint email but they just said I should be proud to appear in such a major cultural chương trình. What do you think?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "I understand how you feel. Văn hóa and laws sometimes differ between countries. Perhaps I could help you contact the chương trình organizers? I have some friends working in media in Saigon."
+    },
+    {
+      "speaker": "Mira",
+      "text": "You would do that? Not that I need help... just... if you're free. Maybe we could discuss this over coffee? I want to know more about your perspective on the văn hóa differences between Vietnam and the West..."
+    }
+  ],
+  "topic_word": "chương trình",
+  "topic_word_translation": "program/show",
+  "common_words": [
+    {
+      "word": "văn hóa",
+      "translation": "culture"
+    },
+    {
+      "word": "tôn trọng",
+      "translation": "respect"
+    }
+  ]
+}

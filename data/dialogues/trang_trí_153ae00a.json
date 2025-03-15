@@ -1,0 +1,60 @@
+{
+  "id": "153ae00a",
+  "timestamp": 1741949865,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael, cậu có thấy mấy quyển sách mới tôi mua để trang trí phòng không? Tôi thích trang trí bằng sách cổ điển, nhưng người Việt các cậu có vẻ thích mấy cuốn manga nhiều hơn."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sách của cậu đẹp lắm, Mira. Tôi cũng thích trang trí nhà bằng sách. Nhưng tôi không nghĩ người Việt chỉ thích manga đâu. Nhiều bạn trẻ giờ đọc văn học Việt Nam và thế giới nhiều lắm. Cậu đã đọc \"Số Đỏ\" của Vũ Trọng Phụng chưa?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Chưa đọc. Tôi vẫn còn... hạn chế với tiếng Việt. Mà cậu biết không, ở Nga, chúng tôi rất coi trọng việc trang trí nhà bằng sách. Sách không chỉ để đọc mà còn thể hiện tâm hồn người chủ nhà. Nhưng tôi nghe nói cậu có hẳn một kệ sách toàn về chính trị? Thật...đặc biệt."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Ừ, tôi có một kệ sách về chính trị và lịch sử. Mỗi lần về Mỹ tôi đều mang về vài cuốn. Này, nếu cậu muốn, tôi có thể cho cậu mượn vài cuốn sách tiếng Anh về Việt Nam để cậu hiểu thêm về đất nước này. Hoặc...nếu cậu thích, chúng ta có thể cùng đi hiệu sách cuối tuần này? Tôi biết một chỗ bán sách cũ rất hay để trang trí."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Đi cùng cậu à? Tôi... tôi không nghĩ đó là ý hay đâu. Cậu sẽ chỉ chọn toàn sách chính trị nhàm chán thôi. Mà tôi cũng không cần ai giúp chọn sách để trang trí nhà cả. Tôi tự lo được... Nhưng mà... hiệu sách đó ở đâu vậy?"
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael, did you see the new books I bought to trang trí my room? I like to trang trí with classic sách, but you Vietnamese people seem to prefer manga more."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Your sách are beautiful, Mira. I also like to trang trí my home with sách. But I don't think Vietnamese people only like manga. Many young people now đọc a lot of Vietnamese and world literature. Have you đọc \"The Red Number\" by Vu Trong Phung yet?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Haven't đọc it. I'm still... limited in Vietnamese. You know, in Russia, we really value trang trí our homes with sách. Sách aren't just for đọc but also reflect the soul of the homeowner. But I heard you have an entire bookshelf just about politics? That's... special."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Yeah, I have a bookshelf about politics and history. Every time I go back to America, I bring back a few books. Hey, if you want, I can lend you some English sách about Vietnam so you can understand more about this country. Or... if you'd like, we could go to a bookstore together this weekend? I know a place that sells used sách that are great for trang trí."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Go with you? I... I don't think that's a good idea. You'll just choose boring political sách. And I don't need anyone's help choosing sách to trang trí my home. I can manage on my own... But... where is this bookstore anyway?"
+    }
+  ],
+  "topic_word": "trang trí",
+  "topic_word_translation": "decorate",
+  "common_words": [
+    {
+      "word": "sách",
+      "translation": "book"
+    },
+    {
+      "word": "đọc",
+      "translation": "read"
+    }
+  ]
+}

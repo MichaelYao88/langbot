@@ -397,6 +397,72 @@ def find_word_by_timing(word, auto_word_timestamps, expected_time, tolerance=1.7
     
     return None
 
+def find_last_word_by_timing(word, auto_word_timestamps, expected_end_time, tolerance=1.7):
+    """
+    Find a word in the auto-generated word timestamps based on expected end timing.
+    This function is specifically for finding the last word in a phrase, using the end time
+    instead of the midpoint for comparison.
+    
+    Args:
+        word: The word to find
+        auto_word_timestamps: List of auto-generated word timestamps
+        expected_end_time: Expected end time (in seconds) where the word should end
+        tolerance: Time tolerance in seconds (default: 1.7)
+    
+    Returns:
+        The timestamp data for the word, or None if not found
+    """
+    # Clean the word for comparison
+    clean_word = re.sub(r'[^\w\s]', '', word.lower())
+    
+    # Skip common words that appear frequently and can cause matching issues
+    common_words = ["i", "you", "the", "a", "an", "and", "is", "are", "to", "in", "it", "that", "of", "for", "on", "with"]
+    if clean_word in common_words:
+        print(f"Skipping common word '{clean_word}' for timing adjustment")
+        return None
+    
+    # Find all instances of the word within the tolerance window
+    matching_timestamps = []
+    
+    for timestamp in auto_word_timestamps:
+        auto_word = timestamp["word"].lower()
+        # Check for exact match or if one contains the other
+        if auto_word == clean_word or clean_word in auto_word or auto_word in clean_word:
+            # Use the end time for comparison instead of the midpoint
+            end_time = timestamp["end"]
+            # Check if it's within the tolerance
+            if abs(end_time - expected_end_time) <= tolerance:
+                matching_timestamps.append((timestamp, abs(end_time - expected_end_time)))
+    
+    # If we found exactly one match within the tolerance, return it
+    if len(matching_timestamps) == 1:
+        return matching_timestamps[0][0]
+    # If we found multiple matches, check if one is significantly closer than the others
+    elif len(matching_timestamps) > 1:
+        # Sort by time difference
+        matching_timestamps.sort(key=lambda x: x[1])
+        # If the closest match is at least 0.5 seconds closer than the next closest, use it
+        if len(matching_timestamps) > 1 and matching_timestamps[0][1] + 0.5 < matching_timestamps[1][1]:
+            return matching_timestamps[0][0]
+        else:
+            print(f"Multiple matches found for '{clean_word}' around {expected_end_time}s, skipping to avoid ambiguity")
+            return None
+    
+    # If no match found within tolerance, try to find any instance of the word
+    # but only if it's not a common word and there's only one instance in the entire transcript
+    if clean_word not in common_words:
+        exact_matches = []
+        for timestamp in auto_word_timestamps:
+            auto_word = timestamp["word"].lower()
+            if auto_word == clean_word or clean_word in auto_word or auto_word in clean_word:
+                exact_matches.append(timestamp)
+        
+        # Only use if there's exactly one match in the entire transcript
+        if len(exact_matches) == 1:
+            return exact_matches[0]
+    
+    return None
+
 def simple_adjust_timestamps(original_json_path, auto_json_path, output_path=None, replace_original=True):
     """
     A simpler approach to adjust timestamps based on finding words with similar timings.
@@ -471,8 +537,8 @@ def simple_adjust_timestamps(original_json_path, auto_json_path, output_path=Non
             start_expected
         )
         
-        # Find the last word based on timing
-        last_word_timestamp = find_word_by_timing(
+        # Find the last word based on end timing (using the new function)
+        last_word_timestamp = find_last_word_by_timing(
             last_word, 
             auto_word_timestamps, 
             end_expected
