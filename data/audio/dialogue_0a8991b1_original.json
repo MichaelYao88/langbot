@@ -1,0 +1,66 @@
+{
+  "id": "0a8991b1",
+  "topic_word": "xây dựng",
+  "topic_word_translation": "build/construct",
+  "common_words": [
+    {
+      "word": "phở",
+      "translation": "pho (Vietnamese noodle soup)"
+    },
+    {
+      "word": "nhà hàng",
+      "translation": "restaurant"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael, what do you think about us having dinner at the newly xây dựng restaurant nearby? I heard it's a xây dựng project of your ex-girlfriend, isn't it?",
+      "start_time": 0.0,
+      "end_time": 15.5,
+      "viet_words": [
+        "xây dựng"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "It's true that Linh was involved in xây dựng that restaurant, but we broke up more than a year ago. The food there is really good, especially the phở. Does Mira like phở?",
+      "start_time": 16.0,
+      "end_time": 33.0,
+      "viet_words": [
+        "phở",
+        "xây dựng"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I... I like phở, but I'm not sure if we should go to that nhà hàng. It feels weird to eat at a place your ex put effort into xây dựng. Don't you find it awkward?",
+      "start_time": 33.5,
+      "end_time": 49.6,
+      "viet_words": [
+        "phở",
+        "nhà hàng",
+        "xây dựng"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sometimes we need to separate people from their work. Linh is a good architect, and the nhà hàng is where many people make their living. The phở there is truly delicious. Besides, I want to have dinner with Mira, regardless of the location.",
+      "start_time": 50.1,
+      "end_time": 74.1,
+      "viet_words": [
+        "phở",
+        "nhà hàng"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "You saying that makes me... Fine, we can try. But if I see her there, I'm leaving immediately. Do you really like phở that much? Or are you still thinking about her?",
+      "start_time": 74.6,
+      "end_time": 91.1,
+      "viet_words": [
+        "phở"
+      ]
+    }
+  ]
+}

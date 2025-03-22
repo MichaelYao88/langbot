@@ -1,0 +1,413 @@
+{
+  "id": "31772986",
+  "topic_word": "chương trình",
+  "topic_word_translation": "program/show",
+  "common_words": [
+    {
+      "word": "văn hóa",
+      "translation": "culture"
+    },
+    {
+      "word": "tôn trọng",
+      "translation": "respect"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael,",
+      "start_time": 0.03,
+      "end_time": 0.75
+    },
+    {
+      "speaker": "Mira",
+      "text": "did you see",
+      "start_time": 0.75,
+      "end_time": 2.16
+    },
+    {
+      "speaker": "Mira",
+      "text": "the advertisement for",
+      "start_time": 2.16,
+      "end_time": 2.79
+    },
+    {
+      "speaker": "Mira",
+      "text": "the Russian cultural",
+      "start_time": 2.79,
+      "end_time": 4.76
+    },
+    {
+      "speaker": "Mira",
+      "text": "festival <vietnamese>chương trình</vietnamese>",
+      "start_time": 4.77,
+      "end_time": 5.76
+    },
+    {
+      "speaker": "Mira",
+      "text": "last night?",
+      "start_time": 5.76,
+      "end_time": 6.69
+    },
+    {
+      "speaker": "Mira",
+      "text": "They suddenly used",
+      "start_time": 6.69,
+      "end_time": 7.42
+    },
+    {
+      "speaker": "Mira",
+      "text": "my image from",
+      "start_time": 7.42,
+      "end_time": 8.04
+    },
+    {
+      "speaker": "Mira",
+      "text": "last year's chess",
+      "start_time": 8.04,
+      "end_time": 9.58
+    },
+    {
+      "speaker": "Mira",
+      "text": "tournament without permission.",
+      "start_time": 9.69,
+      "end_time": 11.68
+    },
+    {
+      "speaker": "Mira",
+      "text": "It's so disrespectful!",
+      "start_time": 11.91,
+      "end_time": 12.18
+    },
+    {
+      "speaker": "Michael",
+      "text": "Oh, I",
+      "start_time": 12.18,
+      "end_time": 13.03
+    },
+    {
+      "speaker": "Michael",
+      "text": "did see that",
+      "start_time": 13.05,
+      "end_time": 14.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>chương trình</vietnamese>!",
+      "start_time": 14.04,
+      "end_time": 15.43
+    },
+    {
+      "speaker": "Michael",
+      "text": "What an interesting",
+      "start_time": 16.05,
+      "end_time": 16.65
+    },
+    {
+      "speaker": "Michael",
+      "text": "coincidence. But",
+      "start_time": 16.65,
+      "end_time": 17.4
+    },
+    {
+      "speaker": "Michael",
+      "text": "they shouldn't use",
+      "start_time": 17.4,
+      "end_time": 18.81
+    },
+    {
+      "speaker": "Michael",
+      "text": "your photo without",
+      "start_time": 18.81,
+      "end_time": 19.95
+    },
+    {
+      "speaker": "Michael",
+      "text": "permission. In America,",
+      "start_time": 19.95,
+      "end_time": 21.06
+    },
+    {
+      "speaker": "Michael",
+      "text": "the <vietnamese>văn hóa</vietnamese> of",
+      "start_time": 21.06,
+      "end_time": 22.02
+    },
+    {
+      "speaker": "Michael",
+      "text": "respecting personal rights",
+      "start_time": 22.02,
+      "end_time": 23.64
+    },
+    {
+      "speaker": "Michael",
+      "text": "is highly valued.",
+      "start_time": 23.64,
+      "end_time": 24.03
+    },
+    {
+      "speaker": "Michael",
+      "text": "What do you",
+      "start_time": 24.03,
+      "end_time": 24.48
+    },
+    {
+      "speaker": "Michael",
+      "text": "plan to do",
+      "start_time": 24.48,
+      "end_time": 26.06
+    },
+    {
+      "speaker": "Michael",
+      "text": "about this?",
+      "start_time": 26.07,
+      "end_time": 27.24
+    },
+    {
+      "speaker": "Mira",
+      "text": "My Russian",
+      "start_time": 27.24,
+      "end_time": 28.98
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>văn hóa</vietnamese> teaches",
+      "start_time": 28.98,
+      "end_time": 29.52
+    },
+    {
+      "speaker": "Mira",
+      "text": "patience, but",
+      "start_time": 29.52,
+      "end_time": 30.48
+    },
+    {
+      "speaker": "Mira",
+      "text": "sometimes I find",
+      "start_time": 30.48,
+      "end_time": 31.41
+    },
+    {
+      "speaker": "Mira",
+      "text": "it difficult to",
+      "start_time": 31.41,
+      "end_time": 32.79
+    },
+    {
+      "speaker": "Mira",
+      "text": "deal with how",
+      "start_time": 32.79,
+      "end_time": 33.800000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese people work.",
+      "start_time": 33.81,
+      "end_time": 34.71
+    },
+    {
+      "speaker": "Mira",
+      "text": "I sent a",
+      "start_time": 34.71,
+      "end_time": 35.31
+    },
+    {
+      "speaker": "Mira",
+      "text": "complaint email but",
+      "start_time": 35.31,
+      "end_time": 36.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "they just said",
+      "start_time": 36.0,
+      "end_time": 36.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "I should be",
+      "start_time": 36.6,
+      "end_time": 37.41
+    },
+    {
+      "speaker": "Mira",
+      "text": "proud to appear",
+      "start_time": 37.41,
+      "end_time": 39.04
+    },
+    {
+      "speaker": "Mira",
+      "text": "in such a",
+      "start_time": 39.12,
+      "end_time": 39.51
+    },
+    {
+      "speaker": "Mira",
+      "text": "major cultural",
+      "start_time": 39.51,
+      "end_time": 40.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>chương trình</vietnamese>.",
+      "start_time": 40.74,
+      "end_time": 41.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "What do you",
+      "start_time": 41.67,
+      "end_time": 42.3675
+    },
+    {
+      "speaker": "Mira",
+      "text": "think?",
+      "start_time": 42.3675,
+      "end_time": 42.6
+    },
+    {
+      "speaker": "Michael",
+      "text": "I understand how",
+      "start_time": 42.6,
+      "end_time": 43.65
+    },
+    {
+      "speaker": "Michael",
+      "text": "you feel.",
+      "start_time": 43.65,
+      "end_time": 46.08
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>Văn hóa</vietnamese> and laws",
+      "start_time": 46.08,
+      "end_time": 46.44
+    },
+    {
+      "speaker": "Michael",
+      "text": "sometimes differ between",
+      "start_time": 46.44,
+      "end_time": 47.510000000000005
+    },
+    {
+      "speaker": "Michael",
+      "text": "countries. Perhaps",
+      "start_time": 47.52,
+      "end_time": 49.06
+    },
+    {
+      "speaker": "Michael",
+      "text": "I could help",
+      "start_time": 49.35,
+      "end_time": 49.74
+    },
+    {
+      "speaker": "Michael",
+      "text": "you contact the",
+      "start_time": 49.74,
+      "end_time": 50.43
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>chương trình</vietnamese> organizers?",
+      "start_time": 50.43,
+      "end_time": 51.49
+    },
+    {
+      "speaker": "Michael",
+      "text": "I have some",
+      "start_time": 51.69,
+      "end_time": 52.23
+    },
+    {
+      "speaker": "Michael",
+      "text": "friends working in",
+      "start_time": 52.23,
+      "end_time": 53.49
+    },
+    {
+      "speaker": "Michael",
+      "text": "media in Saigon.",
+      "start_time": 53.49,
+      "end_time": 54.31
+    },
+    {
+      "speaker": "Mira",
+      "text": "You would do",
+      "start_time": 54.51,
+      "end_time": 55.364999999999995
+    },
+    {
+      "speaker": "Mira",
+      "text": "that?",
+      "start_time": 55.364999999999995,
+      "end_time": 55.64999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "Not that I",
+      "start_time": 55.65,
+      "end_time": 57.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "need help... just...",
+      "start_time": 57.27,
+      "end_time": 58.08
+    },
+    {
+      "speaker": "Mira",
+      "text": "if you're free.",
+      "start_time": 58.08,
+      "end_time": 59.01
+    },
+    {
+      "speaker": "Mira",
+      "text": "Maybe we could",
+      "start_time": 59.01,
+      "end_time": 59.52
+    },
+    {
+      "speaker": "Mira",
+      "text": "discuss this over",
+      "start_time": 59.52,
+      "end_time": 60.36
+    },
+    {
+      "speaker": "Mira",
+      "text": "coffee? I want",
+      "start_time": 60.36,
+      "end_time": 61.82
+    },
+    {
+      "speaker": "Mira",
+      "text": "to know more",
+      "start_time": 61.83,
+      "end_time": 62.57
+    },
+    {
+      "speaker": "Mira",
+      "text": "about your perspective",
+      "start_time": 62.58,
+      "end_time": 64.14
+    },
+    {
+      "speaker": "Mira",
+      "text": "on the <vietnamese>văn hóa</vietnamese>",
+      "start_time": 64.14,
+      "end_time": 64.95
+    },
+    {
+      "speaker": "Mira",
+      "text": "differences between Vietnam",
+      "start_time": 64.95,
+      "end_time": 65.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "and the West...",
+      "start_time": 65.5,
+      "end_time": 66.1
+    }
+  ]
+}

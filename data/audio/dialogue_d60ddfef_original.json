@@ -1,0 +1,64 @@
+{
+  "id": "d60ddfef",
+  "topic_word": "năng lượng",
+  "topic_word_translation": "energy",
+  "common_words": [
+    {
+      "word": "thích",
+      "translation": "like"
+    },
+    {
+      "word": "không",
+      "translation": "not/no"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael, do you believe in the năng lượng of places? I just got back from traveling to Da Lat and felt that place has a very special năng lượng, making me want to stay forever.",
+      "start_time": 0.0,
+      "end_time": 18.0,
+      "viet_words": [
+        "năng lượng"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's interesting! I think each place has its own năng lượng. Da Lat is peaceful, while Saigon is vibrant. But what's important is how we feel when we're there. I thích the feeling of exploring new lands, but Vietnam always has a special attraction.",
+      "start_time": 18.0,
+      "end_time": 43.0,
+      "viet_words": [
+        "năng lượng",
+        "thích"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's true. In Russia, my homeland, the cold winters make people stay indoors a lot. Maybe that's why I thích the warm atmosphere in Vietnam. I think the năng lượng of a place isn't không just about scenery but also about the people. Have you ever been to Russia?",
+      "start_time": 43.0,
+      "end_time": 69.4,
+      "viet_words": [
+        "năng lượng",
+        "thích",
+        "không"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Not yet, but Russia has always been on my list of places I want to visit. I've heard that summer in Saint Petersburg is beautiful with the white nights phenomenon. If I have the chance, I'd like you to guide me in exploring your homeland. But hey... I wonder why you chose Vietnam to live in instead of other places?",
+      "start_time": 69.4,
+      "end_time": 101.0,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "Umm... không because of... Well, I just thích the atmosphere here. By the way, when do you plan to return to America? I've heard that Vietnamese living abroad tend to return to their homeland after some time...",
+      "start_time": 101.0,
+      "end_time": 122.0,
+      "viet_words": [
+        "thích",
+        "không"
+      ]
+    }
+  ]
+}

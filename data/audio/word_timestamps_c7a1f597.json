@@ -1,0 +1,1108 @@
+[
+  {
+    "conf": 1.0,
+    "end": 0.18,
+    "start": 0.06,
+    "word": "i",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 0.45,
+    "start": 0.18,
+    "word": "went",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 0.75,
+    "start": 0.45,
+    "word": "to",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 1.2,
+    "start": 0.9,
+    "word": "now",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 1.5,
+    "start": 1.2,
+    "word": "lot",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 1.98,
+    "start": 1.62,
+    "word": "last",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 2.28,
+    "start": 1.98,
+    "word": "week",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 2.55,
+    "start": 2.4,
+    "word": "i",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 2.88,
+    "start": 2.55,
+    "word": "didn't",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 3.36,
+    "start": 2.88,
+    "word": "expect",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 3.81,
+    "start": 3.39,
+    "word": "vietnam",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 3.93,
+    "start": 3.81,
+    "word": "to",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 4.08,
+    "start": 3.93,
+    "word": "have",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 4.32,
+    "start": 4.08,
+    "word": "such",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 4.38,
+    "start": 4.32,
+    "word": "a",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 4.68,
+    "start": 4.38,
+    "word": "cool",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 5.22,
+    "start": 4.68,
+    "word": "place",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 5.795004,
+    "start": 5.52,
+    "word": "now",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.692079,
+    "end": 6.12,
+    "start": 5.795004,
+    "word": "that",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 6.39,
+    "start": 6.24,
+    "word": "is",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 6.87,
+    "start": 6.39,
+    "word": "completely",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 7.26,
+    "start": 6.87,
+    "word": "different",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 7.41,
+    "start": 7.26,
+    "word": "from",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 8.1,
+    "start": 7.41,
+    "word": "saigon",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 8.85,
+    "start": 8.31,
+    "word": "beautiful",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 9.45,
+    "start": 8.85,
+    "word": "scenery",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 9.63,
+    "start": 9.45,
+    "word": "and",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 10.26,
+    "start": 9.63,
+    "word": "peaceful",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.60864,
+    "end": 11.19,
+    "start": 10.62,
+    "word": "dialogue",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 11.58,
+    "start": 11.31,
+    "word": "is",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 12.0,
+    "start": 11.58,
+    "word": "truly",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 12.06,
+    "start": 12.0,
+    "word": "a",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 12.6,
+    "start": 12.06,
+    "word": "paradise",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 12.87,
+    "start": 12.6,
+    "word": "for",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 13.62,
+    "start": 13.11,
+    "word": "zulu",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 13.89,
+    "start": 13.77,
+    "word": "i",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 0.822688,
+    "end": 14.13,
+    "start": 13.89,
+    "word": "plan",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 14.22,
+    "start": 14.135319,
+    "word": "to",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 14.37,
+    "start": 14.22,
+    "word": "go",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 14.61,
+    "start": 14.37,
+    "word": "to",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 0.888931,
+    "end": 15.033909,
+    "start": 14.79,
+    "word": "the",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 0.648511,
+    "end": 15.36,
+    "start": 15.033909,
+    "word": "lot",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 15.75,
+    "start": 15.48,
+    "word": "next",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 16.11,
+    "start": 15.75,
+    "word": "month",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 16.68,
+    "start": 16.5,
+    "word": "is",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 16.83,
+    "start": 16.68,
+    "word": "there",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 17.16,
+    "start": 16.83,
+    "word": "anything",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 17.55,
+    "start": 17.16,
+    "word": "interesting",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 0.448991,
+    "end": 17.76,
+    "start": 17.55,
+    "word": "their",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 17.91,
+    "start": 17.76,
+    "word": "that",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 18.06,
+    "start": 17.91,
+    "word": "you'd",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 18.21,
+    "start": 18.06,
+    "word": "like",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 18.3,
+    "start": 18.21,
+    "word": "to",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 18.84,
+    "start": 18.3,
+    "word": "recommend",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 0.773983,
+    "end": 19.32,
+    "start": 19.11,
+    "word": "for",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.342767,
+    "end": 19.5,
+    "start": 19.32,
+    "word": "one",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.668176,
+    "end": 19.86,
+    "start": 19.504479,
+    "word": "lake",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.708192,
+    "end": 20.006543,
+    "start": 19.86,
+    "word": "is",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.433419,
+    "end": 20.16,
+    "start": 20.006543,
+    "word": "va",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.647471,
+    "end": 20.37,
+    "start": 20.16,
+    "word": "very",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 21.12,
+    "start": 20.37,
+    "word": "beautiful",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 21.57,
+    "start": 21.36,
+    "word": "but",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.823856,
+    "end": 21.84,
+    "start": 21.57,
+    "word": "too",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 22.44,
+    "start": 21.84,
+    "word": "crowded",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 22.62,
+    "start": 22.44,
+    "word": "with",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 23.46,
+    "start": 22.62,
+    "word": "tourists",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.667337,
+    "end": 23.94,
+    "start": 23.52,
+    "word": "are",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.429488,
+    "end": 24.39,
+    "start": 24.06,
+    "word": "pick",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 24.6,
+    "start": 24.48,
+    "word": "the",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 24.99,
+    "start": 24.6,
+    "word": "small",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.851555,
+    "end": 25.38,
+    "start": 24.99,
+    "word": "roads",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 25.59,
+    "start": 25.38,
+    "word": "through",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 25.98,
+    "start": 25.59,
+    "word": "pine",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 26.76,
+    "start": 25.98,
+    "word": "forests",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 27.24,
+    "start": 26.76,
+    "word": "more",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 27.93,
+    "start": 27.63,
+    "word": "if",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 28.26,
+    "start": 27.93,
+    "word": "you",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.720001,
+    "end": 28.71,
+    "start": 28.41,
+    "word": "take",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.681471,
+    "end": 29.13,
+    "start": 28.8,
+    "word": "quiet",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 29.73,
+    "start": 29.13,
+    "word": "places",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 29.85,
+    "start": 29.73,
+    "word": "we",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 30.15,
+    "start": 29.85,
+    "word": "could",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 31.11,
+    "start": 30.99,
+    "word": "oh",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 31.62,
+    "start": 31.11,
+    "word": "no",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 31.89,
+    "start": 31.74,
+    "word": "i",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 32.19,
+    "start": 31.89,
+    "word": "mean",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 32.37,
+    "start": 32.22,
+    "word": "you",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 32.61,
+    "start": 32.37,
+    "word": "should",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 32.88,
+    "start": 32.61,
+    "word": "visit",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 33.3,
+    "start": 32.88,
+    "word": "places",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 33.48,
+    "start": 33.3,
+    "word": "that",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.882295,
+    "end": 33.75,
+    "start": 33.48,
+    "word": "fewer",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 34.02,
+    "start": 33.75,
+    "word": "people",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 34.26,
+    "start": 34.02,
+    "word": "know",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 34.71,
+    "start": 34.26,
+    "word": "about",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 35.19,
+    "start": 35.01,
+    "word": "we",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 35.43,
+    "start": 35.19,
+    "word": "could",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 35.7,
+    "start": 35.43,
+    "word": "sounds",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 35.91,
+    "start": 35.7,
+    "word": "good",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 36.0,
+    "start": 35.91,
+    "word": "to",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 36.15,
+    "start": 36.0,
+    "word": "me",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 36.33,
+    "start": 36.15,
+    "word": "on",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 37.35,
+    "start": 36.84,
+    "word": "zulu",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 0.746218,
+    "end": 37.95,
+    "start": 37.53,
+    "word": "to",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 0.575267,
+    "end": 38.334001,
+    "start": 38.1,
+    "word": "the",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 0.575267,
+    "end": 38.7,
+    "start": 38.34,
+    "word": "lot",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 39.3,
+    "start": 38.79,
+    "word": "together",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 39.81,
+    "start": 39.75,
+    "word": "i",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 39.96,
+    "start": 39.81,
+    "word": "want",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 40.02,
+    "start": 39.96,
+    "word": "to",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 40.38,
+    "start": 40.02,
+    "word": "explore",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 40.56,
+    "start": 40.38,
+    "word": "those",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 40.86,
+    "start": 40.56,
+    "word": "pine",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 41.22,
+    "start": 40.86,
+    "word": "forest",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 41.49,
+    "start": 41.22,
+    "word": "roads",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 41.64,
+    "start": 41.49,
+    "word": "with",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 41.91,
+    "start": 41.64,
+    "word": "someone",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 42.0,
+    "start": 41.91,
+    "word": "who",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 42.27,
+    "start": 42.0,
+    "word": "knows",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 42.36,
+    "start": 42.27,
+    "word": "the",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 42.63,
+    "start": 42.36,
+    "word": "place",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 42.96,
+    "start": 42.63,
+    "word": "well",
+    "speaker": "Michael"
+  },
+  {
+    "conf": 1.0,
+    "end": 43.53,
+    "start": 43.29,
+    "word": "don't",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 44.52,
+    "start": 43.53,
+    "word": "misunderstand",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 44.88,
+    "start": 44.7,
+    "word": "i'm",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 45.03,
+    "start": 44.88,
+    "word": "not",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 45.09,
+    "start": 45.03,
+    "word": "a",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 45.3,
+    "start": 45.09,
+    "word": "good",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.626207,
+    "end": 45.36,
+    "start": 45.3,
+    "word": "a",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 45.9,
+    "start": 45.39,
+    "word": "guiding",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 46.2,
+    "start": 45.9,
+    "word": "but",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 47.07,
+    "start": 46.92,
+    "word": "if",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 47.19,
+    "start": 47.07,
+    "word": "you",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 47.43,
+    "start": 47.19,
+    "word": "really",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 47.7,
+    "start": 47.43,
+    "word": "want",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 48.0,
+    "start": 47.7,
+    "word": "to",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.813138,
+    "end": 48.48,
+    "start": 48.18,
+    "word": "zhu",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.813138,
+    "end": 48.75,
+    "start": 48.48,
+    "word": "li",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 48.99,
+    "start": 48.87,
+    "word": "i",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 49.26,
+    "start": 48.99,
+    "word": "might",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 49.77,
+    "start": 49.26,
+    "word": "consider",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 50.07,
+    "start": 49.77,
+    "word": "it",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 50.94,
+    "start": 50.67,
+    "word": "only",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 51.12,
+    "start": 50.94,
+    "word": "big",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 51.33,
+    "start": 51.12,
+    "word": "i",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 51.6,
+    "start": 51.33,
+    "word": "also",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 51.81,
+    "start": 51.6,
+    "word": "want",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 51.9,
+    "start": 51.81,
+    "word": "to",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 52.05,
+    "start": 51.9,
+    "word": "go",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 52.29,
+    "start": 52.05,
+    "word": "to",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.497525,
+    "end": 52.759464,
+    "start": 52.5,
+    "word": "know",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 0.750261,
+    "end": 53.1,
+    "start": 52.759464,
+    "word": "that",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 53.64,
+    "start": 53.22,
+    "word": "again",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 53.91,
+    "start": 53.7,
+    "word": "not",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 54.06,
+    "start": 53.91,
+    "word": "for",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 54.24,
+    "start": 54.06,
+    "word": "any",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 54.45,
+    "start": 54.24,
+    "word": "other",
+    "speaker": "Mira"
+  },
+  {
+    "conf": 1.0,
+    "end": 54.96,
+    "start": 54.45,
+    "word": "reason",
+    "speaker": "Mira"
+  }
+]

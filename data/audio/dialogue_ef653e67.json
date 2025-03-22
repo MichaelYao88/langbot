@@ -1,0 +1,401 @@
+{
+  "id": "ef653e67",
+  "topic_word": "văn bản",
+  "topic_word_translation": "text/document",
+  "common_words": [
+    {
+      "word": "kỳ nghỉ",
+      "translation": "holiday"
+    },
+    {
+      "word": "hiểu",
+      "translation": "understand"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Last year,",
+      "start_time": 0.03,
+      "end_time": 0.78
+    },
+    {
+      "speaker": "Mira",
+      "text": "I wrote a",
+      "start_time": 0.78,
+      "end_time": 1.2974999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "short",
+      "start_time": 1.2974999999999999,
+      "end_time": 1.5699999999999998
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>văn bản</vietnamese> about",
+      "start_time": 1.71,
+      "end_time": 2.93
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese Tet.",
+      "start_time": 2.94,
+      "end_time": 4.72
+    },
+    {
+      "speaker": "Mira",
+      "text": "But no one",
+      "start_time": 5.01,
+      "end_time": 5.55
+    },
+    {
+      "speaker": "Mira",
+      "text": "believed that a",
+      "start_time": 5.55,
+      "end_time": 6.21
+    },
+    {
+      "speaker": "Mira",
+      "text": "Russian like me",
+      "start_time": 6.21,
+      "end_time": 7.4
+    },
+    {
+      "speaker": "Mira",
+      "text": "could",
+      "start_time": 7.41,
+      "end_time": 7.779999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>hiểu</vietnamese> your culture.",
+      "start_time": 7.89,
+      "end_time": 9.549999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? I'd love",
+      "start_time": 9.72,
+      "end_time": 10.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "to read that",
+      "start_time": 10.41,
+      "end_time": 11.02
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>văn bản</vietnamese>.",
+      "start_time": 11.19,
+      "end_time": 12.23
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tet is a",
+      "start_time": 12.24,
+      "end_time": 12.780000000000001
+    },
+    {
+      "speaker": "Michael",
+      "text": "special",
+      "start_time": 12.780000000000001,
+      "end_time": 13.06
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>kỳ nghỉ</vietnamese> for us",
+      "start_time": 13.23,
+      "end_time": 14.25
+    },
+    {
+      "speaker": "Michael",
+      "text": "Vietnamese. But",
+      "start_time": 14.26,
+      "end_time": 15.18
+    },
+    {
+      "speaker": "Michael",
+      "text": "I think someone",
+      "start_time": 15.18,
+      "end_time": 15.72
+    },
+    {
+      "speaker": "Michael",
+      "text": "smart like you",
+      "start_time": 15.72,
+      "end_time": 16.32
+    },
+    {
+      "speaker": "Michael",
+      "text": "can",
+      "start_time": 16.32,
+      "end_time": 16.720000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>hiểu</vietnamese> any culture.",
+      "start_time": 16.8,
+      "end_time": 18.1
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't flatter me!",
+      "start_time": 18.24,
+      "end_time": 19.42
+    },
+    {
+      "speaker": "Mira",
+      "text": "That <vietnamese>văn bản</vietnamese>",
+      "start_time": 19.44,
+      "end_time": 20.860000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "was just a",
+      "start_time": 20.94,
+      "end_time": 21.39
+    },
+    {
+      "speaker": "Mira",
+      "text": "small exercise. But",
+      "start_time": 21.39,
+      "end_time": 23.44
+    },
+    {
+      "speaker": "Mira",
+      "text": "if you really",
+      "start_time": 23.76,
+      "end_time": 24.3
+    },
+    {
+      "speaker": "Mira",
+      "text": "want to read",
+      "start_time": 24.3,
+      "end_time": 24.81
+    },
+    {
+      "speaker": "Mira",
+      "text": "it, I can",
+      "start_time": 24.81,
+      "end_time": 25.2
+    },
+    {
+      "speaker": "Mira",
+      "text": "send it to",
+      "start_time": 25.2,
+      "end_time": 25.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "you. I also",
+      "start_time": 25.74,
+      "end_time": 26.76
+    },
+    {
+      "speaker": "Mira",
+      "text": "wrote about the",
+      "start_time": 26.76,
+      "end_time": 27.3
+    },
+    {
+      "speaker": "Mira",
+      "text": "Russian <vietnamese>kỳ nghỉ</vietnamese>",
+      "start_time": 27.3,
+      "end_time": 28.75
+    },
+    {
+      "speaker": "Mira",
+      "text": "Maslenitsa.",
+      "start_time": 28.8,
+      "end_time": 29.37
+    },
+    {
+      "speaker": "Mira",
+      "text": "Do you",
+      "start_time": 29.37,
+      "end_time": 30.12
+    },
+    {
+      "speaker": "Mira",
+      "text": "know about that?",
+      "start_time": 30.12,
+      "end_time": 30.880000000000003
+    },
+    {
+      "speaker": "Michael",
+      "text": "I've never heard",
+      "start_time": 31.08,
+      "end_time": 31.65
+    },
+    {
+      "speaker": "Michael",
+      "text": "of Maslenitsa.",
+      "start_time": 31.65,
+      "end_time": 32.34
+    },
+    {
+      "speaker": "Michael",
+      "text": "But I",
+      "start_time": 32.34,
+      "end_time": 32.94
+    },
+    {
+      "speaker": "Michael",
+      "text": "love learning about",
+      "start_time": 32.94,
+      "end_time": 34.06
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>kỳ nghỉ</vietnamese> from other",
+      "start_time": 34.2,
+      "end_time": 35.31
+    },
+    {
+      "speaker": "Michael",
+      "text": "cultures. Perhaps",
+      "start_time": 35.31,
+      "end_time": 37.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "instead of just",
+      "start_time": 37.41,
+      "end_time": 37.815
+    },
+    {
+      "speaker": "Michael",
+      "text": "reading",
+      "start_time": 37.815,
+      "end_time": 37.95
+    },
+    {
+      "speaker": "Michael",
+      "text": "your <vietnamese>văn bản</vietnamese>,",
+      "start_time": 37.95,
+      "end_time": 39.07
+    },
+    {
+      "speaker": "Michael",
+      "text": "we could experience",
+      "start_time": 39.09,
+      "end_time": 39.96
+    },
+    {
+      "speaker": "Michael",
+      "text": "some traditional",
+      "start_time": 39.96,
+      "end_time": 40.65
+    },
+    {
+      "speaker": "Michael",
+      "text": "celebrations together?",
+      "start_time": 40.65,
+      "end_time": 42.84
+    },
+    {
+      "speaker": "Michael",
+      "text": "I know a",
+      "start_time": 42.84,
+      "end_time": 43.29
+    },
+    {
+      "speaker": "Michael",
+      "text": "Russian",
+      "start_time": 43.29,
+      "end_time": 43.44
+    },
+    {
+      "speaker": "Michael",
+      "text": "restaurant in District",
+      "start_time": 43.44,
+      "end_time": 44.31
+    },
+    {
+      "speaker": "Michael",
+      "text": "1...",
+      "start_time": 44.31,
+      "end_time": 44.86
+    },
+    {
+      "speaker": "Mira",
+      "text": "Are you...",
+      "start_time": 45.12,
+      "end_time": 46.92
+    },
+    {
+      "speaker": "Mira",
+      "text": "asking me out?",
+      "start_time": 46.92,
+      "end_time": 48.63
+    },
+    {
+      "speaker": "Mira",
+      "text": "Russian restaurants in",
+      "start_time": 48.63,
+      "end_time": 49.485
+    },
+    {
+      "speaker": "Mira",
+      "text": "Saigon",
+      "start_time": 49.485,
+      "end_time": 49.769999999999996
+    },
+    {
+      "speaker": "Mira",
+      "text": "usually don't have",
+      "start_time": 49.77,
+      "end_time": 50.46
+    },
+    {
+      "speaker": "Mira",
+      "text": "the right flavor.",
+      "start_time": 50.46,
+      "end_time": 51.4
+    },
+    {
+      "speaker": "Mira",
+      "text": "I could cook",
+      "start_time": 51.6,
+      "end_time": 52.14
+    },
+    {
+      "speaker": "Mira",
+      "text": "traditional blini for",
+      "start_time": 52.14,
+      "end_time": 53.13
+    },
+    {
+      "speaker": "Mira",
+      "text": "Maslenitsa. But",
+      "start_time": 53.13,
+      "end_time": 54.39
+    },
+    {
+      "speaker": "Mira",
+      "text": "don't misunderstand!",
+      "start_time": 54.39,
+      "end_time": 55.83
+    },
+    {
+      "speaker": "Mira",
+      "text": "This is not",
+      "start_time": 55.83,
+      "end_time": 56.1225
+    },
+    {
+      "speaker": "Mira",
+      "text": "a",
+      "start_time": 56.1225,
+      "end_time": 56.22
+    },
+    {
+      "speaker": "Mira",
+      "text": "date...",
+      "start_time": 56.22,
+      "end_time": 56.83
+    }
+  ]
+}

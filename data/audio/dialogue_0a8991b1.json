@@ -1,0 +1,407 @@
+{
+  "id": "0a8991b1",
+  "topic_word": "xây dựng",
+  "topic_word_translation": "build/construct",
+  "common_words": [
+    {
+      "word": "phở",
+      "translation": "pho (Vietnamese noodle soup)"
+    },
+    {
+      "word": "nhà hàng",
+      "translation": "restaurant"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael,",
+      "start_time": 0.03,
+      "end_time": 0.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "what do you",
+      "start_time": 0.5,
+      "end_time": 1.6099999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "think",
+      "start_time": 1.6099999999999999,
+      "end_time": 1.9999999999999998
+    },
+    {
+      "speaker": "Mira",
+      "text": "about us having",
+      "start_time": 2.01,
+      "end_time": 3.06
+    },
+    {
+      "speaker": "Mira",
+      "text": "dinner at the",
+      "start_time": 3.06,
+      "end_time": 3.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "newly <vietnamese>xây dựng</vietnamese> restaurant",
+      "start_time": 3.93,
+      "end_time": 5.25
+    },
+    {
+      "speaker": "Mira",
+      "text": "nearby?",
+      "start_time": 5.25,
+      "end_time": 5.8
+    },
+    {
+      "speaker": "Mira",
+      "text": "I heard it's",
+      "start_time": 5.8,
+      "end_time": 6.984999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "a",
+      "start_time": 6.984999999999999,
+      "end_time": 7.379999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>xây dựng</vietnamese> project of",
+      "start_time": 7.38,
+      "end_time": 8.4
+    },
+    {
+      "speaker": "Mira",
+      "text": "your ex-girlfriend,",
+      "start_time": 8.4,
+      "end_time": 9.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "isn't it?",
+      "start_time": 9.27,
+      "end_time": 9.94
+    },
+    {
+      "speaker": "Michael",
+      "text": "It's true that",
+      "start_time": 10.11,
+      "end_time": 10.74
+    },
+    {
+      "speaker": "Michael",
+      "text": "Linh was involved",
+      "start_time": 10.74,
+      "end_time": 11.61
+    },
+    {
+      "speaker": "Michael",
+      "text": "in <vietnamese>xây dựng</vietnamese> that",
+      "start_time": 11.61,
+      "end_time": 12.96
+    },
+    {
+      "speaker": "Michael",
+      "text": "restaurant, but we",
+      "start_time": 12.96,
+      "end_time": 13.71
+    },
+    {
+      "speaker": "Michael",
+      "text": "broke up more",
+      "start_time": 13.71,
+      "end_time": 14.28
+    },
+    {
+      "speaker": "Michael",
+      "text": "than a year",
+      "start_time": 14.28,
+      "end_time": 14.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "ago.",
+      "start_time": 14.7,
+      "end_time": 15.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "The food there",
+      "start_time": 15.0,
+      "end_time": 15.9
+    },
+    {
+      "speaker": "Michael",
+      "text": "is really good,",
+      "start_time": 15.9,
+      "end_time": 16.44
+    },
+    {
+      "speaker": "Michael",
+      "text": "especially the <vietnamese>phở</vietnamese>.",
+      "start_time": 16.44,
+      "end_time": 17.740000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "Does Mira like",
+      "start_time": 17.79,
+      "end_time": 18.87
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>phở</vietnamese>?",
+      "start_time": 18.87,
+      "end_time": 20.26
+    },
+    {
+      "speaker": "Mira",
+      "text": "I... I like",
+      "start_time": 20.85,
+      "end_time": 21.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>phở</vietnamese>, but",
+      "start_time": 21.5,
+      "end_time": 22.38
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm not sure",
+      "start_time": 22.38,
+      "end_time": 23.16
+    },
+    {
+      "speaker": "Mira",
+      "text": "if we should",
+      "start_time": 23.16,
+      "end_time": 23.58
+    },
+    {
+      "speaker": "Mira",
+      "text": "go to that",
+      "start_time": 23.58,
+      "end_time": 24.37
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>nhà hàng</vietnamese>.",
+      "start_time": 24.48,
+      "end_time": 25.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "It feels weird",
+      "start_time": 25.0,
+      "end_time": 25.56
+    },
+    {
+      "speaker": "Mira",
+      "text": "to eat at",
+      "start_time": 25.56,
+      "end_time": 26.28
+    },
+    {
+      "speaker": "Mira",
+      "text": "a place your",
+      "start_time": 26.28,
+      "end_time": 26.79
+    },
+    {
+      "speaker": "Mira",
+      "text": "ex put effort",
+      "start_time": 26.79,
+      "end_time": 27.63
+    },
+    {
+      "speaker": "Mira",
+      "text": "into <vietnamese>xây dựng</vietnamese>.",
+      "start_time": 27.63,
+      "end_time": 28.810000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't you find",
+      "start_time": 28.86,
+      "end_time": 29.85
+    },
+    {
+      "speaker": "Mira",
+      "text": "it awkward?",
+      "start_time": 29.85,
+      "end_time": 30.91
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sometimes we need",
+      "start_time": 31.05,
+      "end_time": 31.83
+    },
+    {
+      "speaker": "Michael",
+      "text": "to separate people",
+      "start_time": 31.83,
+      "end_time": 32.61
+    },
+    {
+      "speaker": "Michael",
+      "text": "from their work.",
+      "start_time": 32.61,
+      "end_time": 33.43
+    },
+    {
+      "speaker": "Michael",
+      "text": "Linh is a",
+      "start_time": 33.84,
+      "end_time": 34.29
+    },
+    {
+      "speaker": "Michael",
+      "text": "good architect, and",
+      "start_time": 34.29,
+      "end_time": 35.46
+    },
+    {
+      "speaker": "Michael",
+      "text": "the <vietnamese>nhà hàng</vietnamese>",
+      "start_time": 35.46,
+      "end_time": 36.79
+    },
+    {
+      "speaker": "Michael",
+      "text": "is where many",
+      "start_time": 36.9,
+      "end_time": 37.56
+    },
+    {
+      "speaker": "Michael",
+      "text": "people make their",
+      "start_time": 37.56,
+      "end_time": 38.19
+    },
+    {
+      "speaker": "Michael",
+      "text": "living.",
+      "start_time": 38.19,
+      "end_time": 39.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "The <vietnamese>phở</vietnamese> there",
+      "start_time": 39.0,
+      "end_time": 40.6
+    },
+    {
+      "speaker": "Michael",
+      "text": "is truly delicious.",
+      "start_time": 40.68,
+      "end_time": 41.28
+    },
+    {
+      "speaker": "Michael",
+      "text": "Besides, I want",
+      "start_time": 41.28,
+      "end_time": 42.87
+    },
+    {
+      "speaker": "Michael",
+      "text": "to have dinner",
+      "start_time": 42.87,
+      "end_time": 43.29
+    },
+    {
+      "speaker": "Michael",
+      "text": "with Mira,",
+      "start_time": 43.29,
+      "end_time": 44.03
+    },
+    {
+      "speaker": "Michael",
+      "text": "regardless of the",
+      "start_time": 44.04,
+      "end_time": 44.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "location.",
+      "start_time": 44.7,
+      "end_time": 46.05
+    },
+    {
+      "speaker": "Mira",
+      "text": "You saying that",
+      "start_time": 46.05,
+      "end_time": 46.44
+    },
+    {
+      "speaker": "Mira",
+      "text": "makes me...",
+      "start_time": 46.44,
+      "end_time": 47.2
+    },
+    {
+      "speaker": "Mira",
+      "text": "Fine, we can",
+      "start_time": 47.2,
+      "end_time": 48.835
+    },
+    {
+      "speaker": "Mira",
+      "text": "try.",
+      "start_time": 48.835,
+      "end_time": 49.38
+    },
+    {
+      "speaker": "Mira",
+      "text": "But if I",
+      "start_time": 49.38,
+      "end_time": 49.83
+    },
+    {
+      "speaker": "Mira",
+      "text": "see her there,",
+      "start_time": 49.83,
+      "end_time": 50.58
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm leaving immediately.",
+      "start_time": 50.58,
+      "end_time": 52.14
+    },
+    {
+      "speaker": "Mira",
+      "text": "Do you really",
+      "start_time": 52.14,
+      "end_time": 53.35
+    },
+    {
+      "speaker": "Mira",
+      "text": "like <vietnamese>phở</vietnamese> that much?",
+      "start_time": 53.61,
+      "end_time": 55.160000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "Or are you",
+      "start_time": 55.17,
+      "end_time": 55.83
+    },
+    {
+      "speaker": "Mira",
+      "text": "still thinking about",
+      "start_time": 55.83,
+      "end_time": 56.730000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "her?",
+      "start_time": 56.730000000000004,
+      "end_time": 57.13
+    }
+  ]
+}

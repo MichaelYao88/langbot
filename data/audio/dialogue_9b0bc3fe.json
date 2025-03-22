@@ -1,0 +1,335 @@
+{
+  "id": "9b0bc3fe",
+  "topic_word": "khỏe mạnh",
+  "topic_word_translation": "healthy",
+  "common_words": [
+    {
+      "word": "ăn",
+      "translation": "eat"
+    },
+    {
+      "word": "tập",
+      "translation": "exercise/practice"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "What are you",
+      "start_time": 0.0,
+      "end_time": 0.42
+    },
+    {
+      "speaker": "Mira",
+      "text": "eating to be",
+      "start_time": 0.42,
+      "end_time": 0.93
+    },
+    {
+      "speaker": "Mira",
+      "text": "so skinny?",
+      "start_time": 0.93,
+      "end_time": 2.31
+    },
+    {
+      "speaker": "Mira",
+      "text": "There's so much",
+      "start_time": 2.31,
+      "end_time": 3.36
+    },
+    {
+      "speaker": "Mira",
+      "text": "delicious food",
+      "start_time": 3.36,
+      "end_time": 4.38
+    },
+    {
+      "speaker": "Mira",
+      "text": "in Vietnam",
+      "start_time": 4.38,
+      "end_time": 4.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "and you don't",
+      "start_time": 4.89,
+      "end_time": 5.97
+    },
+    {
+      "speaker": "Mira",
+      "text": "eat it?",
+      "start_time": 5.97,
+      "end_time": 6.51
+    },
+    {
+      "speaker": "Michael",
+      "text": "I'm on a",
+      "start_time": 6.51,
+      "end_time": 6.96
+    },
+    {
+      "speaker": "Michael",
+      "text": "diet",
+      "start_time": 6.96,
+      "end_time": 7.21
+    },
+    {
+      "speaker": "Michael",
+      "text": "to lose weight.",
+      "start_time": 7.68,
+      "end_time": 8.22
+    },
+    {
+      "speaker": "Michael",
+      "text": "Don't you see",
+      "start_time": 8.22,
+      "end_time": 9.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "that we Americans",
+      "start_time": 9.0,
+      "end_time": 9.969999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "are usually fat?",
+      "start_time": 10.44,
+      "end_time": 10.8
+    },
+    {
+      "speaker": "Michael",
+      "text": "I want to",
+      "start_time": 10.8,
+      "end_time": 11.85
+    },
+    {
+      "speaker": "Michael",
+      "text": "live more <vietnamese>khỏe mạnh</vietnamese>.",
+      "start_time": 11.85,
+      "end_time": 12.84
+    },
+    {
+      "speaker": "Mira",
+      "text": "What kind",
+      "start_time": 12.84,
+      "end_time": 13.68
+    },
+    {
+      "speaker": "Mira",
+      "text": "of diet makes",
+      "start_time": 13.68,
+      "end_time": 14.19
+    },
+    {
+      "speaker": "Mira",
+      "text": "you look so",
+      "start_time": 14.19,
+      "end_time": 15.36
+    },
+    {
+      "speaker": "Mira",
+      "text": "weak?",
+      "start_time": 15.36,
+      "end_time": 15.75
+    },
+    {
+      "speaker": "Mira",
+      "text": "We Russians",
+      "start_time": 15.75,
+      "end_time": 16.53
+    },
+    {
+      "speaker": "Mira",
+      "text": "believe that men",
+      "start_time": 16.53,
+      "end_time": 17.49
+    },
+    {
+      "speaker": "Mira",
+      "text": "should be <vietnamese>khỏe mạnh</vietnamese>,",
+      "start_time": 17.49,
+      "end_time": 19.09
+    },
+    {
+      "speaker": "Mira",
+      "text": "must <vietnamese>ăn</vietnamese>",
+      "start_time": 19.11,
+      "end_time": 19.68
+    },
+    {
+      "speaker": "Mira",
+      "text": "a lot of",
+      "start_time": 19.68,
+      "end_time": 20.1075
+    },
+    {
+      "speaker": "Mira",
+      "text": "meat.",
+      "start_time": 20.1075,
+      "end_time": 20.25
+    },
+    {
+      "speaker": "Mira",
+      "text": "You need to",
+      "start_time": 20.25,
+      "end_time": 21.580000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>ăn</vietnamese> more!",
+      "start_time": 21.69,
+      "end_time": 22.31
+    },
+    {
+      "speaker": "Michael",
+      "text": "Being <vietnamese>khỏe mạnh</vietnamese>",
+      "start_time": 22.32,
+      "end_time": 23.28
+    },
+    {
+      "speaker": "Michael",
+      "text": "doesn't mean you",
+      "start_time": 23.28,
+      "end_time": 23.85
+    },
+    {
+      "speaker": "Michael",
+      "text": "have to <vietnamese>ăn</vietnamese>",
+      "start_time": 23.85,
+      "end_time": 24.72
+    },
+    {
+      "speaker": "Michael",
+      "text": "a lot of",
+      "start_time": 24.72,
+      "end_time": 25.215
+    },
+    {
+      "speaker": "Michael",
+      "text": "meat.",
+      "start_time": 25.215,
+      "end_time": 25.48
+    },
+    {
+      "speaker": "Michael",
+      "text": "I <vietnamese>ăn</vietnamese> plenty",
+      "start_time": 25.77,
+      "end_time": 26.61
+    },
+    {
+      "speaker": "Michael",
+      "text": "of vegetables and",
+      "start_time": 26.61,
+      "end_time": 27.94
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>tập</vietnamese> exercise",
+      "start_time": 28.14,
+      "end_time": 29.23
+    },
+    {
+      "speaker": "Michael",
+      "text": "every day.",
+      "start_time": 29.28,
+      "end_time": 29.73
+    },
+    {
+      "speaker": "Michael",
+      "text": "Would you like",
+      "start_time": 29.73,
+      "end_time": 30.580000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "to <vietnamese>tập</vietnamese> gym",
+      "start_time": 30.66,
+      "end_time": 31.39
+    },
+    {
+      "speaker": "Michael",
+      "text": "with me?",
+      "start_time": 31.59,
+      "end_time": 31.990000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Tập</vietnamese> gym? No way!",
+      "start_time": 32.01,
+      "end_time": 33.4
+    },
+    {
+      "speaker": "Mira",
+      "text": "Chess is the",
+      "start_time": 33.57,
+      "end_time": 34.17
+    },
+    {
+      "speaker": "Mira",
+      "text": "best way to",
+      "start_time": 34.17,
+      "end_time": 34.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "keep the mind",
+      "start_time": 34.74,
+      "end_time": 35.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>khỏe mạnh</vietnamese>.",
+      "start_time": 35.61,
+      "end_time": 36.85
+    },
+    {
+      "speaker": "Mira",
+      "text": "But...",
+      "start_time": 37.44,
+      "end_time": 37.86
+    },
+    {
+      "speaker": "Mira",
+      "text": "if you want",
+      "start_time": 37.86,
+      "end_time": 38.84
+    },
+    {
+      "speaker": "Mira",
+      "text": "to be truly",
+      "start_time": 38.85,
+      "end_time": 39.78
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>khỏe mạnh</vietnamese>,",
+      "start_time": 39.78,
+      "end_time": 40.38
+    },
+    {
+      "speaker": "Mira",
+      "text": "I could cook",
+      "start_time": 40.38,
+      "end_time": 41.167500000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "you",
+      "start_time": 41.167500000000004,
+      "end_time": 41.43000000000001
+    },
+    {
+      "speaker": "Mira",
+      "text": "a traditional Russian",
+      "start_time": 41.43,
+      "end_time": 41.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "borscht...",
+      "start_time": 41.88,
+      "end_time": 42.13
+    }
+  ]
+}

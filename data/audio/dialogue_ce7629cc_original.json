@@ -1,0 +1,69 @@
+{
+  "id": "ce7629cc",
+  "topic_word": "âm nhạc",
+  "topic_word_translation": "music",
+  "common_words": [
+    {
+      "word": "nhạc",
+      "translation": "music"
+    },
+    {
+      "word": "hiểu",
+      "translation": "understand"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese âm nhạc has many beautiful songs, but I don't hiểu all the lyrics. I prefer classical nhạc, it doesn't require understanding the words.",
+      "start_time": 0.0,
+      "end_time": 14.600000000000001,
+      "viet_words": [
+        "nhạc",
+        "hiểu",
+        "âm nhạc"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Classical nhạc? Interesting. I think âm nhạc is a universal language, even if you don't hiểu the lyrics. But Vietnamese nhạc has its own soul, just like how Vietnamese people live.",
+      "start_time": 15.100000000000001,
+      "end_time": 33.1,
+      "viet_words": [
+        "nhạc",
+        "hiểu",
+        "âm nhạc"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm, \"universal language\" sounds like an empty phrase from globalists. The âm nhạc of each culture is different. In Russia, our âm nhạc is deep and emotional... not like modern Western nhạc.",
+      "start_time": 33.6,
+      "end_time": 52.6,
+      "viet_words": [
+        "nhạc",
+        "âm nhạc"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Maybe you're right about the differences. But I think that's the beauty of âm nhạc - it reflects culture but still touches everyone's emotions. Hey, I have a playlist of Vietnamese classical nhạc mixed with Russian symphonies. Would you... like to listen to it with me?",
+      "start_time": 53.1,
+      "end_time": 80.0,
+      "viet_words": [
+        "nhạc",
+        "âm nhạc"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese nhạc mixed with Russian nhạc? Sounds... strange. But I'm curious. Perhaps âm nhạc isn't exactly what I thought. Send me the playlist, and... I'll think about listening with you.",
+      "start_time": 80.5,
+      "end_time": 99.3,
+      "viet_words": [
+        "nhạc",
+        "âm nhạc"
+      ]
+    }
+  ]
+}

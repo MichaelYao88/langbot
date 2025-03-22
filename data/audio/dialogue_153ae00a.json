@@ -1,0 +1,315 @@
+{
+  "id": "153ae00a",
+  "topic_word": "trang trí",
+  "topic_word_translation": "decorate",
+  "common_words": [
+    {
+      "word": "sách",
+      "translation": "book"
+    },
+    {
+      "word": "đọc",
+      "translation": "read"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael,",
+      "start_time": 0.0,
+      "end_time": 0.5,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "did you see the new books I bought to trang trí my room?",
+      "start_time": 0.7,
+      "end_time": 5.9,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "I like to trang trí with classic sách,",
+      "start_time": 6.1000000000000005,
+      "end_time": 9.3,
+      "viet_words": [
+        "sách"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "but you Vietnamese people seem to prefer manga more.",
+      "start_time": 9.5,
+      "end_time": 13.1,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Your sách are beautiful,",
+      "start_time": 13.3,
+      "end_time": 14.9,
+      "viet_words": [
+        "sách"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Mira.",
+      "start_time": 15.100000000000001,
+      "end_time": 15.600000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "I also like to trang trí my home with sách.",
+      "start_time": 15.8,
+      "end_time": 19.8,
+      "viet_words": [
+        "sách"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "But I don't think Vietnamese people only like manga.",
+      "start_time": 20.0,
+      "end_time": 23.6,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Many young people now đọc a lot of Vietnamese and world literature.",
+      "start_time": 23.8,
+      "end_time": 28.6,
+      "viet_words": [
+        "đọc"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Have you đọc \"The Red Number\" by Vu Trong Phung yet?",
+      "start_time": 28.8,
+      "end_time": 33.2,
+      "viet_words": [
+        "đọc"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Haven't đọc it.",
+      "start_time": 33.4,
+      "end_time": 34.6,
+      "viet_words": [
+        "đọc"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm still...",
+      "start_time": 34.8,
+      "end_time": 35.599999999999994,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "limited in Vietnamese.",
+      "start_time": 35.8,
+      "end_time": 37.0,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "You know,",
+      "start_time": 37.199999999999996,
+      "end_time": 37.99999999999999,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "in Russia,",
+      "start_time": 38.199999999999996,
+      "end_time": 38.99999999999999,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "we really value trang trí our homes with sách.",
+      "start_time": 39.199999999999996,
+      "end_time": 42.8,
+      "viet_words": [
+        "sách"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Sách aren't just for đọc but also reflect the soul of the homeowner.",
+      "start_time": 42.99999999999999,
+      "end_time": 48.199999999999996,
+      "viet_words": [
+        "sách",
+        "đọc"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "But I heard you have an entire bookshelf just about politics?",
+      "start_time": 48.39999999999999,
+      "end_time": 52.79999999999999,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's...",
+      "start_time": 52.99999999999999,
+      "end_time": 53.49999999999999,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "special.",
+      "start_time": 53.699999999999996,
+      "end_time": 54.199999999999996,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Yeah,",
+      "start_time": 54.4,
+      "end_time": 54.9,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "I have a bookshelf about politics and history.",
+      "start_time": 55.1,
+      "end_time": 58.300000000000004,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Every time I go back to America,",
+      "start_time": 58.5,
+      "end_time": 61.3,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "I bring back a few books.",
+      "start_time": 61.5,
+      "end_time": 63.9,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Hey,",
+      "start_time": 64.1,
+      "end_time": 64.6,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "if you want,",
+      "start_time": 64.8,
+      "end_time": 66.0,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "I can lend you some English sách about Vietnam so you can understand more about this country.",
+      "start_time": 66.2,
+      "end_time": 73.0,
+      "viet_words": [
+        "sách"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Or...",
+      "start_time": 73.2,
+      "end_time": 73.7,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "if you'd like,",
+      "start_time": 73.9,
+      "end_time": 75.10000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "we could go to a bookstore together this weekend?",
+      "start_time": 75.30000000000001,
+      "end_time": 78.9,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "I know a place that sells used sách that are great for trang trí.",
+      "start_time": 79.10000000000001,
+      "end_time": 84.7,
+      "viet_words": [
+        "sách"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Go with you?",
+      "start_time": 84.9,
+      "end_time": 86.10000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "I...",
+      "start_time": 86.30000000000001,
+      "end_time": 86.80000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't think that's a good idea.",
+      "start_time": 87.00000000000001,
+      "end_time": 89.80000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "You'll just choose boring political sách.",
+      "start_time": 90.00000000000001,
+      "end_time": 92.40000000000002,
+      "viet_words": [
+        "sách"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "And I don't need anyone's help choosing sách to trang trí my home.",
+      "start_time": 92.60000000000001,
+      "end_time": 97.80000000000001,
+      "viet_words": [
+        "sách"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I can manage on my own...",
+      "start_time": 98.00000000000001,
+      "end_time": 100.40000000000002,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "But...",
+      "start_time": 100.60000000000001,
+      "end_time": 101.10000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "where is this bookstore anyway?",
+      "start_time": 101.30000000000001,
+      "end_time": 103.30000000000001,
+      "viet_words": []
+    }
+  ]
+}

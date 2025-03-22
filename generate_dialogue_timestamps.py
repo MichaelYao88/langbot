@@ -69,29 +69,27 @@ def generate_initial_timestamps(audio_file, output_file=None):
         "dialogue": []
     }
     
-    # Add placeholder timestamps to each dialogue entry
+    # Original timestamp generation logic
     current_time = 0.0
+    pause_between_lines = 0.5  # 500ms pause between lines
     
     for entry in dialogue_data["english_dialogue"]:
-        # Extract the text and speaker
         text = entry["text"]
         speaker = entry["speaker"]
         
-        # Calculate a rough duration based on the text length (1 second per 10 characters)
-        duration = max(1.0, len(text) / 10)
+        # Calculate duration using character count (0.1 seconds per character)
+        duration = max(1.0, len(text) * 0.1)  # Minimum 1 second per line
         
-        # Extract Vietnamese words
+        # Detect Vietnamese words using simple substring matching
         viet_words = []
-        topic_word = dialogue_data.get("topic_word", "")
-        if topic_word and topic_word.lower() in text.lower():
-            viet_words.append(topic_word)
-        
-        common_words = dialogue_data.get("common_words", [])
-        for word_data in common_words:
-            if "word" in word_data and word_data["word"].lower() in text.lower():
+        for word_data in dialogue_data.get("common_words", []):
+            if word_data["word"].lower() in text.lower():
                 viet_words.append(word_data["word"])
+        if dialogue_data.get("topic_word"):
+            if dialogue_data["topic_word"].lower() in text.lower():
+                viet_words.append(dialogue_data["topic_word"])
         
-        # Create a timestamp entry
+        # Create timestamp entry
         timestamp_entry = {
             "speaker": speaker,
             "text": text,
@@ -102,8 +100,8 @@ def generate_initial_timestamps(audio_file, output_file=None):
         
         timestamp_data["dialogue"].append(timestamp_entry)
         
-        # Update the current time
-        current_time += duration
+        # Update current time with pause between lines
+        current_time += duration + pause_between_lines
     
     # Write the timestamp JSON file
     with open(output_file, 'w', encoding='utf-8') as f:

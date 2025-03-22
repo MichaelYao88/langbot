@@ -1,0 +1,276 @@
+{
+  "id": "438c3c15",
+  "topic_word": "thời gian",
+  "topic_word_translation": "time",
+  "common_words": [
+    {
+      "word": "hàng ngày",
+      "translation": "daily"
+    },
+    {
+      "word": "cảm giác",
+      "translation": "feeling"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Hey Mira,",
+      "start_time": 0.0,
+      "end_time": 0.8,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "do you feel something strange?",
+      "start_time": 1.0,
+      "end_time": 3.0,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Lately thời gian seems to flow faster than normal.",
+      "start_time": 3.2,
+      "end_time": 6.800000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "I wake up in the morning,",
+      "start_time": 7.0,
+      "end_time": 9.4,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "do my hàng ngày work and in the blink of an eye,",
+      "start_time": 9.6,
+      "end_time": 14.399999999999999,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "it's already evening.",
+      "start_time": 14.6,
+      "end_time": 15.799999999999999,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "Exactly!",
+      "start_time": 16.0,
+      "end_time": 16.5,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "I have the same cảm giác.",
+      "start_time": 16.7,
+      "end_time": 19.099999999999998,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "Every day I wake up early to exercise,",
+      "start_time": 19.3,
+      "end_time": 22.5,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "then study Vietnamese for two hours,",
+      "start_time": 22.700000000000003,
+      "end_time": 25.1,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "then play chess online with friends in Russia.",
+      "start_time": 25.300000000000004,
+      "end_time": 28.500000000000004,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "But thời gian just disappears somewhere.",
+      "start_time": 28.700000000000003,
+      "end_time": 31.1,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "Maybe hàng ngày life in Saigon is too busy?",
+      "start_time": 31.300000000000004,
+      "end_time": 34.900000000000006,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Or maybe reality is not what it seems.",
+      "start_time": 35.1,
+      "end_time": 38.300000000000004,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "I read a study saying that perception of thời gian changes with age and living environment.",
+      "start_time": 38.5,
+      "end_time": 44.9,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "But hey,",
+      "start_time": 45.1,
+      "end_time": 45.9,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "I'm curious about your hàng ngày routine.",
+      "start_time": 46.1,
+      "end_time": 48.9,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Do you have free time?",
+      "start_time": 49.1,
+      "end_time": 51.1,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Or is it all studying and chess?",
+      "start_time": 51.300000000000004,
+      "end_time": 54.1,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "Do you think I'm a robot?",
+      "start_time": 54.300000000000004,
+      "end_time": 56.7,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "Of course I have free time!",
+      "start_time": 56.900000000000006,
+      "end_time": 59.300000000000004,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "In the evenings I usually walk around the streets,",
+      "start_time": 59.50000000000001,
+      "end_time": 63.10000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "watching Saigon at night.",
+      "start_time": 63.300000000000004,
+      "end_time": 64.9,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "Sometimes I...",
+      "start_time": 65.10000000000001,
+      "end_time": 65.9,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "oh,",
+      "start_time": 66.10000000000001,
+      "end_time": 66.60000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "never mind.",
+      "start_time": 66.80000000000001,
+      "end_time": 67.60000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "What about your hàng ngày routine?",
+      "start_time": 67.80000000000001,
+      "end_time": 70.20000000000002,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "I bet it's very free-spirited like Americans,",
+      "start_time": 70.4,
+      "end_time": 73.2,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "right?",
+      "start_time": 73.4,
+      "end_time": 73.9,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Not exactly.",
+      "start_time": 74.10000000000001,
+      "end_time": 74.9,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "I also have quite a stable routine.",
+      "start_time": 75.10000000000001,
+      "end_time": 77.9,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Wake up early for yoga,",
+      "start_time": 78.10000000000001,
+      "end_time": 80.10000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "work remotely for an American company,",
+      "start_time": 80.30000000000001,
+      "end_time": 82.70000000000002,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "in the afternoon I usually explore new coffee shops.",
+      "start_time": 82.9,
+      "end_time": 86.5,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "But what I like most is the evening,",
+      "start_time": 86.7,
+      "end_time": 89.9,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "sometimes I see a Russian girl walking alone around the streets...",
+      "start_time": 90.10000000000001,
+      "end_time": 94.50000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "She looks very familiar.",
+      "start_time": 94.7,
+      "end_time": 96.3,
+      "viet_words": []
+    }
+  ]
+}

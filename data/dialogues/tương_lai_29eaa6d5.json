@@ -1,0 +1,60 @@
+{
+  "id": "29eaa6d5",
+  "timestamp": 1742079367,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Tôi tưởng sau chuyện tối qua, cậu sẽ không muốn nói chuyện với tôi nữa. Tôi đã nói những điều hơi quá..."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Đừng lo. Tôi hiểu mà. Chúng ta đều có những quan điểm khác nhau về tương lai. Nhưng tôi thích nghe cậu nói về kế hoạch của cậu. Cậu định ở lại Sài Gòn bao lâu?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tương lai ư? Tôi không chắc nữa. Ban đầu tôi chỉ định ở đây một năm để dạy tiếng Nga. Nhưng bây giờ... có những lý do khiến tôi muốn ở lại lâu hơn. Còn cậu thì sao? Cậu có kế hoạch gì cho tương lai?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tôi luôn nghĩ mình sẽ quay về Mỹ sau vài năm, nhưng Sài Gòn có điều gì đó khiến tôi không muốn rời đi. Có lẽ là vì thành phố này... hoặc có lẽ vì một người nào đó. Tương lai thật khó đoán, phải không?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Một người nào đó? Cậu đừng nói mấy câu mơ hồ kiểu đó. Tôi không... Thôi được rồi, có lẽ tôi cũng có lý do tương tự. Nhưng tương lai không phải lúc nào cũng như ta mong muốn..."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I thought after what happened last night, you wouldn't want to talk to me anymore. I said some things that were a bit too much..."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Don't worry. I understand. We all have different views about tương lai. But I like hearing about your plans. How long do you định to stay in Saigon?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tương lai? I'm not sure anymore. Initially I only định to stay here for a year to teach Russian. But now... there are reasons why I want to stay longer. What about you? Do you have any kế hoạch for your tương lai?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "I always thought I'd return to America after a few years, but there's something about Saigon that makes me not want to leave. Maybe it's the city... or maybe it's someone. Tương lai is hard to predict, isn't it?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Someone? Don't say such vague things like that. I don't... Fine, maybe I have similar reasons. But tương lai isn't always what we want it to be..."
+    }
+  ],
+  "topic_word": "tương lai",
+  "topic_word_translation": "future",
+  "common_words": [
+    {
+      "word": "định",
+      "translation": "plan/intend"
+    },
+    {
+      "word": "kế hoạch",
+      "translation": "plan"
+    }
+  ]
+}

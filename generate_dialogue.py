@@ -54,6 +54,8 @@ DIALOGUE_HOOKS = [
     "stupid joke",
     "you're not mira! something is off",
     "I have the feeling reality is not what it seems",
+    "deja vu. We've been here before.",
+    "we're in danger. They are watching. Act normal."
 ]
 
 # Possible conversation topics
@@ -84,8 +86,7 @@ def generate_dialogue_with_openai(topic=None, topic_word=None):
     """Generate a dialogue using OpenAI API."""
     client = OpenAI(api_key=config.OPENAI_API_KEY)
     
-    if not hook:
-        hook = random.choice(DIALOGUE_HOOKS)
+    hook = random.choice(DIALOGUE_HOOKS)
     hook2 = random.choice(DIALOGUE_HOOKS)
     if not topic:
         topic = random.choice(CONVERSATION_TOPICS) 
@@ -148,10 +149,10 @@ def generate_dialogue_with_anthropic(topic=None, topic_word=None):
     """Generate a dialogue using Anthropic API."""
     client = anthropic.Anthropic(api_key=config.ANTHROPIC_API_KEY)
     
-    if not topic_word
+    if not topic_word:
         topic_word=""
-        else
-        topic_word=f'1. "Actually the topic word is {topic_word}. Please make sure this is in the conversation three times.'
+    else:
+        topic_word=f'1. "Actually the topic word is {topic_word}. Please make sure this is in the conversation three times."'
     hook = random.choice(DIALOGUE_HOOKS)
     hook2 = random.choice(DIALOGUE_HOOKS)
     if not topic:
@@ -177,6 +178,7 @@ def generate_dialogue_with_anthropic(topic=None, topic_word=None):
     9. Speakers can have short responses and long responses. Dialogue doesn't always need to be the same length.
     10. Please make these dialogues as viral as possible. Employ strangeness, romantic tension, indirect/ambiguous flirtation, interesting facts, ambiguity, controversial topics/events, recent controversies, recent memes, and/or other viral elements.
     11. Randomly decide who starts the conversation.
+    12. Make sure the dialogue is not too long. 30 seconds is ideal.
 
     Format the dialogue as follows:
     Mira: [Vietnamese dialogue]
@@ -352,57 +354,113 @@ def save_dialogue_data(dialogue_data, output_file=None):
 
 def generate_dialogue(topic=None, topic_word=None, provider="anthropic"):
     """Generate a dialogue using the specified provider."""
-    if provider == "openai":
-        response_text = generate_dialogue_with_openai(topic, topic_word)
-    else:
-        response_text = generate_dialogue_with_anthropic(topic, topic_word)
-    
-    dialogue_data = parse_dialogue_response(response_text)
-    
-    if dialogue_data:
-        output_file = save_dialogue_data(dialogue_data)
-        return dialogue_data, output_file
-    else:
+    try:
+        if provider == "openai":
+            response_text = generate_dialogue_with_openai(topic, topic_word)
+        else:
+            response_text = generate_dialogue_with_anthropic(topic, topic_word)
+        
+        dialogue_data = parse_dialogue_response(response_text)
+        
+        if dialogue_data:
+            output_file = save_dialogue_data(dialogue_data)
+            return dialogue_data, output_file
+        else:
+            print("Failed to parse dialogue response.")
+            return None, None
+    except Exception as e:
+        print(f"Error generating dialogue: {str(e)}")
         return None, None
 
 def main():
     parser = argparse.ArgumentParser(description='Generate dialogues for language learning content')
-    parser.add_argument('--topic', type=str, help='Topic for the conversation')
+    parser.add_argument('--topic', type=str, help='Topic for the conversation (if not specified, a random topic will be chosen for each dialogue)')
     parser.add_argument('--topic_word', type=str, help='Specific topic word/phrase to use in the dialogue')
     parser.add_argument('--provider', type=str, default=config.DEFAULT_PROVIDER, 
                         choices=['openai', 'anthropic'],
                         help='LLM provider to use')
+    parser.add_argument('--count', type=int, default=1,
+                        help='Number of dialogues to generate')
+    parser.add_argument('--delay', type=int, default=2,
+                        help='Delay in seconds between API calls when generating multiple dialogues')
+    parser.add_argument('--random_topics', action='store_true',
+                        help='Use a different random topic for each dialogue (ignores --topic)')
+    parser.add_argument('--continue_on_error', action='store_true',
+                        help='Continue generating dialogues even if some fail')
     
     args = parser.parse_args()
     
     utils.ensure_directories_exist()
     
-    print("Generating dialogue...")
-    if args.topic:
+    print(f"Generating {args.count} dialogue(s)...")
+    if args.topic and not args.random_topics:
         print(f"Topic: {args.topic}")
+    elif args.random_topics:
+        print("Using random topics for each dialogue")
     if args.topic_word:
         print(f"Topic word/phrase: {args.topic_word}")
     
-    dialogue_data, output_file = generate_dialogue(args.topic, args.topic_word, args.provider)
+    generated_files = []
+    failed_count = 0
     
-    if dialogue_data:
-        print(f"\nGenerated dialogue saved to: {output_file}")
-        print(f"\nTopic word: {dialogue_data['topic_word']} - {dialogue_data['topic_word_translation']}")
-        print("Common words:")
-        for word in dialogue_data["common_words"]:
-            print(f"- {word['word']} - {word['translation']}")
+    for i in range(args.count):
+        if args.count > 1:
+            print(f"\n--- Generating dialogue {i+1}/{args.count} ---")
         
-        print("\nVietnamese Dialogue:")
-        for exchange in dialogue_data["vietnamese_dialogue"]:
-            print(f"{exchange['speaker']}: {exchange['text']}")
-            print()
+        # Use a random topic for each dialogue if specified
+        current_topic = None
+        if args.random_topics:
+            current_topic = random.choice(CONVERSATION_TOPICS)
+            print(f"Selected random topic: {current_topic}")
+        else:
+            current_topic = args.topic
         
-        print("\nEnglish Dialogue (with untranslated Vietnamese words):")
-        for exchange in dialogue_data["english_dialogue"]:
-            print(f"{exchange['speaker']}: {exchange['text']}")
-            print()
-    else:
-        print("Failed to generate dialogue. Please try again.")
+        try:
+            dialogue_data, output_file = generate_dialogue(current_topic, args.topic_word, args.provider)
+            
+            if dialogue_data:
+                generated_files.append(output_file)
+                print(f"\nGenerated dialogue saved to: {output_file}")
+                print(f"\nTopic word: {dialogue_data['topic_word']} - {dialogue_data['topic_word_translation']}")
+                print("Common words:")
+                for word in dialogue_data["common_words"]:
+                    print(f"- {word['word']} - {word['translation']}")
+                
+                print("\nVietnamese Dialogue:")
+                for exchange in dialogue_data["vietnamese_dialogue"]:
+                    print(f"{exchange['speaker']}: {exchange['text']}")
+                    print()
+                
+                print("\nEnglish Dialogue (with untranslated Vietnamese words):")
+                for exchange in dialogue_data["english_dialogue"]:
+                    print(f"{exchange['speaker']}: {exchange['text']}")
+                    print()
+            else:
+                failed_count += 1
+                print(f"Failed to generate dialogue {i+1}.")
+                if not args.continue_on_error and args.count > 1:
+                    user_input = input("Continue generating dialogues? (y/n): ")
+                    if user_input.lower() != 'y':
+                        print("Stopping dialogue generation.")
+                        break
+        except Exception as e:
+            failed_count += 1
+            print(f"Error generating dialogue {i+1}: {str(e)}")
+            if not args.continue_on_error and args.count > 1:
+                user_input = input("Continue generating dialogues? (y/n): ")
+                if user_input.lower() != 'y':
+                    print("Stopping dialogue generation.")
+                    break
+        
+        # Add delay between API calls to avoid rate limiting, but only if there are more dialogues to generate
+        if i < args.count - 1 and args.count > 1 and args.delay > 0:
+            print(f"Waiting {args.delay} seconds before generating the next dialogue...")
+            time.sleep(args.delay)
+    
+    if args.count > 1:
+        print(f"\nGenerated {len(generated_files)} dialogue(s), failed {failed_count}:")
+        for file in generated_files:
+            print(f"- {file}")
 
 if __name__ == "__main__":
     main() 

@@ -1,0 +1,65 @@
+{
+  "id": "c7a1f597",
+  "topic_word": "Đà Lạt",
+  "topic_word_translation": "Da Lat (a city in Vietnam)",
+  "common_words": [
+    {
+      "word": "du lịch",
+      "translation": "travel/tourism"
+    },
+    {
+      "word": "thích",
+      "translation": "like/prefer"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I went to Đà Lạt last week. I didn't expect Vietnam to have such a cool place. Đà Lạt is completely different from Saigon, beautiful scenery and peaceful.",
+      "start_time": 0.0,
+      "end_time": 15.4,
+      "viet_words": [
+        "Đà Lạt"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Đà Lạt is truly a paradise for du lịch. I plan to go to Đà Lạt next month. Is there anything interesting there that you'd like to recommend?",
+      "start_time": 15.9,
+      "end_time": 29.9,
+      "viet_words": [
+        "du lịch",
+        "Đà Lạt"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Xuan Huong Lake is very beautiful, but too crowded with tourists. I thích the small roads through pine forests more. If you thích quiet places, we could... oh no, I mean you should visit places that fewer people know about.",
+      "start_time": 30.4,
+      "end_time": 52.7,
+      "viet_words": [
+        "thích"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "\"We could\" sounds good to me. Why not du lịch to Đà Lạt together? I want to explore those pine forest roads with someone who knows the place well.",
+      "start_time": 53.2,
+      "end_time": 67.80000000000001,
+      "viet_words": [
+        "du lịch",
+        "Đà Lạt"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't misunderstand! I'm not good at guiding. But... if you really want to du lịch, I might consider it. Only because I also want to go to Đà Lạt again, not for any other reason!",
+      "start_time": 68.30000000000001,
+      "end_time": 86.10000000000001,
+      "viet_words": [
+        "du lịch",
+        "Đà Lạt"
+      ]
+    }
+  ]
+}

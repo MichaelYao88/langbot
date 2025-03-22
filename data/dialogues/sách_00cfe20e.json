@@ -1,0 +1,68 @@
+{
+  "id": "00cfe20e",
+  "timestamp": 1742074663,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Có cảm giác như déjà vu vậy. Chúng ta đã từng nói chuyện về sách ở quán cà phê này rồi, phải không?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thật sao? Tôi không nhớ lắm... Nhưng nói về sách, tôi vừa đọc xong cuốn \"Sapiens\" của Yuval Noah Harari. Cô có đọc sách của ông ấy chưa?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm, tôi không thích đọc sách khoa học đâu. Tôi thích đọc những cuốn tiểu thuyết Nga cổ điển hơn. Dostoevsky là tác giả yêu thích của tôi. Anh có đọc \"Tội ác và Trừng phạt\" chưa?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tôi đã thử đọc vài lần nhưng chưa bao giờ đọc hết. Sách Nga quá... sâu sắc và buồn. Tôi thích đọc sách về du lịch và văn hóa các nước hơn. Nhưng có lẽ tôi nên thử lại với Dostoevsky. Cô có thể giới thiệu cuốn sách nào của ông ấy dễ đọc hơn không?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Không có cuốn nào \"dễ đọc\" đâu. Văn học Nga đòi hỏi suy nghĩ sâu sắc. Nhưng... nếu anh thực sự muốn thử, tôi có thể cho anh mượn cuốn \"Người ngu ngốc\" của tôi. Đó là cuốn sách đầu tiên của Dostoevsky mà tôi đọc."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Cảm ơn, tôi sẽ thử đọc. Nếu tôi có thắc mắc gì về sách, tôi có thể hỏi cô không? Có lẽ chúng ta có thể thảo luận về sách trong khi uống cà phê..."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "It feels like déjà vu. We've talked about sách in this coffee shop before, haven't we?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? I don't remember much... But speaking of sách, I just finished reading \"Sapiens\" by Yuval Noah Harari. Have you đọc any of his works?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm, I don't like đọc science sách. I prefer classical Russian novels. Dostoevsky is my favorite author. Have you đọc \"Crime and Punishment\"?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "I've tried to đọc it several times but never finished. Russian sách are too... deep and sad. I prefer đọc sách about travel and cultures of different countries. But maybe I should try Dostoevsky again. Can you recommend any of his sách that are easier to đọc?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "There are no \"easy to đọc\" ones. Russian literature requires deep thinking. But... if you really want to try, I could lend you my copy of \"The Idiot.\" That was the first Dostoevsky sách I đọc."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thank you, I'll try to đọc it. If I have any questions about the sách, could I ask you? Perhaps we could discuss sách while having coffee..."
+    }
+  ],
+  "topic_word": "sách",
+  "topic_word_translation": "book",
+  "common_words": [
+    {
+      "word": "đọc",
+      "translation": "read"
+    },
+    {
+      "word": "Dostoevsky",
+      "translation": "Dostoevsky"
+    }
+  ]
+}

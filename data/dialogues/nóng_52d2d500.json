@@ -1,0 +1,60 @@
+{
+  "id": "52d2d500",
+  "timestamp": 1742079382,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Trời hôm nay nóng quá! Ở Nga không bao giờ nóng như thế này. Tôi không hiểu sao người Việt Nam có thể chịu được cái nóng này."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Nóng là chuyện bình thường ở Sài Gòn mà. Người Việt đã quen với thời tiết này rồi. Cô có muốn thử uống trà đá không? Đó là cách người Việt Nam giải nhiệt đấy."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Trà đá? Người Nga chúng tôi thích uống vodka khi trời lạnh, không phải trà đá khi trời nóng. Nhưng... tôi có thể thử. Anh định đưa tôi đi đâu để uống trà đá?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Có một quán nhỏ gần đây, trà của họ rất ngon. Tôi thường đến đó mỗi khi trời nóng. À mà, cô nghĩ sao về thời tiết Sài Gòn so với Nga? Chắc là khác nhiều phải không?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tất nhiên là khác! Ở Nga, mùa đông có tuyết và nhiệt độ xuống âm 30 độ. Còn ở đây... trời nóng quá, tôi cảm thấy như đang ở trong lò nướng vậy. Nhưng tôi phải thừa nhận là... thỉnh thoảng tôi thấy nhớ cái lạnh của quê hương."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "The trời today is so nóng! In Russia, it's never nóng like this. I don't understand how Vietnamese people can bear this nóng."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Being nóng is normal in Saigon. Vietnamese people are used to this weather. Would you like to try some trà đá? That's how Vietnamese people cool down."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Trà đá? We Russians like to drink vodka when it's cold, not trà đá when it's nóng. But... I could try it. Where are you planning to take me for trà đá?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "There's a small place nearby, their tea is very good. I often go there whenever the trời is nóng. By the way, what do you think about Saigon's trời compared to Russia? Must be very different, right?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Of course it's different! In Russia, winter has snow and temperatures drop to minus 30 degrees. But here... it's so nóng, I feel like I'm in an oven. But I have to admit... sometimes I miss the cold of my homeland."
+    }
+  ],
+  "topic_word": "nóng",
+  "topic_word_translation": "hot",
+  "common_words": [
+    {
+      "word": "trời",
+      "translation": "weather/sky"
+    },
+    {
+      "word": "trà đá",
+      "translation": "iced tea"
+    }
+  ]
+}

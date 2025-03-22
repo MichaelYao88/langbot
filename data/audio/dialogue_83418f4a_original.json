@@ -1,0 +1,63 @@
+{
+  "id": "83418f4a",
+  "topic_word": "lái máy bay",
+  "topic_word_translation": "to fly a plane/to date someone much older",
+  "common_words": [
+    {
+      "word": "tuổi",
+      "translation": "age"
+    },
+    {
+      "word": "thích",
+      "translation": "like/enjoy"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael, do you like to lái máy bay? I think I'm older than you, right?",
+      "start_time": 0.0,
+      "end_time": 7.5,
+      "viet_words": [
+        "lái máy bay"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Lái máy bay? Interesting, but I've never tried it. As for age... don't joke, Mira, I'm already 28 years old. But \"lái máy bay\" in Vietnam has another meaning, you know.",
+      "start_time": 8.0,
+      "end_time": 24.8,
+      "viet_words": [
+        "lái máy bay"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "What other meaning? I'm just curious because I'm learning to get an actual pilot's license. And I'm only 25, so you're older than me. I thích older people... they tend to be more mature.",
+      "start_time": 25.3,
+      "end_time": 43.900000000000006,
+      "viet_words": [
+        "thích"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Oh, sorry for misunderstanding. \"Lái máy bay\" in Vietnamese slang refers to younger people dating someone much older. But really? An actual pilot's license? I never thought Mira would thích things like that.",
+      "start_time": 44.400000000000006,
+      "end_time": 65.10000000000001,
+      "viet_words": [
+        "thích",
+        "lái máy bay"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "You always misunderstand me! I told you long ago that I enjoy the feeling of freedom when flying. But... if you think I'm someone who likes to \"lái máy bay\" in that other sense, then maybe I'm not old enough for you.",
+      "start_time": 65.60000000000001,
+      "end_time": 87.20000000000002,
+      "viet_words": [
+        "lái máy bay"
+      ]
+    }
+  ]
+}

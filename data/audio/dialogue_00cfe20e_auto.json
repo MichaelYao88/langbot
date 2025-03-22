@@ -1,0 +1,1445 @@
+{
+  "id": "00cfe20e",
+  "topic_word": "sách",
+  "topic_word_translation": "book",
+  "common_words": [
+    {
+      "word": "đọc",
+      "translation": "read"
+    },
+    {
+      "word": "Dostoevsky",
+      "translation": "Dostoevsky"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "it feels like",
+      "start_time": 0.06,
+      "end_time": 0.9,
+      "word_timestamps": [
+        {
+          "word": "it",
+          "start": 0.06,
+          "end": 0.18
+        },
+        {
+          "word": "feels",
+          "start": 0.18,
+          "end": 0.51
+        },
+        {
+          "word": "like",
+          "start": 0.51,
+          "end": 0.9
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "this move we've",
+      "start_time": 1.02,
+      "end_time": 2.34,
+      "word_timestamps": [
+        {
+          "word": "this",
+          "start": 1.02,
+          "end": 1.38
+        },
+        {
+          "word": "move",
+          "start": 1.71,
+          "end": 2.04
+        },
+        {
+          "word": "we've",
+          "start": 2.1,
+          "end": 2.34
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "talked about set",
+      "start_time": 2.34,
+      "end_time": 3.39,
+      "word_timestamps": [
+        {
+          "word": "talked",
+          "start": 2.34,
+          "end": 2.61
+        },
+        {
+          "word": "about",
+          "start": 2.61,
+          "end": 2.94
+        },
+        {
+          "word": "set",
+          "start": 3.03,
+          "end": 3.39
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "in this coffee",
+      "start_time": 3.48,
+      "end_time": 4.11,
+      "word_timestamps": [
+        {
+          "word": "in",
+          "start": 3.48,
+          "end": 3.66
+        },
+        {
+          "word": "this",
+          "start": 3.66,
+          "end": 3.81
+        },
+        {
+          "word": "coffee",
+          "start": 3.81,
+          "end": 4.11
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "shop before haven't",
+      "start_time": 4.11,
+      "end_time": 5.22,
+      "word_timestamps": [
+        {
+          "word": "shop",
+          "start": 4.11,
+          "end": 4.381856
+        },
+        {
+          "word": "before",
+          "start": 4.381856,
+          "end": 4.83
+        },
+        {
+          "word": "haven't",
+          "start": 4.89,
+          "end": 5.22
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "we",
+      "start_time": 5.22,
+      "end_time": 5.52,
+      "word_timestamps": [
+        {
+          "word": "we",
+          "start": 5.22,
+          "end": 5.52
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "really i don't",
+      "start_time": 5.79,
+      "end_time": 6.54,
+      "word_timestamps": [
+        {
+          "word": "really",
+          "start": 5.79,
+          "end": 6.12
+        },
+        {
+          "word": "i",
+          "start": 6.27,
+          "end": 6.39
+        },
+        {
+          "word": "don't",
+          "start": 6.39,
+          "end": 6.54
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "remember much but",
+      "start_time": 6.54,
+      "end_time": 7.5,
+      "word_timestamps": [
+        {
+          "word": "remember",
+          "start": 6.54,
+          "end": 6.87
+        },
+        {
+          "word": "much",
+          "start": 6.87,
+          "end": 7.14
+        },
+        {
+          "word": "but",
+          "start": 7.32,
+          "end": 7.5
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "speaking of sacked",
+      "start_time": 7.5,
+      "end_time": 8.55,
+      "word_timestamps": [
+        {
+          "word": "speaking",
+          "start": 7.5,
+          "end": 7.89
+        },
+        {
+          "word": "of",
+          "start": 7.89,
+          "end": 8.13
+        },
+        {
+          "word": "sacked",
+          "start": 8.19,
+          "end": 8.55
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "i just finished",
+      "start_time": 8.85,
+      "end_time": 9.42,
+      "word_timestamps": [
+        {
+          "word": "i",
+          "start": 8.85,
+          "end": 8.94
+        },
+        {
+          "word": "just",
+          "start": 8.94,
+          "end": 9.12
+        },
+        {
+          "word": "finished",
+          "start": 9.12,
+          "end": 9.42
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "reading sapiens by",
+      "start_time": 9.42,
+      "end_time": 10.44,
+      "word_timestamps": [
+        {
+          "word": "reading",
+          "start": 9.42,
+          "end": 9.69
+        },
+        {
+          "word": "sapiens",
+          "start": 9.69,
+          "end": 10.29
+        },
+        {
+          "word": "by",
+          "start": 10.29,
+          "end": 10.44
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "yuval know harare",
+      "start_time": 10.44,
+      "end_time": 11.46,
+      "word_timestamps": [
+        {
+          "word": "yuval",
+          "start": 10.44,
+          "end": 10.74
+        },
+        {
+          "word": "know",
+          "start": 10.74,
+          "end": 10.92
+        },
+        {
+          "word": "harare",
+          "start": 10.933946,
+          "end": 11.46
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "have you done",
+      "start_time": 11.58,
+      "end_time": 12.33,
+      "word_timestamps": [
+        {
+          "word": "have",
+          "start": 11.58,
+          "end": 11.76
+        },
+        {
+          "word": "you",
+          "start": 11.76,
+          "end": 11.94
+        },
+        {
+          "word": "done",
+          "start": 12.03,
+          "end": 12.33
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "any of his",
+      "start_time": 12.54,
+      "end_time": 12.93,
+      "word_timestamps": [
+        {
+          "word": "any",
+          "start": 12.54,
+          "end": 12.72
+        },
+        {
+          "word": "of",
+          "start": 12.72,
+          "end": 12.81
+        },
+        {
+          "word": "his",
+          "start": 12.81,
+          "end": 12.93
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "works him i",
+      "start_time": 12.93,
+      "end_time": 14.34,
+      "word_timestamps": [
+        {
+          "word": "works",
+          "start": 12.93,
+          "end": 13.35
+        },
+        {
+          "word": "him",
+          "start": 13.62,
+          "end": 14.1
+        },
+        {
+          "word": "i",
+          "start": 14.19,
+          "end": 14.34
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "don't like",
+      "start_time": 14.34,
+      "end_time": 14.82,
+      "word_timestamps": [
+        {
+          "word": "don't",
+          "start": 14.34,
+          "end": 14.49
+        },
+        {
+          "word": "like",
+          "start": 14.49,
+          "end": 14.82
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "the up science",
+      "start_time": 14.94,
+      "end_time": 16.14,
+      "word_timestamps": [
+        {
+          "word": "the",
+          "start": 14.94,
+          "end": 15.174006
+        },
+        {
+          "word": "up",
+          "start": 15.174006,
+          "end": 15.329999
+        },
+        {
+          "word": "science",
+          "start": 15.39,
+          "end": 16.14
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "said i prefer",
+      "start_time": 16.2,
+      "end_time": 17.4,
+      "word_timestamps": [
+        {
+          "word": "said",
+          "start": 16.2,
+          "end": 16.62
+        },
+        {
+          "word": "i",
+          "start": 16.8,
+          "end": 16.95
+        },
+        {
+          "word": "prefer",
+          "start": 16.95,
+          "end": 17.4
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "classical russian novels",
+      "start_time": 17.48,
+      "end_time": 18.9,
+      "word_timestamps": [
+        {
+          "word": "classical",
+          "start": 17.479957,
+          "end": 17.97
+        },
+        {
+          "word": "russian",
+          "start": 17.97,
+          "end": 18.3
+        },
+        {
+          "word": "novels",
+          "start": 18.3,
+          "end": 18.9
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "dostoevsky he's my",
+      "start_time": 19.08,
+      "end_time": 20.61,
+      "word_timestamps": [
+        {
+          "word": "dostoevsky",
+          "start": 19.08,
+          "end": 20.1
+        },
+        {
+          "word": "he's",
+          "start": 20.22,
+          "end": 20.43
+        },
+        {
+          "word": "my",
+          "start": 20.43,
+          "end": 20.61
+        }
+      ],
+      "viet_words": [
+        "dostoevsky"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "favorite author have",
+      "start_time": 20.61,
+      "end_time": 22.02,
+      "word_timestamps": [
+        {
+          "word": "favorite",
+          "start": 20.61,
+          "end": 21.3
+        },
+        {
+          "word": "author",
+          "start": 21.3,
+          "end": 21.78
+        },
+        {
+          "word": "have",
+          "start": 21.81,
+          "end": 22.02
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "you dump crime",
+      "start_time": 22.02,
+      "end_time": 23.19,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 22.02,
+          "end": 22.29
+        },
+        {
+          "word": "dump",
+          "start": 22.38,
+          "end": 22.77
+        },
+        {
+          "word": "crime",
+          "start": 22.89,
+          "end": 23.19
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "and punishment",
+      "start_time": 23.19,
+      "end_time": 24.0,
+      "word_timestamps": [
+        {
+          "word": "and",
+          "start": 23.19,
+          "end": 23.28
+        },
+        {
+          "word": "punishment",
+          "start": 23.28,
+          "end": 24.0
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "i've tried to",
+      "start_time": 24.24,
+      "end_time": 24.96,
+      "word_timestamps": [
+        {
+          "word": "i've",
+          "start": 24.24,
+          "end": 24.42
+        },
+        {
+          "word": "tried",
+          "start": 24.42,
+          "end": 24.72
+        },
+        {
+          "word": "to",
+          "start": 24.72,
+          "end": 24.96
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "done it several",
+      "start_time": 25.08,
+      "end_time": 25.95,
+      "word_timestamps": [
+        {
+          "word": "done",
+          "start": 25.08,
+          "end": 25.38
+        },
+        {
+          "word": "it",
+          "start": 25.56,
+          "end": 25.68
+        },
+        {
+          "word": "several",
+          "start": 25.68,
+          "end": 25.95
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "times but never",
+      "start_time": 25.95,
+      "end_time": 27.06,
+      "word_timestamps": [
+        {
+          "word": "times",
+          "start": 25.95,
+          "end": 26.46
+        },
+        {
+          "word": "but",
+          "start": 26.64,
+          "end": 26.82
+        },
+        {
+          "word": "never",
+          "start": 26.82,
+          "end": 27.06
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "finished shouldn't sack",
+      "start_time": 27.06,
+      "end_time": 28.47,
+      "word_timestamps": [
+        {
+          "word": "finished",
+          "start": 27.06,
+          "end": 27.54
+        },
+        {
+          "word": "shouldn't",
+          "start": 27.69,
+          "end": 28.02
+        },
+        {
+          "word": "sack",
+          "start": 28.05,
+          "end": 28.47
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "are too deep",
+      "start_time": 28.65,
+      "end_time": 29.37,
+      "word_timestamps": [
+        {
+          "word": "are",
+          "start": 28.65,
+          "end": 28.8
+        },
+        {
+          "word": "too",
+          "start": 28.8,
+          "end": 29.04
+        },
+        {
+          "word": "deep",
+          "start": 29.04,
+          "end": 29.37
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "and sad i",
+      "start_time": 29.37,
+      "end_time": 30.24,
+      "word_timestamps": [
+        {
+          "word": "and",
+          "start": 29.37,
+          "end": 29.52
+        },
+        {
+          "word": "sad",
+          "start": 29.52,
+          "end": 30.0
+        },
+        {
+          "word": "i",
+          "start": 30.15,
+          "end": 30.24
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "prefer upset about",
+      "start_time": 30.24,
+      "end_time": 31.65,
+      "word_timestamps": [
+        {
+          "word": "prefer",
+          "start": 30.24,
+          "end": 30.66
+        },
+        {
+          "word": "upset",
+          "start": 30.81,
+          "end": 31.2
+        },
+        {
+          "word": "about",
+          "start": 31.38,
+          "end": 31.65
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "travel and cultures",
+      "start_time": 31.65,
+      "end_time": 32.7,
+      "word_timestamps": [
+        {
+          "word": "travel",
+          "start": 31.65,
+          "end": 32.1
+        },
+        {
+          "word": "and",
+          "start": 32.1,
+          "end": 32.25
+        },
+        {
+          "word": "cultures",
+          "start": 32.25,
+          "end": 32.7
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "of different countries",
+      "start_time": 32.7,
+      "end_time": 33.57,
+      "word_timestamps": [
+        {
+          "word": "of",
+          "start": 32.7,
+          "end": 32.79
+        },
+        {
+          "word": "different",
+          "start": 32.79,
+          "end": 33.06
+        },
+        {
+          "word": "countries",
+          "start": 33.06,
+          "end": 33.57
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "but maybe i",
+      "start_time": 34.2,
+      "end_time": 34.71,
+      "word_timestamps": [
+        {
+          "word": "but",
+          "start": 34.2,
+          "end": 34.35
+        },
+        {
+          "word": "maybe",
+          "start": 34.35,
+          "end": 34.62
+        },
+        {
+          "word": "i",
+          "start": 34.62,
+          "end": 34.71
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "should try dostoevsky",
+      "start_time": 34.71,
+      "end_time": 36.21,
+      "word_timestamps": [
+        {
+          "word": "should",
+          "start": 34.71,
+          "end": 34.89
+        },
+        {
+          "word": "try",
+          "start": 34.89,
+          "end": 35.37
+        },
+        {
+          "word": "dostoevsky",
+          "start": 35.43,
+          "end": 36.21
+        }
+      ],
+      "viet_words": [
+        "dostoevsky"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "again can you",
+      "start_time": 36.33,
+      "end_time": 36.9,
+      "word_timestamps": [
+        {
+          "word": "again",
+          "start": 36.33,
+          "end": 36.66
+        },
+        {
+          "word": "can",
+          "start": 36.66,
+          "end": 36.81
+        },
+        {
+          "word": "you",
+          "start": 36.81,
+          "end": 36.9
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "recommend it's his",
+      "start_time": 36.9,
+      "end_time": 37.89,
+      "word_timestamps": [
+        {
+          "word": "recommend",
+          "start": 36.9,
+          "end": 37.32
+        },
+        {
+          "word": "it's",
+          "start": 37.32,
+          "end": 37.53
+        },
+        {
+          "word": "his",
+          "start": 37.56,
+          "end": 37.89
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "sack that are",
+      "start_time": 37.95,
+      "end_time": 38.82,
+      "word_timestamps": [
+        {
+          "word": "sack",
+          "start": 37.95,
+          "end": 38.34
+        },
+        {
+          "word": "that",
+          "start": 38.55,
+          "end": 38.73
+        },
+        {
+          "word": "are",
+          "start": 38.73,
+          "end": 38.82
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "easier to talk",
+      "start_time": 38.82,
+      "end_time": 40.05,
+      "word_timestamps": [
+        {
+          "word": "easier",
+          "start": 38.82,
+          "end": 39.27
+        },
+        {
+          "word": "to",
+          "start": 39.27,
+          "end": 39.54
+        },
+        {
+          "word": "talk",
+          "start": 39.69,
+          "end": 40.05
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "there are no",
+      "start_time": 40.35,
+      "end_time": 41.07,
+      "word_timestamps": [
+        {
+          "word": "there",
+          "start": 40.35,
+          "end": 40.56
+        },
+        {
+          "word": "are",
+          "start": 40.56,
+          "end": 40.68
+        },
+        {
+          "word": "no",
+          "start": 40.68,
+          "end": 41.07
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "easy",
+      "start_time": 41.16,
+      "end_time": 41.61,
+      "word_timestamps": [
+        {
+          "word": "easy",
+          "start": 41.16,
+          "end": 41.61
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "to knock ones",
+      "start_time": 41.61,
+      "end_time": 43.38,
+      "word_timestamps": [
+        {
+          "word": "to",
+          "start": 41.61,
+          "end": 42.06
+        },
+        {
+          "word": "knock",
+          "start": 42.12,
+          "end": 42.54
+        },
+        {
+          "word": "ones",
+          "start": 42.69,
+          "end": 43.38
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "russian literature requires",
+      "start_time": 43.8,
+      "end_time": 45.36,
+      "word_timestamps": [
+        {
+          "word": "russian",
+          "start": 43.8,
+          "end": 44.19
+        },
+        {
+          "word": "literature",
+          "start": 44.19,
+          "end": 44.76
+        },
+        {
+          "word": "requires",
+          "start": 44.76,
+          "end": 45.355748
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "deep thinking but",
+      "start_time": 45.36,
+      "end_time": 47.31,
+      "word_timestamps": [
+        {
+          "word": "deep",
+          "start": 45.364252,
+          "end": 45.78
+        },
+        {
+          "word": "thinking",
+          "start": 45.78,
+          "end": 46.41
+        },
+        {
+          "word": "but",
+          "start": 46.89,
+          "end": 47.31
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "if you really",
+      "start_time": 47.79,
+      "end_time": 48.33,
+      "word_timestamps": [
+        {
+          "word": "if",
+          "start": 47.79,
+          "end": 47.94
+        },
+        {
+          "word": "you",
+          "start": 47.94,
+          "end": 48.06
+        },
+        {
+          "word": "really",
+          "start": 48.06,
+          "end": 48.33
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "want to try",
+      "start_time": 48.33,
+      "end_time": 49.05,
+      "word_timestamps": [
+        {
+          "word": "want",
+          "start": 48.33,
+          "end": 48.54
+        },
+        {
+          "word": "to",
+          "start": 48.54,
+          "end": 48.63
+        },
+        {
+          "word": "try",
+          "start": 48.63,
+          "end": 49.05
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "i could lend",
+      "start_time": 49.23,
+      "end_time": 49.83,
+      "word_timestamps": [
+        {
+          "word": "i",
+          "start": 49.23,
+          "end": 49.35
+        },
+        {
+          "word": "could",
+          "start": 49.35,
+          "end": 49.56
+        },
+        {
+          "word": "lend",
+          "start": 49.56,
+          "end": 49.83
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "you my copy",
+      "start_time": 49.83,
+      "end_time": 50.67,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 49.83,
+          "end": 49.98
+        },
+        {
+          "word": "my",
+          "start": 49.98,
+          "end": 50.22
+        },
+        {
+          "word": "copy",
+          "start": 50.22,
+          "end": 50.67
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "of the idiot",
+      "start_time": 50.67,
+      "end_time": 51.57,
+      "word_timestamps": [
+        {
+          "word": "of",
+          "start": 50.67,
+          "end": 50.94
+        },
+        {
+          "word": "the",
+          "start": 51.03,
+          "end": 51.21
+        },
+        {
+          "word": "idiot",
+          "start": 51.21,
+          "end": 51.57
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "that was the",
+      "start_time": 52.08,
+      "end_time": 52.5,
+      "word_timestamps": [
+        {
+          "word": "that",
+          "start": 52.08,
+          "end": 52.23
+        },
+        {
+          "word": "was",
+          "start": 52.23,
+          "end": 52.41
+        },
+        {
+          "word": "the",
+          "start": 52.41,
+          "end": 52.5
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "first does the",
+      "start_time": 52.5,
+      "end_time": 53.49,
+      "word_timestamps": [
+        {
+          "word": "first",
+          "start": 52.5,
+          "end": 53.04
+        },
+        {
+          "word": "does",
+          "start": 53.1,
+          "end": 53.37
+        },
+        {
+          "word": "the",
+          "start": 53.37,
+          "end": 53.49
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "yassky",
+      "start_time": 53.49,
+      "end_time": 54.0,
+      "word_timestamps": [
+        {
+          "word": "yassky",
+          "start": 53.49,
+          "end": 54.0
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "sack our dogs",
+      "start_time": 54.0,
+      "end_time": 55.32,
+      "word_timestamps": [
+        {
+          "word": "sack",
+          "start": 54.0,
+          "end": 54.36
+        },
+        {
+          "word": "our",
+          "start": 54.48,
+          "end": 54.87
+        },
+        {
+          "word": "dogs",
+          "start": 54.93,
+          "end": 55.32
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "thank you i'll",
+      "start_time": 55.65,
+      "end_time": 56.31,
+      "word_timestamps": [
+        {
+          "word": "thank",
+          "start": 55.65,
+          "end": 55.92
+        },
+        {
+          "word": "you",
+          "start": 55.92,
+          "end": 56.13
+        },
+        {
+          "word": "i'll",
+          "start": 56.16,
+          "end": 56.31
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "try to do",
+      "start_time": 56.31,
+      "end_time": 57.09,
+      "word_timestamps": [
+        {
+          "word": "try",
+          "start": 56.31,
+          "end": 56.49
+        },
+        {
+          "word": "to",
+          "start": 56.49,
+          "end": 56.73
+        },
+        {
+          "word": "do",
+          "start": 56.82,
+          "end": 57.09
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "it if i",
+      "start_time": 57.27,
+      "end_time": 58.08,
+      "word_timestamps": [
+        {
+          "word": "it",
+          "start": 57.27,
+          "end": 57.54
+        },
+        {
+          "word": "if",
+          "start": 57.87,
+          "end": 58.02
+        },
+        {
+          "word": "i",
+          "start": 58.02,
+          "end": 58.08
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "have any questions",
+      "start_time": 58.08,
+      "end_time": 58.71,
+      "word_timestamps": [
+        {
+          "word": "have",
+          "start": 58.08,
+          "end": 58.2
+        },
+        {
+          "word": "any",
+          "start": 58.2,
+          "end": 58.29
+        },
+        {
+          "word": "questions",
+          "start": 58.29,
+          "end": 58.71
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "about the sec",
+      "start_time": 58.71,
+      "end_time": 59.55,
+      "word_timestamps": [
+        {
+          "word": "about",
+          "start": 58.71,
+          "end": 58.92
+        },
+        {
+          "word": "the",
+          "start": 58.92,
+          "end": 59.01
+        },
+        {
+          "word": "sec",
+          "start": 59.19,
+          "end": 59.55
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "could i ask",
+      "start_time": 59.79,
+      "end_time": 60.39,
+      "word_timestamps": [
+        {
+          "word": "could",
+          "start": 59.79,
+          "end": 60.0
+        },
+        {
+          "word": "i",
+          "start": 60.0,
+          "end": 60.12
+        },
+        {
+          "word": "ask",
+          "start": 60.12,
+          "end": 60.39
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "you perhaps we",
+      "start_time": 60.39,
+      "end_time": 61.08,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 60.39,
+          "end": 60.6
+        },
+        {
+          "word": "perhaps",
+          "start": 60.66,
+          "end": 60.99
+        },
+        {
+          "word": "we",
+          "start": 60.99,
+          "end": 61.08
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "could discuss sack",
+      "start_time": 61.08,
+      "end_time": 62.13,
+      "word_timestamps": [
+        {
+          "word": "could",
+          "start": 61.08,
+          "end": 61.2
+        },
+        {
+          "word": "discuss",
+          "start": 61.2,
+          "end": 61.59
+        },
+        {
+          "word": "sack",
+          "start": 61.71,
+          "end": 62.13
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "while having coffee",
+      "start_time": 62.28,
+      "end_time": 63.3,
+      "word_timestamps": [
+        {
+          "word": "while",
+          "start": 62.28,
+          "end": 62.55
+        },
+        {
+          "word": "having",
+          "start": 62.55,
+          "end": 62.82
+        },
+        {
+          "word": "coffee",
+          "start": 62.82,
+          "end": 63.3
+        }
+      ],
+      "viet_words": []
+    }
+  ]
+}

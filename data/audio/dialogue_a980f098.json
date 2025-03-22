@@ -1,0 +1,383 @@
+{
+  "id": "a980f098",
+  "topic_word": "giáo dục",
+  "topic_word_translation": "education",
+  "common_words": [
+    {
+      "word": "học",
+      "translation": "study/learn"
+    },
+    {
+      "word": "nghĩ",
+      "translation": "think"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "The <vietnamese>giáo dục</vietnamese> system",
+      "start_time": 0.0,
+      "end_time": 1.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "in Vietnam is",
+      "start_time": 1.41,
+      "end_time": 1.95
+    },
+    {
+      "speaker": "Michael",
+      "text": "very different from",
+      "start_time": 1.95,
+      "end_time": 2.58
+    },
+    {
+      "speaker": "Michael",
+      "text": "America. Students here",
+      "start_time": 2.58,
+      "end_time": 3.95
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>học</vietnamese> many more",
+      "start_time": 3.96,
+      "end_time": 4.83
+    },
+    {
+      "speaker": "Michael",
+      "text": "hours, but I'm",
+      "start_time": 4.83,
+      "end_time": 5.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "not sure they",
+      "start_time": 5.7,
+      "end_time": 6.18
+    },
+    {
+      "speaker": "Michael",
+      "text": "actually learn more.",
+      "start_time": 6.18,
+      "end_time": 7.09
+    },
+    {
+      "speaker": "Mira",
+      "text": "You <vietnamese>nghĩ</vietnamese> so?",
+      "start_time": 7.29,
+      "end_time": 8.86
+    },
+    {
+      "speaker": "Mira",
+      "text": "In Russia, we",
+      "start_time": 9.39,
+      "end_time": 10.38
+    },
+    {
+      "speaker": "Mira",
+      "text": "also <vietnamese>học</vietnamese> for",
+      "start_time": 10.38,
+      "end_time": 11.64
+    },
+    {
+      "speaker": "Mira",
+      "text": "many hours. I",
+      "start_time": 11.64,
+      "end_time": 13.4
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>nghĩ</vietnamese> serious <vietnamese>giáo dục</vietnamese>",
+      "start_time": 13.41,
+      "end_time": 14.83
+    },
+    {
+      "speaker": "Mira",
+      "text": "creates disciplined people.",
+      "start_time": 14.85,
+      "end_time": 16.69
+    },
+    {
+      "speaker": "Mira",
+      "text": "Maybe that's why",
+      "start_time": 17.76,
+      "end_time": 18.42
+    },
+    {
+      "speaker": "Mira",
+      "text": "Russians are good",
+      "start_time": 18.42,
+      "end_time": 19.14
+    },
+    {
+      "speaker": "Mira",
+      "text": "at chess. My",
+      "start_time": 19.14,
+      "end_time": 20.37
+    },
+    {
+      "speaker": "Mira",
+      "text": "old teacher used",
+      "start_time": 20.38,
+      "end_time": 20.935000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "to",
+      "start_time": 20.935000000000002,
+      "end_time": 21.120000000000005
+    },
+    {
+      "speaker": "Mira",
+      "text": "say that <vietnamese>giáo dục</vietnamese>",
+      "start_time": 21.12,
+      "end_time": 22.39
+    },
+    {
+      "speaker": "Mira",
+      "text": "is the",
+      "start_time": 22.41,
+      "end_time": 22.71
+    },
+    {
+      "speaker": "Mira",
+      "text": "key to success.",
+      "start_time": 22.71,
+      "end_time": 23.89
+    },
+    {
+      "speaker": "Michael",
+      "text": "But <vietnamese>giáo dục</vietnamese>",
+      "start_time": 24.06,
+      "end_time": 25.09
+    },
+    {
+      "speaker": "Michael",
+      "text": "isn't just about",
+      "start_time": 25.2,
+      "end_time": 25.89
+    },
+    {
+      "speaker": "Michael",
+      "text": "cramming knowledge. When",
+      "start_time": 25.89,
+      "end_time": 28.05
+    },
+    {
+      "speaker": "Michael",
+      "text": "I was in",
+      "start_time": 28.05,
+      "end_time": 28.38
+    },
+    {
+      "speaker": "Michael",
+      "text": "America, we were",
+      "start_time": 28.38,
+      "end_time": 29.43
+    },
+    {
+      "speaker": "Michael",
+      "text": "encouraged to think",
+      "start_time": 29.43,
+      "end_time": 30.36
+    },
+    {
+      "speaker": "Michael",
+      "text": "creatively. I once",
+      "start_time": 30.36,
+      "end_time": 32.46
+    },
+    {
+      "speaker": "Michael",
+      "text": "had a very",
+      "start_time": 32.46,
+      "end_time": 32.97
+    },
+    {
+      "speaker": "Michael",
+      "text": "inspiring teacher who",
+      "start_time": 32.97,
+      "end_time": 33.93
+    },
+    {
+      "speaker": "Michael",
+      "text": "taught us that",
+      "start_time": 33.93,
+      "end_time": 34.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "real <vietnamese>giáo dục</vietnamese> is",
+      "start_time": 34.41,
+      "end_time": 35.61
+    },
+    {
+      "speaker": "Michael",
+      "text": "about asking questions,",
+      "start_time": 35.61,
+      "end_time": 36.92
+    },
+    {
+      "speaker": "Michael",
+      "text": "not just",
+      "start_time": 36.93,
+      "end_time": 37.38
+    },
+    {
+      "speaker": "Michael",
+      "text": "memorization.",
+      "start_time": 37.38,
+      "end_time": 39.96
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm... that's",
+      "start_time": 39.96,
+      "end_time": 42.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "interesting. My ex-boyfriend",
+      "start_time": 42.27,
+      "end_time": 42.9
+    },
+    {
+      "speaker": "Mira",
+      "text": "also used to",
+      "start_time": 42.9,
+      "end_time": 43.95
+    },
+    {
+      "speaker": "Mira",
+      "text": "talk about \"creative",
+      "start_time": 43.95,
+      "end_time": 45.04
+    },
+    {
+      "speaker": "Mira",
+      "text": "thinking\" like that.",
+      "start_time": 45.21,
+      "end_time": 45.66
+    },
+    {
+      "speaker": "Mira",
+      "text": "But in the",
+      "start_time": 45.66,
+      "end_time": 46.62
+    },
+    {
+      "speaker": "Mira",
+      "text": "end, he couldn't",
+      "start_time": 46.62,
+      "end_time": 47.46
+    },
+    {
+      "speaker": "Mira",
+      "text": "solve a simple",
+      "start_time": 47.46,
+      "end_time": 48.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "math problem. I",
+      "start_time": 48.75,
+      "end_time": 49.99
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>nghĩ</vietnamese> <vietnamese>giáo dục</vietnamese>",
+      "start_time": 50.01,
+      "end_time": 50.73
+    },
+    {
+      "speaker": "Mira",
+      "text": "needs to balance",
+      "start_time": 50.73,
+      "end_time": 52.31
+    },
+    {
+      "speaker": "Mira",
+      "text": "discipline and creativity,",
+      "start_time": 52.32,
+      "end_time": 52.56
+    },
+    {
+      "speaker": "Mira",
+      "text": "don't you think?",
+      "start_time": 52.56,
+      "end_time": 53.52
+    },
+    {
+      "speaker": "Michael",
+      "text": "Ex-boyfriend? I didn't",
+      "start_time": 53.52,
+      "end_time": 54.57
+    },
+    {
+      "speaker": "Michael",
+      "text": "know you had...",
+      "start_time": 54.57,
+      "end_time": 55.27
+    },
+    {
+      "speaker": "Michael",
+      "text": "Oh, it's fine.",
+      "start_time": 55.47,
+      "end_time": 56.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "About <vietnamese>giáo dục</vietnamese>, I",
+      "start_time": 56.25,
+      "end_time": 57.6
+    },
+    {
+      "speaker": "Michael",
+      "text": "agree that balance",
+      "start_time": 57.6,
+      "end_time": 58.44
+    },
+    {
+      "speaker": "Michael",
+      "text": "is needed. But",
+      "start_time": 58.44,
+      "end_time": 59.79
+    },
+    {
+      "speaker": "Michael",
+      "text": "I <vietnamese>nghĩ</vietnamese> in",
+      "start_time": 59.79,
+      "end_time": 60.66
+    },
+    {
+      "speaker": "Michael",
+      "text": "Vietnam, they focus",
+      "start_time": 60.66,
+      "end_time": 61.74
+    },
+    {
+      "speaker": "Michael",
+      "text": "too much on",
+      "start_time": 61.74,
+      "end_time": 62.31
+    },
+    {
+      "speaker": "Michael",
+      "text": "grades and forget",
+      "start_time": 62.31,
+      "end_time": 63.36
+    },
+    {
+      "speaker": "Michael",
+      "text": "the real meaning",
+      "start_time": 63.36,
+      "end_time": 64.02
+    },
+    {
+      "speaker": "Michael",
+      "text": "of <vietnamese>học</vietnamese>.",
+      "start_time": 64.02,
+      "end_time": 64.83999999999999
+    }
+  ]
+}

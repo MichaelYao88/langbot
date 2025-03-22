@@ -22,6 +22,8 @@ from utils import logger, ensure_directories_exist
 import sys
 import shutil
 import glob
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.util.retry import Retry
 
 # Load environment variables
 print("Loading environment variables...")
@@ -37,6 +39,17 @@ SPEAKER_PAUSE_DURATION_MS = 50  # Duration of pause in milliseconds between spea
 ELEVENLABS_VOLUME_BOOST_DB = 6.0  # Increase ElevenLabs volume by this many dB
 VIETNAMESE_SPEECH_RATE = 0.8  # Slow down Vietnamese speech (0.8 = 80% of normal speed)
 ENGLISH_SPEECH_RATE = 0.8  # Slow down English speech (0.9 = 90% of normal speed)
+FPT_API_KEY = "k4SgZs2NVP7O7Ibv3Oi99yQNSxSxYYPZ"  # From user's example
+FPT_API_URL = "https://api.fpt.ai/hmi/tts/v5"
+VOICE_MALE_VI = "leminh"
+VOICE_FEMALE_VI = "banmai"
+# Reduced volume boost to avoid distortion
+FPT_VOLUME_BOOST_DB = 2.0  # Minimal volume boost to avoid any distortion
+# Disable any compression or other processing
+FPT_AUDIO_COMPRESSION = False  # Disable compression completely
+FPT_COMPRESSION_THRESHOLD = -15.0  # Not used when compression is disabled
+FPT_COMPRESSION_RATIO = 1.5  # Not used when compression is disabled
+MAX_CONSECUTIVE_FAILURES = 3
 
 # Flag to track if ElevenLabs quota is exceeded
 elevenlabs_quota_exceeded = False
@@ -86,14 +99,48 @@ def extract_vietnamese_vocab_from_dialogue(dialogue_data):
     
     # Add the topic word
     if "topic_word" in dialogue_data and dialogue_data["topic_word"]:
-        vocab_words.add(dialogue_data["topic_word"].lower())
+        topic_word = dialogue_data["topic_word"].lower().strip()
+        vocab_words.add(topic_word)
+        
+        # Also add non-accented version if it has accents
+        # This helps catch cases where the text might use the non-accented version
+        if re.search(r'[àáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵđÀÁẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÈÉẺẼẸÊẾỀỂỄỆÌÍỈĨỊÒÓỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÙÚỦŨỤƯỨỪỬỮỰỲÝỶỸỴĐ]', topic_word):
+            # Simple accent removal (not perfect but helps)
+            non_accented = topic_word.translate(str.maketrans(
+                "àáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵđÀÁẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÈÉẺẼẸÊẾỀỂỄỆÌÍỈĨỊÒÓỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÙÚỦŨỤƯỨỪỬỮỰỲÝỶỸỴĐ",
+                "aaaaaaaaaaaaaaaaaeeeeeeeeeeeiiiiiooooooooooooooooouuuuuuuuuuuyyyyydAAAAAAAAAAAAAAAAAEEEEEEEEEEEIIIIIOOOOOOOOOOOOOOOOOUUUUUUUUUUUYYYYYD"
+            ))
+            vocab_words.add(non_accented)
     
     # Add common words
     if "common_words" in dialogue_data and dialogue_data["common_words"]:
         for word_data in dialogue_data["common_words"]:
             if "word" in word_data and word_data["word"]:
-                vocab_words.add(word_data["word"].lower())
+                word = word_data["word"].lower().strip()
+                vocab_words.add(word)
+                
+                # Also add non-accented version
+                if re.search(r'[àáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵđÀÁẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÈÉẺẼẸÊẾỀỂỄỆÌÍỈĨỊÒÓỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÙÚỦŨỤƯỨỪỬỮỰỲÝỶỸỴĐ]', word):
+                    non_accented = word.translate(str.maketrans(
+                        "àáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵđÀÁẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÈÉẺẼẸÊẾỀỂỄỆÌÍỈĨỊÒÓỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÙÚỦŨỤƯỨỪỬỮỰỲÝỶỸỴĐ",
+                        "aaaaaaaaaaaaaaaaaeeeeeeeeeeeiiiiiooooooooooooooooouuuuuuuuuuuyyyyydAAAAAAAAAAAAAAAAAEEEEEEEEEEEIIIIIOOOOOOOOOOOOOOOOOUUUUUUUUUUUYYYYYD"
+                    ))
+                    vocab_words.add(non_accented)
     
+    # Also add explicit words from the dialogue if they exist (in newer format dialogues)
+    for section in ["vietnamese_dialogue", "english_dialogue"]:
+        if section in dialogue_data and dialogue_data[section]:
+            for line in dialogue_data[section]:
+                if "viet_words" in line and line["viet_words"]:
+                    for word in line["viet_words"]:
+                        vocab_words.add(word.lower().strip())
+    
+    # Log the vocabulary for debugging
+    if vocab_words:
+        logger.info(f"Extracted Vietnamese vocabulary: {', '.join(sorted(vocab_words))}")
+    else:
+        logger.warning("No Vietnamese vocabulary words found in dialogue data.")
+        
     return vocab_words
 
 def identify_vietnamese_segments(text, vietnamese_vocab=None):
@@ -111,6 +158,22 @@ def identify_vietnamese_segments(text, vietnamese_vocab=None):
     # This regex pattern matches Vietnamese characters and diacritics
     vietnamese_pattern = r'[àáảãạăắằẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôốồổỗộơớờởỡợùúủũụưứừửữựỳýỷỹỵđÀÁẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬÈÉẺẼẸÊẾỀỂỄỆÌÍỈĨỊÒÓỎÕỌÔỐỒỔỖỘƠỚỜỞỠỢÙÚỦŨỤƯỨỪỬỮỰỲÝỶỸỴĐ]+'
     
+    # Convert Vietnamese vocab to lowercase for case-insensitive matching
+    lower_vocab = {word.lower() for word in vietnamese_vocab}
+    
+    # Pre-process text to find all whole words
+    # This helps identify words without diacritics like "cay" or "ngon"
+    text_lower = text.lower()
+    all_words = re.findall(r'\b(\w+)\b', text_lower)
+    
+    # Create a map of word positions in the original text
+    word_positions = {}
+    for word in all_words:
+        # Find all occurrences of this word
+        for match in re.finditer(r'\b' + re.escape(word) + r'\b', text_lower):
+            start, end = match.span()
+            word_positions[(start, end)] = word
+    
     # First, check for multi-word Vietnamese phrases in the text
     # This helps catch phrases like "co vua" where individual words might not be recognized
     multi_word_phrases = [word for word in vietnamese_vocab if ' ' in word]
@@ -119,9 +182,16 @@ def identify_vietnamese_segments(text, vietnamese_vocab=None):
     phrase_positions = []
     for phrase in multi_word_phrases:
         # Use case-insensitive search
-        pattern = re.compile(re.escape(phrase), re.IGNORECASE)
-        for match in pattern.finditer(text.lower()):
+        pattern = re.compile(re.escape(phrase.lower()), re.IGNORECASE)
+        for match in pattern.finditer(text_lower):
             phrase_positions.append((match.start(), match.end(), phrase))
+    
+    # Now check single words in the vocabulary
+    for word in lower_vocab:
+        if ' ' not in word:  # Skip multi-word phrases as they're handled above
+            pattern = re.compile(r'\b' + re.escape(word) + r'\b', re.IGNORECASE)
+            for match in pattern.finditer(text_lower):
+                phrase_positions.append((match.start(), match.end(), word))
     
     # Sort by start position
     phrase_positions.sort()
@@ -140,7 +210,7 @@ def identify_vietnamese_segments(text, vietnamese_vocab=None):
         char_pos = text.find(word, char_pos)
         word_end = char_pos + len(word)
         
-        # Check if this word is part of a multi-word phrase
+        # Check if this word is part of a multi-word phrase or a vocab word
         is_in_phrase = False
         for start, end, phrase in phrase_positions:
             if (start <= char_pos < end) or (start < word_end <= end):
@@ -150,8 +220,9 @@ def identify_vietnamese_segments(text, vietnamese_vocab=None):
         # Check if the word contains Vietnamese characters
         is_vietnamese_by_diacritics = bool(re.search(vietnamese_pattern, word))
         
-        # Check if the word is a single-word Vietnamese vocabulary item
-        is_vietnamese_by_vocab = word.lower() in vietnamese_vocab
+        # Check if the word (without punctuation) is a single-word Vietnamese vocabulary item
+        clean_word = re.sub(r'[^\w\s]', '', word.lower())
+        is_vietnamese_by_vocab = clean_word in lower_vocab
         
         is_vietnamese = is_vietnamese_by_diacritics or is_vietnamese_by_vocab or is_in_phrase
         
@@ -279,26 +350,158 @@ def generate_gtts_audio(text, output_file=None, lang='vi', gender=None):
     else:
         return temp_path
 
-def get_vietnamese_audio(text, voice_id, gender):
+def generate_fpt_audio(text, gender, output_file=None):
+    """Generate Vietnamese audio using FPT API."""
+    logger.info(f"Generating FPT audio for: {text} (Gender: {gender})")
+    
+    if not text or text.strip() == "":
+        logger.error("Empty text provided to FPT API")
+        return None
+    
+    # Determine voice based on gender
+    voice = VOICE_MALE_VI if gender == "male" else VOICE_FEMALE_VI
+    
+    # Configure retry strategy
+    session = requests.Session()
+    retries = Retry(
+        total=3,
+        backoff_factor=1,
+        status_forcelist=[429, 500, 502, 503, 504]
+    )
+    session.mount('https://', HTTPAdapter(max_retries=retries))
+    
+    # Follow the exact format from the working example
+    headers = {
+        "api-key": FPT_API_KEY,
+        "speed": "",
+        "voice": voice
+    }
+    
+    # Use empty payload as in the example
+    payload = text
+    
+    # Ensure text is properly encoded for Vietnamese characters
+    try:
+        encoded_payload = payload.encode('utf-8')
+    except UnicodeEncodeError as e:
+        logger.error(f"Failed to encode text for FPT API: {str(e)}")
+        return None
+    
+    # Enhanced debugging before making the request
+    logger.info(f"Sending request to FPT API: URL={FPT_API_URL}")
+    logger.info(f"Headers: {headers}")
+    logger.info(f"Payload: {payload}")
+    
+    try:
+        # Make the request exactly like the example
+        response = session.post(
+            FPT_API_URL,
+            data=encoded_payload,
+            headers=headers,
+            timeout=10
+        )
+        
+        # Enhanced debugging for the response
+        logger.info(f"FPT API response status: {response.status_code}")
+        logger.info(f"Response headers: {dict(response.headers)}")
+        logger.info(f"Response content: {response.text}")
+        
+        # Add debug logging
+        logger.debug(f"FPT API Request: {response.request.method} {response.request.url}")
+        logger.debug(f"Request Headers: {dict(response.request.headers)}")
+        logger.debug(f"Request Body: {text[:100]}...")  # Log first 100 chars
+        logger.debug(f"Response Status: {response.status_code}")
+        logger.debug(f"Response Headers: {dict(response.headers)}")
+        logger.debug(f"Response Body: {response.text[:500]}...")  # Log first 500 chars
+        
+        if response.status_code != 200:
+            logger.error(f"FPT API error: {response.status_code} - {response.text}")
+            return None
+            
+        # Parse the JSON response
+        try:
+            response_data = response.json()
+            
+            # FPT API returns JSON with async URL to check
+            async_url = response_data.get("async")
+            if not async_url:
+                logger.error("No async URL in FPT response")
+                return None
+                
+            # The async URL is actually the direct URL to the audio file
+            logger.info(f"Downloading audio from URL: {async_url}")
+            
+            # Let's give FPT a moment to generate the audio
+            time.sleep(1)
+            
+            # Attempt to download the audio file directly
+            max_retries = 5
+            retry_delay = 1
+            for attempt in range(max_retries):
+                audio_response = requests.get(async_url)
+                
+                # Check if we got actual audio data (not empty and not an error page)
+                if audio_response.status_code == 200 and len(audio_response.content) > 1000:
+                    # We have audio data
+                    break
+                
+                logger.info(f"Waiting for audio to be ready (attempt {attempt+1}/{max_retries})...")
+                time.sleep(retry_delay)
+                retry_delay *= 2  # Exponential backoff
+            
+            # Process the audio response
+            if audio_response.status_code != 200 or len(audio_response.content) <= 1000:
+                logger.error(f"Failed to download audio from FPT: Status={audio_response.status_code}, Content-Length={len(audio_response.content)}")
+                return None
+
+            # Save or return audio
+            if output_file:
+                with open(output_file, "wb") as f:
+                    f.write(audio_response.content)
+                return output_file
+                
+            # Handle temp file creation
+            with tempfile.NamedTemporaryFile(suffix=".mp3", delete=False) as temp_file:
+                temp_file.write(audio_response.content)
+                temp_path = temp_file.name
+                
+            if has_pydub:
+                # Load the audio
+                audio_segment = AudioSegment.from_mp3(temp_path)
+                
+                # Simple volume boost only - no other processing
+                audio_segment = audio_segment + FPT_VOLUME_BOOST_DB
+                logger.info(f"Applied minimal volume boost of {FPT_VOLUME_BOOST_DB}dB to FPT audio (no other processing)")
+                
+                return audio_segment
+            return temp_path
+                
+        except json.JSONDecodeError as e:
+            logger.error(f"Failed to parse FPT API response as JSON: {e}")
+            logger.error(f"Response text: {response.text[:200]}")
+            return None
+                
+    except Exception as e:
+        logger.error(f"Error generating FPT audio: {str(e)}")
+        return None
+
+def get_vietnamese_audio(text, gender):
     """Get Vietnamese audio from cache or generate it if not cached."""
     global vietnamese_audio_cache
     
-    # Normalize text for cache key
     cache_key = text.lower().strip()
     gender_key = "male" if gender == "male" else "female"
     
-    # Check if audio is already in cache
     if cache_key in vietnamese_audio_cache[gender_key]:
         logger.info(f"Using cached Vietnamese audio for: {text}")
         return vietnamese_audio_cache[gender_key][cache_key]
     
-    # Generate audio if not in cache
+    # Generate using FPT API
     logger.info(f"Generating new Vietnamese audio for: {text} (Gender: {gender_key})")
-    audio = generate_elevenlabs_audio(text, voice_id, language_code="vi")
+    audio = generate_fpt_audio(text, gender)
     
-    # Cache the audio
-    vietnamese_audio_cache[gender_key][cache_key] = audio
-    
+    if audio:
+        vietnamese_audio_cache[gender_key][cache_key] = audio
     return audio
 
 def process_dialogue_line(line, speaker, output_dir, vietnamese_vocab=None):
@@ -317,7 +520,7 @@ def process_dialogue_line(line, speaker, output_dir, vietnamese_vocab=None):
             # Generate audio for the segment
             if is_vietnamese:
                 # Use cached Vietnamese audio or generate new if not cached
-                segment_audio = get_vietnamese_audio(text, voice_id, gender)
+                segment_audio = get_vietnamese_audio(text, gender)
             else:
                 # Use ElevenLabs for English with default language_code="en"
                 segment_audio = generate_elevenlabs_audio(text, voice_id)
@@ -342,7 +545,7 @@ def process_dialogue_line(line, speaker, output_dir, vietnamese_vocab=None):
             # Generate audio for the first segment
             if is_vietnamese:
                 output_file = os.path.join(output_dir, f"{speaker}_vietnamese_segment.mp3")
-                return get_vietnamese_audio(text, voice_id, gender)
+                return get_vietnamese_audio(text, gender)
             else:
                 output_file = os.path.join(output_dir, f"{speaker}_english_segment.mp3")
                 return generate_elevenlabs_audio(text, voice_id, output_file=output_file)
@@ -413,13 +616,14 @@ def process_dialogue_file(file_path, output_dir):
     logger.info("Pre-generating Vietnamese words for caching...")
     for word in vietnamese_vocab:
         # Generate for male voice (Michael)
-        get_vietnamese_audio(word, VOICE_MICHAEL, "male")
+        get_vietnamese_audio(word, "male")
         # Generate for female voice (Mira)
-        get_vietnamese_audio(word, VOICE_MIRA, "female")
+        get_vietnamese_audio(word, "female")
     
     # Create a combined audio for the entire dialogue
     combined_audio = AudioSegment.empty()
     
+    consecutive_failures = 0
     for i, line in enumerate(dialogue_data["english_dialogue"]):
         speaker = line["speaker"]
         logger.info(f"Processing line {i+1}/{len(dialogue_data['english_dialogue'])} by {speaker}")
@@ -427,6 +631,14 @@ def process_dialogue_file(file_path, output_dir):
         # Process the line
         line_audio = process_dialogue_line(line, speaker, output_dir, vietnamese_vocab)
         
+        if line_audio is None:
+            consecutive_failures += 1
+            if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
+                logger.error("Aborting: Reached maximum consecutive failures (%d)", MAX_CONSECUTIVE_FAILURES)
+                return None
+        else:
+            consecutive_failures = 0
+            
         # Add the line to the combined audio
         if line_audio:
             if i > 0:  # Add pause between speakers, but not before the first line

@@ -1,0 +1,66 @@
+{
+  "id": "529867d7",
+  "topic_word": "sức khỏe",
+  "topic_word_translation": "health",
+  "common_words": [
+    {
+      "word": "bác sĩ",
+      "translation": "doctor"
+    },
+    {
+      "word": "phòng khám",
+      "translation": "clinic"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Don't turn around! Someone is watching us. Just talk normally about sức khỏe. What do you think about exercising every day?",
+      "start_time": 0.0,
+      "end_time": 12.3,
+      "viet_words": [
+        "sức khỏe"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Yeah, sức khỏe is very important. I usually run around Turtle Lake every morning. Do you have any habits to maintain your sức khỏe? But wait, who's watching us?",
+      "start_time": 12.3,
+      "end_time": 28.3,
+      "viet_words": [
+        "sức khỏe"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't look! It's the bác sĩ from the phòng khám I visited yesterday. He kept looking at me strangely and said my sức khỏe has serious problems. I don't really believe it. I play chess daily to keep my mind sharp, that's also a good way to maintain mental sức khỏe, right?",
+      "start_time": 28.3,
+      "end_time": 55.400000000000006,
+      "viet_words": [
+        "sức khỏe",
+        "bác sĩ",
+        "phòng khám"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? Did the bác sĩ specify what the problem was? I think you should go to another phòng khám to be sure. Sức khỏe is not something to joke about. And yes, chess is good for the brain, but your body needs exercise too.",
+      "start_time": 55.400000000000006,
+      "end_time": 77.5,
+      "viet_words": [
+        "sức khỏe",
+        "bác sĩ",
+        "phòng khám"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Are you worried about me? That's... not necessary. But maybe you're right. I'll find another phòng khám. Do you know any good ones? And perhaps... we could go running together someday, if you want...",
+      "start_time": 77.5,
+      "end_time": 97.4,
+      "viet_words": [
+        "phòng khám"
+      ]
+    }
+  ]
+}

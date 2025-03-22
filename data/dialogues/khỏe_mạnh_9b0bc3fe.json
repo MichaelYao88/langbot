@@ -1,0 +1,60 @@
+{
+  "id": "9b0bc3fe",
+  "timestamp": 1742079274,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Cậu ăn gì mà gầy thế? Ở Việt Nam có nhiều thức ăn ngon mà không chịu ăn à?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Mình đang theo chế độ ăn kiêng để giảm cân đấy. Cậu không thấy là người Mỹ chúng mình thường béo sao? Mình muốn sống khỏe mạnh hơn."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Ăn kiêng gì mà trông yếu thế? Người Nga chúng mình tin rằng đàn ông phải khỏe mạnh, phải ăn nhiều thịt. Cậu cần phải ăn nhiều hơn!"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Khỏe mạnh không có nghĩa là phải ăn nhiều thịt đâu. Mình ăn nhiều rau và tập thể dục mỗi ngày. Cậu có muốn đi tập gym cùng mình không?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tập gym? Không đâu! Cờ vua mới là cách tốt nhất để giữ đầu óc khỏe mạnh. Nhưng... nếu cậu muốn khỏe thật sự, mình có thể nấu món borscht truyền thống của Nga cho cậu..."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "What are you eating to be so skinny? There's so much delicious food in Vietnam and you don't eat it?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "I'm on a diet to lose weight. Don't you see that we Americans are usually fat? I want to live more khỏe mạnh."
+    },
+    {
+      "speaker": "Mira",
+      "text": "What kind of diet makes you look so weak? We Russians believe that men should be khỏe mạnh, must ăn a lot of meat. You need to ăn more!"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Being khỏe mạnh doesn't mean you have to ăn a lot of meat. I ăn plenty of vegetables and tập exercise every day. Would you like to tập gym with me?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tập gym? No way! Chess is the best way to keep the mind khỏe mạnh. But... if you want to be truly khỏe mạnh, I could cook you a traditional Russian borscht..."
+    }
+  ],
+  "topic_word": "khỏe mạnh",
+  "topic_word_translation": "healthy",
+  "common_words": [
+    {
+      "word": "ăn",
+      "translation": "eat"
+    },
+    {
+      "word": "tập",
+      "translation": "exercise/practice"
+    }
+  ]
+}

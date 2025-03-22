@@ -1,0 +1,1432 @@
+{
+  "id": "a980f098",
+  "topic_word": "giáo dục",
+  "topic_word_translation": "education",
+  "common_words": [
+    {
+      "word": "học",
+      "translation": "study/learn"
+    },
+    {
+      "word": "nghĩ",
+      "translation": "think"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "the zelzal system",
+      "start_time": 0.0,
+      "end_time": 1.41,
+      "word_timestamps": [
+        {
+          "word": "the",
+          "start": 0.0,
+          "end": 0.39
+        },
+        {
+          "word": "zelzal",
+          "start": 0.48,
+          "end": 0.9
+        },
+        {
+          "word": "system",
+          "start": 1.05,
+          "end": 1.41
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "in vietnam is",
+      "start_time": 1.41,
+      "end_time": 1.95,
+      "word_timestamps": [
+        {
+          "word": "in",
+          "start": 1.41,
+          "end": 1.5
+        },
+        {
+          "word": "vietnam",
+          "start": 1.5,
+          "end": 1.86
+        },
+        {
+          "word": "is",
+          "start": 1.86,
+          "end": 1.95
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "very different from",
+      "start_time": 1.95,
+      "end_time": 2.58,
+      "word_timestamps": [
+        {
+          "word": "very",
+          "start": 1.95,
+          "end": 2.1
+        },
+        {
+          "word": "different",
+          "start": 2.1,
+          "end": 2.43
+        },
+        {
+          "word": "from",
+          "start": 2.43,
+          "end": 2.58
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "america students here",
+      "start_time": 2.58,
+      "end_time": 3.87,
+      "word_timestamps": [
+        {
+          "word": "america",
+          "start": 2.58,
+          "end": 3.06
+        },
+        {
+          "word": "students",
+          "start": 3.09,
+          "end": 3.51
+        },
+        {
+          "word": "here",
+          "start": 3.51,
+          "end": 3.87
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "hoc many more",
+      "start_time": 3.96,
+      "end_time": 4.83,
+      "word_timestamps": [
+        {
+          "word": "hoc",
+          "start": 3.96,
+          "end": 4.26
+        },
+        {
+          "word": "many",
+          "start": 4.32,
+          "end": 4.62
+        },
+        {
+          "word": "more",
+          "start": 4.62,
+          "end": 4.83
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "hours but i'm",
+      "start_time": 4.83,
+      "end_time": 5.7,
+      "word_timestamps": [
+        {
+          "word": "hours",
+          "start": 4.83,
+          "end": 5.28
+        },
+        {
+          "word": "but",
+          "start": 5.37,
+          "end": 5.55
+        },
+        {
+          "word": "i'm",
+          "start": 5.55,
+          "end": 5.7
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "not sure they",
+      "start_time": 5.7,
+      "end_time": 6.18,
+      "word_timestamps": [
+        {
+          "word": "not",
+          "start": 5.7,
+          "end": 5.88
+        },
+        {
+          "word": "sure",
+          "start": 5.88,
+          "end": 6.06
+        },
+        {
+          "word": "they",
+          "start": 6.06,
+          "end": 6.18
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "actually learn more",
+      "start_time": 6.18,
+      "end_time": 6.99,
+      "word_timestamps": [
+        {
+          "word": "actually",
+          "start": 6.18,
+          "end": 6.48
+        },
+        {
+          "word": "learn",
+          "start": 6.48,
+          "end": 6.72
+        },
+        {
+          "word": "more",
+          "start": 6.72,
+          "end": 6.99
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "you more so",
+      "start_time": 7.29,
+      "end_time": 8.76,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 7.29,
+          "end": 7.65
+        },
+        {
+          "word": "more",
+          "start": 7.71,
+          "end": 8.28
+        },
+        {
+          "word": "so",
+          "start": 8.34,
+          "end": 8.76
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "in russia we",
+      "start_time": 9.39,
+      "end_time": 10.38,
+      "word_timestamps": [
+        {
+          "word": "in",
+          "start": 9.39,
+          "end": 9.57
+        },
+        {
+          "word": "russia",
+          "start": 9.57,
+          "end": 10.14
+        },
+        {
+          "word": "we",
+          "start": 10.14,
+          "end": 10.38
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "also out for",
+      "start_time": 10.38,
+      "end_time": 11.64,
+      "word_timestamps": [
+        {
+          "word": "also",
+          "start": 10.38,
+          "end": 10.92
+        },
+        {
+          "word": "out",
+          "start": 11.04,
+          "end": 11.34
+        },
+        {
+          "word": "for",
+          "start": 11.43,
+          "end": 11.64
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "many hours me",
+      "start_time": 11.64,
+      "end_time": 13.35,
+      "word_timestamps": [
+        {
+          "word": "many",
+          "start": 11.64,
+          "end": 12.0
+        },
+        {
+          "word": "hours",
+          "start": 12.0,
+          "end": 12.57
+        },
+        {
+          "word": "me",
+          "start": 12.84,
+          "end": 13.35
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "serious the also",
+      "start_time": 13.41,
+      "end_time": 14.73,
+      "word_timestamps": [
+        {
+          "word": "serious",
+          "start": 13.41,
+          "end": 14.13
+        },
+        {
+          "word": "the",
+          "start": 14.219999,
+          "end": 14.339999
+        },
+        {
+          "word": "also",
+          "start": 14.348219,
+          "end": 14.73
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "creates discipline people",
+      "start_time": 14.85,
+      "end_time": 16.59,
+      "word_timestamps": [
+        {
+          "word": "creates",
+          "start": 14.85,
+          "end": 15.39
+        },
+        {
+          "word": "discipline",
+          "start": 15.42,
+          "end": 16.02
+        },
+        {
+          "word": "people",
+          "start": 16.02,
+          "end": 16.59
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "maybe that's why",
+      "start_time": 17.76,
+      "end_time": 18.42,
+      "word_timestamps": [
+        {
+          "word": "maybe",
+          "start": 17.76,
+          "end": 18.03
+        },
+        {
+          "word": "that's",
+          "start": 18.03,
+          "end": 18.27
+        },
+        {
+          "word": "why",
+          "start": 18.27,
+          "end": 18.42
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "russians are good",
+      "start_time": 18.42,
+      "end_time": 19.14,
+      "word_timestamps": [
+        {
+          "word": "russians",
+          "start": 18.42,
+          "end": 18.84
+        },
+        {
+          "word": "are",
+          "start": 18.84,
+          "end": 18.93
+        },
+        {
+          "word": "good",
+          "start": 18.93,
+          "end": 19.14
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "at chess male",
+      "start_time": 19.14,
+      "end_time": 20.37,
+      "word_timestamps": [
+        {
+          "word": "at",
+          "start": 19.14,
+          "end": 19.26
+        },
+        {
+          "word": "chess",
+          "start": 19.26,
+          "end": 19.77
+        },
+        {
+          "word": "male",
+          "start": 20.01,
+          "end": 20.37
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "teacher used to",
+      "start_time": 20.38,
+      "end_time": 21.12,
+      "word_timestamps": [
+        {
+          "word": "teacher",
+          "start": 20.377489,
+          "end": 20.79
+        },
+        {
+          "word": "used",
+          "start": 20.79,
+          "end": 21.03
+        },
+        {
+          "word": "to",
+          "start": 21.03,
+          "end": 21.12
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "say that joseph",
+      "start_time": 21.12,
+      "end_time": 22.29,
+      "word_timestamps": [
+        {
+          "word": "say",
+          "start": 21.12,
+          "end": 21.39
+        },
+        {
+          "word": "that",
+          "start": 21.39,
+          "end": 21.66
+        },
+        {
+          "word": "joseph",
+          "start": 21.78,
+          "end": 22.29
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "is the",
+      "start_time": 22.41,
+      "end_time": 22.71,
+      "word_timestamps": [
+        {
+          "word": "is",
+          "start": 22.41,
+          "end": 22.59
+        },
+        {
+          "word": "the",
+          "start": 22.59,
+          "end": 22.71
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "key to success",
+      "start_time": 22.71,
+      "end_time": 23.79,
+      "word_timestamps": [
+        {
+          "word": "key",
+          "start": 22.71,
+          "end": 22.89
+        },
+        {
+          "word": "to",
+          "start": 22.89,
+          "end": 23.04
+        },
+        {
+          "word": "success",
+          "start": 23.04,
+          "end": 23.79
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "but zones or",
+      "start_time": 24.06,
+      "end_time": 24.99,
+      "word_timestamps": [
+        {
+          "word": "but",
+          "start": 24.06,
+          "end": 24.48
+        },
+        {
+          "word": "zones",
+          "start": 24.57,
+          "end": 24.872369
+        },
+        {
+          "word": "or",
+          "start": 24.872369,
+          "end": 24.99
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "isn't just about",
+      "start_time": 25.2,
+      "end_time": 25.89,
+      "word_timestamps": [
+        {
+          "word": "isn't",
+          "start": 25.2,
+          "end": 25.47
+        },
+        {
+          "word": "just",
+          "start": 25.47,
+          "end": 25.68
+        },
+        {
+          "word": "about",
+          "start": 25.68,
+          "end": 25.89
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "cramming knowledge when",
+      "start_time": 25.89,
+      "end_time": 28.05,
+      "word_timestamps": [
+        {
+          "word": "cramming",
+          "start": 25.89,
+          "end": 26.28
+        },
+        {
+          "word": "knowledge",
+          "start": 26.28,
+          "end": 26.82
+        },
+        {
+          "word": "when",
+          "start": 27.87,
+          "end": 28.05
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "i was in",
+      "start_time": 28.05,
+      "end_time": 28.38,
+      "word_timestamps": [
+        {
+          "word": "i",
+          "start": 28.05,
+          "end": 28.11
+        },
+        {
+          "word": "was",
+          "start": 28.11,
+          "end": 28.26
+        },
+        {
+          "word": "in",
+          "start": 28.26,
+          "end": 28.38
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "america we were",
+      "start_time": 28.38,
+      "end_time": 29.43,
+      "word_timestamps": [
+        {
+          "word": "america",
+          "start": 28.38,
+          "end": 28.98
+        },
+        {
+          "word": "we",
+          "start": 29.13,
+          "end": 29.31
+        },
+        {
+          "word": "were",
+          "start": 29.31,
+          "end": 29.43
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "encouraged to think",
+      "start_time": 29.43,
+      "end_time": 30.36,
+      "word_timestamps": [
+        {
+          "word": "encouraged",
+          "start": 29.43,
+          "end": 29.94
+        },
+        {
+          "word": "to",
+          "start": 29.97,
+          "end": 30.09
+        },
+        {
+          "word": "think",
+          "start": 30.09,
+          "end": 30.36
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "creatively i once",
+      "start_time": 30.36,
+      "end_time": 32.46,
+      "word_timestamps": [
+        {
+          "word": "creatively",
+          "start": 30.36,
+          "end": 31.08
+        },
+        {
+          "word": "i",
+          "start": 32.16,
+          "end": 32.25
+        },
+        {
+          "word": "once",
+          "start": 32.25,
+          "end": 32.46
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "had a very",
+      "start_time": 32.46,
+      "end_time": 32.97,
+      "word_timestamps": [
+        {
+          "word": "had",
+          "start": 32.46,
+          "end": 32.58
+        },
+        {
+          "word": "a",
+          "start": 32.58,
+          "end": 32.64
+        },
+        {
+          "word": "very",
+          "start": 32.64,
+          "end": 32.97
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "inspiring teacher who",
+      "start_time": 32.97,
+      "end_time": 33.93,
+      "word_timestamps": [
+        {
+          "word": "inspiring",
+          "start": 32.97,
+          "end": 33.51
+        },
+        {
+          "word": "teacher",
+          "start": 33.51,
+          "end": 33.81
+        },
+        {
+          "word": "who",
+          "start": 33.81,
+          "end": 33.93
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "taught us that",
+      "start_time": 33.93,
+      "end_time": 34.41,
+      "word_timestamps": [
+        {
+          "word": "taught",
+          "start": 33.93,
+          "end": 34.17
+        },
+        {
+          "word": "us",
+          "start": 34.17,
+          "end": 34.26
+        },
+        {
+          "word": "that",
+          "start": 34.26,
+          "end": 34.41
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "real zelzal is",
+      "start_time": 34.41,
+      "end_time": 35.61,
+      "word_timestamps": [
+        {
+          "word": "real",
+          "start": 34.41,
+          "end": 34.83
+        },
+        {
+          "word": "zelzal",
+          "start": 34.89,
+          "end": 35.28
+        },
+        {
+          "word": "is",
+          "start": 35.49,
+          "end": 35.61
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "about asking questions",
+      "start_time": 35.61,
+      "end_time": 36.87,
+      "word_timestamps": [
+        {
+          "word": "about",
+          "start": 35.61,
+          "end": 35.85
+        },
+        {
+          "word": "asking",
+          "start": 35.85,
+          "end": 36.21
+        },
+        {
+          "word": "questions",
+          "start": 36.21,
+          "end": 36.87
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "not just",
+      "start_time": 36.93,
+      "end_time": 37.38,
+      "word_timestamps": [
+        {
+          "word": "not",
+          "start": 36.93,
+          "end": 37.17
+        },
+        {
+          "word": "just",
+          "start": 37.17,
+          "end": 37.38
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "memorization him that's",
+      "start_time": 37.38,
+      "end_time": 39.96,
+      "word_timestamps": [
+        {
+          "word": "memorization",
+          "start": 37.38,
+          "end": 38.16
+        },
+        {
+          "word": "him",
+          "start": 38.58,
+          "end": 39.0
+        },
+        {
+          "word": "that's",
+          "start": 39.69,
+          "end": 39.96
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "interesting burke's boyfriend",
+      "start_time": 39.96,
+      "end_time": 42.27,
+      "word_timestamps": [
+        {
+          "word": "interesting",
+          "start": 39.96,
+          "end": 40.71
+        },
+        {
+          "word": "burke's",
+          "start": 41.31,
+          "end": 41.61
+        },
+        {
+          "word": "boyfriend",
+          "start": 41.61,
+          "end": 42.27
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "also used to",
+      "start_time": 42.27,
+      "end_time": 42.9,
+      "word_timestamps": [
+        {
+          "word": "also",
+          "start": 42.27,
+          "end": 42.57
+        },
+        {
+          "word": "used",
+          "start": 42.57,
+          "end": 42.81
+        },
+        {
+          "word": "to",
+          "start": 42.81,
+          "end": 42.9
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "talk about creative",
+      "start_time": 42.9,
+      "end_time": 43.95,
+      "word_timestamps": [
+        {
+          "word": "talk",
+          "start": 42.9,
+          "end": 43.14
+        },
+        {
+          "word": "about",
+          "start": 43.14,
+          "end": 43.38
+        },
+        {
+          "word": "creative",
+          "start": 43.38,
+          "end": 43.95
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "thinking like that",
+      "start_time": 43.95,
+      "end_time": 44.94,
+      "word_timestamps": [
+        {
+          "word": "thinking",
+          "start": 43.95,
+          "end": 44.4
+        },
+        {
+          "word": "like",
+          "start": 44.4,
+          "end": 44.61
+        },
+        {
+          "word": "that",
+          "start": 44.61,
+          "end": 44.94
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "but in the",
+      "start_time": 45.21,
+      "end_time": 45.66,
+      "word_timestamps": [
+        {
+          "word": "but",
+          "start": 45.21,
+          "end": 45.39
+        },
+        {
+          "word": "in",
+          "start": 45.39,
+          "end": 45.48
+        },
+        {
+          "word": "the",
+          "start": 45.48,
+          "end": 45.66
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "end he couldn't",
+      "start_time": 45.66,
+      "end_time": 46.62,
+      "word_timestamps": [
+        {
+          "word": "end",
+          "start": 45.66,
+          "end": 46.02
+        },
+        {
+          "word": "he",
+          "start": 46.2,
+          "end": 46.35
+        },
+        {
+          "word": "couldn't",
+          "start": 46.35,
+          "end": 46.62
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "solve a simple",
+      "start_time": 46.62,
+      "end_time": 47.46,
+      "word_timestamps": [
+        {
+          "word": "solve",
+          "start": 46.62,
+          "end": 47.01
+        },
+        {
+          "word": "a",
+          "start": 47.01,
+          "end": 47.04
+        },
+        {
+          "word": "simple",
+          "start": 47.04,
+          "end": 47.46
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "math problem ah",
+      "start_time": 47.46,
+      "end_time": 48.69,
+      "word_timestamps": [
+        {
+          "word": "math",
+          "start": 47.46,
+          "end": 47.82
+        },
+        {
+          "word": "problem",
+          "start": 47.82,
+          "end": 48.33
+        },
+        {
+          "word": "ah",
+          "start": 48.39,
+          "end": 48.69
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "nice out the",
+      "start_time": 48.75,
+      "end_time": 49.89,
+      "word_timestamps": [
+        {
+          "word": "nice",
+          "start": 48.75,
+          "end": 49.17
+        },
+        {
+          "word": "out",
+          "start": 49.17,
+          "end": 49.53
+        },
+        {
+          "word": "the",
+          "start": 49.62,
+          "end": 49.89
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "needs to balance",
+      "start_time": 50.01,
+      "end_time": 50.73,
+      "word_timestamps": [
+        {
+          "word": "needs",
+          "start": 50.01,
+          "end": 50.28
+        },
+        {
+          "word": "to",
+          "start": 50.28631,
+          "end": 50.4
+        },
+        {
+          "word": "balance",
+          "start": 50.4,
+          "end": 50.73
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "discipline and creativity",
+      "start_time": 50.73,
+      "end_time": 52.23,
+      "word_timestamps": [
+        {
+          "word": "discipline",
+          "start": 50.73,
+          "end": 51.24
+        },
+        {
+          "word": "and",
+          "start": 51.24,
+          "end": 51.39
+        },
+        {
+          "word": "creativity",
+          "start": 51.39,
+          "end": 52.23
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "don't",
+      "start_time": 52.32,
+      "end_time": 52.56,
+      "word_timestamps": [
+        {
+          "word": "don't",
+          "start": 52.32,
+          "end": 52.56
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "you think ex",
+      "start_time": 52.56,
+      "end_time": 53.52,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 52.56,
+          "end": 52.65
+        },
+        {
+          "word": "think",
+          "start": 52.65,
+          "end": 53.04
+        },
+        {
+          "word": "ex",
+          "start": 53.31,
+          "end": 53.52
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "boyfriend i didn't",
+      "start_time": 53.52,
+      "end_time": 54.57,
+      "word_timestamps": [
+        {
+          "word": "boyfriend",
+          "start": 53.52,
+          "end": 53.97
+        },
+        {
+          "word": "i",
+          "start": 54.3,
+          "end": 54.39
+        },
+        {
+          "word": "didn't",
+          "start": 54.39,
+          "end": 54.57
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "know you had",
+      "start_time": 54.57,
+      "end_time": 55.17,
+      "word_timestamps": [
+        {
+          "word": "know",
+          "start": 54.57,
+          "end": 54.75
+        },
+        {
+          "word": "you",
+          "start": 54.75,
+          "end": 54.87
+        },
+        {
+          "word": "had",
+          "start": 54.87,
+          "end": 55.17
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "oh it's fine",
+      "start_time": 55.47,
+      "end_time": 56.1,
+      "word_timestamps": [
+        {
+          "word": "oh",
+          "start": 55.47,
+          "end": 55.68
+        },
+        {
+          "word": "it's",
+          "start": 55.68,
+          "end": 55.83
+        },
+        {
+          "word": "fine",
+          "start": 55.83,
+          "end": 56.1
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "about zelzal i",
+      "start_time": 56.25,
+      "end_time": 57.6,
+      "word_timestamps": [
+        {
+          "word": "about",
+          "start": 56.25,
+          "end": 56.55
+        },
+        {
+          "word": "zelzal",
+          "start": 56.7,
+          "end": 57.18
+        },
+        {
+          "word": "i",
+          "start": 57.42,
+          "end": 57.6
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "agree that balance",
+      "start_time": 57.6,
+      "end_time": 58.44,
+      "word_timestamps": [
+        {
+          "word": "agree",
+          "start": 57.6,
+          "end": 57.9
+        },
+        {
+          "word": "that",
+          "start": 57.9,
+          "end": 58.05
+        },
+        {
+          "word": "balance",
+          "start": 58.05,
+          "end": 58.44
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "is needed but",
+      "start_time": 58.44,
+      "end_time": 59.79,
+      "word_timestamps": [
+        {
+          "word": "is",
+          "start": 58.44,
+          "end": 58.56
+        },
+        {
+          "word": "needed",
+          "start": 58.56,
+          "end": 58.92
+        },
+        {
+          "word": "but",
+          "start": 59.61,
+          "end": 59.79
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "i need in",
+      "start_time": 59.79,
+      "end_time": 60.66,
+      "word_timestamps": [
+        {
+          "word": "i",
+          "start": 59.79,
+          "end": 60.03
+        },
+        {
+          "word": "need",
+          "start": 60.09,
+          "end": 60.39
+        },
+        {
+          "word": "in",
+          "start": 60.51,
+          "end": 60.66
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "vietnam they focus",
+      "start_time": 60.66,
+      "end_time": 61.74,
+      "word_timestamps": [
+        {
+          "word": "vietnam",
+          "start": 60.66,
+          "end": 61.2
+        },
+        {
+          "word": "they",
+          "start": 61.2,
+          "end": 61.32
+        },
+        {
+          "word": "focus",
+          "start": 61.32,
+          "end": 61.74
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "too much on",
+      "start_time": 61.74,
+      "end_time": 62.31,
+      "word_timestamps": [
+        {
+          "word": "too",
+          "start": 61.74,
+          "end": 61.92
+        },
+        {
+          "word": "much",
+          "start": 61.92,
+          "end": 62.19
+        },
+        {
+          "word": "on",
+          "start": 62.19,
+          "end": 62.31
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "grades and forget",
+      "start_time": 62.31,
+      "end_time": 63.36,
+      "word_timestamps": [
+        {
+          "word": "grades",
+          "start": 62.31,
+          "end": 62.85
+        },
+        {
+          "word": "and",
+          "start": 62.91,
+          "end": 63.06
+        },
+        {
+          "word": "forget",
+          "start": 63.06,
+          "end": 63.36
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "the real meaning",
+      "start_time": 63.36,
+      "end_time": 64.02,
+      "word_timestamps": [
+        {
+          "word": "the",
+          "start": 63.36,
+          "end": 63.45
+        },
+        {
+          "word": "real",
+          "start": 63.45,
+          "end": 63.66
+        },
+        {
+          "word": "meaning",
+          "start": 63.66,
+          "end": 64.02
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "of half",
+      "start_time": 64.02,
+      "end_time": 64.74,
+      "word_timestamps": [
+        {
+          "word": "of",
+          "start": 64.02,
+          "end": 64.26
+        },
+        {
+          "word": "half",
+          "start": 64.38,
+          "end": 64.74
+        }
+      ],
+      "viet_words": []
+    }
+  ]
+}

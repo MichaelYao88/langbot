@@ -1,0 +1,79 @@
+{
+  "id": "00cfe20e",
+  "topic_word": "sách",
+  "topic_word_translation": "book",
+  "common_words": [
+    {
+      "word": "đọc",
+      "translation": "read"
+    },
+    {
+      "word": "Dostoevsky",
+      "translation": "Dostoevsky"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "It feels like déjà vu. We've talked about sách in this coffee shop before, haven't we?",
+      "start_time": 0.0,
+      "end_time": 8.6,
+      "viet_words": [
+        "sách"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? I don't remember much... But speaking of sách, I just finished reading \"Sapiens\" by Yuval Noah Harari. Have you đọc any of his works?",
+      "start_time": 8.6,
+      "end_time": 22.7,
+      "viet_words": [
+        "sách",
+        "đọc"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm, I don't like đọc science sách. I prefer classical Russian novels. Dostoevsky is my favorite author. Have you đọc \"Crime and Punishment\"?",
+      "start_time": 22.7,
+      "end_time": 36.8,
+      "viet_words": [
+        "sách",
+        "đọc",
+        "Dostoevsky"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "I've tried to đọc it several times but never finished. Russian sách are too... deep and sad. I prefer đọc sách about travel and cultures of different countries. But maybe I should try Dostoevsky again. Can you recommend any of his sách that are easier to đọc?",
+      "start_time": 36.8,
+      "end_time": 62.699999999999996,
+      "viet_words": [
+        "sách",
+        "đọc",
+        "Dostoevsky"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "There are no \"easy to đọc\" ones. Russian literature requires deep thinking. But... if you really want to try, I could lend you my copy of \"The Idiot.\" That was the first Dostoevsky sách I đọc.",
+      "start_time": 62.699999999999996,
+      "end_time": 81.89999999999999,
+      "viet_words": [
+        "sách",
+        "đọc",
+        "Dostoevsky"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thank you, I'll try to đọc it. If I have any questions about the sách, could I ask you? Perhaps we could discuss sách while having coffee...",
+      "start_time": 81.89999999999999,
+      "end_time": 95.89999999999999,
+      "viet_words": [
+        "sách",
+        "đọc"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "83418f4a",
+  "timestamp": 1742671111,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael này, anh có thích lái máy bay không? Em nghĩ em lớn tuổi hơn anh đúng không?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Lái máy bay à? Thú vị đấy, nhưng tôi chưa bao giờ thử. Còn về tuổi tác... Mira đừng đùa, tôi đã 28 tuổi rồi. Nhưng \"lái máy bay\" ở Việt Nam còn có nghĩa khác đấy."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Nghĩa khác gì? Em chỉ tò mò vì em đang học lấy bằng lái máy bay thật sự thôi. Còn em mới 25 tuổi, nên anh lớn hơn em. Em thích người lớn tuổi hơn... họ thường chín chắn hơn."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Ồ, xin lỗi vì hiểu lầm. \"Lái máy bay\" trong tiếng lóng Việt Nam là chỉ người trẻ hẹn hò người lớn tuổi hơn nhiều. Nhưng thật sao? Bằng lái máy bay thật à? Tôi không ngờ Mira lại thích những thứ như vậy đấy."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Anh cứ hiểu lầm em hoài! Em đã nói với anh từ lâu là em thích cảm giác tự do khi bay lượn mà. Nhưng... nếu anh nghĩ em là người thích \"lái máy bay\" theo nghĩa kia, thì có lẽ em không đủ lớn tuổi cho anh rồi."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael, do you like to lái máy bay? I think I'm older than you, right?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Lái máy bay? Interesting, but I've never tried it. As for age... don't joke, Mira, I'm already 28 years old. But \"lái máy bay\" in Vietnam has another meaning, you know."
+    },
+    {
+      "speaker": "Mira",
+      "text": "What other meaning? I'm just curious because I'm learning to get an actual pilot's license. And I'm only 25, so you're older than me. I thích older people... they tend to be more mature."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Oh, sorry for misunderstanding. \"Lái máy bay\" in Vietnamese slang refers to younger people dating someone much older. But really? An actual pilot's license? I never thought Mira would thích things like that."
+    },
+    {
+      "speaker": "Mira",
+      "text": "You always misunderstand me! I told you long ago that I enjoy the feeling of freedom when flying. But... if you think I'm someone who likes to \"lái máy bay\" in that other sense, then maybe I'm not old enough for you."
+    }
+  ],
+  "topic_word": "lái máy bay",
+  "topic_word_translation": "to fly a plane/to date someone much older",
+  "common_words": [
+    {
+      "word": "tuổi",
+      "translation": "age"
+    },
+    {
+      "word": "thích",
+      "translation": "like/enjoy"
+    }
+  ]
+}

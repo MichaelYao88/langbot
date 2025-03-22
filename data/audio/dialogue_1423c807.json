@@ -1,0 +1,68 @@
+{
+  "id": "1423c807",
+  "topic_word": "công nghệ",
+  "topic_word_translation": "technology",
+  "common_words": [
+    {
+      "word": "điện thoại",
+      "translation": "phone"
+    },
+    {
+      "word": "cờ",
+      "translation": "chess"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Hey Mira, do you think công nghệ is changing the way we communicate? Sometimes I feel people are too dependent on điện thoại.",
+      "start_time": 0.0,
+      "end_time": 12.5,
+      "viet_words": [
+        "công nghệ",
+        "điện thoại"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm, công nghệ? Of course it is. But not everyone is like you, Michael. I still prefer the traditional way. Điện thoại can't replace the feeling of sitting face to face and playing a game of cờ.",
+      "start_time": 12.5,
+      "end_time": 31.9,
+      "viet_words": [
+        "công nghệ",
+        "điện thoại",
+        "cờ"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's interesting! But công nghệ also has its good sides. Hey, I just found an app that teaches cờ. Maybe we could try it together this weekend?",
+      "start_time": 31.9,
+      "end_time": 46.4,
+      "viet_words": [
+        "công nghệ",
+        "cờ"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "You think an app can teach better than me? Điện thoại can't understand the tactics and emotions in cờ. But... if you really want to learn, maybe I could teach you some basic moves.",
+      "start_time": 46.4,
+      "end_time": 64.4,
+      "viet_words": [
+        "điện thoại",
+        "cờ"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? That would be great! I like how you think about công nghệ, Mira. There's something very genuine and... special about it. Perhaps we could try both the app and play real cờ. What do you think?",
+      "start_time": 64.4,
+      "end_time": 84.30000000000001,
+      "viet_words": [
+        "công nghệ",
+        "cờ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "31772986",
+  "topic_word": "chương trình",
+  "topic_word_translation": "program/show",
+  "common_words": [
+    {
+      "word": "văn hóa",
+      "translation": "culture"
+    },
+    {
+      "word": "tôn trọng",
+      "translation": "respect"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael, did you see the advertisement for the Russian cultural festival chương trình last night? They suddenly used my image from last year's chess tournament without permission. It's so disrespectful!",
+      "start_time": 0.0,
+      "end_time": 20.2,
+      "viet_words": [
+        "chương trình"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Oh, I did see that chương trình! What an interesting coincidence. But they shouldn't use your photo without permission. In America, the văn hóa of respecting personal rights is highly valued. What do you plan to do about this?",
+      "start_time": 20.2,
+      "end_time": 42.8,
+      "viet_words": [
+        "chương trình",
+        "văn hóa"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "My Russian văn hóa teaches patience, but sometimes I find it difficult to deal with how Vietnamese people work. I sent a complaint email but they just said I should be proud to appear in such a major cultural chương trình. What do you think?",
+      "start_time": 42.8,
+      "end_time": 66.9,
+      "viet_words": [
+        "chương trình",
+        "văn hóa"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "I understand how you feel. Văn hóa and laws sometimes differ between countries. Perhaps I could help you contact the chương trình organizers? I have some friends working in media in Saigon.",
+      "start_time": 66.9,
+      "end_time": 85.80000000000001,
+      "viet_words": [
+        "chương trình",
+        "văn hóa"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "You would do that? Not that I need help... just... if you're free. Maybe we could discuss this over coffee? I want to know more about your perspective on the văn hóa differences between Vietnam and the West...",
+      "start_time": 85.80000000000001,
+      "end_time": 106.70000000000002,
+      "viet_words": [
+        "văn hóa"
+      ]
+    }
+  ]
+}

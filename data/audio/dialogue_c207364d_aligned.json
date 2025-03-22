@@ -1,0 +1,437 @@
+{
+  "id": "c207364d",
+  "topic_word": "du lịch",
+  "topic_word_translation": "travel",
+  "common_words": [
+    {
+      "word": "đến",
+      "translation": "to/arrive at"
+    },
+    {
+      "word": "người",
+      "translation": "person"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael,",
+      "start_time": 0.03,
+      "end_time": 0.55
+    },
+    {
+      "speaker": "Mira",
+      "text": "do you feel",
+      "start_time": 0.55,
+      "end_time": 1.6675
+    },
+    {
+      "speaker": "Mira",
+      "text": "it?",
+      "start_time": 1.6675,
+      "end_time": 2.04
+    },
+    {
+      "speaker": "Mira",
+      "text": "I think we're",
+      "start_time": 2.04,
+      "end_time": 2.73
+    },
+    {
+      "speaker": "Mira",
+      "text": "being followed.",
+      "start_time": 2.73,
+      "end_time": 3.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "Let's act normal",
+      "start_time": 3.88,
+      "end_time": 5.49
+    },
+    {
+      "speaker": "Mira",
+      "text": "and talk about",
+      "start_time": 5.49,
+      "end_time": 6.637499999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>du lịch</vietnamese>.",
+      "start_time": 6.637499999999999,
+      "end_time": 7.02
+    },
+    {
+      "speaker": "Mira",
+      "text": "Where have you",
+      "start_time": 7.02,
+      "end_time": 7.8075
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>đến</vietnamese>",
+      "start_time": 7.8075,
+      "end_time": 8.07
+    },
+    {
+      "speaker": "Mira",
+      "text": "for <vietnamese>du lịch</vietnamese>?",
+      "start_time": 8.07,
+      "end_time": 8.82
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really?",
+      "start_time": 8.82,
+      "end_time": 9.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "I don't notice",
+      "start_time": 9.5,
+      "end_time": 11.46
+    },
+    {
+      "speaker": "Michael",
+      "text": "anything strange...",
+      "start_time": 11.46,
+      "end_time": 12.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "But if you",
+      "start_time": 12.5,
+      "end_time": 13.712
+    },
+    {
+      "speaker": "Michael",
+      "text": "say so...",
+      "start_time": 13.712,
+      "end_time": 14.52
+    },
+    {
+      "speaker": "Michael",
+      "text": "Well, I've <vietnamese>du lịch</vietnamese>",
+      "start_time": 14.52,
+      "end_time": 15.66
+    },
+    {
+      "speaker": "Michael",
+      "text": "to many places.",
+      "start_time": 15.66,
+      "end_time": 17.58
+    },
+    {
+      "speaker": "Michael",
+      "text": "I like Japan",
+      "start_time": 17.58,
+      "end_time": 18.48
+    },
+    {
+      "speaker": "Michael",
+      "text": "and Thailand the",
+      "start_time": 18.48,
+      "end_time": 19.6725
+    },
+    {
+      "speaker": "Michael",
+      "text": "most.",
+      "start_time": 19.6725,
+      "end_time": 20.07
+    },
+    {
+      "speaker": "Michael",
+      "text": "What about you,",
+      "start_time": 20.07,
+      "end_time": 20.835
+    },
+    {
+      "speaker": "Michael",
+      "text": "Mira?",
+      "start_time": 20.835,
+      "end_time": 21.09
+    },
+    {
+      "speaker": "Michael",
+      "text": "Where do you",
+      "start_time": 21.09,
+      "end_time": 21.54
+    },
+    {
+      "speaker": "Michael",
+      "text": "like",
+      "start_time": 21.54,
+      "end_time": 21.689999999999998
+    },
+    {
+      "speaker": "Michael",
+      "text": "to <vietnamese>du lịch đến</vietnamese>?",
+      "start_time": 21.69,
+      "end_time": 22.41
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't look back!",
+      "start_time": 22.41,
+      "end_time": 23.79
+    },
+    {
+      "speaker": "Mira",
+      "text": "There's a <vietnamese>người</vietnamese>",
+      "start_time": 23.79,
+      "end_time": 25.83
+    },
+    {
+      "speaker": "Mira",
+      "text": "in black behind",
+      "start_time": 25.83,
+      "end_time": 26.572499999999998
+    },
+    {
+      "speaker": "Mira",
+      "text": "us.",
+      "start_time": 26.572499999999998,
+      "end_time": 26.82
+    },
+    {
+      "speaker": "Mira",
+      "text": "Keep talking about",
+      "start_time": 26.82,
+      "end_time": 28.08
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>du lịch</vietnamese>...",
+      "start_time": 28.08,
+      "end_time": 28.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "I haven't <vietnamese>du lịch</vietnamese>",
+      "start_time": 28.5,
+      "end_time": 30.02
+    },
+    {
+      "speaker": "Mira",
+      "text": "as much as",
+      "start_time": 30.03,
+      "end_time": 31.1325
+    },
+    {
+      "speaker": "Mira",
+      "text": "you.",
+      "start_time": 31.1325,
+      "end_time": 31.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "I've only <vietnamese>đến</vietnamese>",
+      "start_time": 31.5,
+      "end_time": 33.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnam.",
+      "start_time": 33.0,
+      "end_time": 33.81
+    },
+    {
+      "speaker": "Mira",
+      "text": "But I want",
+      "start_time": 33.81,
+      "end_time": 34.524
+    },
+    {
+      "speaker": "Mira",
+      "text": "to <vietnamese>đến</vietnamese>",
+      "start_time": 34.524,
+      "end_time": 35.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "Northern Europe,",
+      "start_time": 35.0,
+      "end_time": 36.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "especially Finland.",
+      "start_time": 36.6,
+      "end_time": 38.01
+    },
+    {
+      "speaker": "Mira",
+      "text": "I heard there",
+      "start_time": 38.01,
+      "end_time": 38.7525
+    },
+    {
+      "speaker": "Mira",
+      "text": "are",
+      "start_time": 38.7525,
+      "end_time": 39.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "many beautiful lakes",
+      "start_time": 39.0,
+      "end_time": 40.08
+    },
+    {
+      "speaker": "Mira",
+      "text": "and forests there.",
+      "start_time": 40.08,
+      "end_time": 41.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "You're right,",
+      "start_time": 41.2,
+      "end_time": 42.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "that <vietnamese>người</vietnamese> does",
+      "start_time": 42.2,
+      "end_time": 43.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "look suspicious...",
+      "start_time": 43.2,
+      "end_time": 44.19
+    },
+    {
+      "speaker": "Michael",
+      "text": "Finland is an",
+      "start_time": 44.19,
+      "end_time": 45.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "excellent choice!",
+      "start_time": 45.2,
+      "end_time": 46.02
+    },
+    {
+      "speaker": "Michael",
+      "text": "I've <vietnamese>đến</vietnamese> Helsinki once,",
+      "start_time": 46.02,
+      "end_time": 47.88
+    },
+    {
+      "speaker": "Michael",
+      "text": "the air is",
+      "start_time": 47.88,
+      "end_time": 48.72
+    },
+    {
+      "speaker": "Michael",
+      "text": "clean",
+      "start_time": 48.72,
+      "end_time": 49.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "and nature is",
+      "start_time": 49.0,
+      "end_time": 49.847500000000004
+    },
+    {
+      "speaker": "Michael",
+      "text": "beautiful.",
+      "start_time": 49.847500000000004,
+      "end_time": 50.13
+    },
+    {
+      "speaker": "Michael",
+      "text": "If you like,",
+      "start_time": 50.13,
+      "end_time": 50.88
+    },
+    {
+      "speaker": "Michael",
+      "text": "maybe someday we",
+      "start_time": 50.88,
+      "end_time": 51.4425
+    },
+    {
+      "speaker": "Michael",
+      "text": "could",
+      "start_time": 51.4425,
+      "end_time": 51.63
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>du lịch</vietnamese> there together...",
+      "start_time": 51.63,
+      "end_time": 53.01
+    },
+    {
+      "speaker": "Michael",
+      "text": "I mean...",
+      "start_time": 53.01,
+      "end_time": 53.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "if you want",
+      "start_time": 53.7,
+      "end_time": 54.375
+    },
+    {
+      "speaker": "Michael",
+      "text": "to...",
+      "start_time": 54.375,
+      "end_time": 54.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Du lịch</vietnamese> with you?",
+      "start_time": 54.6,
+      "end_time": 56.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "I... I don't",
+      "start_time": 56.0,
+      "end_time": 58.0325
+    },
+    {
+      "speaker": "Mira",
+      "text": "know...",
+      "start_time": 58.0325,
+      "end_time": 58.71
+    },
+    {
+      "speaker": "Mira",
+      "text": "But that <vietnamese>người</vietnamese> is",
+      "start_time": 58.71,
+      "end_time": 60.03
+    },
+    {
+      "speaker": "Mira",
+      "text": "still following us!",
+      "start_time": 60.03,
+      "end_time": 61.29
+    },
+    {
+      "speaker": "Mira",
+      "text": "What do you",
+      "start_time": 61.29,
+      "end_time": 61.8225
+    },
+    {
+      "speaker": "Mira",
+      "text": "think",
+      "start_time": 61.8225,
+      "end_time": 62.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "they want?",
+      "start_time": 62.0,
+      "end_time": 62.65
+    }
+  ]
+}

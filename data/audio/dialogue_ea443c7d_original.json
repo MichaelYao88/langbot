@@ -1,0 +1,64 @@
+{
+  "id": "ea443c7d",
+  "topic_word": "kiến trúc",
+  "topic_word_translation": "architecture",
+  "common_words": [
+    {
+      "word": "ăn",
+      "translation": "eat"
+    },
+    {
+      "word": "ngon",
+      "translation": "delicious"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "This restaurant has beautiful kiến trúc, but the food is a bit expensive. I don't understand why Vietnamese people like places that focus only on kiến trúc and forget about food quality.",
+      "start_time": 0.0,
+      "end_time": 18.6,
+      "viet_words": [
+        "kiến trúc"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sometimes kiến trúc is part of the dining experience. Vietnamese people like beautiful spaces for taking \"living virtual\" photos. But I have to admit the food here is really ngon, especially the chicken pho.",
+      "start_time": 18.6,
+      "end_time": 39.3,
+      "viet_words": [
+        "kiến trúc",
+        "ngon"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "You always defend Vietnamese people! Pho is everywhere, nothing special. In Russia, we care more about flavor than kiến trúc or meaningless photos. But... this pho isn't bad.",
+      "start_time": 39.3,
+      "end_time": 56.699999999999996,
+      "viet_words": [
+        "kiến trúc"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Haha, Mira, you're so \"harsh\"! It's true that Russians like strong flavors. But food culture is different everywhere. Here, let me order some spring rolls for you to try, this dish must be ăn with fresh herbs to be ngon.",
+      "start_time": 56.699999999999996,
+      "end_time": 78.69999999999999,
+      "viet_words": [
+        "ăn",
+        "ngon"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm not \"harsh\"! It's just... okay fine, I'll try your spring rolls. But next time we should go somewhere that focuses less on kiến trúc and more on flavor. I know a Russian place in District 1...",
+      "start_time": 78.69999999999999,
+      "end_time": 98.29999999999998,
+      "viet_words": [
+        "kiến trúc"
+      ]
+    }
+  ]
+}
