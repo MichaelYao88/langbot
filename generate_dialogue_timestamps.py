@@ -18,6 +18,37 @@ import re
 import config
 from auto_subtitle import generate_auto_timestamps
 from align_subtitles import align_subtitles
+from pathlib import Path
+from pydub import AudioSegment
+import logging
+from typing import List, Dict, Tuple, Optional
+from dataclasses import dataclass
+import tempfile
+from dotenv import load_dotenv
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger('dialogue_timestamps')
+
+@dataclass
+class DialogueSegment:
+    """Represents a segment of dialogue with timing information."""
+    text: str
+    start_time: float  # in milliseconds
+    end_time: float    # in milliseconds
+    is_vietnamese: bool
+    speaker: str
+
+@dataclass
+class DialogueLine:
+    """Represents a complete line of dialogue with its segments."""
+    speaker: str
+    segments: List[DialogueSegment]
+    start_time: float
+    end_time: float
 
 def generate_initial_timestamps(audio_file, output_file=None):
     """
@@ -215,6 +246,220 @@ def find_unprocessed_audio_file(processed_ids=None):
         return audio_file
     
     return None
+
+def split_into_subsegments(text: str, max_words: int = 6) -> List[str]:
+    """Split text into subsegments of no more than max_words words each."""
+    words = text.split()
+    subsegments = []
+    current_segment = []
+    
+    for word in words:
+        current_segment.append(word)
+        if len(current_segment) >= max_words:
+            subsegments.append(" ".join(current_segment))
+            current_segment = []
+    
+    if current_segment:  # Add any remaining words
+        subsegments.append(" ".join(current_segment))
+    
+    return subsegments
+
+def extract_segments_with_vietnamese(text: str) -> List[Tuple[str, bool]]:
+    """
+    Extract segments from text, separating Vietnamese and English parts.
+    Ensures no segment is longer than 6 words.
+    Returns list of (text, is_vietnamese) tuples.
+    """
+    # Pattern to match Vietnamese text within tags
+    pattern = r'<vietnamese>(.*?)</vietnamese>'
+    
+    segments = []
+    last_end = 0
+    
+    for match in re.finditer(pattern, text):
+        # Add English text before Vietnamese if any
+        if match.start() > last_end:
+            english_text = text[last_end:match.start()].strip()
+            if english_text:
+                # Split English text into subsegments
+                for subsegment in split_into_subsegments(english_text):
+                    segments.append((subsegment, False))
+        
+        # Add Vietnamese text
+        viet_text = match.group(1).strip()
+        if viet_text:
+            # Split Vietnamese text into subsegments
+            for subsegment in split_into_subsegments(viet_text):
+                segments.append((subsegment, True))
+        
+        last_end = match.end()
+    
+    # Add remaining English text if any
+    if last_end < len(text):
+        english_text = text[last_end:].strip()
+        if english_text:
+            # Split remaining English text into subsegments
+            for subsegment in split_into_subsegments(english_text):
+                segments.append((subsegment, False))
+    
+    return segments
+
+def calculate_segment_duration(text: str, is_vietnamese: bool) -> float:
+    """
+    Calculate the duration of a segment based on its text and language.
+    This matches the timing logic in generate_audio.py.
+    
+    Returns:
+        Duration in milliseconds
+    """
+    # Constants matching generate_audio.py
+    PAUSE_DURATION_MS = 1  # Duration of pause between segments
+    VIETNAMESE_SPEECH_RATE = 0.8  # 80% of normal speed for Vietnamese
+    ENGLISH_SPEECH_RATE = 0.8  # 80% of normal speed for English
+    
+    # Base character rate (matching generate_audio.py's timing)
+    if is_vietnamese:
+        chars_per_second = 10 * VIETNAMESE_SPEECH_RATE
+    else:
+        chars_per_second = 12 * ENGLISH_SPEECH_RATE
+    
+    # Calculate duration
+    char_count = len(text.strip())
+    duration_ms = (char_count / chars_per_second) * 1000
+    
+    # Ensure minimum duration
+    return max(500, duration_ms)  # Minimum 500ms per segment
+
+def generate_timestamps_for_dialogue(dialogue_file: str, audio_file: str) -> List[DialogueLine]:
+    """
+    Generate timestamps for each segment in the dialogue.
+    Ensures segments match the audio stitching from generate_audio.py.
+    
+    Args:
+        dialogue_file: Path to the JSON dialogue file
+        audio_file: Path to the generated audio file
+    
+    Returns:
+        List of DialogueLine objects containing timing information
+    """
+    # Load dialogue data
+    with open(dialogue_file, 'r', encoding='utf-8') as f:
+        dialogue_data = json.load(f)
+    
+    # Load the full audio file for verification
+    full_audio = AudioSegment.from_mp3(audio_file)
+    total_audio_duration = len(full_audio)
+    
+    dialogue_lines = []
+    current_time = 0  # Keep track of current position in audio
+    
+    # Process each line in the dialogue
+    for line in dialogue_data["english_dialogue"]:
+        text = line["text"]
+        speaker = line["speaker"]
+        
+        # Extract segments (English and Vietnamese)
+        segments = extract_segments_with_vietnamese(text)
+        
+        line_segments = []
+        line_start = current_time
+        
+        # Process each segment
+        for i, (segment_text, is_vietnamese) in enumerate(segments):
+            # Calculate segment duration based on the audio generation logic
+            segment_start = current_time
+            segment_duration = calculate_segment_duration(segment_text, is_vietnamese)
+            segment_end = segment_start + segment_duration
+            
+            # Verify we haven't exceeded the total audio duration
+            if segment_end > total_audio_duration:
+                logger.warning(f"Segment end time {segment_end}ms exceeds audio duration {total_audio_duration}ms")
+                segment_end = total_audio_duration
+            
+            # Create segment object
+            segment = DialogueSegment(
+                text=segment_text,
+                start_time=segment_start,
+                end_time=segment_end,
+                is_vietnamese=is_vietnamese,
+                speaker=speaker
+            )
+            
+            line_segments.append(segment)
+            
+            # Add pause between segments
+            current_time = segment_end + PAUSE_DURATION_MS
+        
+        # Create line object
+        dialogue_line = DialogueLine(
+            speaker=speaker,
+            segments=line_segments,
+            start_time=line_start,
+            end_time=current_time
+        )
+        
+        dialogue_lines.append(dialogue_line)
+        current_time += SPEAKER_PAUSE_DURATION_MS  # Add pause between speakers
+    
+    # Verify total duration matches audio file
+    if current_time > total_audio_duration:
+        logger.warning(f"Total timestamp duration {current_time}ms exceeds audio duration {total_audio_duration}ms")
+    
+    return dialogue_lines
+
+def save_timestamps(dialogue_lines: List[DialogueLine], output_file: str):
+    """
+    Save timestamp information in a format readable by generate_background.py.
+    Includes verification information for debugging.
+    
+    Args:
+        dialogue_lines: List of DialogueLine objects
+        output_file: Path to save the timestamp data
+    """
+    # Calculate some statistics for verification
+    total_segments = sum(len(line.segments) for line in dialogue_lines)
+    max_segment_words = max(len(segment.text.split()) for line in dialogue_lines for segment in line.segments)
+    
+    timestamp_data = {
+        "metadata": {
+            "total_segments": total_segments,
+            "max_segment_words": max_segment_words,
+            "total_duration_ms": dialogue_lines[-1].end_time if dialogue_lines else 0
+        },
+        "lines": [
+            {
+                "speaker": line.speaker,
+                "start_time": line.start_time,
+                "end_time": line.end_time,
+                "segments": [
+                    {
+                        "text": segment.text,
+                        "start_time": segment.start_time,
+                        "end_time": segment.end_time,
+                        "is_vietnamese": segment.is_vietnamese,
+                        "word_count": len(segment.text.split())
+                    }
+                    for segment in line.segments
+                ]
+            }
+            for line in dialogue_lines
+        ]
+    }
+    
+    # Log verification information
+    logger.info(f"Generated {total_segments} segments")
+    logger.info(f"Maximum words per segment: {max_segment_words}")
+    logger.info(f"Total duration: {timestamp_data['metadata']['total_duration_ms']}ms")
+    
+    # Verify no segment exceeds 6 words
+    if max_segment_words > 6:
+        logger.warning(f"Found segments with more than 6 words! Maximum was {max_segment_words}")
+    
+    # Save with proper encoding for Vietnamese characters
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(timestamp_data, f, ensure_ascii=False, indent=2)
+    
+    logger.info(f"Timestamps saved to {output_file}")
 
 def main():
     """Main function to generate dialogue timestamps."""

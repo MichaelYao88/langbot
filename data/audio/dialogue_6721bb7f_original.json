@@ -1,0 +1,73 @@
+{
+  "id": "6721bb7f",
+  "topic_word": "cờ vua",
+  "topic_word_translation": "chess",
+  "common_words": [
+    {
+      "word": "mua sắm",
+      "translation": "shopping"
+    },
+    {
+      "word": "thích",
+      "translation": "like/prefer"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Mira, do you like mua sắm at Ben Thanh Market? I see many foreigners like to buy souvenirs there.",
+      "start_time": 0.0,
+      "end_time": 9.700000000000001,
+      "viet_words": [
+        "mua sắm"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't thích mua sắm much. Mua sắm wastes time and money. I thích spending time playing cờ vua more. But... if you want to go mua sắm with me, I might reconsider.",
+      "start_time": 10.200000000000001,
+      "end_time": 26.5,
+      "viet_words": [
+        "mua sắm",
+        "thích",
+        "cờ vua"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Actually, I'm not really someone who thích mua sắm either. But I think going mua sắm with you would be interesting. Maybe we could find a beautiful cờ vua set at the market? I know an antique shop that has many unique cờ vua sets.",
+      "start_time": 27.0,
+      "end_time": 50.0,
+      "viet_words": [
+        "mua sắm",
+        "thích",
+        "cờ vua"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Cờ vua? You know how to play cờ vua? Not many Americans know how to play cờ vua... I didn't think you were someone with the patience to learn this game. But if you really want to buy a cờ vua set, I'll help you choose a good one.",
+      "start_time": 50.5,
+      "end_time": 73.4,
+      "viet_words": [
+        "cờ vua"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "I'm not as good as you, but my grandfather taught me when I was young. He used to say that cờ vua helps people understand each other without many words. Perhaps... that's why I want to play cờ vua with you, Mira.",
+      "start_time": 73.9,
+      "end_time": 95.10000000000001,
+      "viet_words": [
+        "cờ vua"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Really? I... I don't know what to say. No one has ever wanted to understand me that way. But you should know, I'm not easy to defeat...",
+      "start_time": 95.60000000000001,
+      "end_time": 109.10000000000001,
+      "viet_words": []
+    }
+  ]
+}

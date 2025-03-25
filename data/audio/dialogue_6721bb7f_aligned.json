@@ -1,0 +1,473 @@
+{
+  "id": "6721bb7f",
+  "topic_word": "cờ vua",
+  "topic_word_translation": "chess",
+  "common_words": [
+    {
+      "word": "mua sắm",
+      "translation": "shopping"
+    },
+    {
+      "word": "thích",
+      "translation": "like/prefer"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Mira, do you",
+      "start_time": 0.06,
+      "end_time": 0.6225
+    },
+    {
+      "speaker": "Michael",
+      "text": "like",
+      "start_time": 0.6225,
+      "end_time": 0.91
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>mua sắm</vietnamese> at",
+      "start_time": 1.05,
+      "end_time": 2.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "Ben Thanh Market?",
+      "start_time": 2.04,
+      "end_time": 2.86
+    },
+    {
+      "speaker": "Michael",
+      "text": "I see many",
+      "start_time": 3.27,
+      "end_time": 3.72
+    },
+    {
+      "speaker": "Michael",
+      "text": "foreigners like to",
+      "start_time": 3.72,
+      "end_time": 4.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "buy souvenirs there.",
+      "start_time": 4.41,
+      "end_time": 5.35
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't",
+      "start_time": 5.55,
+      "end_time": 6.31
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>thích mua sắm</vietnamese>",
+      "start_time": 6.36,
+      "end_time": 7.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "much. <vietnamese>Mua sắm</vietnamese>",
+      "start_time": 7.29,
+      "end_time": 9.01
+    },
+    {
+      "speaker": "Mira",
+      "text": "wastes time and",
+      "start_time": 9.03,
+      "end_time": 10.11
+    },
+    {
+      "speaker": "Mira",
+      "text": "money. I <vietnamese>thích</vietnamese>",
+      "start_time": 10.11,
+      "end_time": 11.36
+    },
+    {
+      "speaker": "Mira",
+      "text": "spending time playing",
+      "start_time": 11.37,
+      "end_time": 12.94
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>cờ vua</vietnamese> more.",
+      "start_time": 12.99,
+      "end_time": 14.36
+    },
+    {
+      "speaker": "Mira",
+      "text": "But... if you",
+      "start_time": 14.37,
+      "end_time": 15.54
+    },
+    {
+      "speaker": "Mira",
+      "text": "want to go",
+      "start_time": 15.54,
+      "end_time": 16.270000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>mua sắm</vietnamese> with",
+      "start_time": 16.32,
+      "end_time": 17.37
+    },
+    {
+      "speaker": "Mira",
+      "text": "me, I might",
+      "start_time": 17.37,
+      "end_time": 18.09
+    },
+    {
+      "speaker": "Mira",
+      "text": "reconsider.",
+      "start_time": 18.09,
+      "end_time": 18.9
+    },
+    {
+      "speaker": "Michael",
+      "text": "Actually, I'm",
+      "start_time": 18.9,
+      "end_time": 19.59
+    },
+    {
+      "speaker": "Michael",
+      "text": "not really someone",
+      "start_time": 19.59,
+      "end_time": 20.16
+    },
+    {
+      "speaker": "Michael",
+      "text": "who <vietnamese>thích mua sắm</vietnamese>",
+      "start_time": 20.16,
+      "end_time": 22.09
+    },
+    {
+      "speaker": "Michael",
+      "text": "either. But I",
+      "start_time": 22.17,
+      "end_time": 22.485
+    },
+    {
+      "speaker": "Michael",
+      "text": "think",
+      "start_time": 22.485,
+      "end_time": 22.59
+    },
+    {
+      "speaker": "Michael",
+      "text": "going <vietnamese>mua sắm</vietnamese>",
+      "start_time": 22.59,
+      "end_time": 23.98
+    },
+    {
+      "speaker": "Michael",
+      "text": "with you would",
+      "start_time": 24.0,
+      "end_time": 24.54
+    },
+    {
+      "speaker": "Michael",
+      "text": "be interesting. Maybe",
+      "start_time": 24.54,
+      "end_time": 25.8
+    },
+    {
+      "speaker": "Michael",
+      "text": "we could find",
+      "start_time": 25.8,
+      "end_time": 26.25
+    },
+    {
+      "speaker": "Michael",
+      "text": "a beautiful <vietnamese>cờ vua</vietnamese>",
+      "start_time": 26.25,
+      "end_time": 27.889999999999997
+    },
+    {
+      "speaker": "Michael",
+      "text": "set at the",
+      "start_time": 27.9,
+      "end_time": 28.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "market? I know",
+      "start_time": 28.41,
+      "end_time": 28.98
+    },
+    {
+      "speaker": "Michael",
+      "text": "an antique shop",
+      "start_time": 28.98,
+      "end_time": 29.67
+    },
+    {
+      "speaker": "Michael",
+      "text": "that has many",
+      "start_time": 29.67,
+      "end_time": 30.18
+    },
+    {
+      "speaker": "Michael",
+      "text": "unique <vietnamese>cờ vua</vietnamese> sets.",
+      "start_time": 30.18,
+      "end_time": 30.9
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Cờ vua</vietnamese>? You know",
+      "start_time": 30.9,
+      "end_time": 32.84
+    },
+    {
+      "speaker": "Mira",
+      "text": "how to play",
+      "start_time": 32.84,
+      "end_time": 33.940000000000005
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>cờ vua</vietnamese>?",
+      "start_time": 34.41,
+      "end_time": 34.62
+    },
+    {
+      "speaker": "Mira",
+      "text": "Not many Americans",
+      "start_time": 34.62,
+      "end_time": 35.67
+    },
+    {
+      "speaker": "Mira",
+      "text": "know how to",
+      "start_time": 35.67,
+      "end_time": 36.435
+    },
+    {
+      "speaker": "Mira",
+      "text": "play",
+      "start_time": 36.435,
+      "end_time": 36.79
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>cờ vua</vietnamese>...",
+      "start_time": 37.35,
+      "end_time": 37.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "I didn't think",
+      "start_time": 37.5,
+      "end_time": 38.625
+    },
+    {
+      "speaker": "Mira",
+      "text": "you",
+      "start_time": 38.625,
+      "end_time": 39.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "were someone with",
+      "start_time": 39.0,
+      "end_time": 39.54
+    },
+    {
+      "speaker": "Mira",
+      "text": "the patience to",
+      "start_time": 39.54,
+      "end_time": 40.2
+    },
+    {
+      "speaker": "Mira",
+      "text": "learn this game.",
+      "start_time": 40.2,
+      "end_time": 41.050000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "But if you",
+      "start_time": 41.22,
+      "end_time": 41.61
+    },
+    {
+      "speaker": "Mira",
+      "text": "really want to",
+      "start_time": 41.61,
+      "end_time": 42.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "buy a <vietnamese>cờ vua</vietnamese>",
+      "start_time": 42.27,
+      "end_time": 43.12
+    },
+    {
+      "speaker": "Mira",
+      "text": "set, I'll",
+      "start_time": 43.12,
+      "end_time": 44.22
+    },
+    {
+      "speaker": "Mira",
+      "text": "help you choose",
+      "start_time": 44.22,
+      "end_time": 44.76
+    },
+    {
+      "speaker": "Mira",
+      "text": "a good one.",
+      "start_time": 44.76,
+      "end_time": 45.43
+    },
+    {
+      "speaker": "Michael",
+      "text": "I'm not as",
+      "start_time": 45.63,
+      "end_time": 46.02
+    },
+    {
+      "speaker": "Michael",
+      "text": "good as you,",
+      "start_time": 46.02,
+      "end_time": 46.660000000000004
+    },
+    {
+      "speaker": "Michael",
+      "text": "but my grandfather",
+      "start_time": 46.8,
+      "end_time": 47.67
+    },
+    {
+      "speaker": "Michael",
+      "text": "taught me when",
+      "start_time": 47.67,
+      "end_time": 48.15
+    },
+    {
+      "speaker": "Michael",
+      "text": "I was young.",
+      "start_time": 48.15,
+      "end_time": 48.82
+    },
+    {
+      "speaker": "Michael",
+      "text": "He used to",
+      "start_time": 49.2,
+      "end_time": 49.62
+    },
+    {
+      "speaker": "Michael",
+      "text": "say that <vietnamese>cờ vua</vietnamese>",
+      "start_time": 49.62,
+      "end_time": 51.17
+    },
+    {
+      "speaker": "Michael",
+      "text": "helps people understand",
+      "start_time": 51.18,
+      "end_time": 52.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "each other without",
+      "start_time": 52.2,
+      "end_time": 52.86
+    },
+    {
+      "speaker": "Michael",
+      "text": "many words. Perhaps...",
+      "start_time": 52.86,
+      "end_time": 55.09
+    },
+    {
+      "speaker": "Michael",
+      "text": "that's why I",
+      "start_time": 55.5,
+      "end_time": 56.01
+    },
+    {
+      "speaker": "Michael",
+      "text": "want to play",
+      "start_time": 56.01,
+      "end_time": 56.800000000000004
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>cờ vua</vietnamese> with you,",
+      "start_time": 56.85,
+      "end_time": 58.08
+    },
+    {
+      "speaker": "Michael",
+      "text": "Mira.",
+      "start_time": 58.08,
+      "end_time": 58.57
+    },
+    {
+      "speaker": "Mira",
+      "text": "Really? I...",
+      "start_time": 58.74,
+      "end_time": 60.93
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't know",
+      "start_time": 60.93,
+      "end_time": 61.2675
+    },
+    {
+      "speaker": "Mira",
+      "text": "what",
+      "start_time": 61.2675,
+      "end_time": 61.379999999999995
+    },
+    {
+      "speaker": "Mira",
+      "text": "to say. No",
+      "start_time": 61.38,
+      "end_time": 62.55
+    },
+    {
+      "speaker": "Mira",
+      "text": "one has ever",
+      "start_time": 62.55,
+      "end_time": 63.09
+    },
+    {
+      "speaker": "Mira",
+      "text": "wanted to understand",
+      "start_time": 63.09,
+      "end_time": 63.99
+    },
+    {
+      "speaker": "Mira",
+      "text": "me that way.",
+      "start_time": 63.99,
+      "end_time": 64.72
+    },
+    {
+      "speaker": "Mira",
+      "text": "But you should",
+      "start_time": 64.86,
+      "end_time": 65.37
+    },
+    {
+      "speaker": "Mira",
+      "text": "know, I'm not",
+      "start_time": 65.37,
+      "end_time": 66.32
+    },
+    {
+      "speaker": "Mira",
+      "text": "easy to defeat...",
+      "start_time": 66.33,
+      "end_time": 67.44999999999999
+    }
+  ]
+}

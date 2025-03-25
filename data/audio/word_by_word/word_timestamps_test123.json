@@ -1,0 +1,116 @@
+[
+  {
+    "word": "Hello",
+    "start": 0.0,
+    "end": 0.3,
+    "speaker": "Mira"
+  },
+  {
+    "word": "my",
+    "start": 0.4,
+    "end": 0.5,
+    "speaker": "Mira"
+  },
+  {
+    "word": "name",
+    "start": 0.6,
+    "end": 0.8,
+    "speaker": "Mira"
+  },
+  {
+    "word": "is",
+    "start": 0.9,
+    "end": 1.0,
+    "speaker": "Mira"
+  },
+  {
+    "word": "Mira",
+    "start": 1.1,
+    "end": 1.4,
+    "speaker": "Mira"
+  },
+  {
+    "word": "Do",
+    "start": 1.8,
+    "end": 1.9,
+    "speaker": "Mira"
+  },
+  {
+    "word": "you",
+    "start": 2.0,
+    "end": 2.1,
+    "speaker": "Mira"
+  },
+  {
+    "word": "speak",
+    "start": 2.2,
+    "end": 2.5,
+    "speaker": "Mira"
+  },
+  {
+    "word": "Vetnamse",
+    "start": 2.6,
+    "end": 3.0,
+    "speaker": "Mira"
+  },
+  {
+    "word": "Yes",
+    "start": 3.5,
+    "end": 3.7,
+    "speaker": "Michael"
+  },
+  {
+    "word": "learned",
+    "start": 3.8,
+    "end": 4.1,
+    "speaker": "Michael"
+  },
+  {
+    "word": "some",
+    "start": 4.2,
+    "end": 4.4,
+    "speaker": "Michael"
+  },
+  {
+    "word": "Vietnamese",
+    "start": 4.5,
+    "end": 4.9,
+    "speaker": "Michael"
+  },
+  {
+    "word": "phrases",
+    "start": 5.0,
+    "end": 5.3,
+    "speaker": "Michael"
+  },
+  {
+    "word": "Great",
+    "start": 5.8,
+    "end": 6.0,
+    "speaker": "Mira"
+  },
+  {
+    "word": "Let's",
+    "start": 6.1,
+    "end": 6.3,
+    "speaker": "Mira"
+  },
+  {
+    "word": "practice",
+    "start": 6.4,
+    "end": 6.7,
+    "speaker": "Mira"
+  },
+  {
+    "word": "xin",
+    "start": 6.8,
+    "end": 7.0,
+    "speaker": "Mira"
+  },
+  {
+    "word": "chào",
+    "start": 7.1,
+    "end": 7.4,
+    "speaker": "Mira"
+  }
+]

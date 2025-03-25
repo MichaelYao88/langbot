@@ -1,0 +1,25 @@
+{
+  "id": "test_001",
+  "topic_word": "cà phê",
+  "topic_word_translation": "coffee",
+  "common_words": [
+    {
+      "word": "cà phê",
+      "translation": "coffee"
+    },
+    {
+      "word": "ngon",
+      "translation": "delicious"
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I love Vietnamese cà phê. It's very ngon."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Yes, the coffee here is excellent!"
+    }
+  ]
+}

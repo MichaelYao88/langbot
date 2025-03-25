@@ -167,7 +167,7 @@ def generate_dialogue_with_anthropic(topic=None, topic_word=None):
     - They are interested in each other but are too shy to confess their feelings.
     
     The dialogue should:
-    1. Be 4-5 exchanges long (each character speaks 2-3 times)
+    1. Be 3-5 exchanges long (each character speaks 2-3 times). each response is 1-3 sentences.
     2. Be entirely in Vietnamese
     3. Be about the topic: {topic}
     4. Have a hook like {hook} or {hook2}
@@ -175,10 +175,10 @@ def generate_dialogue_with_anthropic(topic=None, topic_word=None):
     6. Be natural and conversational and not too intellectual. Avoid adverbs unless absolutely necessary.
     7. Avoid greetings and start with hooks
     8. Avoid this positive conversation ending that doesn't sound natural. Conversations should be with some tension and unresolved unless they are humorous.
-    9. Speakers can have short responses and long responses. Dialogue doesn't always need to be the same length.
-    10. Please make these dialogues as viral as possible. Employ strangeness, romantic tension, indirect/ambiguous flirtation, interesting facts, ambiguity, controversial topics/events, recent controversies, recent memes, and/or other viral elements.
+    9. Speakers should have short responses sometimes. Dialogue doesn't always need to be the same length.
+    10. Employ strangeness, romantic tension, indirect/ambiguous flirtation, interesting facts, ambiguity, controversial topics/events, recent controversies, recent memes, and/or other viral elements.
     11. Randomly decide who starts the conversation.
-    12. Make sure the dialogue is not too long. 30 seconds is ideal.
+    12. End it in a way that loops to the start or ends with a question.
 
     Format the dialogue as follows:
     Mira: [Vietnamese dialogue]

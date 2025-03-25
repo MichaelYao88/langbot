@@ -15,351 +15,363 @@
   "dialogue": [
     {
       "speaker": "Mira",
-      "text": "Vietnamese <vietnamese>âm nhạc</vietnamese>",
+      "text": "Vietnamese <vietnamese>âm nhạc</vietnamese> has",
       "start_time": 0.06,
-      "end_time": 1.38
+      "end_time": 1.46
     },
     {
       "speaker": "Mira",
-      "text": "has many",
-      "start_time": 1.38,
-      "end_time": 2.49
-    },
-    {
-      "speaker": "Mira",
-      "text": "beautiful songs,",
-      "start_time": 2.49,
-      "end_time": 3.93
+      "text": "many beautiful songs,",
+      "start_time": 1.47,
+      "end_time": 3.39
     },
     {
       "speaker": "Mira",
       "text": "but I don't",
-      "start_time": 3.93,
-      "end_time": 4.965
+      "start_time": 3.39,
+      "end_time": 4.38
     },
     {
       "speaker": "Mira",
       "text": "<vietnamese>hiểu</vietnamese>",
-      "start_time": 4.965,
-      "end_time": 5.409999999999999
+      "start_time": 4.38,
+      "end_time": 4.81
     },
     {
       "speaker": "Mira",
       "text": "all the lyrics.",
-      "start_time": 5.46,
-      "end_time": 6.55
+      "start_time": 4.89,
+      "end_time": 5.949999999999999
     },
     {
       "speaker": "Mira",
       "text": "I prefer classical",
-      "start_time": 6.78,
-      "end_time": 8.2
+      "start_time": 6.0,
+      "end_time": 7.27
     },
     {
       "speaker": "Mira",
       "text": "<vietnamese>nhạc</vietnamese>, it doesn't",
-      "start_time": 8.28,
-      "end_time": 9.120000000000001
+      "start_time": 7.35,
+      "end_time": 8.28
     },
     {
       "speaker": "Mira",
-      "text": "require understanding the",
-      "start_time": 9.13,
-      "end_time": 10.23
+      "text": "require understanding",
+      "start_time": 8.28,
+      "end_time": 9.45
+    },
+    {
+      "speaker": "Mira",
+      "text": "the words.",
+      "start_time": 9.45,
+      "end_time": 10.12
     },
     {
       "speaker": "Michael",
-      "text": "words. Classical <vietnamese>nhạc</vietnamese>?",
+      "text": "Classical <vietnamese>nhạc</vietnamese>?",
       "start_time": 10.23,
-      "end_time": 12.37
+      "end_time": 12.23
     },
     {
       "speaker": "Michael",
       "text": "Interesting. I think",
-      "start_time": 12.39,
-      "end_time": 13.33
+      "start_time": 12.24,
+      "end_time": 13.45
     },
     {
       "speaker": "Michael",
-      "text": "<vietnamese>âm nhạc</vietnamese> is",
-      "start_time": 13.47,
-      "end_time": 14.28
+      "text": "<vietnamese>âm nhạc</vietnamese> is a",
+      "start_time": 13.5,
+      "end_time": 14.19
     },
     {
       "speaker": "Michael",
-      "text": "a universal language,",
-      "start_time": 14.28,
-      "end_time": 15.32
+      "text": "universal language,",
+      "start_time": 14.19,
+      "end_time": 14.97
     },
     {
       "speaker": "Michael",
       "text": "even if you",
-      "start_time": 15.33,
-      "end_time": 15.72
+      "start_time": 14.97,
+      "end_time": 16.18
     },
     {
       "speaker": "Michael",
-      "text": "don't <vietnamese>hiểu</vietnamese> the",
-      "start_time": 15.72,
-      "end_time": 16.92
+      "text": "don't <vietnamese>hiểu</vietnamese> the lyrics.",
+      "start_time": 16.23,
+      "end_time": 16.89
     },
     {
       "speaker": "Michael",
-      "text": "lyrics. But Vietnamese",
-      "start_time": 16.92,
-      "end_time": 17.85
+      "text": "But Vietnamese <vietnamese>nhạc</vietnamese>",
+      "start_time": 16.89,
+      "end_time": 18.54
     },
     {
       "speaker": "Michael",
-      "text": "<vietnamese>nhạc</vietnamese> has",
-      "start_time": 17.85,
-      "end_time": 19.35
+      "text": "has its own",
+      "start_time": 18.54,
+      "end_time": 19.1475
     },
     {
       "speaker": "Michael",
-      "text": "its own soul,",
-      "start_time": 19.35,
-      "end_time": 20.26
+      "text": "soul,",
+      "start_time": 19.1475,
+      "end_time": 19.450000000000003
     },
     {
       "speaker": "Michael",
       "text": "just like how",
-      "start_time": 20.31,
-      "end_time": 20.88
+      "start_time": 19.47,
+      "end_time": 20.01
     },
     {
       "speaker": "Michael",
       "text": "Vietnamese people live.",
-      "start_time": 20.88,
-      "end_time": 22.09
+      "start_time": 20.01,
+      "end_time": 21.220000000000002
     },
     {
       "speaker": "Mira",
       "text": "Hmm, \"universal language\"",
-      "start_time": 23.25,
-      "end_time": 24.7575
+      "start_time": 22.47,
+      "end_time": 24.24
     },
     {
       "speaker": "Mira",
-      "text": "sounds",
-      "start_time": 24.7575,
-      "end_time": 25.26
+      "text": "sounds like an",
+      "start_time": 24.24,
+      "end_time": 24.9
     },
     {
       "speaker": "Mira",
-      "text": "like an empty",
-      "start_time": 25.26,
-      "end_time": 25.8
+      "text": "empty phrase from",
+      "start_time": 24.9,
+      "end_time": 26.07
     },
     {
       "speaker": "Mira",
-      "text": "phrase from globalists.",
-      "start_time": 25.8,
-      "end_time": 27.29
+      "text": "globalists.",
+      "start_time": 26.07,
+      "end_time": 26.560000000000002
     },
     {
       "speaker": "Mira",
       "text": "The <vietnamese>âm nhạc</vietnamese>",
-      "start_time": 27.3,
-      "end_time": 28.459999999999997
+      "start_time": 26.61,
+      "end_time": 27.96
     },
     {
       "speaker": "Mira",
       "text": "of each culture",
-      "start_time": 28.47,
-      "end_time": 29.31
+      "start_time": 27.96,
+      "end_time": 28.83
     },
     {
       "speaker": "Mira",
-      "text": "is different. In",
-      "start_time": 29.31,
-      "end_time": 30.21
+      "text": "is different.",
+      "start_time": 28.83,
+      "end_time": 30.169999999999998
     },
     {
       "speaker": "Mira",
-      "text": "Russia, our <vietnamese>âm</vietnamese>",
-      "start_time": 30.21,
-      "end_time": 31.77
+      "text": "In Russia, our",
+      "start_time": 30.18,
+      "end_time": 31.34
     },
     {
       "speaker": "Mira",
-      "text": "<vietnamese>nhạc</vietnamese> is deep",
-      "start_time": 31.77,
-      "end_time": 32.91
+      "text": "<vietnamese>âm nhạc</vietnamese> is deep",
+      "start_time": 31.35,
+      "end_time": 31.98
     },
     {
       "speaker": "Mira",
       "text": "and emotional...",
-      "start_time": 32.91,
-      "end_time": 34.76
+      "start_time": 31.98,
+      "end_time": 33.75
     },
     {
       "speaker": "Mira",
       "text": "not like modern",
-      "start_time": 34.76,
-      "end_time": 35.5775
+      "start_time": 33.75,
+      "end_time": 34.65
     },
     {
       "speaker": "Mira",
-      "text": "Western",
-      "start_time": 35.5775,
-      "end_time": 35.95
+      "text": "Western <vietnamese>nhạc</vietnamese>.",
+      "start_time": 34.65,
+      "end_time": 35.35
     },
     {
       "speaker": "Michael",
-      "text": "<vietnamese>nhạc</vietnamese>. Maybe you're",
-      "start_time": 36.06,
-      "end_time": 37.08
+      "text": "Maybe you're right",
+      "start_time": 35.43,
+      "end_time": 36.15
     },
     {
       "speaker": "Michael",
-      "text": "right about the",
-      "start_time": 37.08,
-      "end_time": 37.56
+      "text": "about the differences.",
+      "start_time": 36.15,
+      "end_time": 37.21
     },
     {
       "speaker": "Michael",
-      "text": "differences. But I",
-      "start_time": 37.56,
-      "end_time": 39.42
+      "text": "But I think",
+      "start_time": 37.47,
+      "end_time": 37.95
     },
     {
       "speaker": "Michael",
-      "text": "think that's the",
-      "start_time": 39.42,
-      "end_time": 39.96
+      "text": "that's the beauty",
+      "start_time": 37.95,
+      "end_time": 38.67
     },
     {
       "speaker": "Michael",
-      "text": "beauty of <vietnamese>âm</vietnamese>",
-      "start_time": 39.96,
-      "end_time": 41.22
+      "text": "of <vietnamese>âm nhạc</vietnamese> -",
+      "start_time": 38.67,
+      "end_time": 40.86
     },
     {
       "speaker": "Michael",
-      "text": "<vietnamese>nhạc</vietnamese> - it reflects",
-      "start_time": 41.22,
-      "end_time": 43.08
+      "text": "it reflects culture",
+      "start_time": 40.86,
+      "end_time": 42.3
     },
     {
       "speaker": "Michael",
-      "text": "culture but still",
-      "start_time": 43.08,
-      "end_time": 44.43
+      "text": "but still touches",
+      "start_time": 42.3,
+      "end_time": 43.56
     },
     {
       "speaker": "Michael",
-      "text": "touches everyone's emotions.",
-      "start_time": 44.43,
-      "end_time": 46.06
+      "text": "everyone's emotions.",
+      "start_time": 43.56,
+      "end_time": 46.5
     },
     {
       "speaker": "Michael",
       "text": "Hey, I have",
-      "start_time": 47.16,
-      "end_time": 48.36
+      "start_time": 46.5,
+      "end_time": 47.1
     },
     {
       "speaker": "Michael",
       "text": "a playlist of",
-      "start_time": 48.36,
-      "end_time": 49.02
+      "start_time": 47.1,
+      "end_time": 48.34
     },
     {
       "speaker": "Michael",
       "text": "Vietnamese classical <vietnamese>nhạc</vietnamese>",
-      "start_time": 49.02,
-      "end_time": 50.99
+      "start_time": 48.48,
+      "end_time": 49.53
     },
     {
       "speaker": "Michael",
       "text": "mixed with Russian",
-      "start_time": 51.0,
-      "end_time": 51.84
+      "start_time": 49.53,
+      "end_time": 50.9025
     },
     {
       "speaker": "Michael",
-      "text": "symphonies. Would you",
-      "start_time": 51.84,
-      "end_time": 53.440000000000005
+      "text": "symphonies.",
+      "start_time": 50.9025,
+      "end_time": 51.36
     },
     {
       "speaker": "Michael",
-      "text": "like to listen",
-      "start_time": 53.58,
-      "end_time": 54.15
+      "text": "Would you... like",
+      "start_time": 51.36,
+      "end_time": 52.56
     },
     {
       "speaker": "Michael",
-      "text": "to it with",
-      "start_time": 54.15,
-      "end_time": 54.5325
+      "text": "to listen to",
+      "start_time": 52.56,
+      "end_time": 52.98
     },
     {
       "speaker": "Michael",
-      "text": "me?",
-      "start_time": 54.5325,
-      "end_time": 54.76
+      "text": "it with me?",
+      "start_time": 52.98,
+      "end_time": 54.61
     },
     {
       "speaker": "Mira",
       "text": "Vietnamese <vietnamese>nhạc</vietnamese> mixed",
-      "start_time": 55.02,
-      "end_time": 56.85
+      "start_time": 54.81,
+      "end_time": 55.83
     },
     {
       "speaker": "Mira",
       "text": "with Russian <vietnamese>nhạc</vietnamese>?",
-      "start_time": 56.85,
-      "end_time": 58.21
+      "start_time": 55.83,
+      "end_time": 57.59
     },
     {
       "speaker": "Mira",
-      "text": "Sounds... strange. But",
-      "start_time": 58.23,
-      "end_time": 59.7
+      "text": "Sounds... strange.",
+      "start_time": 57.6,
+      "end_time": 58.8
     },
     {
       "speaker": "Mira",
-      "text": "I'm curious. Perhaps",
-      "start_time": 59.7,
-      "end_time": 61.45
+      "text": "But I'm curious.",
+      "start_time": 58.8,
+      "end_time": 60.81
     },
     {
       "speaker": "Mira",
-      "text": "<vietnamese>âm nhạc</vietnamese> isn't",
-      "start_time": 61.56,
-      "end_time": 62.61
+      "text": "Perhaps <vietnamese>âm nhạc</vietnamese>",
+      "start_time": 60.81,
+      "end_time": 62.04
     },
     {
       "speaker": "Mira",
-      "text": "exactly what I",
-      "start_time": 62.61,
-      "end_time": 63.39
+      "text": "isn't exactly what",
+      "start_time": 62.04,
+      "end_time": 62.83
     },
     {
       "speaker": "Mira",
-      "text": "thought. Send me",
-      "start_time": 63.39,
-      "end_time": 64.71
+      "text": "I thought.",
+      "start_time": 63.36,
+      "end_time": 63.84
     },
     {
       "speaker": "Mira",
-      "text": "the playlist, and...",
-      "start_time": 64.71,
-      "end_time": 65.97999999999999
+      "text": "Send me the",
+      "start_time": 63.84,
+      "end_time": 65.30250000000001
     },
     {
       "speaker": "Mira",
-      "text": "I'll think about",
-      "start_time": 66.48,
-      "end_time": 66.96
+      "text": "playlist,",
+      "start_time": 65.30250000000001,
+      "end_time": 65.79
     },
     {
       "speaker": "Mira",
-      "text": "listening with you.",
-      "start_time": 66.96,
-      "end_time": 67.99
+      "text": "and... I'll think",
+      "start_time": 65.79,
+      "end_time": 66.63
+    },
+    {
+      "speaker": "Mira",
+      "text": "about listening with",
+      "start_time": 66.63,
+      "end_time": 66.99
+    },
+    {
+      "speaker": "Mira",
+      "text": "you.",
+      "start_time": 66.99,
+      "end_time": 67.21
     }
   ]
 }

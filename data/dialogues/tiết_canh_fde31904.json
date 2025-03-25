@@ -1,0 +1,60 @@
+{
+  "id": "fde31904",
+  "timestamp": 1742902267,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Này Mira, tớ tò mò muốn biết món ăn Việt Nam nào mà cậu ghét nhất vậy?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm, món ăn mà tớ ghét à? Có lẽ là tiết canh. Tớ không thể chịu nổi việc ăn máu đông cứng. Thật kỳ lạ khi người Việt Nam lại thích món đó. Còn cậu thì sao, Michael?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Ồ, tiết canh cũng là nỗi ám ảnh của tớ đấy! Lần đầu tiên bố tớ đưa tớ ăn thử, tớ đã phải chạy đi tìm chỗ nôn. Cậu biết không, ở Mỹ chúng tôi không có thói quen ăn máu động vật kiểu này."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Thật sao? Tớ tưởng người Mỹ gốc Việt như cậu sẽ quen với mọi món ăn Việt Nam chứ. Nhưng tớ hiểu cảm giác đó. Ở Nga, chúng tôi có món súp máu nhưng nó được nấu chín, không sống như tiết canh. À mà... tớ nghe nói cậu đang tổ chức một buổi tiệc cuối tuần này?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Đúng vậy! Tớ đang tổ chức một buổi tiệc nhỏ tại nhà. Cậu có muốn đến không? Tớ hứa sẽ không có tiết canh hay bất kỳ món máu nào đâu... Trừ khi cậu muốn tớ làm món \"Bloody Mary\"?"
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Hey Mira, I'm curious to know what's your least favorite Vietnamese food?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm, food that I hate? Probably tiết canh. I can't stand eating congealed máu. It's strange how Vietnamese people like that món. What about you, Michael?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Oh, tiết canh is my nightmare too! The first time my dad took me to try it, I had to run away to find a place to throw up. You know, in America we don't have the habit of eating animal máu like this."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Really? I thought Vietnamese-Americans like you would be used to all Vietnamese món. But I understand that feeling. In Russia, we have blood soup but it's cooked, not raw like tiết canh. By the way... I heard you're organizing a party this weekend?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's right! I'm hosting a small party at my place. Would you like to come? I promise there won't be any tiết canh or any blood món... Unless you want me to make a \"Bloody Mary\"?"
+    }
+  ],
+  "topic_word": "tiết canh",
+  "topic_word_translation": "blood pudding",
+  "common_words": [
+    {
+      "word": "máu",
+      "translation": "blood"
+    },
+    {
+      "word": "món",
+      "translation": "dish/food"
+    }
+  ]
+}

@@ -1,0 +1,1028 @@
+[
+  {
+    "word": "vietnamese",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "âm",
+    "speaker": "Mira",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "nhạc",
+    "speaker": "Mira",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "has",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "many",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "beautiful",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "songs",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "but",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "i",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "don",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "t",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "hiểu",
+    "speaker": "Mira",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "all",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "the",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "lyrics",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "i",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "prefer",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "classical",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "nhạc",
+    "speaker": "Mira",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "it",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "doesn",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "t",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "require",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "understanding",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "the",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "words",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "classical",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "nhạc",
+    "speaker": "Michael",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "interesting",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "i",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "think",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "âm",
+    "speaker": "Michael",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "nhạc",
+    "speaker": "Michael",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "is",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "a",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "universal",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "language",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "even",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "if",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "you",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "don",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "t",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "hiểu",
+    "speaker": "Michael",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "the",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "lyrics",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "but",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "vietnamese",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "nhạc",
+    "speaker": "Michael",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "has",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "its",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "own",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "soul",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "just",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "like",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "how",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "vietnamese",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "people",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "live",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "hmm",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "universal",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "language",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "sounds",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "like",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "an",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "empty",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "phrase",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "from",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "globalists",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "the",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "âm",
+    "speaker": "Mira",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "nhạc",
+    "speaker": "Mira",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "of",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "each",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "culture",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "is",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "different",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "in",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "russia",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "our",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "âm",
+    "speaker": "Mira",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "nhạc",
+    "speaker": "Mira",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "is",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "deep",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "and",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "emotional",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "not",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "like",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "modern",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "western",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "nhạc",
+    "speaker": "Mira",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "maybe",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "you",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "re",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "right",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "about",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "the",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "differences",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "but",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "i",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "think",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "that",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "s",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "the",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "beauty",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "of",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "âm",
+    "speaker": "Michael",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "nhạc",
+    "speaker": "Michael",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "it",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "reflects",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "culture",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "but",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "still",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "touches",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "everyone",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "s",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "emotions",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "hey",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "i",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "have",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "a",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "playlist",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "of",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "vietnamese",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "classical",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "nhạc",
+    "speaker": "Michael",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "mixed",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "with",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "russian",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "symphonies",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "would",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "you",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "like",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "to",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "listen",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "to",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "it",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "with",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "me",
+    "speaker": "Michael",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "vietnamese",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "nhạc",
+    "speaker": "Mira",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "mixed",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "with",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "russian",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "nhạc",
+    "speaker": "Mira",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "sounds",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "strange",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "but",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "i",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "m",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "curious",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "perhaps",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "âm",
+    "speaker": "Mira",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "nhạc",
+    "speaker": "Mira",
+    "is_vietnamese": true,
+    "source": "dialogue"
+  },
+  {
+    "word": "isn",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "t",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "exactly",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "what",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "i",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "thought",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "send",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "me",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "the",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "playlist",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "and",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "i",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "ll",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "think",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "about",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "listening",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "with",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  },
+  {
+    "word": "you",
+    "speaker": "Mira",
+    "is_vietnamese": false,
+    "source": "dialogue"
+  }
+]

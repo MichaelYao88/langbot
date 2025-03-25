@@ -1,0 +1,1129 @@
+{
+  "id": "6fef2629",
+  "topic_word": "bảo thủ",
+  "topic_word_translation": "conservative",
+  "common_words": [
+    {
+      "word": "làm việc",
+      "translation": "to work"
+    },
+    {
+      "word": "hiểu",
+      "translation": "to understand"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "my parents are",
+      "start_time": 0.06,
+      "end_time": 0.81,
+      "word_timestamps": [
+        {
+          "word": "my",
+          "start": 0.06,
+          "end": 0.21
+        },
+        {
+          "word": "parents",
+          "start": 0.21,
+          "end": 0.57
+        },
+        {
+          "word": "are",
+          "start": 0.57,
+          "end": 0.81
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "bound to they",
+      "start_time": 1.05,
+      "end_time": 2.04,
+      "word_timestamps": [
+        {
+          "word": "bound",
+          "start": 1.05,
+          "end": 1.371527
+        },
+        {
+          "word": "to",
+          "start": 1.371527,
+          "end": 1.77
+        },
+        {
+          "word": "they",
+          "start": 1.89,
+          "end": 2.04
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "think people that",
+      "start_time": 2.04,
+      "end_time": 2.61,
+      "word_timestamps": [
+        {
+          "word": "think",
+          "start": 2.04,
+          "end": 2.22
+        },
+        {
+          "word": "people",
+          "start": 2.22,
+          "end": 2.46
+        },
+        {
+          "word": "that",
+          "start": 2.46,
+          "end": 2.61
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "don't love via",
+      "start_time": 2.61,
+      "end_time": 3.84,
+      "word_timestamps": [
+        {
+          "word": "don't",
+          "start": 2.61,
+          "end": 2.97
+        },
+        {
+          "word": "love",
+          "start": 3.24,
+          "end": 3.545959
+        },
+        {
+          "word": "via",
+          "start": 3.545959,
+          "end": 3.84
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "don't deserve anything",
+      "start_time": 3.99,
+      "end_time": 5.04,
+      "word_timestamps": [
+        {
+          "word": "don't",
+          "start": 3.99,
+          "end": 4.23
+        },
+        {
+          "word": "deserve",
+          "start": 4.23,
+          "end": 4.56
+        },
+        {
+          "word": "anything",
+          "start": 4.56,
+          "end": 5.04
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "i'm he'll that",
+      "start_time": 5.28,
+      "end_time": 6.69,
+      "word_timestamps": [
+        {
+          "word": "i'm",
+          "start": 5.28,
+          "end": 5.61
+        },
+        {
+          "word": "he'll",
+          "start": 5.76,
+          "end": 6.33
+        },
+        {
+          "word": "that",
+          "start": 6.45,
+          "end": 6.69
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "feeling my parents",
+      "start_time": 6.69,
+      "end_time": 7.8,
+      "word_timestamps": [
+        {
+          "word": "feeling",
+          "start": 6.69,
+          "end": 7.17
+        },
+        {
+          "word": "my",
+          "start": 7.26,
+          "end": 7.44
+        },
+        {
+          "word": "parents",
+          "start": 7.44,
+          "end": 7.8
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "and russia are",
+      "start_time": 7.8,
+      "end_time": 8.34,
+      "word_timestamps": [
+        {
+          "word": "and",
+          "start": 7.8,
+          "end": 7.89
+        },
+        {
+          "word": "russia",
+          "start": 7.89,
+          "end": 8.31
+        },
+        {
+          "word": "are",
+          "start": 8.31,
+          "end": 8.34
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "also bow pool",
+      "start_time": 8.34,
+      "end_time": 9.75,
+      "word_timestamps": [
+        {
+          "word": "also",
+          "start": 8.34,
+          "end": 8.85
+        },
+        {
+          "word": "bow",
+          "start": 9.03,
+          "end": 9.3
+        },
+        {
+          "word": "pool",
+          "start": 9.304341,
+          "end": 9.75
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "like that they",
+      "start_time": 9.9,
+      "end_time": 10.74,
+      "word_timestamps": [
+        {
+          "word": "like",
+          "start": 9.9,
+          "end": 10.14
+        },
+        {
+          "word": "that",
+          "start": 10.14,
+          "end": 10.44
+        },
+        {
+          "word": "they",
+          "start": 10.53,
+          "end": 10.74
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "always say if",
+      "start_time": 10.74,
+      "end_time": 11.61,
+      "word_timestamps": [
+        {
+          "word": "always",
+          "start": 10.74,
+          "end": 11.22
+        },
+        {
+          "word": "say",
+          "start": 11.22,
+          "end": 11.49
+        },
+        {
+          "word": "if",
+          "start": 11.49,
+          "end": 11.61
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "you don't work",
+      "start_time": 11.61,
+      "end_time": 12.33,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 11.61,
+          "end": 11.7
+        },
+        {
+          "word": "don't",
+          "start": 11.7,
+          "end": 11.97
+        },
+        {
+          "word": "work",
+          "start": 11.97,
+          "end": 12.33
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "you don't",
+      "start_time": 12.33,
+      "end_time": 12.75,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 12.33,
+          "end": 12.45
+        },
+        {
+          "word": "don't",
+          "start": 12.45,
+          "end": 12.75
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "need really i",
+      "start_time": 12.75,
+      "end_time": 14.7,
+      "word_timestamps": [
+        {
+          "word": "need",
+          "start": 12.75,
+          "end": 13.08
+        },
+        {
+          "word": "really",
+          "start": 13.32,
+          "end": 13.8
+        },
+        {
+          "word": "i",
+          "start": 14.58,
+          "end": 14.7
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "didn't expect russian",
+      "start_time": 14.7,
+      "end_time": 15.66,
+      "word_timestamps": [
+        {
+          "word": "didn't",
+          "start": 14.7,
+          "end": 14.88
+        },
+        {
+          "word": "expect",
+          "start": 14.88,
+          "end": 15.27
+        },
+        {
+          "word": "russian",
+          "start": 15.27,
+          "end": 15.66
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "and vietnamese families",
+      "start_time": 15.66,
+      "end_time": 16.71,
+      "word_timestamps": [
+        {
+          "word": "and",
+          "start": 15.66,
+          "end": 15.778861
+        },
+        {
+          "word": "vietnamese",
+          "start": 15.778861,
+          "end": 16.29
+        },
+        {
+          "word": "families",
+          "start": 16.29,
+          "end": 16.71
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "would have that",
+      "start_time": 16.71,
+      "end_time": 17.22,
+      "word_timestamps": [
+        {
+          "word": "would",
+          "start": 16.71,
+          "end": 16.83
+        },
+        {
+          "word": "have",
+          "start": 16.83,
+          "end": 17.04
+        },
+        {
+          "word": "that",
+          "start": 17.04,
+          "end": 17.22
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "in common but",
+      "start_time": 17.22,
+      "end_time": 19.02,
+      "word_timestamps": [
+        {
+          "word": "in",
+          "start": 17.22,
+          "end": 17.31
+        },
+        {
+          "word": "common",
+          "start": 17.31,
+          "end": 17.76
+        },
+        {
+          "word": "but",
+          "start": 18.84,
+          "end": 19.02
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "sometimes i think",
+      "start_time": 19.02,
+      "end_time": 19.71,
+      "word_timestamps": [
+        {
+          "word": "sometimes",
+          "start": 19.02,
+          "end": 19.44
+        },
+        {
+          "word": "i",
+          "start": 19.44,
+          "end": 19.5
+        },
+        {
+          "word": "think",
+          "start": 19.5,
+          "end": 19.71
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "they're too strict",
+      "start_time": 19.71,
+      "end_time": 20.55,
+      "word_timestamps": [
+        {
+          "word": "they're",
+          "start": 19.71,
+          "end": 19.83
+        },
+        {
+          "word": "too",
+          "start": 19.83,
+          "end": 20.01
+        },
+        {
+          "word": "strict",
+          "start": 20.01,
+          "end": 20.55
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "life isn't just",
+      "start_time": 20.7,
+      "end_time": 21.48,
+      "word_timestamps": [
+        {
+          "word": "life",
+          "start": 20.7,
+          "end": 21.0
+        },
+        {
+          "word": "isn't",
+          "start": 21.0,
+          "end": 21.21
+        },
+        {
+          "word": "just",
+          "start": 21.21,
+          "end": 21.48
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "about via",
+      "start_time": 21.48,
+      "end_time": 22.71,
+      "word_timestamps": [
+        {
+          "word": "about",
+          "start": 21.48,
+          "end": 21.84
+        },
+        {
+          "word": "via",
+          "start": 22.41,
+          "end": 22.71
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "agreed but i",
+      "start_time": 22.92,
+      "end_time": 23.88,
+      "word_timestamps": [
+        {
+          "word": "agreed",
+          "start": 22.92,
+          "end": 23.46
+        },
+        {
+          "word": "but",
+          "start": 23.55,
+          "end": 23.76
+        },
+        {
+          "word": "i",
+          "start": 23.76,
+          "end": 23.88
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "think latvia is",
+      "start_time": 23.88,
+      "end_time": 25.35,
+      "word_timestamps": [
+        {
+          "word": "think",
+          "start": 23.88,
+          "end": 24.21
+        },
+        {
+          "word": "latvia",
+          "start": 24.45,
+          "end": 24.99
+        },
+        {
+          "word": "is",
+          "start": 25.17,
+          "end": 25.35
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "important to it",
+      "start_time": 25.35,
+      "end_time": 26.49,
+      "word_timestamps": [
+        {
+          "word": "important",
+          "start": 25.35,
+          "end": 25.86
+        },
+        {
+          "word": "to",
+          "start": 25.86,
+          "end": 26.22
+        },
+        {
+          "word": "it",
+          "start": 26.34,
+          "end": 26.49
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "gives us purpose",
+      "start_time": 26.49,
+      "end_time": 27.33,
+      "word_timestamps": [
+        {
+          "word": "gives",
+          "start": 26.49,
+          "end": 26.73
+        },
+        {
+          "word": "us",
+          "start": 26.73,
+          "end": 26.88
+        },
+        {
+          "word": "purpose",
+          "start": 26.88,
+          "end": 27.33
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "in",
+      "start_time": 27.33,
+      "end_time": 27.45,
+      "word_timestamps": [
+        {
+          "word": "in",
+          "start": 27.33,
+          "end": 27.45
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "life you're right",
+      "start_time": 27.45,
+      "end_time": 28.5,
+      "word_timestamps": [
+        {
+          "word": "life",
+          "start": 27.45,
+          "end": 27.81
+        },
+        {
+          "word": "you're",
+          "start": 28.08,
+          "end": 28.23
+        },
+        {
+          "word": "right",
+          "start": 28.23,
+          "end": 28.5
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "i just want",
+      "start_time": 28.74,
+      "end_time": 29.19,
+      "word_timestamps": [
+        {
+          "word": "i",
+          "start": 28.74,
+          "end": 28.86
+        },
+        {
+          "word": "just",
+          "start": 28.86,
+          "end": 29.04
+        },
+        {
+          "word": "want",
+          "start": 29.04,
+          "end": 29.19
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "to find balance",
+      "start_time": 29.19,
+      "end_time": 29.94,
+      "word_timestamps": [
+        {
+          "word": "to",
+          "start": 29.19,
+          "end": 29.25
+        },
+        {
+          "word": "find",
+          "start": 29.25,
+          "end": 29.49
+        },
+        {
+          "word": "balance",
+          "start": 29.49,
+          "end": 29.94
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "my parents love",
+      "start_time": 30.42,
+      "end_time": 31.65,
+      "word_timestamps": [
+        {
+          "word": "my",
+          "start": 30.42,
+          "end": 30.6
+        },
+        {
+          "word": "parents",
+          "start": 30.6,
+          "end": 31.14
+        },
+        {
+          "word": "love",
+          "start": 31.35,
+          "end": 31.65
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "via their whole",
+      "start_time": 31.65,
+      "end_time": 32.49,
+      "word_timestamps": [
+        {
+          "word": "via",
+          "start": 31.65,
+          "end": 31.95
+        },
+        {
+          "word": "their",
+          "start": 32.1,
+          "end": 32.28
+        },
+        {
+          "word": "whole",
+          "start": 32.28,
+          "end": 32.49
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "lives to give",
+      "start_time": 32.49,
+      "end_time": 33.12,
+      "word_timestamps": [
+        {
+          "word": "lives",
+          "start": 32.49,
+          "end": 32.88
+        },
+        {
+          "word": "to",
+          "start": 32.88,
+          "end": 32.97
+        },
+        {
+          "word": "give",
+          "start": 32.97,
+          "end": 33.12
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "me opportunities but",
+      "start_time": 33.12,
+      "end_time": 34.26,
+      "word_timestamps": [
+        {
+          "word": "me",
+          "start": 33.12,
+          "end": 33.21
+        },
+        {
+          "word": "opportunities",
+          "start": 33.21,
+          "end": 33.93
+        },
+        {
+          "word": "but",
+          "start": 34.11,
+          "end": 34.26
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "they don't heal",
+      "start_time": 34.26,
+      "end_time": 35.34,
+      "word_timestamps": [
+        {
+          "word": "they",
+          "start": 34.26,
+          "end": 34.38
+        },
+        {
+          "word": "don't",
+          "start": 34.38,
+          "end": 34.68
+        },
+        {
+          "word": "heal",
+          "start": 34.95,
+          "end": 35.34
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "why i want",
+      "start_time": 35.46,
+      "end_time": 36.12,
+      "word_timestamps": [
+        {
+          "word": "why",
+          "start": 35.46,
+          "end": 35.82
+        },
+        {
+          "word": "i",
+          "start": 35.82,
+          "end": 35.91
+        },
+        {
+          "word": "want",
+          "start": 35.91,
+          "end": 36.12
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "to pursue my",
+      "start_time": 36.12,
+      "end_time": 36.63,
+      "word_timestamps": [
+        {
+          "word": "to",
+          "start": 36.12,
+          "end": 36.21
+        },
+        {
+          "word": "pursue",
+          "start": 36.21,
+          "end": 36.48
+        },
+        {
+          "word": "my",
+          "start": 36.48,
+          "end": 36.63
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "passion instead of",
+      "start_time": 36.63,
+      "end_time": 37.38,
+      "word_timestamps": [
+        {
+          "word": "passion",
+          "start": 36.63,
+          "end": 37.02
+        },
+        {
+          "word": "instead",
+          "start": 37.02,
+          "end": 37.29
+        },
+        {
+          "word": "of",
+          "start": 37.29,
+          "end": 37.38
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "a stable job",
+      "start_time": 37.38,
+      "end_time": 38.25,
+      "word_timestamps": [
+        {
+          "word": "a",
+          "start": 37.38,
+          "end": 37.41
+        },
+        {
+          "word": "stable",
+          "start": 37.41,
+          "end": 37.8
+        },
+        {
+          "word": "job",
+          "start": 37.8,
+          "end": 38.25
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "our",
+      "start_time": 38.64,
+      "end_time": 38.88,
+      "word_timestamps": [
+        {
+          "word": "our",
+          "start": 38.64,
+          "end": 38.88
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "he'll that feeling",
+      "start_time": 39.0,
+      "end_time": 40.32,
+      "word_timestamps": [
+        {
+          "word": "he'll",
+          "start": 39.0,
+          "end": 39.57
+        },
+        {
+          "word": "that",
+          "start": 39.72,
+          "end": 39.93
+        },
+        {
+          "word": "feeling",
+          "start": 39.93,
+          "end": 40.32
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "of being caught",
+      "start_time": 40.32,
+      "end_time": 41.22,
+      "word_timestamps": [
+        {
+          "word": "of",
+          "start": 40.32,
+          "end": 40.44
+        },
+        {
+          "word": "being",
+          "start": 40.44,
+          "end": 40.77
+        },
+        {
+          "word": "caught",
+          "start": 40.8,
+          "end": 41.22
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "between two worlds",
+      "start_time": 41.28,
+      "end_time": 42.42,
+      "word_timestamps": [
+        {
+          "word": "between",
+          "start": 41.28,
+          "end": 41.64
+        },
+        {
+          "word": "two",
+          "start": 41.64,
+          "end": 41.82
+        },
+        {
+          "word": "worlds",
+          "start": 41.82,
+          "end": 42.42
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "what do you",
+      "start_time": 43.44,
+      "end_time": 43.8,
+      "word_timestamps": [
+        {
+          "word": "what",
+          "start": 43.44,
+          "end": 43.62
+        },
+        {
+          "word": "do",
+          "start": 43.62,
+          "end": 43.68
+        },
+        {
+          "word": "you",
+          "start": 43.68,
+          "end": 43.8
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "think you'll do",
+      "start_time": 43.8,
+      "end_time": 44.52,
+      "word_timestamps": [
+        {
+          "word": "think",
+          "start": 43.8,
+          "end": 44.07
+        },
+        {
+          "word": "you'll",
+          "start": 44.07,
+          "end": 44.25
+        },
+        {
+          "word": "do",
+          "start": 44.25,
+          "end": 44.52
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "to convince your",
+      "start_time": 44.52,
+      "end_time": 45.6,
+      "word_timestamps": [
+        {
+          "word": "to",
+          "start": 44.52,
+          "end": 44.88
+        },
+        {
+          "word": "convince",
+          "start": 44.88,
+          "end": 45.45
+        },
+        {
+          "word": "your",
+          "start": 45.45,
+          "end": 45.6
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "parents about your",
+      "start_time": 45.6,
+      "end_time": 46.56,
+      "word_timestamps": [
+        {
+          "word": "parents",
+          "start": 45.6,
+          "end": 46.17
+        },
+        {
+          "word": "about",
+          "start": 46.17,
+          "end": 46.41
+        },
+        {
+          "word": "your",
+          "start": 46.41,
+          "end": 46.56
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "path",
+      "start_time": 46.56,
+      "end_time": 47.01,
+      "word_timestamps": [
+        {
+          "word": "path",
+          "start": 46.56,
+          "end": 47.01
+        }
+      ],
+      "viet_words": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "ce7629cc",
+  "topic_word": "âm nhạc",
+  "topic_word_translation": "music",
+  "common_words": [
+    {
+      "word": "nhạc",
+      "translation": "music"
+    },
+    {
+      "word": "hiểu",
+      "translation": "understand"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese âm nhạc has many beautiful songs, but I don't hiểu all the lyrics. I prefer classical nhạc, it doesn't require understanding the words.",
+      "start_time": 0.0,
+      "end_time": 10.852,
+      "viet_words": [
+        "âm nhạc",
+        "hiểu",
+        "nhạc"
+      ],
+      "segments": [
+        {
+          "text": "Vietnamese",
+          "is_vietnamese": false,
+          "start_time": 0.0,
+          "end_time": 0.862
+        },
+        {
+          "text": "âm nhạc",
+          "is_vietnamese": true,
+          "start_time": 0.863,
+          "end_time": 1.698
+        },
+        {
+          "text": "has many beautiful songs, but I don't",
+          "is_vietnamese": false,
+          "start_time": 1.699,
+          "end_time": 4.155
+        },
+        {
+          "text": "hiểu",
+          "is_vietnamese": true,
+          "start_time": 4.156,
+          "end_time": 4.971
+        },
+        {
+          "text": "all the lyrics. I prefer classical",
+          "is_vietnamese": false,
+          "start_time": 4.972,
+          "end_time": 7.845
+        },
+        {
+          "text": "nhạc",
+          "is_vietnamese": true,
+          "start_time": 7.846,
+          "end_time": 8.526
+        },
+        {
+          "text": "it doesn't require understanding the words.",
+          "is_vietnamese": false,
+          "start_time": 8.527,
+          "end_time": 10.852
+        }
+      ]
+    }
+  ]
+} 

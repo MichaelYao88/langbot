@@ -1,0 +1,286 @@
+{
+  "id": "ce7629cc",
+  "topic_word": "âm nhạc",
+  "topic_word_translation": "music",
+  "common_words": [
+    {
+      "word": "nhạc",
+      "translation": "music"
+    },
+    {
+      "word": "hiểu",
+      "translation": "understand"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese âm nhạc has many beautiful songs, but I don't hiểu all the lyrics. I prefer classical nhạc, it doesn't require understanding the words.",
+      "start_time": 0.0,
+      "end_time": 10.852,
+      "viet_words": [
+        "âm nhạc",
+        "hiểu",
+        "nhạc,"
+      ],
+      "segments": [
+        {
+          "text": "Vietnamese",
+          "is_vietnamese": false,
+          "start_time": 0.0,
+          "end_time": 0.862
+        },
+        {
+          "text": "âm nhạc",
+          "is_vietnamese": true,
+          "start_time": 0.863,
+          "end_time": 1.698
+        },
+        {
+          "text": "has many beautiful songs, but I don't",
+          "is_vietnamese": false,
+          "start_time": 1.699,
+          "end_time": 4.155
+        },
+        {
+          "text": "hiểu",
+          "is_vietnamese": true,
+          "start_time": 4.156,
+          "end_time": 4.971
+        },
+        {
+          "text": "all the lyrics. I prefer classical",
+          "is_vietnamese": false,
+          "start_time": 4.972,
+          "end_time": 7.845
+        },
+        {
+          "text": "nhạc,",
+          "is_vietnamese": true,
+          "start_time": 7.846,
+          "end_time": 8.526
+        },
+        {
+          "text": "it doesn't require understanding the words.",
+          "is_vietnamese": false,
+          "start_time": 8.527,
+          "end_time": 10.852
+        }
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Classical nhạc? Interesting. I think âm nhạc is a universal language, even if you don't hiểu the lyrics. But Vietnamese nhạc has its own soul, just like how Vietnamese people live.",
+      "start_time": 10.902,
+      "end_time": 22.413,
+      "viet_words": [
+        "nhạc?",
+        "âm nhạc",
+        "hiểu",
+        "nhạc"
+      ],
+      "segments": [
+        {
+          "text": "Classical",
+          "is_vietnamese": false,
+          "start_time": 0.0,
+          "end_time": 0.784
+        },
+        {
+          "text": "nhạc?",
+          "is_vietnamese": true,
+          "start_time": 0.785,
+          "end_time": 1.445
+        },
+        {
+          "text": "Interesting. I think",
+          "is_vietnamese": false,
+          "start_time": 1.446,
+          "end_time": 2.543
+        },
+        {
+          "text": "âm nhạc",
+          "is_vietnamese": true,
+          "start_time": 2.544,
+          "end_time": 3.299
+        },
+        {
+          "text": "is a universal language, even if you don't",
+          "is_vietnamese": false,
+          "start_time": 3.3,
+          "end_time": 5.468
+        },
+        {
+          "text": "hiểu",
+          "is_vietnamese": true,
+          "start_time": 5.469,
+          "end_time": 6.094
+        },
+        {
+          "text": "the lyrics. But Vietnamese",
+          "is_vietnamese": false,
+          "start_time": 6.095,
+          "end_time": 7.793
+        },
+        {
+          "text": "nhạc",
+          "is_vietnamese": true,
+          "start_time": 7.794,
+          "end_time": 8.454
+        },
+        {
+          "text": "has its own soul, just like how Vietnamese people live.",
+          "is_vietnamese": false,
+          "start_time": 8.455,
+          "end_time": 11.511
+        }
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm, \"universal language\" sounds like an empty phrase from globalists. The âm nhạc of each culture is different. In Russia, our âm nhạc is deep and emotional... not like modern Western nhạc.",
+      "start_time": 22.463,
+      "end_time": 34.901,
+      "viet_words": [
+        "âm nhạc",
+        "âm nhạc",
+        "nhạc."
+      ],
+      "segments": [
+        {
+          "text": "Hmm, \"universal language\" sounds like an empty phrase from globalists. The",
+          "is_vietnamese": false,
+          "start_time": 0.0,
+          "end_time": 4.624
+        },
+        {
+          "text": "âm nhạc",
+          "is_vietnamese": true,
+          "start_time": 4.625,
+          "end_time": 5.46
+        },
+        {
+          "text": "of each culture is different. In Russia, our",
+          "is_vietnamese": false,
+          "start_time": 5.461,
+          "end_time": 8.099
+        },
+        {
+          "text": "âm nhạc",
+          "is_vietnamese": true,
+          "start_time": 8.1,
+          "end_time": 8.935
+        },
+        {
+          "text": "is deep and emotional... not like modern Western",
+          "is_vietnamese": false,
+          "start_time": 8.936,
+          "end_time": 11.757
+        },
+        {
+          "text": "nhạc.",
+          "is_vietnamese": true,
+          "start_time": 11.758,
+          "end_time": 12.438
+        }
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Maybe you're right about the differences. But I think that's the beauty of âm nhạc - it reflects culture but still touches everyone's emotions. Hey, I have a playlist of Vietnamese classical nhạc mixed with Russian symphonies. Would you... like to listen to it with me?",
+      "start_time": 34.951,
+      "end_time": 52.069,
+      "viet_words": [
+        "âm nhạc",
+        "nhạc"
+      ],
+      "segments": [
+        {
+          "text": "Maybe you're right about the differences. But I think that's the beauty of",
+          "is_vietnamese": false,
+          "start_time": 0.0,
+          "end_time": 3.37
+        },
+        {
+          "text": "âm nhạc",
+          "is_vietnamese": true,
+          "start_time": 3.371,
+          "end_time": 4.126
+        },
+        {
+          "text": "- it reflects culture but still touches everyone's emotions. Hey, I have a playlist of Vietnamese classical",
+          "is_vietnamese": false,
+          "start_time": 4.127,
+          "end_time": 12.852
+        },
+        {
+          "text": "nhạc",
+          "is_vietnamese": true,
+          "start_time": 12.853,
+          "end_time": 13.513
+        },
+        {
+          "text": "mixed with Russian symphonies. Would you... like to listen to it with me?",
+          "is_vietnamese": false,
+          "start_time": 13.514,
+          "end_time": 17.119
+        }
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese nhạc mixed with Russian nhạc? Sounds... strange. But I'm curious. Perhaps âm nhạc isn't exactly what I thought. Send me the playlist, and... I'll think about listening with you.",
+      "start_time": 52.119,
+      "end_time": 65.683,
+      "viet_words": [
+        "nhạc",
+        "nhạc?",
+        "âm nhạc"
+      ],
+      "segments": [
+        {
+          "text": "Vietnamese",
+          "is_vietnamese": false,
+          "start_time": 0.0,
+          "end_time": 0.862
+        },
+        {
+          "text": "nhạc",
+          "is_vietnamese": true,
+          "start_time": 0.863,
+          "end_time": 1.543
+        },
+        {
+          "text": "mixed with Russian",
+          "is_vietnamese": false,
+          "start_time": 1.544,
+          "end_time": 2.615
+        },
+        {
+          "text": "nhạc?",
+          "is_vietnamese": true,
+          "start_time": 2.616,
+          "end_time": 3.296
+        },
+        {
+          "text": "Sounds... strange. But I'm curious. Perhaps",
+          "is_vietnamese": false,
+          "start_time": 3.297,
+          "end_time": 6.458
+        },
+        {
+          "text": "âm nhạc",
+          "is_vietnamese": true,
+          "start_time": 6.459,
+          "end_time": 7.294
+        },
+        {
+          "text": "isn't exactly what I thought. Send me the playlist, and... I'll think about listening with you.",
+          "is_vietnamese": false,
+          "start_time": 7.295,
+          "end_time": 13.564
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "id": "6fef2629",
+  "topic_word": "bảo thủ",
+  "topic_word_translation": "conservative",
+  "common_words": [
+    {
+      "word": "làm việc",
+      "translation": "to work"
+    },
+    {
+      "word": "hiểu",
+      "translation": "to understand"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "My parents are",
+      "start_time": 0.06,
+      "end_time": 0.8025
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>bảo thủ</vietnamese>.",
+      "start_time": 0.8025,
+      "end_time": 1.1500000000000001
+    },
+    {
+      "speaker": "Michael",
+      "text": "They think people",
+      "start_time": 2.04,
+      "end_time": 2.61
+    },
+    {
+      "speaker": "Michael",
+      "text": "that don't <vietnamese>làm việc</vietnamese>",
+      "start_time": 2.61,
+      "end_time": 3.94
+    },
+    {
+      "speaker": "Michael",
+      "text": "don't deserve anything.",
+      "start_time": 3.99,
+      "end_time": 5.14
+    },
+    {
+      "speaker": "Mira",
+      "text": "I <vietnamese>hiểu</vietnamese> that",
+      "start_time": 5.28,
+      "end_time": 6.69
+    },
+    {
+      "speaker": "Mira",
+      "text": "feeling. My parents",
+      "start_time": 6.69,
+      "end_time": 7.8
+    },
+    {
+      "speaker": "Mira",
+      "text": "in Russia are",
+      "start_time": 7.8,
+      "end_time": 8.34
+    },
+    {
+      "speaker": "Mira",
+      "text": "also <vietnamese>bảo thủ</vietnamese>",
+      "start_time": 8.34,
+      "end_time": 9.85
+    },
+    {
+      "speaker": "Mira",
+      "text": "like that. They",
+      "start_time": 9.9,
+      "end_time": 10.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "always say if",
+      "start_time": 10.74,
+      "end_time": 11.61
+    },
+    {
+      "speaker": "Mira",
+      "text": "you don't work,",
+      "start_time": 11.61,
+      "end_time": 12.33
+    },
+    {
+      "speaker": "Mira",
+      "text": "you don't eat.",
+      "start_time": 12.33,
+      "end_time": 12.75
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? I",
+      "start_time": 12.75,
+      "end_time": 14.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "didn't expect Russian",
+      "start_time": 14.7,
+      "end_time": 15.66
+    },
+    {
+      "speaker": "Michael",
+      "text": "and Vietnamese families",
+      "start_time": 15.66,
+      "end_time": 16.71
+    },
+    {
+      "speaker": "Michael",
+      "text": "would have that",
+      "start_time": 16.71,
+      "end_time": 17.22
+    },
+    {
+      "speaker": "Michael",
+      "text": "in common. But",
+      "start_time": 17.22,
+      "end_time": 19.02
+    },
+    {
+      "speaker": "Michael",
+      "text": "sometimes I think",
+      "start_time": 19.02,
+      "end_time": 19.71
+    },
+    {
+      "speaker": "Michael",
+      "text": "they're too strict,",
+      "start_time": 19.71,
+      "end_time": 20.650000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "life isn't just",
+      "start_time": 20.7,
+      "end_time": 21.48
+    },
+    {
+      "speaker": "Michael",
+      "text": "about <vietnamese>làm việc</vietnamese>.",
+      "start_time": 21.48,
+      "end_time": 22.810000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "Agreed. But I",
+      "start_time": 22.92,
+      "end_time": 23.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "think <vietnamese>làm việc</vietnamese> is",
+      "start_time": 23.88,
+      "end_time": 25.35
+    },
+    {
+      "speaker": "Mira",
+      "text": "important too. It",
+      "start_time": 25.35,
+      "end_time": 26.49
+    },
+    {
+      "speaker": "Mira",
+      "text": "gives us purpose",
+      "start_time": 26.49,
+      "end_time": 27.33
+    },
+    {
+      "speaker": "Mira",
+      "text": "in life.",
+      "start_time": 27.33,
+      "end_time": 27.45
+    },
+    {
+      "speaker": "Michael",
+      "text": "You're right.",
+      "start_time": 27.45,
+      "end_time": 28.6
+    },
+    {
+      "speaker": "Michael",
+      "text": "I just want",
+      "start_time": 28.74,
+      "end_time": 29.19
+    },
+    {
+      "speaker": "Michael",
+      "text": "to find balance.",
+      "start_time": 29.19,
+      "end_time": 30.040000000000003
+    },
+    {
+      "speaker": "Michael",
+      "text": "My parents <vietnamese>làm việc</vietnamese>",
+      "start_time": 30.42,
+      "end_time": 31.65
+    },
+    {
+      "speaker": "Michael",
+      "text": "their whole",
+      "start_time": 31.65,
+      "end_time": 32.49
+    },
+    {
+      "speaker": "Michael",
+      "text": "lives to give",
+      "start_time": 32.49,
+      "end_time": 33.12
+    },
+    {
+      "speaker": "Michael",
+      "text": "me opportunities, but",
+      "start_time": 33.12,
+      "end_time": 34.26
+    },
+    {
+      "speaker": "Michael",
+      "text": "they don't <vietnamese>hiểu</vietnamese>",
+      "start_time": 34.26,
+      "end_time": 35.440000000000005
+    },
+    {
+      "speaker": "Michael",
+      "text": "why I want",
+      "start_time": 35.46,
+      "end_time": 36.12
+    },
+    {
+      "speaker": "Michael",
+      "text": "to pursue my",
+      "start_time": 36.12,
+      "end_time": 36.63
+    },
+    {
+      "speaker": "Michael",
+      "text": "passion instead of",
+      "start_time": 36.63,
+      "end_time": 37.38
+    },
+    {
+      "speaker": "Michael",
+      "text": "a stable job.",
+      "start_time": 37.38,
+      "end_time": 38.35
+    },
+    {
+      "speaker": "Mira",
+      "text": "I <vietnamese>hiểu</vietnamese> that feeling",
+      "start_time": 39.0,
+      "end_time": 40.32
+    },
+    {
+      "speaker": "Mira",
+      "text": "of being caught",
+      "start_time": 40.32,
+      "end_time": 41.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "between two worlds.",
+      "start_time": 41.28,
+      "end_time": 42.52
+    },
+    {
+      "speaker": "Mira",
+      "text": "What do you",
+      "start_time": 43.44,
+      "end_time": 43.8
+    },
+    {
+      "speaker": "Mira",
+      "text": "think you'll do",
+      "start_time": 43.8,
+      "end_time": 44.52
+    },
+    {
+      "speaker": "Mira",
+      "text": "to convince your",
+      "start_time": 44.52,
+      "end_time": 45.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "parents about your",
+      "start_time": 45.6,
+      "end_time": 46.56
+    },
+    {
+      "speaker": "Mira",
+      "text": "path?",
+      "start_time": 46.56,
+      "end_time": 47.11
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "1965577f",
+  "topic_word": "chính sách nhập cư",
+  "topic_word_translation": "immigration policy",
+  "common_words": [
+    {
+      "word": "kinh khủng",
+      "translation": "terrible"
+    },
+    {
+      "word": "Trump",
+      "translation": "Trump"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Have you heard that Trump is detaining green-card holders? It's crazy! His chính sách nhập cư is getting increasingly harsh.",
+      "start_time": 0.0,
+      "end_time": 12.4,
+      "viet_words": [
+        "Trump",
+        "chính sách nhập cư"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "You always talk about Trump's chính sách nhập cư. I don't care much about it. But... I once feared deportation when I was still in Russia. That feeling was truly kinh khủng.",
+      "start_time": 12.9,
+      "end_time": 30.200000000000003,
+      "viet_words": [
+        "kinh khủng",
+        "Trump",
+        "chính sách nhập cư"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "I'm sorry, I didn't know you went through that. Chính sách nhập cư affects more people than we think. Sometimes I forget you're also an immigrant.",
+      "start_time": 30.700000000000003,
+      "end_time": 45.300000000000004,
+      "viet_words": [
+        "chính sách nhập cư"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "It's okay. But it is kinh khủng to think about being expelled from a place you consider home. I've felt safe in Saigon, but I'm still worried about the future...",
+      "start_time": 45.800000000000004,
+      "end_time": 61.900000000000006,
+      "viet_words": [
+        "kinh khủng"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "I promise I won't let that happen to you. Chính sách nhập cư may change, but I'll always be here for you. We can find a way...",
+      "start_time": 62.400000000000006,
+      "end_time": 75.0,
+      "viet_words": [
+        "chính sách nhập cư"
+      ]
+    }
+  ]
+}

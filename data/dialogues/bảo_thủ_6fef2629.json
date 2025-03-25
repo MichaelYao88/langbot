@@ -1,0 +1,68 @@
+{
+  "id": "6fef2629",
+  "timestamp": 1742902634,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Bố mẹ tôi bảo thủ lắm. Họ nghĩ những người không làm việc thì không đáng được gì cả."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tôi hiểu cảm giác đó. Bố mẹ tôi ở Nga cũng bảo thủ như vậy. Họ luôn nói rằng không làm thì không ăn."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thật à? Tôi không ngờ gia đình Nga và Việt có điểm chung như vậy. Nhưng đôi khi tôi nghĩ họ quá khắt khe, cuộc sống đâu chỉ có làm việc."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Đồng ý. Nhưng tôi nghĩ làm việc cũng quan trọng. Nó cho ta mục đích sống."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Cô nói đúng. Tôi chỉ muốn tìm được sự cân bằng. Bố mẹ tôi làm việc cả đời để tôi có cơ hội, nhưng họ không hiểu tại sao tôi muốn theo đuổi đam mê thay vì một công việc ổn định."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tôi hiểu cảm giác bị kẹt giữa hai thế giới đó. Bạn nghĩ mình sẽ làm gì để thuyết phục bố mẹ về con đường của mình?"
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "My parents are bảo thủ. They think people that don't làm việc don't deserve anything."
+    },
+    {
+      "speaker": "Mira",
+      "text": "I hiểu that feeling. My parents in Russia are also bảo thủ like that. They always say if you don't work, you don't eat."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? I didn't expect Russian and Vietnamese families would have that in common. But sometimes I think they're too strict, life isn't just about làm việc."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Agreed. But I think làm việc is important too. It gives us purpose in life."
+    },
+    {
+      "speaker": "Michael",
+      "text": "You're right. I just want to find balance. My parents làm việc their whole lives to give me opportunities, but they don't hiểu why I want to pursue my passion instead of a stable job."
+    },
+    {
+      "speaker": "Mira",
+      "text": "I hiểu that feeling of being caught between two worlds. What do you think you'll do to convince your parents about your path?"
+    }
+  ],
+  "topic_word": "bảo thủ",
+  "topic_word_translation": "conservative",
+  "common_words": [
+    {
+      "word": "làm việc",
+      "translation": "to work"
+    },
+    {
+      "word": "hiểu",
+      "translation": "to understand"
+    }
+  ]
+}

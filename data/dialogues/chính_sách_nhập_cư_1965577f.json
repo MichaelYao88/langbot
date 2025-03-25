@@ -1,0 +1,60 @@
+{
+  "id": "1965577f",
+  "timestamp": 1742902077,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Em có nghe tin Trump đang giam giữ những người có thẻ xanh không? Thật là điên rồ! Chính sách nhập cư của ông ta ngày càng khắc nghiệt."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Anh lúc nào cũng nói về chính sách nhập cư của Trump. Em không quan tâm lắm đâu. Nhưng... em cũng từng sợ bị trục xuất khi còn ở Nga. Cảm giác đó thật kinh khủng."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Xin lỗi, anh không biết em đã trải qua chuyện đó. Chính sách nhập cư ảnh hưởng đến nhiều người hơn mình nghĩ. Đôi khi anh quên mất em cũng là người nhập cư."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Không sao đâu. Nhưng đúng là kinh khủng khi nghĩ về việc bị đuổi khỏi nơi mình coi là nhà. Em đã cảm thấy an toàn ở Sài Gòn, nhưng vẫn luôn lo lắng về tương lai..."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Anh hứa sẽ không để điều đó xảy ra với em. Chính sách nhập cư có thể thay đổi, nhưng anh sẽ luôn ở đây vì em. Chúng ta có thể tìm cách..."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Have you heard that Trump is detaining green-card holders? It's crazy! His chính sách nhập cư is getting increasingly harsh."
+    },
+    {
+      "speaker": "Mira",
+      "text": "You always talk about Trump's chính sách nhập cư. I don't care much about it. But... I once feared deportation when I was still in Russia. That feeling was truly kinh khủng."
+    },
+    {
+      "speaker": "Michael",
+      "text": "I'm sorry, I didn't know you went through that. Chính sách nhập cư affects more people than we think. Sometimes I forget you're also an immigrant."
+    },
+    {
+      "speaker": "Mira",
+      "text": "It's okay. But it is kinh khủng to think about being expelled from a place you consider home. I've felt safe in Saigon, but I'm still worried about the future..."
+    },
+    {
+      "speaker": "Michael",
+      "text": "I promise I won't let that happen to you. Chính sách nhập cư may change, but I'll always be here for you. We can find a way..."
+    }
+  ],
+  "topic_word": "chính sách nhập cư",
+  "topic_word_translation": "immigration policy",
+  "common_words": [
+    {
+      "word": "kinh khủng",
+      "translation": "terrible"
+    },
+    {
+      "word": "Trump",
+      "translation": "Trump"
+    }
+  ]
+}

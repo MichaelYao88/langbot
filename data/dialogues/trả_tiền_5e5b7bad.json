@@ -1,0 +1,60 @@
+{
+  "id": "5e5b7bad",
+  "timestamp": 1742902877,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Cậu có nghĩ là người con trai nên trả tiền cho buổi hẹn đầu tiên không? Bạn trai cũ của tôi luôn khăng khăng phải trả tiền, ngay cả khi tôi muốn chia sẻ."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tôi nghĩ việc trả tiền nên linh hoạt. Ở Mỹ, nhiều cặp đôi chia đều hóa đơn, nhưng tôi thích trả tiền cho buổi hẹn đầu. Nó thể hiện sự tôn trọng."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Thật sao? Tôi thích truyền thống, nhưng cũng muốn công bằng. Nếu tôi để anh trả tiền cho buổi hẹn đầu, tôi sẽ cảm thấy có nghĩa vụ phải làm gì đó cho anh."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Nghĩa vụ? Không đâu. Trả tiền không có nghĩa là người kia nợ mình điều gì. Chỉ là cách thể hiện thiện chí thôi."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Nhưng nếu anh luôn trả tiền, tôi sẽ cảm thấy không thoải mái. Có lẽ... chúng ta có thể thử xem sao nếu đi ăn tối tuần sau? Anh nghĩ ai nên trả tiền?"
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Do you think the man should trả tiền for the first hẹn? My ex-boyfriend always insisted on paying, even when I wanted to share."
+    },
+    {
+      "speaker": "Michael",
+      "text": "I nghĩ paying should be flexible. In America, many couples split the bill, but I prefer to trả tiền for the first date. It shows respect."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Really? I like traditions, but I also want fairness. If I let you trả tiền for our first hẹn, I would feel obligated to do something for you."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Obligation? Not at all. Paying doesn't mean the other person owes you anything. It's just a way to show goodwill."
+    },
+    {
+      "speaker": "Mira",
+      "text": "But if you always trả tiền, I'll feel uncomfortable. Maybe... we could see how it goes if we have dinner next week? Who do you nghĩ should pay?"
+    }
+  ],
+  "topic_word": "trả tiền",
+  "topic_word_translation": "pay (for something)",
+  "common_words": [
+    {
+      "word": "hẹn",
+      "translation": "date (romantic meeting)"
+    },
+    {
+      "word": "nghĩ",
+      "translation": "think"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "6fef2629",
+  "topic_word": "bảo thủ",
+  "topic_word_translation": "conservative",
+  "common_words": [
+    {
+      "word": "làm việc",
+      "translation": "to work"
+    },
+    {
+      "word": "hiểu",
+      "translation": "to understand"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "My parents are bảo thủ. They think people that don't làm việc don't deserve anything.",
+      "start_time": 0.0,
+      "end_time": 8.5,
+      "viet_words": [
+        "làm việc",
+        "bảo thủ"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I hiểu that feeling. My parents in Russia are also bảo thủ like that. They always say if you don't work, you don't eat.",
+      "start_time": 9.0,
+      "end_time": 20.9,
+      "viet_words": [
+        "hiểu",
+        "bảo thủ"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? I didn't expect Russian and Vietnamese families would have that in common. But sometimes I think they're too strict, life isn't just about làm việc.",
+      "start_time": 21.4,
+      "end_time": 37.0,
+      "viet_words": [
+        "làm việc"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Agreed. But I think làm việc is important too. It gives us purpose in life.",
+      "start_time": 37.5,
+      "end_time": 45.0,
+      "viet_words": [
+        "làm việc"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "You're right. I just want to find balance. My parents làm việc their whole lives to give me opportunities, but they don't hiểu why I want to pursue my passion instead of a stable job.",
+      "start_time": 45.5,
+      "end_time": 63.8,
+      "viet_words": [
+        "làm việc",
+        "hiểu"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I hiểu that feeling of being caught between two worlds. What do you think you'll do to convince your parents about your path?",
+      "start_time": 64.3,
+      "end_time": 76.8,
+      "viet_words": [
+        "hiểu"
+      ]
+    }
+  ]
+}
