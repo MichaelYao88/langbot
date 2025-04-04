@@ -1,0 +1,74 @@
+{
+  "id": "96c09452",
+  "topic_word": "đồ ăn",
+  "topic_word_translation": "food",
+  "common_words": [
+    {
+      "word": "ngon",
+      "translation": "delicious"
+    },
+    {
+      "word": "cay",
+      "translation": "spicy"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Mira, you've changed. Before you always liked Russian food, but yesterday I saw you eating pho with lots of chili like a Vietnamese person. I have the feeling like you're not the Mira I know anymore.",
+      "start_time": 0.0,
+      "end_time": 19.900000000000002,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "What are you saying? I'm still Mira! I'm just... adapting to Vietnamese đồ ăn, that's all. Not everyone has to eat the same dishes forever. But if you want, next week I could cook borscht for you to try.",
+      "start_time": 20.400000000000002,
+      "end_time": 40.7,
+      "viet_words": [
+        "đồ ăn"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Interesting, but it's not just about the đồ ăn. You've always refused to eat cay, but now you're eating pho with three spoons of chili. Something doesn't seem right. Are you hiding something from me?",
+      "start_time": 41.2,
+      "end_time": 61.10000000000001,
+      "viet_words": [
+        "cay",
+        "đồ ăn"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "You're overthinking! I just want to change a little bit. Vietnamese đồ ăn is very ngon, especially when it's cay. Maybe... I want to understand your culture better. Not because... I like you or anything! Just... I want to fit in.",
+      "start_time": 61.60000000000001,
+      "end_time": 84.50000000000001,
+      "viet_words": [
+        "ngon",
+        "cay",
+        "đồ ăn"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Vietnamese đồ ăn is indeed ngon, but you don't need to change yourself to please others. I like Mira with her authentic food preferences. If you want to explore Vietnamese đồ ăn, perhaps we should go eat together? I know a very ngon place in District 1...",
+      "start_time": 85.00000000000001,
+      "end_time": 110.50000000000001,
+      "viet_words": [
+        "ngon",
+        "đồ ăn"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I... don't know. Eating together? Like a... No, never mind. Maybe next time. I have many things to do. But Vietnamese đồ ăn is really ngon. I can't deny that.",
+      "start_time": 111.00000000000001,
+      "end_time": 126.80000000000001,
+      "viet_words": [
+        "ngon",
+        "đồ ăn"
+      ]
+    }
+  ]
+}

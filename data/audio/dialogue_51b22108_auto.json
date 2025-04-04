@@ -1,0 +1,1039 @@
+{
+  "id": "51b22108",
+  "topic_word": "thả thính",
+  "topic_word_translation": "to flirt/drop bait",
+  "common_words": [
+    {
+      "word": "tò mò",
+      "translation": "curious"
+    },
+    {
+      "word": "cà phê",
+      "translation": "coffee"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "did you know",
+      "start_time": 0.03,
+      "end_time": 0.66,
+      "word_timestamps": [
+        {
+          "word": "did",
+          "start": 0.03,
+          "end": 0.18
+        },
+        {
+          "word": "you",
+          "start": 0.18,
+          "end": 0.3
+        },
+        {
+          "word": "know",
+          "start": 0.3,
+          "end": 0.66
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "last night i",
+      "start_time": 0.72,
+      "end_time": 1.41,
+      "word_timestamps": [
+        {
+          "word": "last",
+          "start": 0.72,
+          "end": 0.99
+        },
+        {
+          "word": "night",
+          "start": 0.99,
+          "end": 1.29
+        },
+        {
+          "word": "i",
+          "start": 1.32,
+          "end": 1.41
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "received another message",
+      "start_time": 1.41,
+      "end_time": 2.46,
+      "word_timestamps": [
+        {
+          "word": "received",
+          "start": 1.41,
+          "end": 1.8
+        },
+        {
+          "word": "another",
+          "start": 1.8,
+          "end": 2.07
+        },
+        {
+          "word": "message",
+          "start": 2.07,
+          "end": 2.46
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "from that guy",
+      "start_time": 2.46,
+      "end_time": 3.12,
+      "word_timestamps": [
+        {
+          "word": "from",
+          "start": 2.46,
+          "end": 2.61
+        },
+        {
+          "word": "that",
+          "start": 2.61,
+          "end": 2.79
+        },
+        {
+          "word": "guy",
+          "start": 2.79,
+          "end": 3.12
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "he keeps popping",
+      "start_time": 3.42,
+      "end_time": 4.8,
+      "word_timestamps": [
+        {
+          "word": "he",
+          "start": 3.42,
+          "end": 3.57
+        },
+        {
+          "word": "keeps",
+          "start": 3.57,
+          "end": 3.9
+        },
+        {
+          "word": "popping",
+          "start": 4.11,
+          "end": 4.8
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "me constantly but",
+      "start_time": 4.95,
+      "end_time": 6.12,
+      "word_timestamps": [
+        {
+          "word": "me",
+          "start": 4.95,
+          "end": 5.19
+        },
+        {
+          "word": "constantly",
+          "start": 5.22,
+          "end": 5.97
+        },
+        {
+          "word": "but",
+          "start": 5.97,
+          "end": 6.12
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "i don't know",
+      "start_time": 6.12,
+      "end_time": 6.51,
+      "word_timestamps": [
+        {
+          "word": "i",
+          "start": 6.12,
+          "end": 6.21
+        },
+        {
+          "word": "don't",
+          "start": 6.21,
+          "end": 6.42
+        },
+        {
+          "word": "know",
+          "start": 6.42,
+          "end": 6.51
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "if you serious",
+      "start_time": 6.51,
+      "end_time": 7.26,
+      "word_timestamps": [
+        {
+          "word": "if",
+          "start": 6.51,
+          "end": 6.61898
+        },
+        {
+          "word": "you",
+          "start": 6.63,
+          "end": 6.72
+        },
+        {
+          "word": "serious",
+          "start": 6.738023,
+          "end": 7.26
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "or just joking",
+      "start_time": 7.26,
+      "end_time": 8.4,
+      "word_timestamps": [
+        {
+          "word": "or",
+          "start": 7.26,
+          "end": 7.38
+        },
+        {
+          "word": "just",
+          "start": 7.38,
+          "end": 7.71
+        },
+        {
+          "word": "joking",
+          "start": 7.77,
+          "end": 8.4
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "what did he",
+      "start_time": 9.66,
+      "end_time": 10.02,
+      "word_timestamps": [
+        {
+          "word": "what",
+          "start": 9.66,
+          "end": 9.84
+        },
+        {
+          "word": "did",
+          "start": 9.84,
+          "end": 9.96
+        },
+        {
+          "word": "he",
+          "start": 9.96,
+          "end": 10.02
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "say to you",
+      "start_time": 10.02,
+      "end_time": 10.68,
+      "word_timestamps": [
+        {
+          "word": "say",
+          "start": 10.02,
+          "end": 10.26
+        },
+        {
+          "word": "to",
+          "start": 10.26,
+          "end": 10.35
+        },
+        {
+          "word": "you",
+          "start": 10.35,
+          "end": 10.68
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "and do you",
+      "start_time": 10.68,
+      "end_time": 11.16,
+      "word_timestamps": [
+        {
+          "word": "and",
+          "start": 10.68,
+          "end": 10.95
+        },
+        {
+          "word": "do",
+          "start": 10.95,
+          "end": 11.07
+        },
+        {
+          "word": "you",
+          "start": 11.07,
+          "end": 11.16
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "like him he",
+      "start_time": 11.16,
+      "end_time": 12.03,
+      "word_timestamps": [
+        {
+          "word": "like",
+          "start": 11.16,
+          "end": 11.43
+        },
+        {
+          "word": "him",
+          "start": 11.43,
+          "end": 11.64
+        },
+        {
+          "word": "he",
+          "start": 11.91,
+          "end": 12.03
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "complimented my chest",
+      "start_time": 12.03,
+      "end_time": 13.23,
+      "word_timestamps": [
+        {
+          "word": "complimented",
+          "start": 12.03,
+          "end": 12.75
+        },
+        {
+          "word": "my",
+          "start": 12.75,
+          "end": 12.9
+        },
+        {
+          "word": "chest",
+          "start": 12.9,
+          "end": 13.23
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "skills then said",
+      "start_time": 13.23,
+      "end_time": 14.52,
+      "word_timestamps": [
+        {
+          "word": "skills",
+          "start": 13.23,
+          "end": 13.68
+        },
+        {
+          "word": "then",
+          "start": 14.01,
+          "end": 14.22
+        },
+        {
+          "word": "said",
+          "start": 14.22,
+          "end": 14.52
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "he wanted to",
+      "start_time": 14.52,
+      "end_time": 15.06,
+      "word_timestamps": [
+        {
+          "word": "he",
+          "start": 14.52,
+          "end": 14.61
+        },
+        {
+          "word": "wanted",
+          "start": 14.61,
+          "end": 14.94
+        },
+        {
+          "word": "to",
+          "start": 14.94,
+          "end": 15.06
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "take me for",
+      "start_time": 15.06,
+      "end_time": 15.72,
+      "word_timestamps": [
+        {
+          "word": "take",
+          "start": 15.06,
+          "end": 15.3
+        },
+        {
+          "word": "me",
+          "start": 15.3,
+          "end": 15.42
+        },
+        {
+          "word": "for",
+          "start": 15.42,
+          "end": 15.72
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "cafe to learn",
+      "start_time": 15.9,
+      "end_time": 17.37,
+      "word_timestamps": [
+        {
+          "word": "cafe",
+          "start": 15.9,
+          "end": 16.71
+        },
+        {
+          "word": "to",
+          "start": 16.8,
+          "end": 16.98
+        },
+        {
+          "word": "learn",
+          "start": 16.98,
+          "end": 17.37
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "from my experience",
+      "start_time": 17.37,
+      "end_time": 18.78,
+      "word_timestamps": [
+        {
+          "word": "from",
+          "start": 17.37,
+          "end": 17.55
+        },
+        {
+          "word": "my",
+          "start": 17.55,
+          "end": 17.73
+        },
+        {
+          "word": "experience",
+          "start": 17.73,
+          "end": 18.78
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "i'm not sure",
+      "start_time": 19.14,
+      "end_time": 19.83,
+      "word_timestamps": [
+        {
+          "word": "i'm",
+          "start": 19.14,
+          "end": 19.29
+        },
+        {
+          "word": "not",
+          "start": 19.29,
+          "end": 19.47
+        },
+        {
+          "word": "sure",
+          "start": 19.47,
+          "end": 19.83
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "if i like",
+      "start_time": 19.83,
+      "end_time": 20.49,
+      "word_timestamps": [
+        {
+          "word": "if",
+          "start": 19.83,
+          "end": 20.04
+        },
+        {
+          "word": "i",
+          "start": 20.04,
+          "end": 20.16
+        },
+        {
+          "word": "like",
+          "start": 20.16,
+          "end": 20.49
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "him but i",
+      "start_time": 20.49,
+      "end_time": 21.24,
+      "word_timestamps": [
+        {
+          "word": "him",
+          "start": 20.49,
+          "end": 20.88
+        },
+        {
+          "word": "but",
+          "start": 20.97,
+          "end": 21.15
+        },
+        {
+          "word": "i",
+          "start": 21.15,
+          "end": 21.24
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "feel a bit",
+      "start_time": 21.24,
+      "end_time": 22.47,
+      "word_timestamps": [
+        {
+          "word": "feel",
+          "start": 21.24,
+          "end": 21.81
+        },
+        {
+          "word": "a",
+          "start": 21.93,
+          "end": 21.99
+        },
+        {
+          "word": "bit",
+          "start": 21.99,
+          "end": 22.47
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "pall mall",
+      "start_time": 22.59,
+      "end_time": 23.34,
+      "word_timestamps": [
+        {
+          "word": "pall",
+          "start": 22.59,
+          "end": 22.83
+        },
+        {
+          "word": "mall",
+          "start": 22.83,
+          "end": 23.34
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "sounds like a",
+      "start_time": 24.24,
+      "end_time": 24.75,
+      "word_timestamps": [
+        {
+          "word": "sounds",
+          "start": 24.24,
+          "end": 24.54
+        },
+        {
+          "word": "like",
+          "start": 24.54,
+          "end": 24.69
+        },
+        {
+          "word": "a",
+          "start": 24.69,
+          "end": 24.75
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "genuinely wants to",
+      "start_time": 24.75,
+      "end_time": 25.5,
+      "word_timestamps": [
+        {
+          "word": "genuinely",
+          "start": 24.75,
+          "end": 25.2
+        },
+        {
+          "word": "wants",
+          "start": 25.2,
+          "end": 25.41
+        },
+        {
+          "word": "to",
+          "start": 25.41,
+          "end": 25.5
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "get to know",
+      "start_time": 25.5,
+      "end_time": 25.83,
+      "word_timestamps": [
+        {
+          "word": "get",
+          "start": 25.5,
+          "end": 25.62
+        },
+        {
+          "word": "to",
+          "start": 25.62,
+          "end": 25.68
+        },
+        {
+          "word": "know",
+          "start": 25.68,
+          "end": 25.83
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "you if you're",
+      "start_time": 25.83,
+      "end_time": 26.43,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 25.83,
+          "end": 26.01
+        },
+        {
+          "word": "if",
+          "start": 26.01,
+          "end": 26.16
+        },
+        {
+          "word": "you're",
+          "start": 26.16,
+          "end": 26.43
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "thumb all just",
+      "start_time": 26.7,
+      "end_time": 27.81,
+      "word_timestamps": [
+        {
+          "word": "thumb",
+          "start": 26.7,
+          "end": 27.029388
+        },
+        {
+          "word": "all",
+          "start": 27.029388,
+          "end": 27.48
+        },
+        {
+          "word": "just",
+          "start": 27.54,
+          "end": 27.81
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "go have coffee",
+      "start_time": 27.81,
+      "end_time": 29.22,
+      "word_timestamps": [
+        {
+          "word": "go",
+          "start": 27.81,
+          "end": 27.99
+        },
+        {
+          "word": "have",
+          "start": 27.99,
+          "end": 28.26
+        },
+        {
+          "word": "coffee",
+          "start": 28.5,
+          "end": 29.22
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "with him once",
+      "start_time": 29.37,
+      "end_time": 29.97,
+      "word_timestamps": [
+        {
+          "word": "with",
+          "start": 29.37,
+          "end": 29.55
+        },
+        {
+          "word": "him",
+          "start": 29.55,
+          "end": 29.7
+        },
+        {
+          "word": "once",
+          "start": 29.7,
+          "end": 29.97
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "and see nothing",
+      "start_time": 29.97,
+      "end_time": 30.75,
+      "word_timestamps": [
+        {
+          "word": "and",
+          "start": 29.97,
+          "end": 30.06
+        },
+        {
+          "word": "see",
+          "start": 30.06,
+          "end": 30.36
+        },
+        {
+          "word": "nothing",
+          "start": 30.42,
+          "end": 30.75
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "to lose right",
+      "start_time": 30.75,
+      "end_time": 31.41,
+      "word_timestamps": [
+        {
+          "word": "to",
+          "start": 30.75,
+          "end": 30.84
+        },
+        {
+          "word": "lose",
+          "start": 30.84,
+          "end": 31.11
+        },
+        {
+          "word": "right",
+          "start": 31.11,
+          "end": 31.41
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "do you really",
+      "start_time": 31.68,
+      "end_time": 32.34,
+      "word_timestamps": [
+        {
+          "word": "do",
+          "start": 31.68,
+          "end": 31.86
+        },
+        {
+          "word": "you",
+          "start": 31.86,
+          "end": 32.04
+        },
+        {
+          "word": "really",
+          "start": 32.04,
+          "end": 32.34
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "think so i",
+      "start_time": 32.34,
+      "end_time": 33.78,
+      "word_timestamps": [
+        {
+          "word": "think",
+          "start": 32.34,
+          "end": 32.64
+        },
+        {
+          "word": "so",
+          "start": 32.64,
+          "end": 33.18
+        },
+        {
+          "word": "i",
+          "start": 33.6,
+          "end": 33.78
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "thought you would",
+      "start_time": 33.78,
+      "end_time": 34.59,
+      "word_timestamps": [
+        {
+          "word": "thought",
+          "start": 33.78,
+          "end": 34.08
+        },
+        {
+          "word": "you",
+          "start": 34.08,
+          "end": 34.23
+        },
+        {
+          "word": "would",
+          "start": 34.23,
+          "end": 34.59
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "never mind maybe",
+      "start_time": 35.34,
+      "end_time": 36.69,
+      "word_timestamps": [
+        {
+          "word": "never",
+          "start": 35.34,
+          "end": 35.61
+        },
+        {
+          "word": "mind",
+          "start": 35.61,
+          "end": 36.0
+        },
+        {
+          "word": "maybe",
+          "start": 36.42,
+          "end": 36.69
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "i should go",
+      "start_time": 36.69,
+      "end_time": 37.32,
+      "word_timestamps": [
+        {
+          "word": "i",
+          "start": 36.69,
+          "end": 36.75
+        },
+        {
+          "word": "should",
+          "start": 36.75,
+          "end": 36.96
+        },
+        {
+          "word": "go",
+          "start": 36.96,
+          "end": 37.32
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "but if he",
+      "start_time": 37.65,
+      "end_time": 38.04,
+      "word_timestamps": [
+        {
+          "word": "but",
+          "start": 37.65,
+          "end": 37.83
+        },
+        {
+          "word": "if",
+          "start": 37.83,
+          "end": 37.95
+        },
+        {
+          "word": "he",
+          "start": 37.95,
+          "end": 38.04
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "keeps popping without",
+      "start_time": 38.04,
+      "end_time": 39.9,
+      "word_timestamps": [
+        {
+          "word": "keeps",
+          "start": 38.04,
+          "end": 38.55
+        },
+        {
+          "word": "popping",
+          "start": 38.7,
+          "end": 39.42
+        },
+        {
+          "word": "without",
+          "start": 39.57,
+          "end": 39.9
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "making any real",
+      "start_time": 39.9,
+      "end_time": 40.65,
+      "word_timestamps": [
+        {
+          "word": "making",
+          "start": 39.9,
+          "end": 40.2
+        },
+        {
+          "word": "any",
+          "start": 40.2,
+          "end": 40.38
+        },
+        {
+          "word": "real",
+          "start": 40.38,
+          "end": 40.65
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "move it would",
+      "start_time": 40.65,
+      "end_time": 41.55,
+      "word_timestamps": [
+        {
+          "word": "move",
+          "start": 40.65,
+          "end": 41.04
+        },
+        {
+          "word": "it",
+          "start": 41.28,
+          "end": 41.43
+        },
+        {
+          "word": "would",
+          "start": 41.43,
+          "end": 41.55
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "be annoying",
+      "start_time": 41.55,
+      "end_time": 42.33,
+      "word_timestamps": [
+        {
+          "word": "be",
+          "start": 41.55,
+          "end": 41.82
+        },
+        {
+          "word": "annoying",
+          "start": 41.82,
+          "end": 42.33
+        }
+      ],
+      "viet_words": []
+    }
+  ]
+}

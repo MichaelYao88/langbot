@@ -1,0 +1,74 @@
+{
+  "id": "2e2b07c7",
+  "topic_word": "giấc mơ",
+  "topic_word_translation": "dream",
+  "common_words": [
+    {
+      "word": "Sài Gòn",
+      "translation": "Saigon"
+    },
+    {
+      "word": "trùng hợp",
+      "translation": "coincidence"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "You know what, I dreamed about you last night. In that giấc mơ, we were walking along the Sài Gòn river and having a really pleasant conversation.",
+      "start_time": 0.0,
+      "end_time": 14.600000000000001,
+      "viet_words": [
+        "Sài Gòn",
+        "giấc mơ"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "What a trùng hợp! I also dreamed about you last night. But in my giấc mơ, we were sitting in my room and... oh actually I don't remember",
+      "start_time": 15.100000000000001,
+      "end_time": 28.700000000000003,
+      "viet_words": [
+        "trùng hợp",
+        "giấc mơ"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "How can there be such a strange trùng hợp? I find it a bit weird...",
+      "start_time": 29.200000000000003,
+      "end_time": 35.900000000000006,
+      "viet_words": [
+        "trùng hợp"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "I don't believe in fate, but this trùng hợp is interesting. How about we try going for a walk along the Sài Gòn river like in your giấc mơ and see what happens?",
+      "start_time": 36.400000000000006,
+      "end_time": 52.400000000000006,
+      "viet_words": [
+        "Sài Gòn",
+        "trùng hợp",
+        "giấc mơ"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's a good idea! But why the Sài Gòn riverbank and not at your place in your giấc mơ?",
+      "start_time": 52.900000000000006,
+      "end_time": 61.7,
+      "viet_words": [
+        "Sài Gòn",
+        "giấc mơ"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Well, because...",
+      "start_time": 62.2,
+      "end_time": 63.800000000000004,
+      "viet_words": []
+    }
+  ]
+}

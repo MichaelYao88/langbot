@@ -1,0 +1,75 @@
+{
+  "id": "dc1098ba",
+  "topic_word": "bún bò Huế",
+  "topic_word_translation": "spicy beef noodle soup from Hue",
+  "common_words": [
+    {
+      "word": "phở",
+      "translation": "Vietnamese noodle soup"
+    },
+    {
+      "word": "ngon",
+      "translation": "delicious"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese people say phở is the best dish, but I think bún bò Huế is truly the king of soups. It's spicier and much more flavorful.",
+      "start_time": 0.0,
+      "end_time": 13.200000000000001,
+      "viet_words": [
+        "phở",
+        "bún bò Huế"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Interesting! You don't seem like the Mira I know. The Mira I'm familiar with usually prefers phở because it's light and elegant.",
+      "start_time": 13.700000000000001,
+      "end_time": 26.5,
+      "viet_words": [
+        "phở"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't be silly! Of course I'm Mira. I just tried bún bò Huế at a place near the chess club and discovered it's incredibly ngon. Phở is too mainstream now.",
+      "start_time": 27.0,
+      "end_time": 42.4,
+      "viet_words": [
+        "phở",
+        "ngon",
+        "bún bò Huế"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Alright, I believe you. But I'm surprised to hear you say that. Maybe we should go eat bún bò Huế together this weekend so I can see what excites you so much?",
+      "start_time": 42.9,
+      "end_time": 58.7,
+      "viet_words": [
+        "bún bò Huế"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I... I didn't say I wanted to go with you! But if you want to know why bún bò Huế is better than phở, I could show you that place.",
+      "start_time": 59.2,
+      "end_time": 72.2,
+      "viet_words": [
+        "phở",
+        "bún bò Huế"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "So, are we meeting Sunday at 7pm? I'm curious whether it's the best bún bò Huế in Saigon, or if you're just influenced by the atmosphere of the place?",
+      "start_time": 72.7,
+      "end_time": 87.7,
+      "viet_words": [
+        "bún bò Huế"
+      ]
+    }
+  ]
+}

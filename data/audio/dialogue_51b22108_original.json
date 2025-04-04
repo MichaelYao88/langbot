@@ -1,0 +1,64 @@
+{
+  "id": "51b22108",
+  "topic_word": "thả thính",
+  "topic_word_translation": "to flirt/drop bait",
+  "common_words": [
+    {
+      "word": "tò mò",
+      "translation": "curious"
+    },
+    {
+      "word": "cà phê",
+      "translation": "coffee"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Did you know, last night I received another message from that guy. He keeps thả thính me constantly, but I don't know if he's serious or just joking.",
+      "start_time": 0.0,
+      "end_time": 14.9,
+      "viet_words": [
+        "thả thính"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thả thính? What did he say to you? And... do you like him?",
+      "start_time": 15.4,
+      "end_time": 21.200000000000003,
+      "viet_words": [
+        "thả thính"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "He complimented my chess skills, then said he wanted to take me for cà phê to \"learn from my experience.\" I'm not sure if I like him, but I feel... a bit tò mò.",
+      "start_time": 21.700000000000003,
+      "end_time": 37.7,
+      "viet_words": [
+        "tò mò",
+        "cà phê"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Hmm, sounds like he genuinely wants to get to know you. If you're tò mò, just go have cà phê with him once and see. Nothing to lose, right?",
+      "start_time": 38.2,
+      "end_time": 52.1,
+      "viet_words": [
+        "tò mò",
+        "cà phê"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Do you really think so? I thought you would... Never mind. Maybe I should go. But if he keeps thả thính without making any real move, it would be annoying.",
+      "start_time": 52.6,
+      "end_time": 68.1,
+      "viet_words": [
+        "thả thính"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "5e5b7bad",
+  "topic_word": "trả tiền",
+  "topic_word_translation": "pay (for something)",
+  "common_words": [
+    {
+      "word": "hẹn",
+      "translation": "date (romantic meeting)"
+    },
+    {
+      "word": "nghĩ",
+      "translation": "think"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Do you think the man should trả tiền for the first hẹn? My ex-boyfriend always insisted on paying, even when I wanted to share.",
+      "start_time": 0.0,
+      "end_time": 12.700000000000001,
+      "viet_words": [
+        "hẹn",
+        "trả tiền"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "I nghĩ paying should be flexible. In America, many couples split the bill, but I prefer to trả tiền for the first date. It shows respect.",
+      "start_time": 13.200000000000001,
+      "end_time": 26.900000000000002,
+      "viet_words": [
+        "nghĩ",
+        "trả tiền"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Really? I like traditions, but I also want fairness. If I let you trả tiền for our first hẹn, I would feel obligated to do something for you.",
+      "start_time": 27.400000000000002,
+      "end_time": 41.5,
+      "viet_words": [
+        "hẹn",
+        "trả tiền"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Obligation? Not at all. Paying doesn't mean the other person owes you anything. It's just a way to show goodwill.",
+      "start_time": 42.0,
+      "end_time": 53.3,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "But if you always trả tiền, I'll feel uncomfortable. Maybe... we could see how it goes if we have dinner next week? Who do you nghĩ should pay?",
+      "start_time": 53.8,
+      "end_time": 68.1,
+      "viet_words": [
+        "nghĩ",
+        "trả tiền"
+      ]
+    }
+  ]
+}

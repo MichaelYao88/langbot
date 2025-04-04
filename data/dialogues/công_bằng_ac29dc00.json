@@ -1,0 +1,80 @@
+{
+  "id": "ac29dc00",
+  "timestamp": 1743144935,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Này Michael, mình vừa phát hiện ra mình được trả lương cao hơn bạn đồng nghiệp, dù cô ấy là người bản xứ nói tiếng Anh. Chỉ vì cô ấy trông giống người Ấn Độ mặc dù sinh ra ở Canada."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thật không công bằng. Nhưng tiếc là chuyện phân biệt đối xử này khá phổ biến ở châu Á. Người ta thường nghĩ rằng giáo viên tiếng Anh phải có ngoại hình phương Tây."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Đúng vậy, nhưng điều này làm mình cảm thấy tội lỗi. Mình đâu có giỏi hơn cô ấy, mình chỉ có làn da trắng hơn thôi. Mình nên làm gì bây giờ?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Em có thể nói chuyện với quản lý về vấn đề này. Hoặc chia sẻ một phần lương của mình cho cô ấy. Nhưng thật khó để thay đổi định kiến xã hội."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Chia sẻ lương ư? Anh nghĩ đơn giản vậy sao? Mình cũng cần tiền để sống chứ! Nhưng... mình không thể không làm gì cả. Có lẽ mình nên tìm cách giúp cô ấy thăng tiến."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Anh hiểu mà. Nhưng anh ngưỡng mộ sự công bằng trong em. Không nhiều người sẽ bận tâm về vấn đề này đâu. Này, em đã bao giờ nghĩ đến việc cùng nhau đấu tranh cho sự công bằng trong ngành giáo dục chưa?"
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael, I just discovered that I get paid more than my colleague, even though she's a native English speaker. Just because she looks Indian despite being born in Canada."
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's not công bằng. But unfortunately, this discrimination is quite common in Asia. Người often think that English giáo viên must have a Western appearance."
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's true, but this makes me feel guilty. I'm not better than her, I just have whiter skin. What should I làm now?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "You could talk to the manager about this issue. Or share some of your lương with her. But it's difficult to change social prejudices."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Share my lương? Do you nghĩ it's that simple? I need money to live too! But... I can't just do nothing. Maybe I should find a way to help her advance."
+    },
+    {
+      "speaker": "Michael",
+      "text": "I understand. But I admire your sense of công bằng. Not many người would care about this issue. Hey, have you ever nghĩ about fighting together for công bằng in education?"
+    }
+  ],
+  "topic_word": "công bằng",
+  "topic_word_translation": "fairness/justice",
+  "common_words": [
+    {
+      "word": "giáo viên (noun)",
+      "translation": "teacher"
+    },
+    {
+      "word": "lương (noun)",
+      "translation": "salary"
+    },
+    {
+      "word": "nghĩ (verb)",
+      "translation": "think"
+    },
+    {
+      "word": "người (noun)",
+      "translation": "person/people"
+    },
+    {
+      "word": "làm (verb)",
+      "translation": "do/make"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "4e379bd0",
+  "timestamp": 1743589476,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Tôi có cảm giác lạ lùng rằng chúng ta đã từng nói chuyện về phẫu thuật thẩm mỹ trước đây. Cậu có nghĩ rằng nó đã trở nên quá phổ biến ở Việt Nam không?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Cảm giác đó, tôi cũng có. Phẫu thuật thẩm mỹ đang phát triển nhanh ở đây, nhưng tôi nghĩ mọi người nên tự do lựa chọn cho cơ thể họ."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tự do lựa chọn là một chuyện, nhưng tôi thấy nhiều cô gái trẻ đang bị áp lực phải trông giống nhau. Họ đánh mất vẻ đẹp tự nhiên và bản sắc của mình."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tôi hiểu quan điểm của cậu. Nhưng đôi khi phẫu thuật thẩm mỹ giúp người ta cảm thấy tự tin hơn. Cậu có bao giờ nghĩ mình muốn thay đổi điều gì không?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Không bao giờ! Tôi tin vào vẻ đẹp tự nhiên. Nhưng... tôi tự hỏi, cậu thích phụ nữ tự nhiên hay đã phẫu thuật thẩm mỹ?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tôi thích người thật với chính mình. Giống như cậu đấy, Mira... tự nhiên và không sợ bày tỏ quan điểm. Phẫu thuật thẩm mỹ có thể thay đổi gương mặt, nhưng không thay đổi được tâm hồn."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I have a strange cảm giác that we've talked about phẫu thuật thẩm mỹ before. Do you think it has become too common in Vietnam?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "That cảm giác, I have it too. Phẫu thuật thẩm mỹ is growing rapidly here, but I think people should be free to choose for their bodies."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Freedom to choose is one thing, but I see many young girls being pressured to look alike. They lose their tự nhiên beauty and identity."
+    },
+    {
+      "speaker": "Michael",
+      "text": "I understand your perspective. But sometimes phẫu thuật thẩm mỹ helps people feel more confident. Have you ever thought about wanting to thay đổi something about yourself?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Never! I believe in tự nhiên beauty. But... I wonder, do you thích women who are natural or those who've had phẫu thuật thẩm mỹ?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "I thích people who are true to themselves. Like you, Mira... tự nhiên and not afraid to express your views. Phẫu thuật thẩm mỹ can thay đổi a face, but it can't thay đổi the soul."
+    }
+  ],
+  "topic_word": "phẫu thuật thẩm mỹ",
+  "topic_word_translation": "cosmetic surgery",
+  "common_words": [
+    {
+      "word": "tự nhiên",
+      "translation": "natural (adjective)"
+    },
+    {
+      "word": "thích",
+      "translation": "like/prefer (verb)"
+    },
+    {
+      "word": "cảm giác",
+      "translation": "feeling (noun)"
+    },
+    {
+      "word": "thay đổi",
+      "translation": "change (verb)"
+    },
+    {
+      "word": "tự",
+      "translation": "self (part-of-speech: reflexive marker)"
+    }
+  ]
+}

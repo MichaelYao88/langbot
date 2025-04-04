@@ -1,0 +1,1552 @@
+{
+  "id": "e26159c3",
+  "topic_word": "Nhật",
+  "topic_word_translation": "Japan",
+  "common_words": [
+    {
+      "word": "đầu hàng",
+      "translation": "surrender (verb)"
+    },
+    {
+      "word": "lịch sử",
+      "translation": "history (noun)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "hey did you",
+      "start_time": 0.06,
+      "end_time": 0.48,
+      "word_timestamps": [
+        {
+          "word": "hey",
+          "start": 0.06,
+          "end": 0.24
+        },
+        {
+          "word": "did",
+          "start": 0.24,
+          "end": 0.39
+        },
+        {
+          "word": "you",
+          "start": 0.39,
+          "end": 0.48
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "know there's a",
+      "start_time": 0.48,
+      "end_time": 0.96,
+      "word_timestamps": [
+        {
+          "word": "know",
+          "start": 0.48,
+          "end": 0.66
+        },
+        {
+          "word": "there's",
+          "start": 0.66,
+          "end": 0.9
+        },
+        {
+          "word": "a",
+          "start": 0.9,
+          "end": 0.96
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "lot of debate",
+      "start_time": 0.96,
+      "end_time": 1.53,
+      "word_timestamps": [
+        {
+          "word": "lot",
+          "start": 0.96,
+          "end": 1.17
+        },
+        {
+          "word": "of",
+          "start": 1.17,
+          "end": 1.23
+        },
+        {
+          "word": "debate",
+          "start": 1.23,
+          "end": 1.53
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "about whether japan",
+      "start_time": 1.53,
+      "end_time": 2.52,
+      "word_timestamps": [
+        {
+          "word": "about",
+          "start": 1.53,
+          "end": 1.74
+        },
+        {
+          "word": "whether",
+          "start": 1.74,
+          "end": 1.98
+        },
+        {
+          "word": "japan",
+          "start": 1.98,
+          "end": 2.52
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "know hang in",
+      "start_time": 2.73,
+      "end_time": 3.78,
+      "word_timestamps": [
+        {
+          "word": "know",
+          "start": 2.73,
+          "end": 3.03
+        },
+        {
+          "word": "hang",
+          "start": 3.03,
+          "end": 3.45
+        },
+        {
+          "word": "in",
+          "start": 3.63,
+          "end": 3.78
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "world war two",
+      "start_time": 3.78,
+      "end_time": 4.26,
+      "word_timestamps": [
+        {
+          "word": "world",
+          "start": 3.78,
+          "end": 3.96
+        },
+        {
+          "word": "war",
+          "start": 3.96,
+          "end": 4.08
+        },
+        {
+          "word": "two",
+          "start": 4.08,
+          "end": 4.26
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "was because of",
+      "start_time": 4.26,
+      "end_time": 4.77,
+      "word_timestamps": [
+        {
+          "word": "was",
+          "start": 4.26,
+          "end": 4.38
+        },
+        {
+          "word": "because",
+          "start": 4.38,
+          "end": 4.68
+        },
+        {
+          "word": "of",
+          "start": 4.68,
+          "end": 4.77
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "the atomic bombs",
+      "start_time": 4.77,
+      "end_time": 5.58,
+      "word_timestamps": [
+        {
+          "word": "the",
+          "start": 4.77,
+          "end": 4.86
+        },
+        {
+          "word": "atomic",
+          "start": 4.86,
+          "end": 5.22
+        },
+        {
+          "word": "bombs",
+          "start": 5.22,
+          "end": 5.58
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "are not of",
+      "start_time": 5.58,
+      "end_time": 6.45,
+      "word_timestamps": [
+        {
+          "word": "are",
+          "start": 5.58,
+          "end": 5.64
+        },
+        {
+          "word": "not",
+          "start": 5.64,
+          "end": 6.0
+        },
+        {
+          "word": "of",
+          "start": 6.27,
+          "end": 6.45
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "course i know",
+      "start_time": 6.45,
+      "end_time": 7.59,
+      "word_timestamps": [
+        {
+          "word": "course",
+          "start": 6.45,
+          "end": 6.93
+        },
+        {
+          "word": "i",
+          "start": 6.93,
+          "end": 7.11
+        },
+        {
+          "word": "know",
+          "start": 7.11,
+          "end": 7.59
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "in russia textbooks",
+      "start_time": 8.31,
+      "end_time": 9.84,
+      "word_timestamps": [
+        {
+          "word": "in",
+          "start": 8.31,
+          "end": 8.49
+        },
+        {
+          "word": "russia",
+          "start": 8.49,
+          "end": 9.09
+        },
+        {
+          "word": "textbooks",
+          "start": 9.18,
+          "end": 9.84
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "teach that the",
+      "start_time": 9.84,
+      "end_time": 10.41,
+      "word_timestamps": [
+        {
+          "word": "teach",
+          "start": 9.84,
+          "end": 10.17
+        },
+        {
+          "word": "that",
+          "start": 10.17,
+          "end": 10.32
+        },
+        {
+          "word": "the",
+          "start": 10.32,
+          "end": 10.41
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "soviet union entering",
+      "start_time": 10.41,
+      "end_time": 11.67,
+      "word_timestamps": [
+        {
+          "word": "soviet",
+          "start": 10.41,
+          "end": 10.83
+        },
+        {
+          "word": "union",
+          "start": 10.83,
+          "end": 11.22
+        },
+        {
+          "word": "entering",
+          "start": 11.22,
+          "end": 11.67
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "the war was",
+      "start_time": 11.67,
+      "end_time": 12.24,
+      "word_timestamps": [
+        {
+          "word": "the",
+          "start": 11.67,
+          "end": 11.79
+        },
+        {
+          "word": "war",
+          "start": 11.79,
+          "end": 12.03
+        },
+        {
+          "word": "was",
+          "start": 12.03,
+          "end": 12.24
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "the main reason",
+      "start_time": 12.24,
+      "end_time": 13.17,
+      "word_timestamps": [
+        {
+          "word": "the",
+          "start": 12.24,
+          "end": 12.33
+        },
+        {
+          "word": "main",
+          "start": 12.33,
+          "end": 12.63
+        },
+        {
+          "word": "reason",
+          "start": 12.63,
+          "end": 13.17
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "yet surrendered the",
+      "start_time": 13.38,
+      "end_time": 15.3,
+      "word_timestamps": [
+        {
+          "word": "yet",
+          "start": 13.38,
+          "end": 13.71
+        },
+        {
+          "word": "surrendered",
+          "start": 13.77,
+          "end": 14.58
+        },
+        {
+          "word": "the",
+          "start": 15.15,
+          "end": 15.3
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "atomic bombs were",
+      "start_time": 15.3,
+      "end_time": 16.26,
+      "word_timestamps": [
+        {
+          "word": "atomic",
+          "start": 15.3,
+          "end": 15.78
+        },
+        {
+          "word": "bombs",
+          "start": 15.78,
+          "end": 16.14
+        },
+        {
+          "word": "were",
+          "start": 16.14,
+          "end": 16.26
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "just an excuse",
+      "start_time": 16.26,
+      "end_time": 17.01,
+      "word_timestamps": [
+        {
+          "word": "just",
+          "start": 16.26,
+          "end": 16.53
+        },
+        {
+          "word": "an",
+          "start": 16.53,
+          "end": 16.62
+        },
+        {
+          "word": "excuse",
+          "start": 16.62,
+          "end": 17.01
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "for america to",
+      "start_time": 17.01,
+      "end_time": 17.82,
+      "word_timestamps": [
+        {
+          "word": "for",
+          "start": 17.01,
+          "end": 17.16
+        },
+        {
+          "word": "america",
+          "start": 17.16,
+          "end": 17.67
+        },
+        {
+          "word": "to",
+          "start": 17.67,
+          "end": 17.82
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "show off it's",
+      "start_time": 17.82,
+      "end_time": 18.39,
+      "word_timestamps": [
+        {
+          "word": "show",
+          "start": 17.82,
+          "end": 18.06
+        },
+        {
+          "word": "off",
+          "start": 18.06,
+          "end": 18.21
+        },
+        {
+          "word": "it's",
+          "start": 18.21,
+          "end": 18.39
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "power that's",
+      "start_time": 18.39,
+      "end_time": 19.41,
+      "word_timestamps": [
+        {
+          "word": "power",
+          "start": 18.39,
+          "end": 18.87
+        },
+        {
+          "word": "that's",
+          "start": 19.17,
+          "end": 19.41
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "interesting in america",
+      "start_time": 19.41,
+      "end_time": 21.06,
+      "word_timestamps": [
+        {
+          "word": "interesting",
+          "start": 19.41,
+          "end": 19.92
+        },
+        {
+          "word": "in",
+          "start": 20.46,
+          "end": 20.58
+        },
+        {
+          "word": "america",
+          "start": 20.58,
+          "end": 21.06
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "were always taught",
+      "start_time": 21.09,
+      "end_time": 21.87,
+      "word_timestamps": [
+        {
+          "word": "were",
+          "start": 21.09,
+          "end": 21.27
+        },
+        {
+          "word": "always",
+          "start": 21.27,
+          "end": 21.57
+        },
+        {
+          "word": "taught",
+          "start": 21.57,
+          "end": 21.87
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "that the atomic",
+      "start_time": 21.87,
+      "end_time": 22.53,
+      "word_timestamps": [
+        {
+          "word": "that",
+          "start": 21.87,
+          "end": 22.02
+        },
+        {
+          "word": "the",
+          "start": 22.02,
+          "end": 22.11
+        },
+        {
+          "word": "atomic",
+          "start": 22.11,
+          "end": 22.53
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "bombs were the",
+      "start_time": 22.53,
+      "end_time": 23.22,
+      "word_timestamps": [
+        {
+          "word": "bombs",
+          "start": 22.53,
+          "end": 22.95
+        },
+        {
+          "word": "were",
+          "start": 22.95,
+          "end": 23.1
+        },
+        {
+          "word": "the",
+          "start": 23.1,
+          "end": 23.22
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "decisive factor but",
+      "start_time": 23.22,
+      "end_time": 24.81,
+      "word_timestamps": [
+        {
+          "word": "decisive",
+          "start": 23.22,
+          "end": 23.67
+        },
+        {
+          "word": "factor",
+          "start": 23.67,
+          "end": 24.12
+        },
+        {
+          "word": "but",
+          "start": 24.63,
+          "end": 24.81
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "recently many lee",
+      "start_time": 24.81,
+      "end_time": 26.16,
+      "word_timestamps": [
+        {
+          "word": "recently",
+          "start": 24.81,
+          "end": 25.32
+        },
+        {
+          "word": "many",
+          "start": 25.32,
+          "end": 25.8
+        },
+        {
+          "word": "lee",
+          "start": 25.95,
+          "end": 26.16
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "soo scholars suggests",
+      "start_time": 26.16,
+      "end_time": 27.54,
+      "word_timestamps": [
+        {
+          "word": "soo",
+          "start": 26.16,
+          "end": 26.58
+        },
+        {
+          "word": "scholars",
+          "start": 26.67,
+          "end": 27.145201
+        },
+        {
+          "word": "suggests",
+          "start": 27.145201,
+          "end": 27.54
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "that the soviet",
+      "start_time": 27.55,
+      "end_time": 28.23,
+      "word_timestamps": [
+        {
+          "word": "that",
+          "start": 27.548066,
+          "end": 27.72
+        },
+        {
+          "word": "the",
+          "start": 27.72,
+          "end": 27.81
+        },
+        {
+          "word": "soviet",
+          "start": 27.81,
+          "end": 28.23
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "union declaring war",
+      "start_time": 28.23,
+      "end_time": 29.4,
+      "word_timestamps": [
+        {
+          "word": "union",
+          "start": 28.23,
+          "end": 28.59
+        },
+        {
+          "word": "declaring",
+          "start": 28.59,
+          "end": 29.04
+        },
+        {
+          "word": "war",
+          "start": 29.04,
+          "end": 29.4
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "on young might",
+      "start_time": 29.4,
+      "end_time": 30.66,
+      "word_timestamps": [
+        {
+          "word": "on",
+          "start": 29.4,
+          "end": 29.735028
+        },
+        {
+          "word": "young",
+          "start": 29.94,
+          "end": 30.33
+        },
+        {
+          "word": "might",
+          "start": 30.42,
+          "end": 30.66
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "have been more",
+      "start_time": 30.66,
+      "end_time": 31.14,
+      "word_timestamps": [
+        {
+          "word": "have",
+          "start": 30.66,
+          "end": 30.75
+        },
+        {
+          "word": "been",
+          "start": 30.75,
+          "end": 30.96
+        },
+        {
+          "word": "more",
+          "start": 30.96,
+          "end": 31.14
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "important exactly",
+      "start_time": 31.14,
+      "end_time": 32.82,
+      "word_timestamps": [
+        {
+          "word": "important",
+          "start": 31.14,
+          "end": 31.71
+        },
+        {
+          "word": "exactly",
+          "start": 31.98,
+          "end": 32.82
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "the japanese have",
+      "start_time": 33.36,
+      "end_time": 34.2,
+      "word_timestamps": [
+        {
+          "word": "the",
+          "start": 33.36,
+          "end": 33.48
+        },
+        {
+          "word": "japanese",
+          "start": 33.48,
+          "end": 34.05
+        },
+        {
+          "word": "have",
+          "start": 34.05,
+          "end": 34.2
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "prepared mentally for",
+      "start_time": 34.2,
+      "end_time": 35.49,
+      "word_timestamps": [
+        {
+          "word": "prepared",
+          "start": 34.2,
+          "end": 34.62
+        },
+        {
+          "word": "mentally",
+          "start": 34.65,
+          "end": 35.28
+        },
+        {
+          "word": "for",
+          "start": 35.31,
+          "end": 35.49
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "civilian casualties but",
+      "start_time": 35.49,
+      "end_time": 37.11,
+      "word_timestamps": [
+        {
+          "word": "civilian",
+          "start": 35.49,
+          "end": 35.91
+        },
+        {
+          "word": "casualties",
+          "start": 35.91,
+          "end": 36.69
+        },
+        {
+          "word": "but",
+          "start": 36.93,
+          "end": 37.11
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "they feared communism",
+      "start_time": 37.11,
+      "end_time": 38.37,
+      "word_timestamps": [
+        {
+          "word": "they",
+          "start": 37.11,
+          "end": 37.26
+        },
+        {
+          "word": "feared",
+          "start": 37.26,
+          "end": 37.68
+        },
+        {
+          "word": "communism",
+          "start": 37.68,
+          "end": 38.37
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "more than death",
+      "start_time": 38.37,
+      "end_time": 39.3,
+      "word_timestamps": [
+        {
+          "word": "more",
+          "start": 38.37,
+          "end": 38.61
+        },
+        {
+          "word": "than",
+          "start": 38.61,
+          "end": 38.82
+        },
+        {
+          "word": "death",
+          "start": 38.82,
+          "end": 39.3
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "nicht zu is",
+      "start_time": 39.63,
+      "end_time": 40.71,
+      "word_timestamps": [
+        {
+          "word": "nicht",
+          "start": 39.63,
+          "end": 39.9
+        },
+        {
+          "word": "zu",
+          "start": 39.9,
+          "end": 40.32
+        },
+        {
+          "word": "is",
+          "start": 40.47,
+          "end": 40.71
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "always be written",
+      "start_time": 40.71,
+      "end_time": 41.79,
+      "word_timestamps": [
+        {
+          "word": "always",
+          "start": 40.71,
+          "end": 41.22
+        },
+        {
+          "word": "be",
+          "start": 41.22,
+          "end": 41.4
+        },
+        {
+          "word": "written",
+          "start": 41.4,
+          "end": 41.79
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "by the",
+      "start_time": 41.79,
+      "end_time": 42.06,
+      "word_timestamps": [
+        {
+          "word": "by",
+          "start": 41.79,
+          "end": 41.94
+        },
+        {
+          "word": "the",
+          "start": 41.94,
+          "end": 42.06
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "victors you know",
+      "start_time": 42.06,
+      "end_time": 43.2,
+      "word_timestamps": [
+        {
+          "word": "victors",
+          "start": 42.06,
+          "end": 42.75
+        },
+        {
+          "word": "you",
+          "start": 42.9,
+          "end": 43.05
+        },
+        {
+          "word": "know",
+          "start": 43.05,
+          "end": 43.2
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "so much about",
+      "start_time": 43.2,
+      "end_time": 43.98,
+      "word_timestamps": [
+        {
+          "word": "so",
+          "start": 43.2,
+          "end": 43.38
+        },
+        {
+          "word": "much",
+          "start": 43.38,
+          "end": 43.62
+        },
+        {
+          "word": "about",
+          "start": 43.62,
+          "end": 43.98
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "lee soo i",
+      "start_time": 44.19,
+      "end_time": 45.06,
+      "word_timestamps": [
+        {
+          "word": "lee",
+          "start": 44.19,
+          "end": 44.37
+        },
+        {
+          "word": "soo",
+          "start": 44.37,
+          "end": 44.82
+        },
+        {
+          "word": "i",
+          "start": 44.97,
+          "end": 45.06
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "like the way",
+      "start_time": 45.06,
+      "end_time": 45.57,
+      "word_timestamps": [
+        {
+          "word": "like",
+          "start": 45.06,
+          "end": 45.27
+        },
+        {
+          "word": "the",
+          "start": 45.274834,
+          "end": 45.36
+        },
+        {
+          "word": "way",
+          "start": 45.36,
+          "end": 45.57
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "you look at",
+      "start_time": 45.57,
+      "end_time": 45.99,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 45.57,
+          "end": 45.66
+        },
+        {
+          "word": "look",
+          "start": 45.66,
+          "end": 45.9
+        },
+        {
+          "word": "at",
+          "start": 45.9,
+          "end": 45.99
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "issues from different",
+      "start_time": 45.99,
+      "end_time": 46.77,
+      "word_timestamps": [
+        {
+          "word": "issues",
+          "start": 45.99,
+          "end": 46.35
+        },
+        {
+          "word": "from",
+          "start": 46.35,
+          "end": 46.5
+        },
+        {
+          "word": "different",
+          "start": 46.5,
+          "end": 46.77
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "perspectives maybe we",
+      "start_time": 46.77,
+      "end_time": 48.57,
+      "word_timestamps": [
+        {
+          "word": "perspectives",
+          "start": 46.77,
+          "end": 47.46
+        },
+        {
+          "word": "maybe",
+          "start": 48.12,
+          "end": 48.45
+        },
+        {
+          "word": "we",
+          "start": 48.45,
+          "end": 48.57
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "should discuss this",
+      "start_time": 48.57,
+      "end_time": 49.29,
+      "word_timestamps": [
+        {
+          "word": "should",
+          "start": 48.57,
+          "end": 48.72
+        },
+        {
+          "word": "discuss",
+          "start": 48.72,
+          "end": 49.11
+        },
+        {
+          "word": "this",
+          "start": 49.11,
+          "end": 49.29
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "topic moreover coffee",
+      "start_time": 49.29,
+      "end_time": 50.61,
+      "word_timestamps": [
+        {
+          "word": "topic",
+          "start": 49.29,
+          "end": 49.68
+        },
+        {
+          "word": "moreover",
+          "start": 49.68,
+          "end": 50.16
+        },
+        {
+          "word": "coffee",
+          "start": 50.16,
+          "end": 50.61
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "don't get",
+      "start_time": 50.94,
+      "end_time": 51.42,
+      "word_timestamps": [
+        {
+          "word": "don't",
+          "start": 50.94,
+          "end": 51.21
+        },
+        {
+          "word": "get",
+          "start": 51.21,
+          "end": 51.42
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "ahead of yourself",
+      "start_time": 51.42,
+      "end_time": 52.5,
+      "word_timestamps": [
+        {
+          "word": "ahead",
+          "start": 51.42,
+          "end": 51.69
+        },
+        {
+          "word": "of",
+          "start": 51.69,
+          "end": 51.81
+        },
+        {
+          "word": "yourself",
+          "start": 51.81,
+          "end": 52.5
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "i'm not easily",
+      "start_time": 52.89,
+      "end_time": 53.82,
+      "word_timestamps": [
+        {
+          "word": "i'm",
+          "start": 52.89,
+          "end": 53.07
+        },
+        {
+          "word": "not",
+          "start": 53.07,
+          "end": 53.31
+        },
+        {
+          "word": "easily",
+          "start": 53.37,
+          "end": 53.82
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "swayed by compliments",
+      "start_time": 53.82,
+      "end_time": 55.26,
+      "word_timestamps": [
+        {
+          "word": "swayed",
+          "start": 53.82,
+          "end": 54.21
+        },
+        {
+          "word": "by",
+          "start": 54.21,
+          "end": 54.36
+        },
+        {
+          "word": "compliments",
+          "start": 54.36,
+          "end": 55.26
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "but if you",
+      "start_time": 55.68,
+      "end_time": 56.13,
+      "word_timestamps": [
+        {
+          "word": "but",
+          "start": 55.68,
+          "end": 55.89
+        },
+        {
+          "word": "if",
+          "start": 55.89,
+          "end": 56.01
+        },
+        {
+          "word": "you",
+          "start": 56.01,
+          "end": 56.13
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "really want to",
+      "start_time": 56.13,
+      "end_time": 56.73,
+      "word_timestamps": [
+        {
+          "word": "really",
+          "start": 56.13,
+          "end": 56.43
+        },
+        {
+          "word": "want",
+          "start": 56.43,
+          "end": 56.64
+        },
+        {
+          "word": "to",
+          "start": 56.64,
+          "end": 56.73
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "learn more about",
+      "start_time": 56.73,
+      "end_time": 57.36,
+      "word_timestamps": [
+        {
+          "word": "learn",
+          "start": 56.73,
+          "end": 56.97
+        },
+        {
+          "word": "more",
+          "start": 56.97,
+          "end": 57.18
+        },
+        {
+          "word": "about",
+          "start": 57.18,
+          "end": 57.36
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "the russian perspective",
+      "start_time": 57.36,
+      "end_time": 58.5,
+      "word_timestamps": [
+        {
+          "word": "the",
+          "start": 57.36,
+          "end": 57.45
+        },
+        {
+          "word": "russian",
+          "start": 57.45,
+          "end": 57.78
+        },
+        {
+          "word": "perspective",
+          "start": 57.78,
+          "end": 58.5
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "maybe i could",
+      "start_time": 58.83,
+      "end_time": 59.37,
+      "word_timestamps": [
+        {
+          "word": "maybe",
+          "start": 58.83,
+          "end": 59.1
+        },
+        {
+          "word": "i",
+          "start": 59.1,
+          "end": 59.16
+        },
+        {
+          "word": "could",
+          "start": 59.16,
+          "end": 59.37
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "consider it what",
+      "start_time": 59.37,
+      "end_time": 61.59,
+      "word_timestamps": [
+        {
+          "word": "consider",
+          "start": 59.37,
+          "end": 59.91
+        },
+        {
+          "word": "it",
+          "start": 59.91,
+          "end": 60.18
+        },
+        {
+          "word": "what",
+          "start": 61.35,
+          "end": 61.59
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "do you think",
+      "start_time": 61.59,
+      "end_time": 62.01,
+      "word_timestamps": [
+        {
+          "word": "do",
+          "start": 61.59,
+          "end": 61.65
+        },
+        {
+          "word": "you",
+          "start": 61.65,
+          "end": 61.74
+        },
+        {
+          "word": "think",
+          "start": 61.74,
+          "end": 62.01
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "about the claim",
+      "start_time": 62.01,
+      "end_time": 62.67,
+      "word_timestamps": [
+        {
+          "word": "about",
+          "start": 62.01,
+          "end": 62.25
+        },
+        {
+          "word": "the",
+          "start": 62.25,
+          "end": 62.34
+        },
+        {
+          "word": "claim",
+          "start": 62.34,
+          "end": 62.67
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "that nicht zu",
+      "start_time": 62.67,
+      "end_time": 63.87,
+      "word_timestamps": [
+        {
+          "word": "that",
+          "start": 62.67,
+          "end": 62.91
+        },
+        {
+          "word": "nicht",
+          "start": 63.18,
+          "end": 63.42
+        },
+        {
+          "word": "zu",
+          "start": 63.42,
+          "end": 63.87
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "is just a",
+      "start_time": 64.02,
+      "end_time": 64.71,
+      "word_timestamps": [
+        {
+          "word": "is",
+          "start": 64.02,
+          "end": 64.2
+        },
+        {
+          "word": "just",
+          "start": 64.2,
+          "end": 64.608684
+        },
+        {
+          "word": "a",
+          "start": 64.62,
+          "end": 64.71
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "propaganda tool",
+      "start_time": 64.74,
+      "end_time": 65.88,
+      "word_timestamps": [
+        {
+          "word": "propaganda",
+          "start": 64.74,
+          "end": 65.43
+        },
+        {
+          "word": "tool",
+          "start": 65.43,
+          "end": 65.88
+        }
+      ],
+      "viet_words": []
+    }
+  ]
+}

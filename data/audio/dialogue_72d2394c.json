@@ -1,0 +1,449 @@
+{
+  "id": "72d2394c",
+  "topic_word": "cafe",
+  "topic_word_translation": "coffee",
+  "common_words": [
+    {
+      "word": "thích (verb)",
+      "translation": "like/enjoy"
+    },
+    {
+      "word": "ngon (adjective)",
+      "translation": "delicious"
+    },
+    {
+      "word": "quá (adverb)",
+      "translation": "too/very"
+    },
+    {
+      "word": "đã (particle)",
+      "translation": "already/have"
+    },
+    {
+      "word": "nơi (noun)",
+      "translation": "place"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I see Saigon",
+      "start_time": 0.03,
+      "end_time": 0.8400000000000001
+    },
+    {
+      "speaker": "Mira",
+      "text": "people",
+      "start_time": 0.8400000000000001,
+      "end_time": 1.11
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>thích</vietnamese> cafe",
+      "start_time": 1.11,
+      "end_time": 2.1
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>quá</vietnamese>.",
+      "start_time": 2.1,
+      "end_time": 3.15
+    },
+    {
+      "speaker": "Mira",
+      "text": "There are so",
+      "start_time": 3.15,
+      "end_time": 3.7575
+    },
+    {
+      "speaker": "Mira",
+      "text": "many",
+      "start_time": 3.7575,
+      "end_time": 4.06
+    },
+    {
+      "speaker": "Mira",
+      "text": "cafe shops here,",
+      "start_time": 4.14,
+      "end_time": 5.89
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't know",
+      "start_time": 5.94,
+      "end_time": 6.33
+    },
+    {
+      "speaker": "Mira",
+      "text": "which one to",
+      "start_time": 6.33,
+      "end_time": 6.78
+    },
+    {
+      "speaker": "Mira",
+      "text": "choose.",
+      "start_time": 6.78,
+      "end_time": 7.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's right!",
+      "start_time": 7.0,
+      "end_time": 8.32
+    },
+    {
+      "speaker": "Michael",
+      "text": "Cafe is part",
+      "start_time": 8.52,
+      "end_time": 9.78
+    },
+    {
+      "speaker": "Michael",
+      "text": "of Saigon's culture.",
+      "start_time": 9.78,
+      "end_time": 10.68
+    },
+    {
+      "speaker": "Michael",
+      "text": "Have you <vietnamese>đã</vietnamese> tried",
+      "start_time": 10.68,
+      "end_time": 11.83
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>cà phê sữa đá</vietnamese>?",
+      "start_time": 11.97,
+      "end_time": 13.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "It's really <vietnamese>ngon</vietnamese>",
+      "start_time": 13.41,
+      "end_time": 14.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "and distinctive.",
+      "start_time": 14.04,
+      "end_time": 14.77
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't <vietnamese>thích</vietnamese>",
+      "start_time": 14.94,
+      "end_time": 16.13
+    },
+    {
+      "speaker": "Mira",
+      "text": "sweet things that",
+      "start_time": 16.14,
+      "end_time": 16.89
+    },
+    {
+      "speaker": "Mira",
+      "text": "much.",
+      "start_time": 16.89,
+      "end_time": 17.25
+    },
+    {
+      "speaker": "Mira",
+      "text": "But I",
+      "start_time": 17.25,
+      "end_time": 17.58
+    },
+    {
+      "speaker": "Mira",
+      "text": "must admit",
+      "start_time": 17.58,
+      "end_time": 18.3
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>cà phê sữa đá</vietnamese>",
+      "start_time": 18.3,
+      "end_time": 18.92
+    },
+    {
+      "speaker": "Mira",
+      "text": "here is",
+      "start_time": 18.92,
+      "end_time": 19.86
+    },
+    {
+      "speaker": "Mira",
+      "text": "completely different",
+      "start_time": 19.86,
+      "end_time": 20.46
+    },
+    {
+      "speaker": "Mira",
+      "text": "from Russia.",
+      "start_time": 20.46,
+      "end_time": 21.64
+    },
+    {
+      "speaker": "Mira",
+      "text": "Do Vietnamese people",
+      "start_time": 22.23,
+      "end_time": 23.650000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>thích</vietnamese> sitting at",
+      "start_time": 23.79,
+      "end_time": 25.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "cafe all day?",
+      "start_time": 25.11,
+      "end_time": 26.830000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "Not exactly all",
+      "start_time": 27.0,
+      "end_time": 27.78
+    },
+    {
+      "speaker": "Michael",
+      "text": "day, but we",
+      "start_time": 27.78,
+      "end_time": 28.74
+    },
+    {
+      "speaker": "Michael",
+      "text": "like to spend",
+      "start_time": 28.74,
+      "end_time": 29.28
+    },
+    {
+      "speaker": "Michael",
+      "text": "time at cafe",
+      "start_time": 29.28,
+      "end_time": 30.82
+    },
+    {
+      "speaker": "Michael",
+      "text": "chatting.",
+      "start_time": 30.84,
+      "end_time": 31.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "Besides cafe,",
+      "start_time": 31.5,
+      "end_time": 33.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "do you like",
+      "start_time": 33.06,
+      "end_time": 33.45
+    },
+    {
+      "speaker": "Michael",
+      "text": "exploring Ben Thanh",
+      "start_time": 33.45,
+      "end_time": 34.395
+    },
+    {
+      "speaker": "Michael",
+      "text": "market?",
+      "start_time": 34.395,
+      "end_time": 34.71
+    },
+    {
+      "speaker": "Michael",
+      "text": "It's a wonderful",
+      "start_time": 34.71,
+      "end_time": 35.620000000000005
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>nơi</vietnamese>",
+      "start_time": 35.73,
+      "end_time": 36.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "to understand Saigon",
+      "start_time": 36.0,
+      "end_time": 37.35
+    },
+    {
+      "speaker": "Michael",
+      "text": "culture.",
+      "start_time": 37.35,
+      "end_time": 37.8
+    },
+    {
+      "speaker": "Mira",
+      "text": "Ben Thanh market?",
+      "start_time": 37.8,
+      "end_time": 38.49
+    },
+    {
+      "speaker": "Mira",
+      "text": "I <vietnamese>đã</vietnamese> been there",
+      "start_time": 38.49,
+      "end_time": 39.9
+    },
+    {
+      "speaker": "Mira",
+      "text": "once and got",
+      "start_time": 39.9,
+      "end_time": 40.71
+    },
+    {
+      "speaker": "Mira",
+      "text": "chased by vendors",
+      "start_time": 40.72,
+      "end_time": 41.76
+    },
+    {
+      "speaker": "Mira",
+      "text": "for not",
+      "start_time": 41.76,
+      "end_time": 42.24
+    },
+    {
+      "speaker": "Mira",
+      "text": "buying anything.",
+      "start_time": 42.24,
+      "end_time": 43.17
+    },
+    {
+      "speaker": "Mira",
+      "text": "It was terrifying!",
+      "start_time": 43.17,
+      "end_time": 44.34
+    },
+    {
+      "speaker": "Mira",
+      "text": "Do you know",
+      "start_time": 44.34,
+      "end_time": 44.722500000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "any",
+      "start_time": 44.722500000000004,
+      "end_time": 44.85
+    },
+    {
+      "speaker": "Mira",
+      "text": "quieter <vietnamese>nơi</vietnamese>",
+      "start_time": 44.85,
+      "end_time": 46.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "where I can",
+      "start_time": 46.0,
+      "end_time": 46.825
+    },
+    {
+      "speaker": "Mira",
+      "text": "play",
+      "start_time": 46.825,
+      "end_time": 47.1
+    },
+    {
+      "speaker": "Mira",
+      "text": "chess?",
+      "start_time": 47.1,
+      "end_time": 47.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sorry about",
+      "start_time": 47.5,
+      "end_time": 48.54
+    },
+    {
+      "speaker": "Michael",
+      "text": "that experience.",
+      "start_time": 48.54,
+      "end_time": 49.35
+    },
+    {
+      "speaker": "Michael",
+      "text": "There's a small",
+      "start_time": 49.35,
+      "end_time": 50.4075
+    },
+    {
+      "speaker": "Michael",
+      "text": "cafe",
+      "start_time": 50.4075,
+      "end_time": 50.86
+    },
+    {
+      "speaker": "Michael",
+      "text": "near 23/9 Park,",
+      "start_time": 50.91,
+      "end_time": 52.9
+    },
+    {
+      "speaker": "Michael",
+      "text": "a <vietnamese>nơi</vietnamese> where many",
+      "start_time": 52.95,
+      "end_time": 54.15
+    },
+    {
+      "speaker": "Michael",
+      "text": "elderly people play",
+      "start_time": 54.15,
+      "end_time": 55.05
+    },
+    {
+      "speaker": "Michael",
+      "text": "Chinese chess.",
+      "start_time": 55.05,
+      "end_time": 56.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "Perhaps you'll <vietnamese>thích</vietnamese>",
+      "start_time": 56.0,
+      "end_time": 57.6
+    },
+    {
+      "speaker": "Michael",
+      "text": "that place,",
+      "start_time": 57.6,
+      "end_time": 58.47
+    },
+    {
+      "speaker": "Michael",
+      "text": "though it's not",
+      "start_time": 58.47,
+      "end_time": 59.055
+    },
+    {
+      "speaker": "Michael",
+      "text": "chess",
+      "start_time": 59.055,
+      "end_time": 59.25
+    },
+    {
+      "speaker": "Michael",
+      "text": "but still interesting.",
+      "start_time": 59.25,
+      "end_time": 60.77
+    },
+    {
+      "speaker": "Michael",
+      "text": "How <vietnamese>ngon</vietnamese> are you",
+      "start_time": 60.78,
+      "end_time": 61.29
+    },
+    {
+      "speaker": "Michael",
+      "text": "at chess?",
+      "start_time": 61.29,
+      "end_time": 61.93
+    }
+  ]
+}

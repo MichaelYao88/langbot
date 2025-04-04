@@ -1,0 +1,74 @@
+{
+  "id": "ff334802",
+  "topic_word": "thịt chó",
+  "topic_word_translation": "dog meat",
+  "common_words": [
+    {
+      "word": "ăn",
+      "translation": "eat"
+    },
+    {
+      "word": "truyền thống",
+      "translation": "tradition"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Have you ever eaten thịt chó? I see many Vietnamese people consider it a truyền thống dish.",
+      "start_time": 0.0,
+      "end_time": 9.1,
+      "viet_words": [
+        "truyền thống",
+        "thịt chó"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Never! In Russia, dogs are friends, không food. But I see many thịt chó restaurants in Saigon. Have you tried it?",
+      "start_time": 9.6,
+      "end_time": 20.9,
+      "viet_words": [
+        "thịt chó"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Actually I also don't want to eat thịt chó. I think culture should change with time. But there's a secret - my grandfather really liked thịt chó dishes when he lived in Vietnam.",
+      "start_time": 21.4,
+      "end_time": 39.099999999999994,
+      "viet_words": [
+        "thịt chó"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's interesting. In my homeland we also have foods that Westerners wouldn't understand. But thịt chó... I cannot. You know, I used to have a dog when I was little.",
+      "start_time": 39.599999999999994,
+      "end_time": 56.199999999999996,
+      "viet_words": [
+        "thịt chó"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Maybe that's something we have in common. I also love dogs, but I respect truyền thống. Do you think eating thịt chó will disappear in Vietnam?",
+      "start_time": 56.699999999999996,
+      "end_time": 71.0,
+      "viet_words": [
+        "truyền thống",
+        "thịt chó"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm không sure. Truyền thống are very difficult to change. But if you truly respect dogs as friends, how can you think about eating thịt chó?",
+      "start_time": 71.5,
+      "end_time": 85.6,
+      "viet_words": [
+        "truyền thống",
+        "thịt chó"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "id": "daa9f7ad",
+  "topic_word": "lễ hội",
+  "topic_word_translation": "festival",
+  "common_words": [
+    {
+      "word": "truyền thống",
+      "translation": "traditional"
+    },
+    {
+      "word": "bí ẩn",
+      "translation": "mysterious"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael,",
+      "start_time": 0.03,
+      "end_time": 0.84
+    },
+    {
+      "speaker": "Mira",
+      "text": "have you heard",
+      "start_time": 0.84,
+      "end_time": 1.26
+    },
+    {
+      "speaker": "Mira",
+      "text": "about the <vietnamese>bí ẩn lễ hội</vietnamese>",
+      "start_time": 1.26,
+      "end_time": 2.5700000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "in Saigon",
+      "start_time": 2.58,
+      "end_time": 3.69
+    },
+    {
+      "speaker": "Mira",
+      "text": "during the full",
+      "start_time": 3.69,
+      "end_time": 4.23
+    },
+    {
+      "speaker": "Mira",
+      "text": "moon? They say",
+      "start_time": 4.23,
+      "end_time": 5.76
+    },
+    {
+      "speaker": "Mira",
+      "text": "if two people",
+      "start_time": 5.76,
+      "end_time": 6.33
+    },
+    {
+      "speaker": "Mira",
+      "text": "attend this <vietnamese>lễ hội</vietnamese>",
+      "start_time": 6.33,
+      "end_time": 7.76
+    },
+    {
+      "speaker": "Mira",
+      "text": "together, they'll be",
+      "start_time": 7.77,
+      "end_time": 8.82
+    },
+    {
+      "speaker": "Mira",
+      "text": "connected forever. Of",
+      "start_time": 8.82,
+      "end_time": 10.95
+    },
+    {
+      "speaker": "Mira",
+      "text": "course... it's not",
+      "start_time": 10.95,
+      "end_time": 12.09
+    },
+    {
+      "speaker": "Mira",
+      "text": "like I care",
+      "start_time": 12.09,
+      "end_time": 12.78
+    },
+    {
+      "speaker": "Mira",
+      "text": "about that!",
+      "start_time": 12.78,
+      "end_time": 13.13
+    },
+    {
+      "speaker": "Michael",
+      "text": "What <vietnamese>lễ hội</vietnamese>",
+      "start_time": 13.14,
+      "end_time": 14.64
+    },
+    {
+      "speaker": "Michael",
+      "text": "is that?",
+      "start_time": 14.64,
+      "end_time": 15.73
+    },
+    {
+      "speaker": "Michael",
+      "text": "I've lived in",
+      "start_time": 16.26,
+      "end_time": 16.71
+    },
+    {
+      "speaker": "Michael",
+      "text": "Saigon for quite",
+      "start_time": 16.71,
+      "end_time": 17.49
+    },
+    {
+      "speaker": "Michael",
+      "text": "a while but",
+      "start_time": 17.49,
+      "end_time": 18.15
+    },
+    {
+      "speaker": "Michael",
+      "text": "never heard of",
+      "start_time": 18.15,
+      "end_time": 18.465
+    },
+    {
+      "speaker": "Michael",
+      "text": "it.",
+      "start_time": 18.465,
+      "end_time": 18.67
+    },
+    {
+      "speaker": "Michael",
+      "text": "But if you",
+      "start_time": 19.11,
+      "end_time": 19.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "want to go,",
+      "start_time": 19.5,
+      "end_time": 20.119999999999997
+    },
+    {
+      "speaker": "Michael",
+      "text": "I could go",
+      "start_time": 20.13,
+      "end_time": 20.52
+    },
+    {
+      "speaker": "Michael",
+      "text": "with you. I",
+      "start_time": 20.52,
+      "end_time": 21.12
+    },
+    {
+      "speaker": "Michael",
+      "text": "really enjoy exploring",
+      "start_time": 21.12,
+      "end_time": 22.42
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>truyền thống lễ hội</vietnamese>,",
+      "start_time": 22.5,
+      "end_time": 23.68
+    },
+    {
+      "speaker": "Michael",
+      "text": "especially ones with",
+      "start_time": 23.76,
+      "end_time": 24.69
+    },
+    {
+      "speaker": "Michael",
+      "text": "romantic significance like",
+      "start_time": 24.69,
+      "end_time": 26.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "that.",
+      "start_time": 26.04,
+      "end_time": 26.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't misunderstand!",
+      "start_time": 27.93,
+      "end_time": 28.86
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm just curious.",
+      "start_time": 28.86,
+      "end_time": 30.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "But... if you",
+      "start_time": 30.0,
+      "end_time": 30.709999999999997
+    },
+    {
+      "speaker": "Mira",
+      "text": "want to go,",
+      "start_time": 30.72,
+      "end_time": 31.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "I wouldn't mind.",
+      "start_time": 31.71,
+      "end_time": 32.45
+    },
+    {
+      "speaker": "Mira",
+      "text": "They say this",
+      "start_time": 32.46,
+      "end_time": 33.24
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>lễ hội</vietnamese> only appears",
+      "start_time": 33.24,
+      "end_time": 34.59
+    },
+    {
+      "speaker": "Mira",
+      "text": "once a year,",
+      "start_time": 34.59,
+      "end_time": 34.83
+    },
+    {
+      "speaker": "Mira",
+      "text": "and two people",
+      "start_time": 34.83,
+      "end_time": 35.55
+    },
+    {
+      "speaker": "Mira",
+      "text": "must search for",
+      "start_time": 35.55,
+      "end_time": 36.21
+    },
+    {
+      "speaker": "Mira",
+      "text": "it together to",
+      "start_time": 36.21,
+      "end_time": 36.87
+    },
+    {
+      "speaker": "Mira",
+      "text": "find it. Do",
+      "start_time": 36.87,
+      "end_time": 38.52
+    },
+    {
+      "speaker": "Mira",
+      "text": "you believe in",
+      "start_time": 38.52,
+      "end_time": 39.12
+    },
+    {
+      "speaker": "Mira",
+      "text": "things like that?",
+      "start_time": 39.12,
+      "end_time": 40.190000000000005
+    },
+    {
+      "speaker": "Michael",
+      "text": "I think culture",
+      "start_time": 40.2,
+      "end_time": 40.95
+    },
+    {
+      "speaker": "Michael",
+      "text": "and <vietnamese>truyền thống</vietnamese>",
+      "start_time": 40.95,
+      "end_time": 42.36
+    },
+    {
+      "speaker": "Michael",
+      "text": "always have interesting",
+      "start_time": 42.36,
+      "end_time": 43.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>bí ẩn</vietnamese> elements.",
+      "start_time": 43.41,
+      "end_time": 45.01
+    },
+    {
+      "speaker": "Michael",
+      "text": "Such <vietnamese>lễ hội</vietnamese> might",
+      "start_time": 45.03,
+      "end_time": 45.87
+    },
+    {
+      "speaker": "Michael",
+      "text": "be ways for",
+      "start_time": 45.87,
+      "end_time": 46.53
+    },
+    {
+      "speaker": "Michael",
+      "text": "locals to connect",
+      "start_time": 46.53,
+      "end_time": 47.4
+    },
+    {
+      "speaker": "Michael",
+      "text": "with each other.",
+      "start_time": 47.4,
+      "end_time": 48.1
+    },
+    {
+      "speaker": "Michael",
+      "text": "But wait, the",
+      "start_time": 48.75,
+      "end_time": 50.1
+    },
+    {
+      "speaker": "Michael",
+      "text": "next full moon",
+      "start_time": 50.1,
+      "end_time": 50.79
+    },
+    {
+      "speaker": "Michael",
+      "text": "is tomorrow! Would",
+      "start_time": 50.79,
+      "end_time": 52.17
+    },
+    {
+      "speaker": "Michael",
+      "text": "you like us",
+      "start_time": 52.17,
+      "end_time": 52.59
+    },
+    {
+      "speaker": "Michael",
+      "text": "to try finding",
+      "start_time": 52.59,
+      "end_time": 53.25
+    },
+    {
+      "speaker": "Michael",
+      "text": "this <vietnamese>lễ hội</vietnamese>?",
+      "start_time": 53.25,
+      "end_time": 54.48
+    },
+    {
+      "speaker": "Michael",
+      "text": "I could pick",
+      "start_time": 54.48,
+      "end_time": 54.772499999999994
+    },
+    {
+      "speaker": "Michael",
+      "text": "you",
+      "start_time": 54.772499999999994,
+      "end_time": 54.86999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "up at 7",
+      "start_time": 54.87,
+      "end_time": 55.162499999999994
+    },
+    {
+      "speaker": "Michael",
+      "text": "PM.",
+      "start_time": 55.162499999999994,
+      "end_time": 55.35999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "I... I",
+      "start_time": 57.12,
+      "end_time": 57.81
+    },
+    {
+      "speaker": "Mira",
+      "text": "didn't say I",
+      "start_time": 57.81,
+      "end_time": 58.82
+    },
+    {
+      "speaker": "Mira",
+      "text": "wanted to go!",
+      "start_time": 58.83,
+      "end_time": 60.93
+    },
+    {
+      "speaker": "Mira",
+      "text": "But... okay,",
+      "start_time": 60.93,
+      "end_time": 62.04
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'll get ready.",
+      "start_time": 62.04,
+      "end_time": 62.55
+    },
+    {
+      "speaker": "Mira",
+      "text": "There's one thing",
+      "start_time": 62.55,
+      "end_time": 63.36
+    },
+    {
+      "speaker": "Mira",
+      "text": "you should know",
+      "start_time": 63.36,
+      "end_time": 64.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "about this <vietnamese>lễ hội</vietnamese> -",
+      "start_time": 64.74,
+      "end_time": 65.94
+    },
+    {
+      "speaker": "Mira",
+      "text": "they say participants",
+      "start_time": 65.94,
+      "end_time": 66.8175
+    },
+    {
+      "speaker": "Mira",
+      "text": "must",
+      "start_time": 66.8175,
+      "end_time": 67.16
+    },
+    {
+      "speaker": "Mira",
+      "text": "wear <vietnamese>truyền thống</vietnamese>",
+      "start_time": 67.17,
+      "end_time": 68.79
+    },
+    {
+      "speaker": "Mira",
+      "text": "clothes. Do you",
+      "start_time": 68.79,
+      "end_time": 69.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "have <vietnamese>truyền thống</vietnamese>",
+      "start_time": 69.6,
+      "end_time": 71.37
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese clothing?",
+      "start_time": 71.37,
+      "end_time": 71.52
+    },
+    {
+      "speaker": "Mira",
+      "text": "I have a",
+      "start_time": 71.52,
+      "end_time": 71.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "Russian traditional dress",
+      "start_time": 71.88,
+      "end_time": 73.42999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "that my grandmother",
+      "start_time": 73.44,
+      "end_time": 74.31
+    },
+    {
+      "speaker": "Mira",
+      "text": "made...",
+      "start_time": 74.31,
+      "end_time": 74.74
+    }
+  ]
+}

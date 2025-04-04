@@ -1,0 +1,75 @@
+{
+  "id": "304cb74f",
+  "topic_word": "chơi game",
+  "topic_word_translation": "playing games",
+  "common_words": [
+    {
+      "word": "nghiện",
+      "translation": "addicted"
+    },
+    {
+      "word": "cờ vua",
+      "translation": "chess"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Do you know, my friend is addicted to Call of Duty. He chơi game from morning till night, non-stop.",
+      "start_time": 0.0,
+      "end_time": 9.9,
+      "viet_words": [
+        "chơi game"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "That game really makes people waste time. My brother in Russia is also nghiện to this game, chơi game all day without studying anything. I hate people who only know how to chơi game.",
+      "start_time": 10.4,
+      "end_time": 28.6,
+      "viet_words": [
+        "nghiện",
+        "chơi game"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "But sometimes chơi game is good too, helps relieve stress. I also play occasionally, but I'm not nghiện like my friend.",
+      "start_time": 29.1,
+      "end_time": 41.0,
+      "viet_words": [
+        "nghiện",
+        "chơi game"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Really? I didn't expect you to be someone who chơi game. Have you ever thought that cờ vua is better than chơi game? At least cờ vua trains your brain.",
+      "start_time": 41.5,
+      "end_time": 56.6,
+      "viet_words": [
+        "cờ vua",
+        "chơi game"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Cờ vua? I'm not very good, but if you teach me to play, maybe I'll like it more than chơi game. You're good at cờ vua, right?",
+      "start_time": 57.1,
+      "end_time": 69.6,
+      "viet_words": [
+        "cờ vua",
+        "chơi game"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I... I could teach you, but don't think I'm doing this because I like you! It's just that I don't want you to become someone nghiện to games...",
+      "start_time": 70.1,
+      "end_time": 84.39999999999999,
+      "viet_words": [
+        "nghiện"
+      ]
+    }
+  ]
+}

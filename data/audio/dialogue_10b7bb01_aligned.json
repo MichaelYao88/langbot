@@ -1,0 +1,269 @@
+{
+  "id": "10b7bb01",
+  "topic_word": "tạch",
+  "topic_word_translation": "fail/flunk (exam, interview, date)",
+  "common_words": [
+    {
+      "word": "thất bại",
+      "translation": "failure"
+    },
+    {
+      "word": "cậu",
+      "translation": "you (informal)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Did you hear",
+      "start_time": 0.06,
+      "end_time": 0.45
+    },
+    {
+      "speaker": "Michael",
+      "text": "that Minh got",
+      "start_time": 0.45,
+      "end_time": 1.33
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>tạch</vietnamese> last night?",
+      "start_time": 1.47,
+      "end_time": 2.5300000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "No one expected",
+      "start_time": 2.58,
+      "end_time": 3.36
+    },
+    {
+      "speaker": "Michael",
+      "text": "Minh to fail",
+      "start_time": 3.36,
+      "end_time": 3.93
+    },
+    {
+      "speaker": "Michael",
+      "text": "the university entrance",
+      "start_time": 3.93,
+      "end_time": 4.95
+    },
+    {
+      "speaker": "Michael",
+      "text": "exam like that.",
+      "start_time": 4.95,
+      "end_time": 5.92
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Tạch</vietnamese>?",
+      "start_time": 6.21,
+      "end_time": 6.9
+    },
+    {
+      "speaker": "Mira",
+      "text": "What does this",
+      "start_time": 6.9,
+      "end_time": 7.32
+    },
+    {
+      "speaker": "Mira",
+      "text": "word mean?",
+      "start_time": 7.32,
+      "end_time": 9.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "My Vietnamese is",
+      "start_time": 9.0,
+      "end_time": 9.66
+    },
+    {
+      "speaker": "Mira",
+      "text": "still quite limited.",
+      "start_time": 9.66,
+      "end_time": 11.59
+    },
+    {
+      "speaker": "Michael",
+      "text": "Oh, <vietnamese>tạch</vietnamese>",
+      "start_time": 11.61,
+      "end_time": 11.97
+    },
+    {
+      "speaker": "Michael",
+      "text": "means to fail",
+      "start_time": 11.97,
+      "end_time": 12.78
+    },
+    {
+      "speaker": "Michael",
+      "text": "or be unsuccessful.",
+      "start_time": 12.78,
+      "end_time": 15.39
+    },
+    {
+      "speaker": "Michael",
+      "text": "Vietnamese people",
+      "start_time": 15.39,
+      "end_time": 16.14
+    },
+    {
+      "speaker": "Michael",
+      "text": "often use this",
+      "start_time": 16.14,
+      "end_time": 16.86
+    },
+    {
+      "speaker": "Michael",
+      "text": "word when talking",
+      "start_time": 16.86,
+      "end_time": 17.64
+    },
+    {
+      "speaker": "Michael",
+      "text": "about exams or",
+      "start_time": 17.64,
+      "end_time": 19.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "unsuccessful dates.",
+      "start_time": 19.41,
+      "end_time": 19.59
+    },
+    {
+      "speaker": "Mira",
+      "text": "So <vietnamese>tạch</vietnamese> means",
+      "start_time": 19.59,
+      "end_time": 20.22
+    },
+    {
+      "speaker": "Mira",
+      "text": "failure...",
+      "start_time": 20.22,
+      "end_time": 21.63
+    },
+    {
+      "speaker": "Mira",
+      "text": "Like our chess",
+      "start_time": 21.63,
+      "end_time": 22.900000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "game yesterday,",
+      "start_time": 23.07,
+      "end_time": 24.93
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>cậu</vietnamese> completely <vietnamese>tạch</vietnamese>",
+      "start_time": 24.93,
+      "end_time": 25.77
+    },
+    {
+      "speaker": "Mira",
+      "text": "against my move!",
+      "start_time": 25.77,
+      "end_time": 26.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "I did <vietnamese>tạch</vietnamese>",
+      "start_time": 26.04,
+      "end_time": 26.79
+    },
+    {
+      "speaker": "Michael",
+      "text": "miserably!",
+      "start_time": 26.79,
+      "end_time": 28.29
+    },
+    {
+      "speaker": "Michael",
+      "text": "But you know,",
+      "start_time": 28.29,
+      "end_time": 28.89
+    },
+    {
+      "speaker": "Michael",
+      "text": "I think <vietnamese>tạch</vietnamese> isn't",
+      "start_time": 28.89,
+      "end_time": 30.09
+    },
+    {
+      "speaker": "Michael",
+      "text": "always a bad",
+      "start_time": 30.09,
+      "end_time": 30.63
+    },
+    {
+      "speaker": "Michael",
+      "text": "thing. Sometimes it",
+      "start_time": 30.63,
+      "end_time": 32.1
+    },
+    {
+      "speaker": "Michael",
+      "text": "teaches us valuable",
+      "start_time": 32.1,
+      "end_time": 33.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "lessons.",
+      "start_time": 33.0,
+      "end_time": 34.45
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm... Maybe",
+      "start_time": 34.56,
+      "end_time": 36.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>cậu</vietnamese> is right.",
+      "start_time": 36.0,
+      "end_time": 37.17
+    },
+    {
+      "speaker": "Mira",
+      "text": "But why are",
+      "start_time": 37.17,
+      "end_time": 37.98
+    },
+    {
+      "speaker": "Mira",
+      "text": "you smiling when",
+      "start_time": 37.98,
+      "end_time": 39.09
+    },
+    {
+      "speaker": "Mira",
+      "text": "mentioning <vietnamese>tạch</vietnamese>?",
+      "start_time": 39.09,
+      "end_time": 39.24
+    },
+    {
+      "speaker": "Mira",
+      "text": "Is there something",
+      "start_time": 39.24,
+      "end_time": 40.24
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>cậu</vietnamese> haven't told",
+      "start_time": 40.29,
+      "end_time": 41.37
+    },
+    {
+      "speaker": "Mira",
+      "text": "me?",
+      "start_time": 41.37,
+      "end_time": 41.83
+    }
+  ]
+}

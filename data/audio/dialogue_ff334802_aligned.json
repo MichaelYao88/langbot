@@ -1,0 +1,347 @@
+{
+  "id": "ff334802",
+  "topic_word": "thịt chó",
+  "topic_word_translation": "dog meat",
+  "common_words": [
+    {
+      "word": "ăn",
+      "translation": "eat"
+    },
+    {
+      "word": "truyền thống",
+      "translation": "tradition"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Have you ever",
+      "start_time": 0.06,
+      "end_time": 0.54
+    },
+    {
+      "speaker": "Michael",
+      "text": "eaten <vietnamese>thịt chó</vietnamese>?",
+      "start_time": 0.54,
+      "end_time": 2.05
+    },
+    {
+      "speaker": "Michael",
+      "text": "I see many",
+      "start_time": 2.1,
+      "end_time": 2.64
+    },
+    {
+      "speaker": "Michael",
+      "text": "Vietnamese people consider",
+      "start_time": 2.64,
+      "end_time": 3.81
+    },
+    {
+      "speaker": "Michael",
+      "text": "it a <vietnamese>truyền thống</vietnamese>",
+      "start_time": 3.81,
+      "end_time": 5.08
+    },
+    {
+      "speaker": "Michael",
+      "text": "dish.",
+      "start_time": 5.13,
+      "end_time": 5.77
+    },
+    {
+      "speaker": "Mira",
+      "text": "Never! In Russia,",
+      "start_time": 5.85,
+      "end_time": 7.13
+    },
+    {
+      "speaker": "Mira",
+      "text": "dogs are friends,",
+      "start_time": 7.14,
+      "end_time": 8.26
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>không</vietnamese> food. But",
+      "start_time": 8.4,
+      "end_time": 10.2
+    },
+    {
+      "speaker": "Mira",
+      "text": "I see many",
+      "start_time": 10.2,
+      "end_time": 11.11
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>thịt chó</vietnamese> restaurants in",
+      "start_time": 11.16,
+      "end_time": 12.66
+    },
+    {
+      "speaker": "Mira",
+      "text": "Saigon. Have you",
+      "start_time": 12.66,
+      "end_time": 13.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "tried it?",
+      "start_time": 13.5,
+      "end_time": 14.82
+    },
+    {
+      "speaker": "Michael",
+      "text": "Actually I also",
+      "start_time": 14.82,
+      "end_time": 15.36
+    },
+    {
+      "speaker": "Michael",
+      "text": "don't want to",
+      "start_time": 15.36,
+      "end_time": 15.945
+    },
+    {
+      "speaker": "Michael",
+      "text": "eat",
+      "start_time": 15.945,
+      "end_time": 16.14
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>thịt chó</vietnamese>. I",
+      "start_time": 16.14,
+      "end_time": 17.13
+    },
+    {
+      "speaker": "Michael",
+      "text": "think culture should",
+      "start_time": 17.13,
+      "end_time": 17.88
+    },
+    {
+      "speaker": "Michael",
+      "text": "change with time.",
+      "start_time": 17.88,
+      "end_time": 18.85
+    },
+    {
+      "speaker": "Michael",
+      "text": "But there's a",
+      "start_time": 18.93,
+      "end_time": 19.35
+    },
+    {
+      "speaker": "Michael",
+      "text": "secret - my",
+      "start_time": 19.35,
+      "end_time": 20.22
+    },
+    {
+      "speaker": "Michael",
+      "text": "grandfather really liked",
+      "start_time": 20.22,
+      "end_time": 21.55
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>thịt chó</vietnamese> dishes",
+      "start_time": 21.69,
+      "end_time": 22.92
+    },
+    {
+      "speaker": "Michael",
+      "text": "when he lived",
+      "start_time": 22.92,
+      "end_time": 23.31
+    },
+    {
+      "speaker": "Michael",
+      "text": "in Vietnam.",
+      "start_time": 23.31,
+      "end_time": 23.98
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's interesting. In",
+      "start_time": 24.15,
+      "end_time": 25.62
+    },
+    {
+      "speaker": "Mira",
+      "text": "my homeland we",
+      "start_time": 25.62,
+      "end_time": 26.64
+    },
+    {
+      "speaker": "Mira",
+      "text": "also have foods",
+      "start_time": 26.64,
+      "end_time": 27.54
+    },
+    {
+      "speaker": "Mira",
+      "text": "that Westerners wouldn't",
+      "start_time": 27.54,
+      "end_time": 28.77
+    },
+    {
+      "speaker": "Mira",
+      "text": "understand. But <vietnamese>thịt</vietnamese>",
+      "start_time": 28.77,
+      "end_time": 30.21
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>chó</vietnamese>... I cannot.",
+      "start_time": 30.21,
+      "end_time": 31.810000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "You know, I",
+      "start_time": 32.04,
+      "end_time": 32.85
+    },
+    {
+      "speaker": "Mira",
+      "text": "used to have",
+      "start_time": 32.85,
+      "end_time": 33.33
+    },
+    {
+      "speaker": "Mira",
+      "text": "a dog when",
+      "start_time": 33.33,
+      "end_time": 33.84
+    },
+    {
+      "speaker": "Mira",
+      "text": "I was little.",
+      "start_time": 33.84,
+      "end_time": 34.57
+    },
+    {
+      "speaker": "Michael",
+      "text": "Maybe that's something",
+      "start_time": 34.74,
+      "end_time": 35.4
+    },
+    {
+      "speaker": "Michael",
+      "text": "we have in",
+      "start_time": 35.4,
+      "end_time": 35.985
+    },
+    {
+      "speaker": "Michael",
+      "text": "common.",
+      "start_time": 35.985,
+      "end_time": 36.28
+    },
+    {
+      "speaker": "Michael",
+      "text": "I also love",
+      "start_time": 36.63,
+      "end_time": 37.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "dogs, but I",
+      "start_time": 37.2,
+      "end_time": 38.01
+    },
+    {
+      "speaker": "Michael",
+      "text": "respect <vietnamese>truyền thống</vietnamese>.",
+      "start_time": 38.01,
+      "end_time": 39.49
+    },
+    {
+      "speaker": "Michael",
+      "text": "Do you think",
+      "start_time": 39.57,
+      "end_time": 40.07
+    },
+    {
+      "speaker": "Michael",
+      "text": "eating <vietnamese>thịt</vietnamese>",
+      "start_time": 40.08,
+      "end_time": 41.07
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>chó</vietnamese> will disappear",
+      "start_time": 41.07,
+      "end_time": 42.21
+    },
+    {
+      "speaker": "Michael",
+      "text": "in Vietnam?",
+      "start_time": 42.21,
+      "end_time": 43.45
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm <vietnamese>không</vietnamese> sure.",
+      "start_time": 43.68,
+      "end_time": 45.18
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Truyền thống</vietnamese> are",
+      "start_time": 45.18,
+      "end_time": 46.14
+    },
+    {
+      "speaker": "Mira",
+      "text": "very difficult to",
+      "start_time": 46.14,
+      "end_time": 47.0625
+    },
+    {
+      "speaker": "Mira",
+      "text": "change.",
+      "start_time": 47.0625,
+      "end_time": 47.47
+    },
+    {
+      "speaker": "Mira",
+      "text": "But if you",
+      "start_time": 47.64,
+      "end_time": 48.09
+    },
+    {
+      "speaker": "Mira",
+      "text": "truly respect dogs",
+      "start_time": 48.09,
+      "end_time": 49.23
+    },
+    {
+      "speaker": "Mira",
+      "text": "as friends, how",
+      "start_time": 49.23,
+      "end_time": 50.01
+    },
+    {
+      "speaker": "Mira",
+      "text": "can you think",
+      "start_time": 50.01,
+      "end_time": 50.55
+    },
+    {
+      "speaker": "Mira",
+      "text": "about eating <vietnamese>thịt</vietnamese>",
+      "start_time": 50.55,
+      "end_time": 51.69
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>chó</vietnamese>?",
+      "start_time": 51.69,
+      "end_time": 52.300000000000004
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "b0e3a0e6",
+  "topic_word": "giáo dục",
+  "topic_word_translation": "education",
+  "common_words": [
+    {
+      "word": "học",
+      "translation": "learn/study"
+    },
+    {
+      "word": "tư duy",
+      "translation": "thinking/mindset"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael, I feel like the giáo dục system here isn't what it appears to be. Students học too much but don't understand the essence of problems.",
+      "start_time": 0.0,
+      "end_time": 14.200000000000001,
+      "viet_words": [
+        "học",
+        "giáo dục"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's right, giáo dục in Vietnam is a bit heavy on theory. But you know, I think the American giáo dục system is too free, students lack discipline. Both have their own strengths and weaknesses.",
+      "start_time": 14.700000000000001,
+      "end_time": 34.2,
+      "viet_words": [
+        "giáo dục"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm, what you say makes sense, but I still prefer the way of giáo dục in Russia. We value mathematics and science. Sometimes I find it strange how students here học for many hours but can't apply it to real life. Giáo dục should focus on tư duy critically, not mechanical memorization.",
+      "start_time": 34.7,
+      "end_time": 63.2,
+      "viet_words": [
+        "học",
+        "tư duy",
+        "giáo dục"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "I like how you tư duy about giáo dục, Mira. Actually, one of the reasons I enjoy talking with you is because you always have interesting perspectives. Ideal giáo dục in my opinion should combine discipline from the East and creativity from the West. Have you ever thought about becoming a teacher?",
+      "start_time": 63.7,
+      "end_time": 93.4,
+      "viet_words": [
+        "tư duy",
+        "giáo dục"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "You... like talking to me? Don't say such weird things! But... about your question, perhaps I would teach chess to children. Giáo dục through chess helps develop logical tư duy and patience. What about you?",
+      "start_time": 93.9,
+      "end_time": 114.5,
+      "viet_words": [
+        "tư duy",
+        "giáo dục"
+      ]
+    }
+  ]
+}

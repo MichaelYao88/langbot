@@ -1,0 +1,365 @@
+{
+  "id": "304cb74f",
+  "topic_word": "chơi game",
+  "topic_word_translation": "playing games",
+  "common_words": [
+    {
+      "word": "nghiện",
+      "translation": "addicted"
+    },
+    {
+      "word": "cờ vua",
+      "translation": "chess"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Do you know,",
+      "start_time": 0.06,
+      "end_time": 0.6699999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "my friend is",
+      "start_time": 0.78,
+      "end_time": 1.47
+    },
+    {
+      "speaker": "Michael",
+      "text": "addicted to Call",
+      "start_time": 1.47,
+      "end_time": 2.16
+    },
+    {
+      "speaker": "Michael",
+      "text": "of Duty.",
+      "start_time": 2.16,
+      "end_time": 3.0700000000000003
+    },
+    {
+      "speaker": "Michael",
+      "text": "He <vietnamese>chơi game</vietnamese> from",
+      "start_time": 3.18,
+      "end_time": 4.23
+    },
+    {
+      "speaker": "Michael",
+      "text": "morning till night,",
+      "start_time": 4.23,
+      "end_time": 5.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "non-stop.",
+      "start_time": 5.01,
+      "end_time": 6.39
+    },
+    {
+      "speaker": "Mira",
+      "text": "That game really",
+      "start_time": 6.39,
+      "end_time": 7.17
+    },
+    {
+      "speaker": "Mira",
+      "text": "makes people waste",
+      "start_time": 7.17,
+      "end_time": 8.295
+    },
+    {
+      "speaker": "Mira",
+      "text": "time.",
+      "start_time": 8.295,
+      "end_time": 8.67
+    },
+    {
+      "speaker": "Mira",
+      "text": "My brother in",
+      "start_time": 8.67,
+      "end_time": 9.3675
+    },
+    {
+      "speaker": "Mira",
+      "text": "Russia",
+      "start_time": 9.3675,
+      "end_time": 9.65
+    },
+    {
+      "speaker": "Mira",
+      "text": "is also <vietnamese>nghiện</vietnamese>",
+      "start_time": 9.66,
+      "end_time": 10.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "to this game,",
+      "start_time": 10.74,
+      "end_time": 11.43
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>chơi game</vietnamese>",
+      "start_time": 11.43,
+      "end_time": 12.63
+    },
+    {
+      "speaker": "Mira",
+      "text": "all day",
+      "start_time": 12.63,
+      "end_time": 13.56
+    },
+    {
+      "speaker": "Mira",
+      "text": "without studying anything.",
+      "start_time": 13.56,
+      "end_time": 15.219999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "I hate people",
+      "start_time": 15.84,
+      "end_time": 16.8
+    },
+    {
+      "speaker": "Mira",
+      "text": "who only know",
+      "start_time": 16.8,
+      "end_time": 17.49
+    },
+    {
+      "speaker": "Mira",
+      "text": "how to <vietnamese>chơi game</vietnamese>.",
+      "start_time": 17.49,
+      "end_time": 18.47
+    },
+    {
+      "speaker": "Michael",
+      "text": "But sometimes",
+      "start_time": 18.47,
+      "end_time": 19.32
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>chơi game</vietnamese> is good too,",
+      "start_time": 19.32,
+      "end_time": 20.860000000000003
+    },
+    {
+      "speaker": "Michael",
+      "text": "helps relieve stress.",
+      "start_time": 20.97,
+      "end_time": 22.75
+    },
+    {
+      "speaker": "Michael",
+      "text": "I also play",
+      "start_time": 22.95,
+      "end_time": 23.49
+    },
+    {
+      "speaker": "Michael",
+      "text": "occasionally, but I'm",
+      "start_time": 23.49,
+      "end_time": 24.21
+    },
+    {
+      "speaker": "Michael",
+      "text": "not <vietnamese>nghiện</vietnamese> like",
+      "start_time": 24.21,
+      "end_time": 25.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "my friend.",
+      "start_time": 25.5,
+      "end_time": 26.110000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "Really? I didn't",
+      "start_time": 26.34,
+      "end_time": 27.12
+    },
+    {
+      "speaker": "Mira",
+      "text": "expect you to",
+      "start_time": 27.12,
+      "end_time": 27.72
+    },
+    {
+      "speaker": "Mira",
+      "text": "be someone who",
+      "start_time": 27.72,
+      "end_time": 28.75
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>chơi game</vietnamese>.",
+      "start_time": 29.01,
+      "end_time": 29.82
+    },
+    {
+      "speaker": "Mira",
+      "text": "Have you ever",
+      "start_time": 29.82,
+      "end_time": 30.2025
+    },
+    {
+      "speaker": "Mira",
+      "text": "thought",
+      "start_time": 30.2025,
+      "end_time": 30.33
+    },
+    {
+      "speaker": "Mira",
+      "text": "that <vietnamese>cờ vua</vietnamese>",
+      "start_time": 30.33,
+      "end_time": 31.669999999999998
+    },
+    {
+      "speaker": "Mira",
+      "text": "is better than",
+      "start_time": 31.68,
+      "end_time": 32.620000000000005
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>chơi game</vietnamese>?",
+      "start_time": 32.7,
+      "end_time": 33.550000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "At least <vietnamese>cờ vua</vietnamese>",
+      "start_time": 33.57,
+      "end_time": 34.58
+    },
+    {
+      "speaker": "Mira",
+      "text": "trains your brain.",
+      "start_time": 34.58,
+      "end_time": 36.31
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>Cờ vua</vietnamese>? I'm not",
+      "start_time": 36.57,
+      "end_time": 37.77
+    },
+    {
+      "speaker": "Michael",
+      "text": "very good, but",
+      "start_time": 37.77,
+      "end_time": 38.46
+    },
+    {
+      "speaker": "Michael",
+      "text": "if you teach",
+      "start_time": 38.46,
+      "end_time": 38.91
+    },
+    {
+      "speaker": "Michael",
+      "text": "me to play,",
+      "start_time": 38.91,
+      "end_time": 39.67
+    },
+    {
+      "speaker": "Michael",
+      "text": "maybe I'll like",
+      "start_time": 39.99,
+      "end_time": 40.5525
+    },
+    {
+      "speaker": "Michael",
+      "text": "it",
+      "start_time": 40.5525,
+      "end_time": 40.74
+    },
+    {
+      "speaker": "Michael",
+      "text": "more than <vietnamese>chơi game</vietnamese>.",
+      "start_time": 40.74,
+      "end_time": 41.690000000000005
+    },
+    {
+      "speaker": "Michael",
+      "text": "You're good at",
+      "start_time": 41.7,
+      "end_time": 42.87
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>cờ vua</vietnamese>, right?",
+      "start_time": 42.87,
+      "end_time": 44.15
+    },
+    {
+      "speaker": "Mira",
+      "text": "I... I could",
+      "start_time": 44.16,
+      "end_time": 46.05
+    },
+    {
+      "speaker": "Mira",
+      "text": "teach you,",
+      "start_time": 46.05,
+      "end_time": 47.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "but don't think",
+      "start_time": 47.01,
+      "end_time": 47.55
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm doing this",
+      "start_time": 47.55,
+      "end_time": 48.18
+    },
+    {
+      "speaker": "Mira",
+      "text": "because I like",
+      "start_time": 48.18,
+      "end_time": 48.915
+    },
+    {
+      "speaker": "Mira",
+      "text": "you!",
+      "start_time": 48.915,
+      "end_time": 49.16
+    },
+    {
+      "speaker": "Mira",
+      "text": "It's just that",
+      "start_time": 49.16,
+      "end_time": 50.16
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't want",
+      "start_time": 50.16,
+      "end_time": 50.8575
+    },
+    {
+      "speaker": "Mira",
+      "text": "you",
+      "start_time": 50.8575,
+      "end_time": 51.09
+    },
+    {
+      "speaker": "Mira",
+      "text": "to become someone",
+      "start_time": 51.09,
+      "end_time": 52.53
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>nghiện</vietnamese> to games...",
+      "start_time": 52.53,
+      "end_time": 53.800000000000004
+    }
+  ]
+}

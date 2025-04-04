@@ -1,0 +1,305 @@
+{
+  "id": "51b22108",
+  "topic_word": "thả thính",
+  "topic_word_translation": "to flirt/drop bait",
+  "common_words": [
+    {
+      "word": "tò mò",
+      "translation": "curious"
+    },
+    {
+      "word": "cà phê",
+      "translation": "coffee"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Did you know,",
+      "start_time": 0.03,
+      "end_time": 0.71
+    },
+    {
+      "speaker": "Mira",
+      "text": "last night I",
+      "start_time": 0.72,
+      "end_time": 1.41
+    },
+    {
+      "speaker": "Mira",
+      "text": "received another message",
+      "start_time": 1.41,
+      "end_time": 2.46
+    },
+    {
+      "speaker": "Mira",
+      "text": "from that guy.",
+      "start_time": 2.46,
+      "end_time": 3.22
+    },
+    {
+      "speaker": "Mira",
+      "text": "He keeps <vietnamese>thả thính</vietnamese>",
+      "start_time": 3.42,
+      "end_time": 4.8999999999999995
+    },
+    {
+      "speaker": "Mira",
+      "text": "me constantly, but",
+      "start_time": 4.95,
+      "end_time": 6.12
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't know",
+      "start_time": 6.12,
+      "end_time": 6.51
+    },
+    {
+      "speaker": "Mira",
+      "text": "if he's serious",
+      "start_time": 6.51,
+      "end_time": 7.26
+    },
+    {
+      "speaker": "Mira",
+      "text": "or just joking.",
+      "start_time": 7.26,
+      "end_time": 8.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>Thả thính</vietnamese>?",
+      "start_time": 9.66,
+      "end_time": 10.02
+    },
+    {
+      "speaker": "Michael",
+      "text": "What did he",
+      "start_time": 10.02,
+      "end_time": 10.68
+    },
+    {
+      "speaker": "Michael",
+      "text": "say to you?",
+      "start_time": 10.68,
+      "end_time": 11.16
+    },
+    {
+      "speaker": "Michael",
+      "text": "And... do you",
+      "start_time": 11.16,
+      "end_time": 12.03
+    },
+    {
+      "speaker": "Michael",
+      "text": "like him?",
+      "start_time": 12.03,
+      "end_time": 13.23
+    },
+    {
+      "speaker": "Mira",
+      "text": "He complimented my",
+      "start_time": 13.23,
+      "end_time": 14.52
+    },
+    {
+      "speaker": "Mira",
+      "text": "chess skills,",
+      "start_time": 14.52,
+      "end_time": 15.06
+    },
+    {
+      "speaker": "Mira",
+      "text": "then said he",
+      "start_time": 15.06,
+      "end_time": 15.82
+    },
+    {
+      "speaker": "Mira",
+      "text": "wanted to take",
+      "start_time": 15.9,
+      "end_time": 17.37
+    },
+    {
+      "speaker": "Mira",
+      "text": "me for <vietnamese>cà phê</vietnamese>",
+      "start_time": 17.37,
+      "end_time": 18.880000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "to \"learn from",
+      "start_time": 19.14,
+      "end_time": 19.83
+    },
+    {
+      "speaker": "Mira",
+      "text": "my experience.\"",
+      "start_time": 19.83,
+      "end_time": 20.49
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm not sure",
+      "start_time": 20.49,
+      "end_time": 21.24
+    },
+    {
+      "speaker": "Mira",
+      "text": "if I like",
+      "start_time": 21.24,
+      "end_time": 22.162499999999998
+    },
+    {
+      "speaker": "Mira",
+      "text": "him,",
+      "start_time": 22.162499999999998,
+      "end_time": 22.57
+    },
+    {
+      "speaker": "Mira",
+      "text": "but I feel...",
+      "start_time": 22.59,
+      "end_time": 23.34
+    },
+    {
+      "speaker": "Mira",
+      "text": "a bit <vietnamese>tò mò</vietnamese>.",
+      "start_time": 23.34,
+      "end_time": 24.24
+    },
+    {
+      "speaker": "Michael",
+      "text": "Hmm, sounds like",
+      "start_time": 24.24,
+      "end_time": 24.75
+    },
+    {
+      "speaker": "Michael",
+      "text": "he genuinely wants",
+      "start_time": 24.75,
+      "end_time": 25.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "to get to",
+      "start_time": 25.5,
+      "end_time": 25.83
+    },
+    {
+      "speaker": "Michael",
+      "text": "know you.",
+      "start_time": 25.83,
+      "end_time": 26.53
+    },
+    {
+      "speaker": "Michael",
+      "text": "If you're <vietnamese>tò mò</vietnamese>,",
+      "start_time": 26.7,
+      "end_time": 27.81
+    },
+    {
+      "speaker": "Michael",
+      "text": "just go have",
+      "start_time": 27.81,
+      "end_time": 29.32
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>cà phê</vietnamese> with him",
+      "start_time": 29.37,
+      "end_time": 29.97
+    },
+    {
+      "speaker": "Michael",
+      "text": "once and see.",
+      "start_time": 29.97,
+      "end_time": 30.75
+    },
+    {
+      "speaker": "Michael",
+      "text": "Nothing to lose,",
+      "start_time": 30.75,
+      "end_time": 31.51
+    },
+    {
+      "speaker": "Michael",
+      "text": "right?",
+      "start_time": 31.68,
+      "end_time": 32.34
+    },
+    {
+      "speaker": "Mira",
+      "text": "Do you really",
+      "start_time": 32.34,
+      "end_time": 33.78
+    },
+    {
+      "speaker": "Mira",
+      "text": "think so?",
+      "start_time": 33.78,
+      "end_time": 34.59
+    },
+    {
+      "speaker": "Mira",
+      "text": "I thought you",
+      "start_time": 34.59,
+      "end_time": 35.1525
+    },
+    {
+      "speaker": "Mira",
+      "text": "would...",
+      "start_time": 35.1525,
+      "end_time": 35.34
+    },
+    {
+      "speaker": "Mira",
+      "text": "Never mind.",
+      "start_time": 35.34,
+      "end_time": 36.69
+    },
+    {
+      "speaker": "Mira",
+      "text": "Maybe I should",
+      "start_time": 36.69,
+      "end_time": 37.1625
+    },
+    {
+      "speaker": "Mira",
+      "text": "go.",
+      "start_time": 37.1625,
+      "end_time": 37.42
+    },
+    {
+      "speaker": "Mira",
+      "text": "But if he",
+      "start_time": 37.65,
+      "end_time": 38.04
+    },
+    {
+      "speaker": "Mira",
+      "text": "keeps <vietnamese>thả thính</vietnamese> without",
+      "start_time": 38.04,
+      "end_time": 39.9
+    },
+    {
+      "speaker": "Mira",
+      "text": "making any real",
+      "start_time": 39.9,
+      "end_time": 40.65
+    },
+    {
+      "speaker": "Mira",
+      "text": "move, it would",
+      "start_time": 40.65,
+      "end_time": 41.55
+    },
+    {
+      "speaker": "Mira",
+      "text": "be annoying.",
+      "start_time": 41.55,
+      "end_time": 42.43
+    }
+  ]
+}

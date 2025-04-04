@@ -1,0 +1,64 @@
+{
+  "id": "03a7833b",
+  "topic_word": "Pokemon",
+  "topic_word_translation": "Pokemon",
+  "common_words": [
+    {
+      "word": "thích",
+      "translation": "like"
+    },
+    {
+      "word": "thông minh",
+      "translation": "intelligent/smart"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "You're not Mira! Something's off. You're different. They're watching us. Act normal. Hey, what's your favorite Pokemon?",
+      "start_time": 0.0,
+      "end_time": 11.9,
+      "viet_words": [
+        "Pokemon"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't talk nonsense, Michael! Of course I'm Mira. I thích Gengar because it's thông minh and mysterious like me when I play chess. What's your favorite Pokemon?",
+      "start_time": 12.4,
+      "end_time": 28.4,
+      "viet_words": [
+        "thích",
+        "thông minh",
+        "Pokemon"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Gengar? But last week you said you thích Pikachu. I still thích Charizard because it's powerful and free. Do you remember the first time we talked about Pokemon?",
+      "start_time": 28.9,
+      "end_time": 45.0,
+      "viet_words": [
+        "thích",
+        "Pokemon"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I never said I thích Pikachu! You're scaring me. Charizard is fine too, but not as thông minh as Gengar. Why do you keep looking around like that?",
+      "start_time": 45.5,
+      "end_time": 60.1,
+      "viet_words": [
+        "thích",
+        "thông minh"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sorry, I just... feel something isn't right. Do you think Gengar could defeat Charizard in a battle?",
+      "start_time": 60.6,
+      "end_time": 70.6,
+      "viet_words": []
+    }
+  ]
+}

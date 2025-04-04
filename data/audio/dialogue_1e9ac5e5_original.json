@@ -1,0 +1,74 @@
+{
+  "id": "1e9ac5e5",
+  "topic_word": "vinahouse",
+  "topic_word_translation": "vinahouse (Vietnamese electronic dance music)",
+  "common_words": [
+    {
+      "word": "thấy (verb)",
+      "translation": "to see/feel"
+    },
+    {
+      "word": "ồn ào (adjective)",
+      "translation": "noisy"
+    },
+    {
+      "word": "nhảy (verb)",
+      "translation": "to dance"
+    },
+    {
+      "word": "âm nhạc (noun)",
+      "translation": "music"
+    },
+    {
+      "word": "trải nghiệm (noun)",
+      "translation": "experience"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I thấy reality is not always what it seems. Like vinahouse music, it's ồn ào and fast but some people still like it.",
+      "start_time": 0.0,
+      "end_time": 11.600000000000001,
+      "viet_words": [
+        "vinahouse"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's true, but vinahouse is part of modern Vietnamese culture. It helps people release stress when they nhảy. Don't you like vinahouse?",
+      "start_time": 12.100000000000001,
+      "end_time": 25.800000000000004,
+      "viet_words": [
+        "vinahouse"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I find it too ồn ào and repetitive. In Russia, our traditional âm nhạc is deeper. But I must admit, sometimes I find myself wanting to nhảy to vinahouse beats.",
+      "start_time": 26.300000000000004,
+      "end_time": 42.2,
+      "viet_words": [
+        "vinahouse"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's interesting! Each culture has its own entertainment. Maybe next time we could go listen to vinahouse together? You'll thấy it differently when you trải nghiệm it directly.",
+      "start_time": 42.7,
+      "end_time": 60.5,
+      "viet_words": [
+        "vinahouse"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Are you asking me out? I'm not sure I can handle vinahouse âm nhạc for too long. But... what if you're there with me?",
+      "start_time": 61.0,
+      "end_time": 72.7,
+      "viet_words": [
+        "vinahouse"
+      ]
+    }
+  ]
+}

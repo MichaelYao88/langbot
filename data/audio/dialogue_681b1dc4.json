@@ -1,0 +1,371 @@
+{
+  "id": "681b1dc4",
+  "topic_word": "giới tính",
+  "topic_word_translation": "gender",
+  "common_words": [
+    {
+      "word": "nói",
+      "translation": "to speak/talk"
+    },
+    {
+      "word": "hiểu",
+      "translation": "to understand"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Hey Mira,",
+      "start_time": 0.06,
+      "end_time": 1.17
+    },
+    {
+      "speaker": "Michael",
+      "text": "when talking about",
+      "start_time": 1.17,
+      "end_time": 2.07
+    },
+    {
+      "speaker": "Michael",
+      "text": "\"sex\" in English,",
+      "start_time": 2.07,
+      "end_time": 3.06
+    },
+    {
+      "speaker": "Michael",
+      "text": "what do you",
+      "start_time": 3.06,
+      "end_time": 3.63
+    },
+    {
+      "speaker": "Michael",
+      "text": "understand it as?",
+      "start_time": 3.63,
+      "end_time": 4.53
+    },
+    {
+      "speaker": "Michael",
+      "text": "I mean the",
+      "start_time": 4.53,
+      "end_time": 5.3175
+    },
+    {
+      "speaker": "Michael",
+      "text": "action",
+      "start_time": 5.3175,
+      "end_time": 5.6000000000000005
+    },
+    {
+      "speaker": "Michael",
+      "text": "or <vietnamese>giới tính</vietnamese>?",
+      "start_time": 5.61,
+      "end_time": 6.22
+    },
+    {
+      "speaker": "Mira",
+      "text": "Oh my god",
+      "start_time": 6.24,
+      "end_time": 7.65
+    },
+    {
+      "speaker": "Mira",
+      "text": "Michael, why",
+      "start_time": 7.65,
+      "end_time": 8.79
+    },
+    {
+      "speaker": "Mira",
+      "text": "are you asking",
+      "start_time": 8.79,
+      "end_time": 9.48
+    },
+    {
+      "speaker": "Mira",
+      "text": "that? Of course",
+      "start_time": 9.48,
+      "end_time": 10.68
+    },
+    {
+      "speaker": "Mira",
+      "text": "it's gender! I'm",
+      "start_time": 10.68,
+      "end_time": 11.79
+    },
+    {
+      "speaker": "Mira",
+      "text": "not the type",
+      "start_time": 11.79,
+      "end_time": 12.39
+    },
+    {
+      "speaker": "Mira",
+      "text": "of person who",
+      "start_time": 12.39,
+      "end_time": 13.08
+    },
+    {
+      "speaker": "Mira",
+      "text": "talks about...",
+      "start_time": 13.08,
+      "end_time": 13.99
+    },
+    {
+      "speaker": "Mira",
+      "text": "that other thing.",
+      "start_time": 14.64,
+      "end_time": 15.76
+    },
+    {
+      "speaker": "Michael",
+      "text": "I'm sorry if",
+      "start_time": 16.05,
+      "end_time": 16.47
+    },
+    {
+      "speaker": "Michael",
+      "text": "I made you",
+      "start_time": 16.47,
+      "end_time": 16.83
+    },
+    {
+      "speaker": "Michael",
+      "text": "uncomfortable. But sometimes",
+      "start_time": 16.83,
+      "end_time": 18.42
+    },
+    {
+      "speaker": "Michael",
+      "text": "the word \"sex\"",
+      "start_time": 18.42,
+      "end_time": 19.17
+    },
+    {
+      "speaker": "Michael",
+      "text": "causes misunderstandings in",
+      "start_time": 19.17,
+      "end_time": 20.4
+    },
+    {
+      "speaker": "Michael",
+      "text": "Vietnamese. I",
+      "start_time": 20.4,
+      "end_time": 21.72
+    },
+    {
+      "speaker": "Michael",
+      "text": "just wanted to",
+      "start_time": 21.72,
+      "end_time": 22.540000000000003
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>hiểu</vietnamese> clearly.",
+      "start_time": 22.62,
+      "end_time": 23.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "You always have",
+      "start_time": 24.17,
+      "end_time": 24.78
+    },
+    {
+      "speaker": "Mira",
+      "text": "such a clever",
+      "start_time": 24.78,
+      "end_time": 25.185000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "way",
+      "start_time": 25.185000000000002,
+      "end_time": 25.32
+    },
+    {
+      "speaker": "Mira",
+      "text": "of explaining things.",
+      "start_time": 25.32,
+      "end_time": 26.59
+    },
+    {
+      "speaker": "Mira",
+      "text": "But if you",
+      "start_time": 26.79,
+      "end_time": 27.15
+    },
+    {
+      "speaker": "Mira",
+      "text": "want to talk",
+      "start_time": 27.15,
+      "end_time": 27.63
+    },
+    {
+      "speaker": "Mira",
+      "text": "about gender, why",
+      "start_time": 27.63,
+      "end_time": 28.71
+    },
+    {
+      "speaker": "Mira",
+      "text": "not use the",
+      "start_time": 28.71,
+      "end_time": 29.19
+    },
+    {
+      "speaker": "Mira",
+      "text": "word \"gender\" to",
+      "start_time": 29.19,
+      "end_time": 30.09
+    },
+    {
+      "speaker": "Mira",
+      "text": "be clear? Or...",
+      "start_time": 30.09,
+      "end_time": 31.66
+    },
+    {
+      "speaker": "Mira",
+      "text": "are you deliberately",
+      "start_time": 32.13,
+      "end_time": 32.91
+    },
+    {
+      "speaker": "Mira",
+      "text": "trying",
+      "start_time": 32.91,
+      "end_time": 33.18
+    },
+    {
+      "speaker": "Mira",
+      "text": "to make me",
+      "start_time": 33.18,
+      "end_time": 33.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "embarrassed?",
+      "start_time": 33.6,
+      "end_time": 34.300000000000004
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's not it.",
+      "start_time": 34.95,
+      "end_time": 35.46
+    },
+    {
+      "speaker": "Michael",
+      "text": "I just find",
+      "start_time": 35.46,
+      "end_time": 35.865
+    },
+    {
+      "speaker": "Michael",
+      "text": "it",
+      "start_time": 35.865,
+      "end_time": 36.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "interesting to discuss",
+      "start_time": 36.0,
+      "end_time": 36.9
+    },
+    {
+      "speaker": "Michael",
+      "text": "cultural differences. But",
+      "start_time": 36.9,
+      "end_time": 38.31
+    },
+    {
+      "speaker": "Michael",
+      "text": "I <vietnamese>thích</vietnamese> the way",
+      "start_time": 38.31,
+      "end_time": 39.18
+    },
+    {
+      "speaker": "Michael",
+      "text": "you blush",
+      "start_time": 39.18,
+      "end_time": 39.75
+    },
+    {
+      "speaker": "Michael",
+      "text": "when talking about",
+      "start_time": 39.75,
+      "end_time": 40.44
+    },
+    {
+      "speaker": "Michael",
+      "text": "this topic. It's",
+      "start_time": 40.44,
+      "end_time": 41.1
+    },
+    {
+      "speaker": "Michael",
+      "text": "very... cute.",
+      "start_time": 41.1,
+      "end_time": 42.04
+    },
+    {
+      "speaker": "Mira",
+      "text": "Who's blushing! You",
+      "start_time": 42.24,
+      "end_time": 43.83
+    },
+    {
+      "speaker": "Mira",
+      "text": "think you know",
+      "start_time": 43.83,
+      "end_time": 44.31
+    },
+    {
+      "speaker": "Mira",
+      "text": "me so well?",
+      "start_time": 44.31,
+      "end_time": 45.160000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "Sometimes I wonder",
+      "start_time": 45.87,
+      "end_time": 46.68
+    },
+    {
+      "speaker": "Mira",
+      "text": "if you're really",
+      "start_time": 46.68,
+      "end_time": 47.37
+    },
+    {
+      "speaker": "Mira",
+      "text": "interested in culture...",
+      "start_time": 47.37,
+      "end_time": 48.550000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "or is it",
+      "start_time": 49.02,
+      "end_time": 49.38
+    },
+    {
+      "speaker": "Mira",
+      "text": "just your way",
+      "start_time": 49.38,
+      "end_time": 49.92
+    },
+    {
+      "speaker": "Mira",
+      "text": "of starting conversations",
+      "start_time": 49.92,
+      "end_time": 51.12
+    },
+    {
+      "speaker": "Mira",
+      "text": "with me?",
+      "start_time": 51.12,
+      "end_time": 51.64
+    }
+  ]
+}

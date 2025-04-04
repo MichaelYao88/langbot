@@ -1,0 +1,72 @@
+{
+  "id": "e26159c3",
+  "topic_word": "Nhật",
+  "topic_word_translation": "Japan",
+  "common_words": [
+    {
+      "word": "đầu hàng",
+      "translation": "surrender (verb)"
+    },
+    {
+      "word": "lịch sử",
+      "translation": "history (noun)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Hey, did you know there's a lot of debate about whether Japan đầu hàng in World War II was because of the atomic bombs or not?",
+      "start_time": 0.0,
+      "end_time": 12.600000000000001,
+      "viet_words": [
+        "đầu hàng"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Of course I know! In Russia, textbooks teach that the Soviet Union entering the war was the main reason Nhật surrendered. The atomic bombs were just an excuse for America to show off its power.",
+      "start_time": 13.100000000000001,
+      "end_time": 32.400000000000006,
+      "viet_words": [
+        "Nhật"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's interesting. In America, we're always taught that the atomic bombs were the decisive factor. But recently many lịch sử scholars suggest that the Soviet Union declaring war on Nhật might have been more important.",
+      "start_time": 32.900000000000006,
+      "end_time": 54.7,
+      "viet_words": [
+        "lịch sử",
+        "Nhật"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Exactly! The Japanese had prepared mentally for civilian casualties, but they feared communism more than death. Lịch sử is always rewritten by the victors.",
+      "start_time": 55.2,
+      "end_time": 70.7,
+      "viet_words": [
+        "lịch sử"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "You know so much about lịch sử. I like the way you look at issues from different perspectives. Maybe we should discuss this topic more over coffee?",
+      "start_time": 71.2,
+      "end_time": 85.9,
+      "viet_words": [
+        "lịch sử"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't get ahead of yourself! I'm not easily swayed by compliments... but if you really want to learn more about the Russian perspective, maybe I could consider it. What do you think about the claim that lịch sử is just a propaganda tool?",
+      "start_time": 86.4,
+      "end_time": 110.10000000000001,
+      "viet_words": [
+        "lịch sử"
+      ]
+    }
+  ]
+}

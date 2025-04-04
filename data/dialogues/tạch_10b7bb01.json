@@ -1,0 +1,68 @@
+{
+  "id": "10b7bb01",
+  "timestamp": 1743063453,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Tối qua cậu có nghe tin Minh bị tạch chưa? Không ai ngờ Minh thi trượt đại học như vậy."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tạch á? Từ này nghĩa là gì vậy? Tiếng Việt của tôi vẫn còn hạn chế lắm."
+    },
+    {
+      "speaker": "Michael",
+      "text": "À, tạch nghĩa là trượt hay thất bại ấy. Người Việt hay dùng từ này khi nói về thi cử hoặc hẹn hò không thành công."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vậy ra tạch là thất bại... Giống như ván cờ hôm qua của chúng mình, cậu đã bị tạch hoàn toàn trước nước đi của tôi!"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Đúng là tôi tạch thảm hại! Nhưng cậu biết không, tôi nghĩ không phải lúc nào tạch cũng là điều tồi tệ. Đôi khi nó dạy ta những bài học quý giá."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm... Có lẽ cậu nói đúng. Nhưng tại sao cậu lại cười khi nhắc đến chuyện tạch vậy? Có điều gì cậu chưa nói với tôi sao?"
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Did you hear that Minh got \"tạch\" last night? No one expected Minh to fail the university entrance exam like that."
+    },
+    {
+      "speaker": "Mira",
+      "text": "\"Tạch\"? What does this word mean? My Vietnamese is still quite limited."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Oh, \"tạch\" means to fail or be unsuccessful. Vietnamese people often use this word when talking about exams or unsuccessful dates."
+    },
+    {
+      "speaker": "Mira",
+      "text": "So \"tạch\" means failure... Like our chess game yesterday, cậu completely \"tạch\" against my move!"
+    },
+    {
+      "speaker": "Michael",
+      "text": "I did \"tạch\" miserably! But you know, I think \"tạch\" isn't always a bad thing. Sometimes it teaches us valuable lessons."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm... Maybe cậu is right. But why are you smiling when mentioning \"tạch\"? Is there something cậu haven't told me?"
+    }
+  ],
+  "topic_word": "tạch",
+  "topic_word_translation": "fail/flunk (exam, interview, date)",
+  "common_words": [
+    {
+      "word": "thất bại",
+      "translation": "failure"
+    },
+    {
+      "word": "cậu",
+      "translation": "you (informal)"
+    }
+  ]
+}

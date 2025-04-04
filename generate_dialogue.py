@@ -98,32 +98,42 @@ def generate_dialogue_with_openai(topic=None, topic_word=None):
     Character information:
     - Mira: {MIRA["description"]}
     - Michael: {MICHAEL["description"]}
-    - They are romantically interested in each other but have not yet confessed their feelings.
+    - They are interested in each other but are too shy to confess their feelings.
     
     The dialogue should:
-    1. Be 4-5 exchanges long (each character speaks 2-3 times)
+    1. Be 3-5 exchanges long (each character speaks 2-3 times). each response is 1-3 sentences.
     2. Be entirely in Vietnamese
     3. Be about the topic: {topic}
-    4. Have a hook related to: {hook}
+    4. Have a hook like {hook} or {hook2}
     5. End unresolved to encourage viewers to check the comments section for more
-    6. Be natural and conversational
+    6. Be natural and conversational and not too intellectual. Avoid adverbs unless absolutely necessary.
     7. Avoid greetings and start with hooks
     8. Avoid this positive conversation ending that doesn't sound natural. Conversations should be with some tension and unresolved unless they are humorous.
-    
+    9. Speakers should have short responses sometimes. Dialogue doesn't always need to be the same length.
+    10. Employ strangeness, romantic tension, indirect/ambiguous flirtation, interesting facts, ambiguity, controversial topics/events, recent controversies, recent memes, and/or other viral elements.
+    11. Randomly decide who starts the conversation.
+    12. End it in a way that loops to the start or ends with a question.
+
     Format the dialogue as follows:
     Mira: [Vietnamese dialogue]
     Michael: [Vietnamese dialogue]
     
     After creating the dialogue, please:
-    1. Choose a topic word or phrase from the dialogue that appears at least 3 times
-    2. Choose two common Vietnamese words that appear in the dialogue
+    1. Choose a topic word or phrase from the dialogue that appears at least 3 times. DO NOT CHOOSE chúng ta. {topic_word}
+    2. Choose five common Vietnamese words that aren't pronouns that appear in the dialogue twice or more. Try to choose one of each a verb, adjective, adverb, part-of-speech, and 
+    noun. This is imperative.
     
     Then provide:
     TOPIC_WORD: [the chosen topic word/phrase] - [English translation]
     COMMON_WORD_1: [first common word] - [English translation]
     COMMON_WORD_2: [second common word] - [English translation]
+    COMMON_WORD_3: [third common word] - [English translation]
+    COMMON_WORD_4: [fourth common word] - [English translation]
+    COMMON_WORD_5: [fifth common word] - [English translation]
     
-    Finally, provide an English translation of the dialogue, but leave the topic word/phrase and the two common words untranslated (in Vietnamese).
+    If there are not 5 common words, create another dialogue.
+
+    Finally, provide an English translation of the dialogue, but leave the topic word/phrase and ALL FIVE common words untranslated (in Vietnamese). Make sure to use ALL FIVE common words in their Vietnamese form in the English translation.
     
     Format the English translation as:
     Mira: [English dialogue with Vietnamese words left untranslated]
@@ -177,7 +187,6 @@ def generate_dialogue_with_anthropic(topic=None, topic_word=None):
     8. Avoid this positive conversation ending that doesn't sound natural. Conversations should be with some tension and unresolved unless they are humorous.
     9. Speakers should have short responses sometimes. Dialogue doesn't always need to be the same length.
     10. Employ strangeness, romantic tension, indirect/ambiguous flirtation, interesting facts, ambiguity, controversial topics/events, recent controversies, recent memes, and/or other viral elements.
-    11. Randomly decide who starts the conversation.
     12. End it in a way that loops to the start or ends with a question.
 
     Format the dialogue as follows:
@@ -186,15 +195,20 @@ def generate_dialogue_with_anthropic(topic=None, topic_word=None):
     
     After creating the dialogue, please:
     1. Choose a topic word or phrase from the dialogue that appears at least 3 times. DO NOT CHOOSE chúng ta. {topic_word}
-    2. Choose two common Vietnamese words that aren't pronouns that appear in the dialogue at least 2 times. DO NOT CHOOSE chúng ta.
-    3. If this cannot be done, regenerate the dialogue.
+    2. Choose five common Vietnamese words that aren't pronouns that appear in the dialogue, try to make them appear twice or more. Try to choose one of each a verb, adjective, adverb, part-of-speech, and 
+    noun. This is imperative.
     
     Then provide:
     TOPIC_WORD: [the chosen topic word/phrase] - [English translation]
     COMMON_WORD_1: [first common word] - [English translation]
     COMMON_WORD_2: [second common word] - [English translation]
+    COMMON_WORD_3: [third common word] - [English translation]
+    COMMON_WORD_4: [fourth common word] - [English translation]
+    COMMON_WORD_5: [fifth common word] - [English translation]
     
-    Finally, provide an English translation of the dialogue, but leave the topic word/phrase and the two common words untranslated (in Vietnamese).
+    If there are not 5 common words, create another dialogue.
+
+    Finally, provide an English translation of the dialogue, but leave the topic word/phrase and ALL FIVE common words untranslated (in Vietnamese). Make sure to use ALL FIVE common words in their Vietnamese form in the English translation.
     
     Format the English translation as:
     Mira: [English dialogue with Vietnamese words left untranslated]
@@ -265,19 +279,14 @@ def parse_dialogue_response(response_text):
         dialogue_data["topic_word"] = topic_word_match.group(1).strip()
         dialogue_data["topic_word_translation"] = topic_word_match.group(2).strip()
     
-    common_word1_match = re.search(r'COMMON_WORD_1:\s*([^-]+)-\s*([^\n]+)', rest_of_response)
-    if common_word1_match:
-        dialogue_data["common_words"].append({
-            "word": common_word1_match.group(1).strip(),
-            "translation": common_word1_match.group(2).strip()
-        })
-    
-    common_word2_match = re.search(r'COMMON_WORD_2:\s*([^-]+)-\s*([^\n]+)', rest_of_response)
-    if common_word2_match:
-        dialogue_data["common_words"].append({
-            "word": common_word2_match.group(1).strip(),
-            "translation": common_word2_match.group(2).strip()
-        })
+    # Extract all five common words
+    for i in range(1, 6):
+        word_match = re.search(f'COMMON_WORD_{i}:\s*([^-]+)-\s*([^\n]+)', rest_of_response)
+        if word_match:
+            dialogue_data["common_words"].append({
+                "word": word_match.group(1).strip(),
+                "translation": word_match.group(2).strip()
+            })
     
     # Extract English dialogue
     # Find where the English dialogue starts

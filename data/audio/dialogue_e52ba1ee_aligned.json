@@ -1,0 +1,437 @@
+{
+  "id": "e52ba1ee",
+  "topic_word": "gọi món",
+  "topic_word_translation": "order food",
+  "common_words": [
+    {
+      "word": "thích (verb)",
+      "translation": "like"
+    },
+    {
+      "word": "ớt (noun)",
+      "translation": "chili pepper"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael,",
+      "start_time": 0.06,
+      "end_time": 0.96
+    },
+    {
+      "speaker": "Mira",
+      "text": "can you teach",
+      "start_time": 0.96,
+      "end_time": 1.3199999999999998
+    },
+    {
+      "speaker": "Mira",
+      "text": "me",
+      "start_time": 1.3199999999999998,
+      "end_time": 1.44
+    },
+    {
+      "speaker": "Mira",
+      "text": "important words for",
+      "start_time": 1.44,
+      "end_time": 2.62
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>gọi món</vietnamese> in",
+      "start_time": 2.67,
+      "end_time": 3.75
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnam? I want",
+      "start_time": 3.75,
+      "end_time": 5.04
+    },
+    {
+      "speaker": "Mira",
+      "text": "to order by",
+      "start_time": 5.04,
+      "end_time": 5.58
+    },
+    {
+      "speaker": "Mira",
+      "text": "myself without asking",
+      "start_time": 5.58,
+      "end_time": 6.86
+    },
+    {
+      "speaker": "Mira",
+      "text": "others for help.",
+      "start_time": 6.87,
+      "end_time": 7.81
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sure! The most",
+      "start_time": 7.98,
+      "end_time": 8.73
+    },
+    {
+      "speaker": "Michael",
+      "text": "basic term is",
+      "start_time": 8.73,
+      "end_time": 9.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>gọi món</vietnamese>. When",
+      "start_time": 9.78,
+      "end_time": 10.86
+    },
+    {
+      "speaker": "Michael",
+      "text": "you enter a",
+      "start_time": 10.86,
+      "end_time": 11.31
+    },
+    {
+      "speaker": "Michael",
+      "text": "restaurant, you just",
+      "start_time": 11.31,
+      "end_time": 12.45
+    },
+    {
+      "speaker": "Michael",
+      "text": "need to say",
+      "start_time": 12.45,
+      "end_time": 12.87
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>cho tôi gọi",
+      "start_time": 12.87,
+      "end_time": 13.95
+    },
+    {
+      "speaker": "Michael",
+      "text": "món</vietnamese>. What dish",
+      "start_time": 13.95,
+      "end_time": 14.97
+    },
+    {
+      "speaker": "Michael",
+      "text": "do you <vietnamese>thích</vietnamese>",
+      "start_time": 14.97,
+      "end_time": 15.879999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "most in Vietnam?",
+      "start_time": 15.9,
+      "end_time": 16.810000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm, I <vietnamese>thích</vietnamese> pho,",
+      "start_time": 17.73,
+      "end_time": 19.18
+    },
+    {
+      "speaker": "Mira",
+      "text": "but every time",
+      "start_time": 19.32,
+      "end_time": 20.01
+    },
+    {
+      "speaker": "Mira",
+      "text": "I order I",
+      "start_time": 20.01,
+      "end_time": 20.67
+    },
+    {
+      "speaker": "Mira",
+      "text": "get confused with",
+      "start_time": 20.67,
+      "end_time": 21.42
+    },
+    {
+      "speaker": "Mira",
+      "text": "the word <vietnamese>ớt</vietnamese>.",
+      "start_time": 21.42,
+      "end_time": 22.51
+    },
+    {
+      "speaker": "Mira",
+      "text": "You Vietnamese <vietnamese>thích</vietnamese>",
+      "start_time": 22.53,
+      "end_time": 23.71
+    },
+    {
+      "speaker": "Mira",
+      "text": "spicy food",
+      "start_time": 23.82,
+      "end_time": 24.99
+    },
+    {
+      "speaker": "Mira",
+      "text": "too much! I",
+      "start_time": 24.99,
+      "end_time": 25.68
+    },
+    {
+      "speaker": "Mira",
+      "text": "said <vietnamese>không ớt</vietnamese>",
+      "start_time": 25.68,
+      "end_time": 26.950000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "but they still",
+      "start_time": 26.97,
+      "end_time": 27.45
+    },
+    {
+      "speaker": "Mira",
+      "text": "put chili in",
+      "start_time": 27.45,
+      "end_time": 28.0125
+    },
+    {
+      "speaker": "Mira",
+      "text": "my",
+      "start_time": 28.0125,
+      "end_time": 28.2
+    },
+    {
+      "speaker": "Mira",
+      "text": "dish.",
+      "start_time": 28.2,
+      "end_time": 28.84
+    },
+    {
+      "speaker": "Michael",
+      "text": "Is that so?",
+      "start_time": 29.04,
+      "end_time": 29.71
+    },
+    {
+      "speaker": "Michael",
+      "text": "You need to",
+      "start_time": 29.85,
+      "end_time": 30.21
+    },
+    {
+      "speaker": "Michael",
+      "text": "clearly say <vietnamese>không ớt</vietnamese>,",
+      "start_time": 30.21,
+      "end_time": 31.720000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>không hành</vietnamese> if",
+      "start_time": 31.74,
+      "end_time": 32.67
+    },
+    {
+      "speaker": "Michael",
+      "text": "you don't like",
+      "start_time": 32.67,
+      "end_time": 33.18
+    },
+    {
+      "speaker": "Michael",
+      "text": "them. We Vietnamese",
+      "start_time": 33.18,
+      "end_time": 35.25
+    },
+    {
+      "speaker": "Michael",
+      "text": "think food without",
+      "start_time": 35.25,
+      "end_time": 36.09
+    },
+    {
+      "speaker": "Michael",
+      "text": "seasoning lacks soul.",
+      "start_time": 36.09,
+      "end_time": 37.23
+    },
+    {
+      "speaker": "Michael",
+      "text": "To <vietnamese>gọi món</vietnamese>",
+      "start_time": 37.23,
+      "end_time": 38.63
+    },
+    {
+      "speaker": "Michael",
+      "text": "well, you also",
+      "start_time": 38.64,
+      "end_time": 39.36
+    },
+    {
+      "speaker": "Michael",
+      "text": "need to know",
+      "start_time": 39.36,
+      "end_time": 39.78
+    },
+    {
+      "speaker": "Michael",
+      "text": "words like <vietnamese>tái</vietnamese>",
+      "start_time": 39.78,
+      "end_time": 41.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "and <vietnamese>chín</vietnamese>.",
+      "start_time": 41.25,
+      "end_time": 41.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "What is <vietnamese>tái</vietnamese>?",
+      "start_time": 41.79,
+      "end_time": 43.24
+    },
+    {
+      "speaker": "Mira",
+      "text": "I thought",
+      "start_time": 43.29,
+      "end_time": 44.49
+    },
+    {
+      "speaker": "Mira",
+      "text": "it meant come",
+      "start_time": 44.49,
+      "end_time": 45.21
+    },
+    {
+      "speaker": "Mira",
+      "text": "back. Last time",
+      "start_time": 45.21,
+      "end_time": 46.35
+    },
+    {
+      "speaker": "Mira",
+      "text": "I said <vietnamese>tái</vietnamese>",
+      "start_time": 46.35,
+      "end_time": 47.800000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "to the pho",
+      "start_time": 47.82,
+      "end_time": 48.45
+    },
+    {
+      "speaker": "Mira",
+      "text": "seller, she laughed",
+      "start_time": 48.45,
+      "end_time": 49.17
+    },
+    {
+      "speaker": "Mira",
+      "text": "at me. Your",
+      "start_time": 49.17,
+      "end_time": 50.04
+    },
+    {
+      "speaker": "Mira",
+      "text": "culture is",
+      "start_time": 50.04,
+      "end_time": 50.94
+    },
+    {
+      "speaker": "Michael",
+      "text": "so hard to",
+      "start_time": 50.94,
+      "end_time": 51.72
+    },
+    {
+      "speaker": "Michael",
+      "text": "understand! <vietnamese>Tái</vietnamese> in",
+      "start_time": 51.72,
+      "end_time": 53.64
+    },
+    {
+      "speaker": "Michael",
+      "text": "food means rare",
+      "start_time": 53.64,
+      "end_time": 54.42
+    },
+    {
+      "speaker": "Michael",
+      "text": "meat, not fully",
+      "start_time": 54.42,
+      "end_time": 55.29
+    },
+    {
+      "speaker": "Michael",
+      "text": "cooked. If you",
+      "start_time": 55.29,
+      "end_time": 56.31
+    },
+    {
+      "speaker": "Michael",
+      "text": "want well-done",
+      "start_time": 56.31,
+      "end_time": 56.88
+    },
+    {
+      "speaker": "Michael",
+      "text": "meat, say <vietnamese>thịt chín</vietnamese>.",
+      "start_time": 56.88,
+      "end_time": 58.26
+    },
+    {
+      "speaker": "Michael",
+      "text": "Hey, next",
+      "start_time": 58.26,
+      "end_time": 59.16
+    },
+    {
+      "speaker": "Michael",
+      "text": "weekend I could",
+      "start_time": 59.16,
+      "end_time": 59.76
+    },
+    {
+      "speaker": "Michael",
+      "text": "take you out",
+      "start_time": 59.76,
+      "end_time": 60.18
+    },
+    {
+      "speaker": "Michael",
+      "text": "to eat and",
+      "start_time": 60.18,
+      "end_time": 60.54
+    },
+    {
+      "speaker": "Michael",
+      "text": "show you how",
+      "start_time": 60.54,
+      "end_time": 61.02
+    },
+    {
+      "speaker": "Michael",
+      "text": "to <vietnamese>gọi món</vietnamese>",
+      "start_time": 61.02,
+      "end_time": 62.26
+    },
+    {
+      "speaker": "Michael",
+      "text": "properly? You won't",
+      "start_time": 62.28,
+      "end_time": 63.51
+    },
+    {
+      "speaker": "Michael",
+      "text": "be laughed at",
+      "start_time": 63.51,
+      "end_time": 64.02
+    },
+    {
+      "speaker": "Michael",
+      "text": "anymore.",
+      "start_time": 64.02,
+      "end_time": 64.57
+    }
+  ]
+}

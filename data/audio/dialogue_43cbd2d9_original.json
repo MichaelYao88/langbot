@@ -1,0 +1,76 @@
+{
+  "id": "43cbd2d9",
+  "topic_word": "chỉ",
+  "topic_word_translation": "only",
+  "common_words": [
+    {
+      "word": "cờ",
+      "translation": "chess"
+    },
+    {
+      "word": "nhìn",
+      "translation": "look"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Hey Mira, do you think we're chỉ friends? Sometimes I feel like we could be... something more.",
+      "start_time": 0.0,
+      "end_time": 9.4,
+      "viet_words": [
+        "chỉ"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "What? We're chỉ friends! Don't imagine weird things. We chỉ play cờ and talk. Nothing special.",
+      "start_time": 9.9,
+      "end_time": 19.3,
+      "viet_words": [
+        "cờ",
+        "chỉ"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "But every time we play cờ, I notice you nhìn at me for a long time. And you chỉ do that with me, not with others.",
+      "start_time": 19.8,
+      "end_time": 31.1,
+      "viet_words": [
+        "cờ",
+        "nhìn",
+        "chỉ"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's chỉ a chess strategy! I nhìn to predict your next move. You nghĩ too much.",
+      "start_time": 31.6,
+      "end_time": 39.7,
+      "viet_words": [
+        "nhìn",
+        "chỉ"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Then why do you chỉ play cờ with me? There are better players at the club, but you chỉ invite me.",
+      "start_time": 40.2,
+      "end_time": 49.900000000000006,
+      "viet_words": [
+        "cờ",
+        "chỉ"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I... I'm chỉ used to playing with you. Why do you keep asking such strange questions? We're chỉ friends, understand?",
+      "start_time": 50.400000000000006,
+      "end_time": 62.00000000000001,
+      "viet_words": [
+        "chỉ"
+      ]
+    }
+  ]
+}

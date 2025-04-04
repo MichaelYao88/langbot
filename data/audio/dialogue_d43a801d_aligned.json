@@ -1,0 +1,413 @@
+{
+  "id": "d43a801d",
+  "topic_word": "cái gì",
+  "topic_word_translation": "what",
+  "common_words": [
+    {
+      "word": "dùng",
+      "translation": "to use"
+    },
+    {
+      "word": "tiếng Việt",
+      "translation": "Vietnamese language"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Who, <vietnamese>cái gì</vietnamese>, where,",
+      "start_time": 0.06,
+      "end_time": 1.57
+    },
+    {
+      "speaker": "Mira",
+      "text": "when, <vietnamese>tại sao</vietnamese> -",
+      "start_time": 1.62,
+      "end_time": 3.4400000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "these words are",
+      "start_time": 3.45,
+      "end_time": 4.44
+    },
+    {
+      "speaker": "Mira",
+      "text": "so difficult",
+      "start_time": 4.44,
+      "end_time": 5.25
+    },
+    {
+      "speaker": "Mira",
+      "text": "to learn in",
+      "start_time": 5.25,
+      "end_time": 5.92
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>tiếng Việt</vietnamese>. Why",
+      "start_time": 6.03,
+      "end_time": 6.96
+    },
+    {
+      "speaker": "Mira",
+      "text": "do Vietnamese people",
+      "start_time": 6.96,
+      "end_time": 7.8
+    },
+    {
+      "speaker": "Mira",
+      "text": "have to <vietnamese>dùng</vietnamese>",
+      "start_time": 7.8,
+      "end_time": 9.19
+    },
+    {
+      "speaker": "Mira",
+      "text": "so many complex",
+      "start_time": 9.27,
+      "end_time": 10.02
+    },
+    {
+      "speaker": "Mira",
+      "text": "question words?",
+      "start_time": 10.02,
+      "end_time": 10.47
+    },
+    {
+      "speaker": "Michael",
+      "text": "Actually, the",
+      "start_time": 10.47,
+      "end_time": 11.58
+    },
+    {
+      "speaker": "Michael",
+      "text": "question words in",
+      "start_time": 11.58,
+      "end_time": 12.639999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>tiếng Việt</vietnamese> are",
+      "start_time": 12.72,
+      "end_time": 13.53
+    },
+    {
+      "speaker": "Michael",
+      "text": "very logical. \"Who\"",
+      "start_time": 13.53,
+      "end_time": 14.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "for people, \"<vietnamese>cái gì</vietnamese>\"",
+      "start_time": 14.7,
+      "end_time": 16.330000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "for objects, and",
+      "start_time": 16.35,
+      "end_time": 17.380000000000003
+    },
+    {
+      "speaker": "Michael",
+      "text": "\"<vietnamese>tại sao</vietnamese>\" helps",
+      "start_time": 17.49,
+      "end_time": 18.72
+    },
+    {
+      "speaker": "Michael",
+      "text": "understand reasons. What",
+      "start_time": 18.72,
+      "end_time": 20.43
+    },
+    {
+      "speaker": "Michael",
+      "text": "part do you",
+      "start_time": 20.43,
+      "end_time": 20.82
+    },
+    {
+      "speaker": "Michael",
+      "text": "find difficult?",
+      "start_time": 20.82,
+      "end_time": 22.05
+    },
+    {
+      "speaker": "Mira",
+      "text": "I understand <vietnamese>cái gì</vietnamese>",
+      "start_time": 22.05,
+      "end_time": 23.68
+    },
+    {
+      "speaker": "Mira",
+      "text": "is \"what,\" but",
+      "start_time": 23.7,
+      "end_time": 24.48
+    },
+    {
+      "speaker": "Mira",
+      "text": "sometimes Vietnamese people",
+      "start_time": 24.48,
+      "end_time": 25.89
+    },
+    {
+      "speaker": "Mira",
+      "text": "also <vietnamese>dùng</vietnamese> \"<vietnamese>gì</vietnamese>\"",
+      "start_time": 25.89,
+      "end_time": 27.55
+    },
+    {
+      "speaker": "Mira",
+      "text": "alone. And when",
+      "start_time": 27.63,
+      "end_time": 29.13
+    },
+    {
+      "speaker": "Mira",
+      "text": "do we <vietnamese>dùng</vietnamese>",
+      "start_time": 29.13,
+      "end_time": 30.21
+    },
+    {
+      "speaker": "Mira",
+      "text": "\"<vietnamese>tại sao</vietnamese>\" versus",
+      "start_time": 30.21,
+      "end_time": 31.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "when to <vietnamese>dùng</vietnamese>",
+      "start_time": 31.74,
+      "end_time": 32.64
+    },
+    {
+      "speaker": "Mira",
+      "text": "\"<vietnamese>vì sao</vietnamese>\"? Too",
+      "start_time": 32.64,
+      "end_time": 34.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "many ways to",
+      "start_time": 34.28,
+      "end_time": 35.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "ask the same",
+      "start_time": 35.04,
+      "end_time": 35.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "thing! That's true,",
+      "start_time": 35.7,
+      "end_time": 36.93
+    },
+    {
+      "speaker": "Michael",
+      "text": "but that richness",
+      "start_time": 36.93,
+      "end_time": 37.8
+    },
+    {
+      "speaker": "Michael",
+      "text": "makes <vietnamese>tiếng Việt</vietnamese>",
+      "start_time": 37.8,
+      "end_time": 39.01
+    },
+    {
+      "speaker": "Michael",
+      "text": "interesting. It's like",
+      "start_time": 39.06,
+      "end_time": 40.53
+    },
+    {
+      "speaker": "Michael",
+      "text": "chess, different moves",
+      "start_time": 40.53,
+      "end_time": 42.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "but the same",
+      "start_time": 42.0,
+      "end_time": 42.48
+    },
+    {
+      "speaker": "Michael",
+      "text": "purpose. Would you",
+      "start_time": 42.48,
+      "end_time": 43.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "like me to",
+      "start_time": 43.5,
+      "end_time": 43.92
+    },
+    {
+      "speaker": "Michael",
+      "text": "teach you how",
+      "start_time": 43.92,
+      "end_time": 44.46
+    },
+    {
+      "speaker": "Michael",
+      "text": "to <vietnamese>dùng</vietnamese> these words?",
+      "start_time": 44.46,
+      "end_time": 45.72
+    },
+    {
+      "speaker": "Mira",
+      "text": "You're comparing language",
+      "start_time": 45.72,
+      "end_time": 46.8
+    },
+    {
+      "speaker": "Mira",
+      "text": "to chess? That's",
+      "start_time": 46.8,
+      "end_time": 47.94
+    },
+    {
+      "speaker": "Mira",
+      "text": "surprising... But I",
+      "start_time": 47.94,
+      "end_time": 49.362
+    },
+    {
+      "speaker": "Mira",
+      "text": "like it.",
+      "start_time": 49.362,
+      "end_time": 50.31
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Tại sao</vietnamese> do you",
+      "start_time": 50.31,
+      "end_time": 52.29
+    },
+    {
+      "speaker": "Mira",
+      "text": "know so much",
+      "start_time": 52.29,
+      "end_time": 52.68
+    },
+    {
+      "speaker": "Mira",
+      "text": "about <vietnamese>tiếng Việt</vietnamese>?",
+      "start_time": 52.68,
+      "end_time": 54.25
+    },
+    {
+      "speaker": "Mira",
+      "text": "You can teach",
+      "start_time": 54.27,
+      "end_time": 54.84
+    },
+    {
+      "speaker": "Mira",
+      "text": "me, but don't",
+      "start_time": 54.84,
+      "end_time": 55.7
+    },
+    {
+      "speaker": "Mira",
+      "text": "act like a",
+      "start_time": 55.71,
+      "end_time": 56.1
+    },
+    {
+      "speaker": "Mira",
+      "text": "teacher.",
+      "start_time": 56.1,
+      "end_time": 56.68
+    },
+    {
+      "speaker": "Michael",
+      "text": "Because I'm Vietnamese-American,",
+      "start_time": 56.85,
+      "end_time": 57.39
+    },
+    {
+      "speaker": "Michael",
+      "text": "so <vietnamese>tiếng Việt</vietnamese>",
+      "start_time": 57.39,
+      "end_time": 58.51
+    },
+    {
+      "speaker": "Michael",
+      "text": "is part of",
+      "start_time": 58.62,
+      "end_time": 59.43
+    },
+    {
+      "speaker": "Michael",
+      "text": "who I am.",
+      "start_time": 59.43,
+      "end_time": 59.88
+    },
+    {
+      "speaker": "Michael",
+      "text": "I can help",
+      "start_time": 59.88,
+      "end_time": 60.42
+    },
+    {
+      "speaker": "Michael",
+      "text": "you",
+      "start_time": 60.42,
+      "end_time": 60.6
+    },
+    {
+      "speaker": "Michael",
+      "text": "understand \"<vietnamese>cái gì</vietnamese>\"",
+      "start_time": 60.6,
+      "end_time": 61.02
+    },
+    {
+      "speaker": "Michael",
+      "text": "and \"<vietnamese>tại sao</vietnamese>\"",
+      "start_time": 61.02,
+      "end_time": 63.13
+    },
+    {
+      "speaker": "Michael",
+      "text": "through real situations.",
+      "start_time": 63.24,
+      "end_time": 64.29
+    },
+    {
+      "speaker": "Michael",
+      "text": "Where would you",
+      "start_time": 64.29,
+      "end_time": 65.7525
+    },
+    {
+      "speaker": "Michael",
+      "text": "like",
+      "start_time": 65.7525,
+      "end_time": 66.24
+    },
+    {
+      "speaker": "Michael",
+      "text": "to <vietnamese>học</vietnamese>? There's",
+      "start_time": 66.24,
+      "end_time": 66.75
+    },
+    {
+      "speaker": "Michael",
+      "text": "a quiet café",
+      "start_time": 66.75,
+      "end_time": 69.12
+    },
+    {
+      "speaker": "Michael",
+      "text": "nearby...",
+      "start_time": 69.12,
+      "end_time": 70.33
+    }
+  ]
+}

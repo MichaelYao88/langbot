@@ -1,0 +1,81 @@
+{
+  "id": "72d2394c",
+  "topic_word": "cafe",
+  "topic_word_translation": "coffee",
+  "common_words": [
+    {
+      "word": "thích (verb)",
+      "translation": "like/enjoy"
+    },
+    {
+      "word": "ngon (adjective)",
+      "translation": "delicious"
+    },
+    {
+      "word": "quá (adverb)",
+      "translation": "too/very"
+    },
+    {
+      "word": "đã (particle)",
+      "translation": "already/have"
+    },
+    {
+      "word": "nơi (noun)",
+      "translation": "place"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I see Saigon people thích cafe quá. There are so many cafe shops here, I don't know which one to choose.",
+      "start_time": 0.0,
+      "end_time": 10.4,
+      "viet_words": [
+        "cafe"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's right! Cafe is part of Saigon's culture. Have you đã tried cà phê sữa đá? It's really ngon and distinctive.",
+      "start_time": 10.9,
+      "end_time": 22.3,
+      "viet_words": [
+        "cafe"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't thích sweet things that much. But I must admit cà phê sữa đá here is completely different from Russia. Do Vietnamese people thích sitting at cafe all day?",
+      "start_time": 22.8,
+      "end_time": 39.0,
+      "viet_words": [
+        "cafe"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Not exactly all day, but we like to spend time at cafe chatting. Besides cafe, do you like exploring Ben Thanh market? It's a wonderful nơi to understand Saigon culture.",
+      "start_time": 39.5,
+      "end_time": 56.400000000000006,
+      "viet_words": [
+        "cafe"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Ben Thanh market? I đã been there once and got chased by vendors for not buying anything. It was terrifying! Do you know any quieter nơi where I can play chess?",
+      "start_time": 56.900000000000006,
+      "end_time": 72.9,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sorry about that experience. There's a small cafe near 23/9 Park, a nơi where many elderly people play Chinese chess. Perhaps you'll thích that place, though it's not chess but still interesting. How ngon are you at chess?",
+      "start_time": 73.4,
+      "end_time": 95.60000000000001,
+      "viet_words": [
+        "cafe"
+      ]
+    }
+  ]
+}

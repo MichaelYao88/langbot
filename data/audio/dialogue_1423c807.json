@@ -1,0 +1,353 @@
+{
+  "id": "1423c807",
+  "topic_word": "công nghệ",
+  "topic_word_translation": "technology",
+  "common_words": [
+    {
+      "word": "điện thoại",
+      "translation": "phone"
+    },
+    {
+      "word": "cờ",
+      "translation": "chess"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Hey Mira,",
+      "start_time": 0.03,
+      "end_time": 0.58
+    },
+    {
+      "speaker": "Michael",
+      "text": "do you think",
+      "start_time": 0.58,
+      "end_time": 1.32
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>công nghệ</vietnamese> is changing",
+      "start_time": 1.32,
+      "end_time": 2.4
+    },
+    {
+      "speaker": "Michael",
+      "text": "the way we",
+      "start_time": 2.4,
+      "end_time": 2.85
+    },
+    {
+      "speaker": "Michael",
+      "text": "communicate? Sometimes I",
+      "start_time": 2.85,
+      "end_time": 5.01
+    },
+    {
+      "speaker": "Michael",
+      "text": "feel people are",
+      "start_time": 5.01,
+      "end_time": 5.58
+    },
+    {
+      "speaker": "Michael",
+      "text": "too dependent on",
+      "start_time": 5.58,
+      "end_time": 6.62
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>điện thoại</vietnamese>.",
+      "start_time": 6.63,
+      "end_time": 7.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm, <vietnamese>công nghệ</vietnamese>?",
+      "start_time": 7.5,
+      "end_time": 9.21
+    },
+    {
+      "speaker": "Mira",
+      "text": "Of course it",
+      "start_time": 9.21,
+      "end_time": 9.9975
+    },
+    {
+      "speaker": "Mira",
+      "text": "is.",
+      "start_time": 9.9975,
+      "end_time": 10.36
+    },
+    {
+      "speaker": "Mira",
+      "text": "But not everyone",
+      "start_time": 10.59,
+      "end_time": 11.67
+    },
+    {
+      "speaker": "Mira",
+      "text": "is like you,",
+      "start_time": 11.67,
+      "end_time": 12.47
+    },
+    {
+      "speaker": "Mira",
+      "text": "Michael. I still",
+      "start_time": 12.48,
+      "end_time": 13.56
+    },
+    {
+      "speaker": "Mira",
+      "text": "prefer the traditional",
+      "start_time": 13.56,
+      "end_time": 14.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "way. <vietnamese>Điện thoại</vietnamese>",
+      "start_time": 14.88,
+      "end_time": 16.22
+    },
+    {
+      "speaker": "Mira",
+      "text": "can't replace the",
+      "start_time": 16.23,
+      "end_time": 17.19
+    },
+    {
+      "speaker": "Mira",
+      "text": "feeling of sitting",
+      "start_time": 17.19,
+      "end_time": 18.12
+    },
+    {
+      "speaker": "Mira",
+      "text": "face to face",
+      "start_time": 18.12,
+      "end_time": 19.26
+    },
+    {
+      "speaker": "Mira",
+      "text": "and",
+      "start_time": 19.26,
+      "end_time": 19.38
+    },
+    {
+      "speaker": "Michael",
+      "text": "playing a game",
+      "start_time": 19.38,
+      "end_time": 20.43
+    },
+    {
+      "speaker": "Michael",
+      "text": "of <vietnamese>cờ</vietnamese>.",
+      "start_time": 20.43,
+      "end_time": 21.69
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's interesting! But",
+      "start_time": 21.69,
+      "end_time": 22.83
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>công nghệ</vietnamese> also has",
+      "start_time": 22.83,
+      "end_time": 23.79
+    },
+    {
+      "speaker": "Michael",
+      "text": "its good sides.",
+      "start_time": 23.79,
+      "end_time": 24.580000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "Hey, I just",
+      "start_time": 25.02,
+      "end_time": 25.59
+    },
+    {
+      "speaker": "Michael",
+      "text": "found an app",
+      "start_time": 25.59,
+      "end_time": 26.13
+    },
+    {
+      "speaker": "Michael",
+      "text": "that teaches <vietnamese>cờ</vietnamese>.",
+      "start_time": 26.13,
+      "end_time": 27.490000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "Maybe we could",
+      "start_time": 27.6,
+      "end_time": 28.05
+    },
+    {
+      "speaker": "Michael",
+      "text": "try it",
+      "start_time": 28.05,
+      "end_time": 28.39
+    },
+    {
+      "speaker": "Mira",
+      "text": "together this weekend?",
+      "start_time": 28.39,
+      "end_time": 29.41
+    },
+    {
+      "speaker": "Mira",
+      "text": "You think an",
+      "start_time": 29.58,
+      "end_time": 30.03
+    },
+    {
+      "speaker": "Mira",
+      "text": "app can teach",
+      "start_time": 30.03,
+      "end_time": 30.72
+    },
+    {
+      "speaker": "Mira",
+      "text": "better than me?",
+      "start_time": 30.72,
+      "end_time": 31.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Điện thoại</vietnamese> can't",
+      "start_time": 31.71,
+      "end_time": 32.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "understand the tactics",
+      "start_time": 32.88,
+      "end_time": 34.35
+    },
+    {
+      "speaker": "Mira",
+      "text": "and emotions in",
+      "start_time": 34.35,
+      "end_time": 35.330000000000005
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>cờ</vietnamese>. But...",
+      "start_time": 35.34,
+      "end_time": 36.45
+    },
+    {
+      "speaker": "Mira",
+      "text": "if you really",
+      "start_time": 36.45,
+      "end_time": 36.855000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "want",
+      "start_time": 36.855000000000004,
+      "end_time": 36.99
+    },
+    {
+      "speaker": "Mira",
+      "text": "to learn, maybe",
+      "start_time": 36.99,
+      "end_time": 38.25
+    },
+    {
+      "speaker": "Mira",
+      "text": "I could teach",
+      "start_time": 38.25,
+      "end_time": 38.73
+    },
+    {
+      "speaker": "Mira",
+      "text": "you some basic",
+      "start_time": 38.73,
+      "end_time": 39.36
+    },
+    {
+      "speaker": "Michael",
+      "text": "moves. Really? That",
+      "start_time": 39.36,
+      "end_time": 40.95
+    },
+    {
+      "speaker": "Michael",
+      "text": "would be great!",
+      "start_time": 40.95,
+      "end_time": 41.57
+    },
+    {
+      "speaker": "Michael",
+      "text": "I like how",
+      "start_time": 41.58,
+      "end_time": 41.97
+    },
+    {
+      "speaker": "Michael",
+      "text": "you think about",
+      "start_time": 41.97,
+      "end_time": 42.71
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>công nghệ</vietnamese>, Mira.",
+      "start_time": 42.72,
+      "end_time": 44.050000000000004
+    },
+    {
+      "speaker": "Michael",
+      "text": "There's something very",
+      "start_time": 44.46,
+      "end_time": 45.18
+    },
+    {
+      "speaker": "Michael",
+      "text": "genuine and... special",
+      "start_time": 45.18,
+      "end_time": 47.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "about it. Perhaps",
+      "start_time": 47.04,
+      "end_time": 48.24
+    },
+    {
+      "speaker": "Michael",
+      "text": "we could try",
+      "start_time": 48.24,
+      "end_time": 48.63
+    },
+    {
+      "speaker": "Michael",
+      "text": "both the app",
+      "start_time": 48.63,
+      "end_time": 49.35
+    },
+    {
+      "speaker": "Michael",
+      "text": "and play real",
+      "start_time": 49.35,
+      "end_time": 50.17
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>cờ</vietnamese>. What do",
+      "start_time": 50.22,
+      "end_time": 51.18
+    },
+    {
+      "speaker": "Michael",
+      "text": "you think?",
+      "start_time": 51.18,
+      "end_time": 51.76
+    }
+  ]
+}

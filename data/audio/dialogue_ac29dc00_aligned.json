@@ -1,0 +1,395 @@
+{
+  "id": "ac29dc00",
+  "topic_word": "công bằng",
+  "topic_word_translation": "fairness/justice",
+  "common_words": [
+    {
+      "word": "giáo viên (noun)",
+      "translation": "teacher"
+    },
+    {
+      "word": "lương (noun)",
+      "translation": "salary"
+    },
+    {
+      "word": "nghĩ (verb)",
+      "translation": "think"
+    },
+    {
+      "word": "người (noun)",
+      "translation": "person/people"
+    },
+    {
+      "word": "làm (verb)",
+      "translation": "do/make"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael,",
+      "start_time": 0.06,
+      "end_time": 1.05
+    },
+    {
+      "speaker": "Mira",
+      "text": "I just discovered",
+      "start_time": 1.05,
+      "end_time": 1.95
+    },
+    {
+      "speaker": "Mira",
+      "text": "that I get",
+      "start_time": 1.95,
+      "end_time": 2.355
+    },
+    {
+      "speaker": "Mira",
+      "text": "paid",
+      "start_time": 2.355,
+      "end_time": 2.49
+    },
+    {
+      "speaker": "Mira",
+      "text": "more than my",
+      "start_time": 2.49,
+      "end_time": 2.91
+    },
+    {
+      "speaker": "Mira",
+      "text": "colleague, even though",
+      "start_time": 2.91,
+      "end_time": 4.11
+    },
+    {
+      "speaker": "Mira",
+      "text": "she's a native",
+      "start_time": 4.11,
+      "end_time": 4.71
+    },
+    {
+      "speaker": "Mira",
+      "text": "English speaker.",
+      "start_time": 4.71,
+      "end_time": 6.15
+    },
+    {
+      "speaker": "Mira",
+      "text": "Just because she",
+      "start_time": 6.15,
+      "end_time": 6.645
+    },
+    {
+      "speaker": "Mira",
+      "text": "looks",
+      "start_time": 6.645,
+      "end_time": 6.81
+    },
+    {
+      "speaker": "Mira",
+      "text": "Indian despite being",
+      "start_time": 6.81,
+      "end_time": 7.92
+    },
+    {
+      "speaker": "Mira",
+      "text": "born in Canada.",
+      "start_time": 7.92,
+      "end_time": 8.95
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's not <vietnamese>công bằng</vietnamese>.",
+      "start_time": 9.18,
+      "end_time": 10.57
+    },
+    {
+      "speaker": "Michael",
+      "text": "But unfortunately this",
+      "start_time": 10.77,
+      "end_time": 12.03
+    },
+    {
+      "speaker": "Michael",
+      "text": "discrimination is quite",
+      "start_time": 12.03,
+      "end_time": 12.96
+    },
+    {
+      "speaker": "Michael",
+      "text": "common in Asia.",
+      "start_time": 12.96,
+      "end_time": 13.93
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>Người</vietnamese> often think",
+      "start_time": 14.25,
+      "end_time": 15.51
+    },
+    {
+      "speaker": "Michael",
+      "text": "that English <vietnamese>giáo viên</vietnamese>",
+      "start_time": 15.51,
+      "end_time": 16.86
+    },
+    {
+      "speaker": "Michael",
+      "text": "must have",
+      "start_time": 16.87,
+      "end_time": 17.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "a Western appearance.",
+      "start_time": 17.7,
+      "end_time": 18.67
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's true, but",
+      "start_time": 18.84,
+      "end_time": 19.59
+    },
+    {
+      "speaker": "Mira",
+      "text": "this makes me",
+      "start_time": 19.59,
+      "end_time": 20.16
+    },
+    {
+      "speaker": "Mira",
+      "text": "feel",
+      "start_time": 20.16,
+      "end_time": 20.31
+    },
+    {
+      "speaker": "Mira",
+      "text": "guilty. I'm not",
+      "start_time": 20.31,
+      "end_time": 21.48
+    },
+    {
+      "speaker": "Mira",
+      "text": "better than her,",
+      "start_time": 21.48,
+      "end_time": 22.25
+    },
+    {
+      "speaker": "Mira",
+      "text": "I just have",
+      "start_time": 22.26,
+      "end_time": 22.83
+    },
+    {
+      "speaker": "Mira",
+      "text": "whiter skin. What",
+      "start_time": 22.83,
+      "end_time": 23.67
+    },
+    {
+      "speaker": "Mira",
+      "text": "should I <vietnamese>làm</vietnamese>",
+      "start_time": 23.67,
+      "end_time": 24.970000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "now?",
+      "start_time": 25.05,
+      "end_time": 25.98
+    },
+    {
+      "speaker": "Michael",
+      "text": "You could talk",
+      "start_time": 25.98,
+      "end_time": 26.196
+    },
+    {
+      "speaker": "Michael",
+      "text": "to the",
+      "start_time": 26.196,
+      "end_time": 26.34
+    },
+    {
+      "speaker": "Michael",
+      "text": "manager about this",
+      "start_time": 26.34,
+      "end_time": 27.09
+    },
+    {
+      "speaker": "Michael",
+      "text": "issue. Or",
+      "start_time": 27.09,
+      "end_time": 27.66
+    },
+    {
+      "speaker": "Michael",
+      "text": "share some of",
+      "start_time": 27.66,
+      "end_time": 28.23
+    },
+    {
+      "speaker": "Michael",
+      "text": "your <vietnamese>lương</vietnamese> with",
+      "start_time": 28.23,
+      "end_time": 29.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "her. But it's",
+      "start_time": 29.7,
+      "end_time": 30.6
+    },
+    {
+      "speaker": "Michael",
+      "text": "difficult to change",
+      "start_time": 30.6,
+      "end_time": 31.47
+    },
+    {
+      "speaker": "Michael",
+      "text": "social prejudices.",
+      "start_time": 31.47,
+      "end_time": 33.15
+    },
+    {
+      "speaker": "Mira",
+      "text": "Share my <vietnamese>lương</vietnamese>?",
+      "start_time": 33.15,
+      "end_time": 34.51
+    },
+    {
+      "speaker": "Mira",
+      "text": "Do you <vietnamese>nghĩ</vietnamese>",
+      "start_time": 34.59,
+      "end_time": 35.86
+    },
+    {
+      "speaker": "Mira",
+      "text": "it's that simple?",
+      "start_time": 35.91,
+      "end_time": 37.06
+    },
+    {
+      "speaker": "Mira",
+      "text": "I need money",
+      "start_time": 37.44,
+      "end_time": 38.16
+    },
+    {
+      "speaker": "Mira",
+      "text": "to live too!",
+      "start_time": 38.16,
+      "end_time": 39.160000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "But... I can't",
+      "start_time": 39.63,
+      "end_time": 40.86
+    },
+    {
+      "speaker": "Mira",
+      "text": "just do nothing.",
+      "start_time": 40.86,
+      "end_time": 42.01
+    },
+    {
+      "speaker": "Mira",
+      "text": "Maybe I should",
+      "start_time": 42.15,
+      "end_time": 42.99
+    },
+    {
+      "speaker": "Mira",
+      "text": "find a way",
+      "start_time": 42.99,
+      "end_time": 43.56
+    },
+    {
+      "speaker": "Mira",
+      "text": "to help her",
+      "start_time": 43.56,
+      "end_time": 44.13
+    },
+    {
+      "speaker": "Mira",
+      "text": "advance.",
+      "start_time": 44.13,
+      "end_time": 45.18
+    },
+    {
+      "speaker": "Michael",
+      "text": "I understand. But",
+      "start_time": 45.18,
+      "end_time": 45.832499999999996
+    },
+    {
+      "speaker": "Michael",
+      "text": "I",
+      "start_time": 45.832499999999996,
+      "end_time": 46.05
+    },
+    {
+      "speaker": "Michael",
+      "text": "admire your sense",
+      "start_time": 46.05,
+      "end_time": 46.77
+    },
+    {
+      "speaker": "Michael",
+      "text": "of <vietnamese>công bằng</vietnamese>.",
+      "start_time": 46.77,
+      "end_time": 47.89
+    },
+    {
+      "speaker": "Michael",
+      "text": "Not many <vietnamese>người</vietnamese>",
+      "start_time": 47.94,
+      "end_time": 49.14
+    },
+    {
+      "speaker": "Michael",
+      "text": "would care",
+      "start_time": 49.14,
+      "end_time": 50.01
+    },
+    {
+      "speaker": "Michael",
+      "text": "about this issue.",
+      "start_time": 50.01,
+      "end_time": 50.86
+    },
+    {
+      "speaker": "Michael",
+      "text": "Hey, have you",
+      "start_time": 51.03,
+      "end_time": 51.45
+    },
+    {
+      "speaker": "Michael",
+      "text": "ever <vietnamese>nghĩ</vietnamese> about",
+      "start_time": 51.45,
+      "end_time": 52.89
+    },
+    {
+      "speaker": "Michael",
+      "text": "fighting together for",
+      "start_time": 52.89,
+      "end_time": 54.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>công bằng</vietnamese> in",
+      "start_time": 54.12,
+      "end_time": 55.08
+    },
+    {
+      "speaker": "Michael",
+      "text": "education?",
+      "start_time": 55.08,
+      "end_time": 55.84
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "id": "f9bb0b15",
+  "topic_word": "tới công chuyện",
+  "topic_word_translation": "to fight/to have a confrontation",
+  "common_words": [
+    {
+      "word": "nguy hiểm",
+      "translation": "dangerous"
+    },
+    {
+      "word": "đánh nhau",
+      "translation": "fight"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I saw those",
+      "start_time": 0.06,
+      "end_time": 0.87
+    },
+    {
+      "speaker": "Mira",
+      "text": "guys at the",
+      "start_time": 0.87,
+      "end_time": 1.35
+    },
+    {
+      "speaker": "Mira",
+      "text": "park yesterday.",
+      "start_time": 1.35,
+      "end_time": 2.85
+    },
+    {
+      "speaker": "Mira",
+      "text": "They were about",
+      "start_time": 2.85,
+      "end_time": 3.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "to <vietnamese>tới công chuyện</vietnamese>",
+      "start_time": 3.93,
+      "end_time": 4.72
+    },
+    {
+      "speaker": "Mira",
+      "text": "with each other.",
+      "start_time": 4.74,
+      "end_time": 5.619999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "Looked very",
+      "start_time": 6.09,
+      "end_time": 6.45
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>nguy hiểm</vietnamese>.",
+      "start_time": 6.45,
+      "end_time": 8.46
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>Tới công chuyện</vietnamese>?",
+      "start_time": 8.46,
+      "end_time": 9.459999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "You mean <vietnamese>đánh nhau</vietnamese>?",
+      "start_time": 9.63,
+      "end_time": 10.62
+    },
+    {
+      "speaker": "Michael",
+      "text": "You shouldn't go",
+      "start_time": 10.62,
+      "end_time": 11.28
+    },
+    {
+      "speaker": "Michael",
+      "text": "near such",
+      "start_time": 11.28,
+      "end_time": 12.459999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>nguy hiểm</vietnamese> places.",
+      "start_time": 12.54,
+      "end_time": 14.1
+    },
+    {
+      "speaker": "Michael",
+      "text": "In Vietnam, I",
+      "start_time": 14.1,
+      "end_time": 14.16
+    },
+    {
+      "speaker": "Michael",
+      "text": "sometimes see these",
+      "start_time": 14.16,
+      "end_time": 14.85
+    },
+    {
+      "speaker": "Michael",
+      "text": "things happen.",
+      "start_time": 14.85,
+      "end_time": 15.99
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's right,",
+      "start_time": 15.99,
+      "end_time": 17.470000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>đánh nhau</vietnamese>.",
+      "start_time": 17.49,
+      "end_time": 18.15
+    },
+    {
+      "speaker": "Mira",
+      "text": "Perhaps you don't",
+      "start_time": 18.15,
+      "end_time": 18.93
+    },
+    {
+      "speaker": "Mira",
+      "text": "know, but in",
+      "start_time": 18.93,
+      "end_time": 20.18
+    },
+    {
+      "speaker": "Mira",
+      "text": "Russia, I've seen",
+      "start_time": 20.19,
+      "end_time": 21.29
+    },
+    {
+      "speaker": "Mira",
+      "text": "many more <vietnamese>tới",
+      "start_time": 21.29,
+      "end_time": 21.72
+    },
+    {
+      "speaker": "Mira",
+      "text": "công chuyện</vietnamese> scenes",
+      "start_time": 21.72,
+      "end_time": 22.56
+    },
+    {
+      "speaker": "Mira",
+      "text": "than that.",
+      "start_time": 22.56,
+      "end_time": 24.220000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "My father...",
+      "start_time": 24.45,
+      "end_time": 24.9
+    },
+    {
+      "speaker": "Mira",
+      "text": "he used to",
+      "start_time": 24.9,
+      "end_time": 25.59
+    },
+    {
+      "speaker": "Mira",
+      "text": "be involved in",
+      "start_time": 25.59,
+      "end_time": 26.91
+    },
+    {
+      "speaker": "Mira",
+      "text": "such things.",
+      "start_time": 26.91,
+      "end_time": 27.3
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really?",
+      "start_time": 27.3,
+      "end_time": 27.84
+    },
+    {
+      "speaker": "Michael",
+      "text": "I wouldn't think",
+      "start_time": 27.84,
+      "end_time": 28.35
+    },
+    {
+      "speaker": "Michael",
+      "text": "a girl like",
+      "start_time": 28.35,
+      "end_time": 28.86
+    },
+    {
+      "speaker": "Michael",
+      "text": "you would be",
+      "start_time": 28.86,
+      "end_time": 29.67
+    },
+    {
+      "speaker": "Michael",
+      "text": "connected to things",
+      "start_time": 29.67,
+      "end_time": 30.15
+    },
+    {
+      "speaker": "Michael",
+      "text": "like that.",
+      "start_time": 30.15,
+      "end_time": 31.11
+    },
+    {
+      "speaker": "Michael",
+      "text": "What did your",
+      "start_time": 31.11,
+      "end_time": 31.47
+    },
+    {
+      "speaker": "Michael",
+      "text": "father do in",
+      "start_time": 31.47,
+      "end_time": 32.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "Russia?",
+      "start_time": 32.04,
+      "end_time": 33.36
+    },
+    {
+      "speaker": "Mira",
+      "text": "Not something",
+      "start_time": 33.36,
+      "end_time": 33.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "I want to",
+      "start_time": 33.6,
+      "end_time": 34.2
+    },
+    {
+      "speaker": "Mira",
+      "text": "tell someone I",
+      "start_time": 34.2,
+      "end_time": 35.31
+    },
+    {
+      "speaker": "Mira",
+      "text": "just met.",
+      "start_time": 35.31,
+      "end_time": 35.91
+    },
+    {
+      "speaker": "Mira",
+      "text": "But if you",
+      "start_time": 35.91,
+      "end_time": 36.39
+    },
+    {
+      "speaker": "Mira",
+      "text": "really want to",
+      "start_time": 36.39,
+      "end_time": 37.11
+    },
+    {
+      "speaker": "Mira",
+      "text": "know about my",
+      "start_time": 37.11,
+      "end_time": 37.47
+    },
+    {
+      "speaker": "Mira",
+      "text": "father and why",
+      "start_time": 37.47,
+      "end_time": 38.49
+    },
+    {
+      "speaker": "Mira",
+      "text": "I came to",
+      "start_time": 38.49,
+      "end_time": 38.97
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnam...",
+      "start_time": 38.97,
+      "end_time": 39.75
+    },
+    {
+      "speaker": "Mira",
+      "text": "maybe we should",
+      "start_time": 39.75,
+      "end_time": 40.08
+    },
+    {
+      "speaker": "Mira",
+      "text": "meet at a",
+      "start_time": 40.08,
+      "end_time": 41.16
+    },
+    {
+      "speaker": "Mira",
+      "text": "coffee shop.",
+      "start_time": 41.16,
+      "end_time": 41.52
+    },
+    {
+      "speaker": "Mira",
+      "text": "Do you want",
+      "start_time": 41.52,
+      "end_time": 42.24
+    },
+    {
+      "speaker": "Mira",
+      "text": "to hear about",
+      "start_time": 42.24,
+      "end_time": 42.690000000000005
+    },
+    {
+      "speaker": "Mira",
+      "text": "it?",
+      "start_time": 42.690000000000005,
+      "end_time": 42.940000000000005
+    }
+  ]
+}

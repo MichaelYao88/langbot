@@ -1,0 +1,293 @@
+{
+  "id": "a19c2105",
+  "topic_word": "cà phê",
+  "topic_word_translation": "coffee",
+  "common_words": [
+    {
+      "word": "uống (verb)",
+      "translation": "to drink"
+    },
+    {
+      "word": "mạnh (adjective)",
+      "translation": "strong"
+    },
+    {
+      "word": "thích (verb)",
+      "translation": "to like"
+    },
+    {
+      "word": "nghĩ (verb)",
+      "translation": "to think"
+    },
+    {
+      "word": "nguyên bản (noun)",
+      "translation": "original"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese <vietnamese>cà phê</vietnamese> is",
+      "start_time": 0.06,
+      "end_time": 1.97
+    },
+    {
+      "speaker": "Mira",
+      "text": "delicious, but too",
+      "start_time": 1.98,
+      "end_time": 2.97
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>mạnh</vietnamese>.",
+      "start_time": 2.97,
+      "end_time": 4.569999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "I <vietnamese>thích uống</vietnamese>",
+      "start_time": 4.62,
+      "end_time": 5.8
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>cà phê</vietnamese> with milk",
+      "start_time": 5.82,
+      "end_time": 6.63
+    },
+    {
+      "speaker": "Mira",
+      "text": "more than drinking",
+      "start_time": 6.63,
+      "end_time": 7.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "it black. Milk",
+      "start_time": 7.2,
+      "end_time": 8.4
+    },
+    {
+      "speaker": "Michael",
+      "text": "iced <vietnamese>cà phê</vietnamese> is",
+      "start_time": 8.4,
+      "end_time": 10.02
+    },
+    {
+      "speaker": "Michael",
+      "text": "Vietnam's signature drink.",
+      "start_time": 10.02,
+      "end_time": 11.62
+    },
+    {
+      "speaker": "Michael",
+      "text": "I <vietnamese>nghĩ</vietnamese>",
+      "start_time": 11.88,
+      "end_time": 13.11
+    },
+    {
+      "speaker": "Michael",
+      "text": "it reflects Vietnamese",
+      "start_time": 13.11,
+      "end_time": 14.23
+    },
+    {
+      "speaker": "Mira",
+      "text": "character - <vietnamese>mạnh</vietnamese> but",
+      "start_time": 14.49,
+      "end_time": 15.402000000000001
+    },
+    {
+      "speaker": "Mira",
+      "text": "sweet.",
+      "start_time": 15.402000000000001,
+      "end_time": 15.73
+    },
+    {
+      "speaker": "Mira",
+      "text": "You <vietnamese>nghĩ</vietnamese> so?",
+      "start_time": 15.9,
+      "end_time": 17.560000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "I find black",
+      "start_time": 18.0,
+      "end_time": 18.880000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>cà phê</vietnamese> truly shows",
+      "start_time": 19.02,
+      "end_time": 20.52
+    },
+    {
+      "speaker": "Mira",
+      "text": "real strength.",
+      "start_time": 20.52,
+      "end_time": 21.43
+    },
+    {
+      "speaker": "Michael",
+      "text": "We Russians <vietnamese>thích</vietnamese>",
+      "start_time": 21.69,
+      "end_time": 22.95
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>nguyên bản</vietnamese> things,",
+      "start_time": 22.95,
+      "end_time": 24.03
+    },
+    {
+      "speaker": "Michael",
+      "text": "not mixed. That's",
+      "start_time": 24.03,
+      "end_time": 25.23
+    },
+    {
+      "speaker": "Michael",
+      "text": "interesting. But I",
+      "start_time": 25.23,
+      "end_time": 26.12
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>nghĩ</vietnamese> mixing sometimes",
+      "start_time": 26.22,
+      "end_time": 27.81
+    },
+    {
+      "speaker": "Michael",
+      "text": "creates something more",
+      "start_time": 27.81,
+      "end_time": 28.59
+    },
+    {
+      "speaker": "Michael",
+      "text": "wonderful than the",
+      "start_time": 28.59,
+      "end_time": 29.53
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>nguyên bản</vietnamese>. Like",
+      "start_time": 29.61,
+      "end_time": 30.54
+    },
+    {
+      "speaker": "Michael",
+      "text": "my",
+      "start_time": 30.54,
+      "end_time": 30.66
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese-American culture.",
+      "start_time": 30.66,
+      "end_time": 32.02
+    },
+    {
+      "speaker": "Mira",
+      "text": "Maybe you're right...",
+      "start_time": 32.19,
+      "end_time": 33.190000000000005
+    },
+    {
+      "speaker": "Mira",
+      "text": "But I still",
+      "start_time": 33.39,
+      "end_time": 34.33
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>thích uống cà phê</vietnamese>",
+      "start_time": 34.38,
+      "end_time": 35.56
+    },
+    {
+      "speaker": "Mira",
+      "text": "my way. Have",
+      "start_time": 35.58,
+      "end_time": 36.87
+    },
+    {
+      "speaker": "Mira",
+      "text": "you ever wondered",
+      "start_time": 36.87,
+      "end_time": 37.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "why we keep",
+      "start_time": 37.5,
+      "end_time": 38.04
+    },
+    {
+      "speaker": "Mira",
+      "text": "arguing about small",
+      "start_time": 38.04,
+      "end_time": 39.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "things like",
+      "start_time": 39.27,
+      "end_time": 40.06
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>cà phê</vietnamese>? Maybe",
+      "start_time": 40.2,
+      "end_time": 41.46
+    },
+    {
+      "speaker": "Michael",
+      "text": "because <vietnamese>cà phê</vietnamese> is",
+      "start_time": 41.46,
+      "end_time": 43.17
+    },
+    {
+      "speaker": "Michael",
+      "text": "just an excuse",
+      "start_time": 43.17,
+      "end_time": 43.89
+    },
+    {
+      "speaker": "Michael",
+      "text": "for us to",
+      "start_time": 43.89,
+      "end_time": 44.25
+    },
+    {
+      "speaker": "Michael",
+      "text": "talk to each",
+      "start_time": 44.25,
+      "end_time": 44.82
+    },
+    {
+      "speaker": "Michael",
+      "text": "other. I wonder",
+      "start_time": 44.82,
+      "end_time": 46.11
+    },
+    {
+      "speaker": "Michael",
+      "text": "if we actually",
+      "start_time": 46.11,
+      "end_time": 46.74
+    },
+    {
+      "speaker": "Michael",
+      "text": "care about something",
+      "start_time": 46.74,
+      "end_time": 47.55
+    },
+    {
+      "speaker": "Michael",
+      "text": "else?",
+      "start_time": 47.55,
+      "end_time": 48.04
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "8ef3ff88",
+  "topic_word": "chỉ",
+  "topic_word_translation": "only",
+  "common_words": [
+    {
+      "word": "một",
+      "translation": "one (numeral)"
+    },
+    {
+      "word": "người",
+      "translation": "person (noun)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Do you know, in Russian, there's only one way to say \"only one\" but how about in Vietnamese?",
+      "start_time": 0.0,
+      "end_time": 9.200000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's interesting! In Vietnamese, we can say \"chỉ\", \"chỉ có\", or \"duy nhất\" to express \"only one\". Each word has its own nuance.",
+      "start_time": 9.700000000000001,
+      "end_time": 22.6,
+      "viet_words": [
+        "chỉ"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Really? So if I want to say \"there's only one person who understands me\", which word should I use? Sometimes I feel there's chỉ one person who truly hiểu me in this Saigon.",
+      "start_time": 23.1,
+      "end_time": 40.3,
+      "viet_words": [
+        "chỉ"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "That sounds quite profound. If you want to emphasize the emotion, you should use \"there's duy nhất one person who understands me\". Who is that only person?",
+      "start_time": 40.8,
+      "end_time": 56.3,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "It's... Wait, why do you want to know? It's not like you care about my thoughts, right?",
+      "start_time": 56.8,
+      "end_time": 65.5,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Of course I care. Maybe I just muốn to know if that only person is me. Or perhaps I'm just one of many people who hiểu you?",
+      "start_time": 66.0,
+      "end_time": 78.3,
+      "viet_words": []
+    }
+  ]
+}

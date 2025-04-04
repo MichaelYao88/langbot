@@ -1,0 +1,377 @@
+{
+  "id": "dc1098ba",
+  "topic_word": "bún bò Huế",
+  "topic_word_translation": "spicy beef noodle soup from Hue",
+  "common_words": [
+    {
+      "word": "phở",
+      "translation": "Vietnamese noodle soup"
+    },
+    {
+      "word": "ngon",
+      "translation": "delicious"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese people say",
+      "start_time": 0.06,
+      "end_time": 1.48
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>phở</vietnamese> is the",
+      "start_time": 1.56,
+      "end_time": 2.58
+    },
+    {
+      "speaker": "Mira",
+      "text": "best dish,",
+      "start_time": 2.58,
+      "end_time": 3.57
+    },
+    {
+      "speaker": "Mira",
+      "text": "but I think",
+      "start_time": 3.57,
+      "end_time": 4.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>bún bò Huế</vietnamese> is truly",
+      "start_time": 4.75,
+      "end_time": 5.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "the king of",
+      "start_time": 5.88,
+      "end_time": 6.42
+    },
+    {
+      "speaker": "Mira",
+      "text": "soups. It's spicier",
+      "start_time": 6.42,
+      "end_time": 7.98
+    },
+    {
+      "speaker": "Mira",
+      "text": "and",
+      "start_time": 7.98,
+      "end_time": 8.31
+    },
+    {
+      "speaker": "Mira",
+      "text": "much more flavorful.",
+      "start_time": 8.31,
+      "end_time": 9.73
+    },
+    {
+      "speaker": "Michael",
+      "text": "Interesting! You don't",
+      "start_time": 9.9,
+      "end_time": 11.1
+    },
+    {
+      "speaker": "Michael",
+      "text": "seem like the",
+      "start_time": 11.1,
+      "end_time": 11.55
+    },
+    {
+      "speaker": "Michael",
+      "text": "Mira I know.",
+      "start_time": 11.55,
+      "end_time": 12.28
+    },
+    {
+      "speaker": "Michael",
+      "text": "The Mira I'm",
+      "start_time": 12.69,
+      "end_time": 13.26
+    },
+    {
+      "speaker": "Michael",
+      "text": "familiar with usually",
+      "start_time": 13.26,
+      "end_time": 14.07
+    },
+    {
+      "speaker": "Michael",
+      "text": "prefers <vietnamese>phở</vietnamese> because",
+      "start_time": 14.07,
+      "end_time": 15.75
+    },
+    {
+      "speaker": "Michael",
+      "text": "it's light and",
+      "start_time": 15.75,
+      "end_time": 16.26
+    },
+    {
+      "speaker": "Michael",
+      "text": "elegant.",
+      "start_time": 16.26,
+      "end_time": 16.810000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't be silly!",
+      "start_time": 16.95,
+      "end_time": 18.28
+    },
+    {
+      "speaker": "Mira",
+      "text": "Of course I'm",
+      "start_time": 18.51,
+      "end_time": 19.099999999999998
+    },
+    {
+      "speaker": "Mira",
+      "text": "Mira. I just",
+      "start_time": 19.11,
+      "end_time": 19.95
+    },
+    {
+      "speaker": "Mira",
+      "text": "tried <vietnamese>bún bò Huế</vietnamese>",
+      "start_time": 19.95,
+      "end_time": 21.06
+    },
+    {
+      "speaker": "Mira",
+      "text": "at a",
+      "start_time": 21.06,
+      "end_time": 21.84
+    },
+    {
+      "speaker": "Mira",
+      "text": "place near the",
+      "start_time": 21.84,
+      "end_time": 22.53
+    },
+    {
+      "speaker": "Mira",
+      "text": "chess club and",
+      "start_time": 22.53,
+      "end_time": 23.22
+    },
+    {
+      "speaker": "Mira",
+      "text": "discovered it's incredibly",
+      "start_time": 23.22,
+      "end_time": 24.880000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>ngon</vietnamese>. <vietnamese>Phở</vietnamese>",
+      "start_time": 24.96,
+      "end_time": 26.41
+    },
+    {
+      "speaker": "Mira",
+      "text": "is too mainstream",
+      "start_time": 26.49,
+      "end_time": 27.63
+    },
+    {
+      "speaker": "Mira",
+      "text": "now.",
+      "start_time": 27.63,
+      "end_time": 28.79
+    },
+    {
+      "speaker": "Michael",
+      "text": "Alright, I believe",
+      "start_time": 28.8,
+      "end_time": 29.295
+    },
+    {
+      "speaker": "Michael",
+      "text": "you.",
+      "start_time": 29.295,
+      "end_time": 29.560000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "But I'm surprised",
+      "start_time": 30.15,
+      "end_time": 30.81
+    },
+    {
+      "speaker": "Michael",
+      "text": "to hear you",
+      "start_time": 30.81,
+      "end_time": 31.11
+    },
+    {
+      "speaker": "Michael",
+      "text": "say that. Maybe",
+      "start_time": 31.11,
+      "end_time": 32.28
+    },
+    {
+      "speaker": "Michael",
+      "text": "we should go",
+      "start_time": 32.28,
+      "end_time": 32.73
+    },
+    {
+      "speaker": "Michael",
+      "text": "eat <vietnamese>bún bò Huế</vietnamese>",
+      "start_time": 32.73,
+      "end_time": 34.24
+    },
+    {
+      "speaker": "Michael",
+      "text": "together this weekend",
+      "start_time": 34.26,
+      "end_time": 35.16
+    },
+    {
+      "speaker": "Michael",
+      "text": "so I can",
+      "start_time": 35.16,
+      "end_time": 35.46
+    },
+    {
+      "speaker": "Michael",
+      "text": "see what excites",
+      "start_time": 35.46,
+      "end_time": 36.15
+    },
+    {
+      "speaker": "Michael",
+      "text": "you",
+      "start_time": 36.15,
+      "end_time": 36.24
+    },
+    {
+      "speaker": "Michael",
+      "text": "so much?",
+      "start_time": 36.24,
+      "end_time": 37.45
+    },
+    {
+      "speaker": "Mira",
+      "text": "I... I didn't",
+      "start_time": 38.04,
+      "end_time": 38.5125
+    },
+    {
+      "speaker": "Mira",
+      "text": "say",
+      "start_time": 38.5125,
+      "end_time": 38.67
+    },
+    {
+      "speaker": "Mira",
+      "text": "I wanted to",
+      "start_time": 38.67,
+      "end_time": 39.09
+    },
+    {
+      "speaker": "Mira",
+      "text": "go with you!",
+      "start_time": 39.09,
+      "end_time": 39.910000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "But if you",
+      "start_time": 40.05,
+      "end_time": 40.41
+    },
+    {
+      "speaker": "Mira",
+      "text": "want to know",
+      "start_time": 40.41,
+      "end_time": 40.86
+    },
+    {
+      "speaker": "Mira",
+      "text": "why <vietnamese>bún bò Huế</vietnamese> is",
+      "start_time": 40.86,
+      "end_time": 42.87
+    },
+    {
+      "speaker": "Mira",
+      "text": "better than <vietnamese>phở</vietnamese>,",
+      "start_time": 42.87,
+      "end_time": 44.47
+    },
+    {
+      "speaker": "Mira",
+      "text": "I could show",
+      "start_time": 44.55,
+      "end_time": 45.18
+    },
+    {
+      "speaker": "Mira",
+      "text": "you that place.",
+      "start_time": 45.18,
+      "end_time": 46.06
+    },
+    {
+      "speaker": "Michael",
+      "text": "So, are we",
+      "start_time": 46.17,
+      "end_time": 46.83
+    },
+    {
+      "speaker": "Michael",
+      "text": "meeting Sunday at",
+      "start_time": 46.83,
+      "end_time": 47.55
+    },
+    {
+      "speaker": "Michael",
+      "text": "7pm? I'm",
+      "start_time": 47.55,
+      "end_time": 48.36
+    },
+    {
+      "speaker": "Michael",
+      "text": "curious whether it's",
+      "start_time": 48.36,
+      "end_time": 49.08
+    },
+    {
+      "speaker": "Michael",
+      "text": "the best <vietnamese>bún bò Huế</vietnamese>",
+      "start_time": 49.08,
+      "end_time": 50.83
+    },
+    {
+      "speaker": "Michael",
+      "text": "in Saigon, or",
+      "start_time": 50.85,
+      "end_time": 51.81
+    },
+    {
+      "speaker": "Michael",
+      "text": "if you're just",
+      "start_time": 51.81,
+      "end_time": 52.32
+    },
+    {
+      "speaker": "Michael",
+      "text": "influenced by the",
+      "start_time": 52.32,
+      "end_time": 53.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "atmosphere of the",
+      "start_time": 53.04,
+      "end_time": 53.67
+    },
+    {
+      "speaker": "Michael",
+      "text": "place?",
+      "start_time": 53.67,
+      "end_time": 54.190000000000005
+    }
+  ]
+}

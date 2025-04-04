@@ -1,0 +1,60 @@
+{
+  "id": "03a7833b",
+  "timestamp": 1742937452,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Không phải cậu là Mira! Có gì đó không đúng. Cậu khác quá. Họ đang theo dõi chúng ta. Hãy giả vờ bình thường đi. Này, Pokemon yêu thích của cậu là gì vậy?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Đừng nói linh tinh, Michael! Tất nhiên tôi là Mira. Tôi thích Gengar vì nó thông minh và bí ẩn như tôi khi chơi cờ vua. Pokemon yêu thích của cậu là gì?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Gengar á? Nhưng tuần trước cậu nói thích Pikachu mà. Tôi vẫn thích Charizard vì nó mạnh mẽ và tự do. Cậu có nhớ lần đầu chúng ta nói về Pokemon không?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tôi chưa bao giờ nói thích Pikachu! Cậu đang làm tôi sợ đấy. Charizard cũng được, nhưng không thông minh bằng Gengar. Tại sao cậu cứ nhìn quanh như thế?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Xin lỗi, tôi chỉ... cảm thấy có gì đó không ổn. Cậu nghĩ Gengar có thể đánh bại Charizard trong trận đấu không?"
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "You're not Mira! Something's off. You're different. They're watching us. Act normal. Hey, what's your favorite Pokemon?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't talk nonsense, Michael! Of course I'm Mira. I thích Gengar because it's thông minh and mysterious like me when I play chess. What's your favorite Pokemon?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Gengar? But last week you said you thích Pikachu. I still thích Charizard because it's powerful and free. Do you remember the first time we talked about Pokemon?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "I never said I thích Pikachu! You're scaring me. Charizard is fine too, but not as thông minh as Gengar. Why do you keep looking around like that?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sorry, I just... feel something isn't right. Do you think Gengar could defeat Charizard in a battle?"
+    }
+  ],
+  "topic_word": "Pokemon",
+  "topic_word_translation": "Pokemon",
+  "common_words": [
+    {
+      "word": "thích",
+      "translation": "like"
+    },
+    {
+      "word": "thông minh",
+      "translation": "intelligent/smart"
+    }
+  ]
+}

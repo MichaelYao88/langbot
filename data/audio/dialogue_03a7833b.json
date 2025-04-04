@@ -1,0 +1,275 @@
+{
+  "id": "03a7833b",
+  "topic_word": "Pokemon",
+  "topic_word_translation": "Pokemon",
+  "common_words": [
+    {
+      "word": "thích",
+      "translation": "like"
+    },
+    {
+      "word": "thông minh",
+      "translation": "intelligent/smart"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "You're not Mira!",
+      "start_time": 0.06,
+      "end_time": 1.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "Something's off.",
+      "start_time": 1.38,
+      "end_time": 2.73
+    },
+    {
+      "speaker": "Michael",
+      "text": "You're different.",
+      "start_time": 2.73,
+      "end_time": 3.47
+    },
+    {
+      "speaker": "Michael",
+      "text": "They're watching us.",
+      "start_time": 3.47,
+      "end_time": 4.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "Act normal.",
+      "start_time": 4.2,
+      "end_time": 5.619999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "Hey, what's your",
+      "start_time": 6.6,
+      "end_time": 7.11
+    },
+    {
+      "speaker": "Michael",
+      "text": "favorite Pokemon?",
+      "start_time": 7.11,
+      "end_time": 7.6899999999999995
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't talk nonsense,",
+      "start_time": 8.88,
+      "end_time": 10.05
+    },
+    {
+      "speaker": "Mira",
+      "text": "Michael! Of course",
+      "start_time": 10.05,
+      "end_time": 11.33
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm Mira.",
+      "start_time": 11.34,
+      "end_time": 12.549999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "I <vietnamese>thích</vietnamese> Gengar",
+      "start_time": 12.57,
+      "end_time": 13.92
+    },
+    {
+      "speaker": "Mira",
+      "text": "because it's <vietnamese>thông minh</vietnamese>",
+      "start_time": 13.92,
+      "end_time": 15.45
+    },
+    {
+      "speaker": "Mira",
+      "text": "and mysterious",
+      "start_time": 15.45,
+      "end_time": 16.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "like me when",
+      "start_time": 16.74,
+      "end_time": 17.22
+    },
+    {
+      "speaker": "Mira",
+      "text": "I play chess.",
+      "start_time": 17.22,
+      "end_time": 18.42
+    },
+    {
+      "speaker": "Mira",
+      "text": "What's your favorite",
+      "start_time": 18.42,
+      "end_time": 19.78
+    },
+    {
+      "speaker": "Mira",
+      "text": "Pokemon?",
+      "start_time": 19.78,
+      "end_time": 20.91
+    },
+    {
+      "speaker": "Michael",
+      "text": "Gengar? But last",
+      "start_time": 20.92,
+      "end_time": 21.54
+    },
+    {
+      "speaker": "Michael",
+      "text": "week you said",
+      "start_time": 21.54,
+      "end_time": 22.12
+    },
+    {
+      "speaker": "Michael",
+      "text": "you <vietnamese>thích</vietnamese> Pikachu.",
+      "start_time": 22.26,
+      "end_time": 22.95
+    },
+    {
+      "speaker": "Michael",
+      "text": "I still <vietnamese>thích</vietnamese>",
+      "start_time": 22.96,
+      "end_time": 23.860000000000003
+    },
+    {
+      "speaker": "Michael",
+      "text": "Charizard because",
+      "start_time": 23.97,
+      "end_time": 24.919999999999998
+    },
+    {
+      "speaker": "Michael",
+      "text": "it's powerful",
+      "start_time": 24.93,
+      "end_time": 25.77
+    },
+    {
+      "speaker": "Michael",
+      "text": "and free.",
+      "start_time": 25.77,
+      "end_time": 26.82
+    },
+    {
+      "speaker": "Michael",
+      "text": "Do you remember",
+      "start_time": 26.82,
+      "end_time": 27.27
+    },
+    {
+      "speaker": "Michael",
+      "text": "the first time",
+      "start_time": 27.27,
+      "end_time": 27.78
+    },
+    {
+      "speaker": "Michael",
+      "text": "we talked about",
+      "start_time": 27.78,
+      "end_time": 28.8
+    },
+    {
+      "speaker": "Michael",
+      "text": "Pokemon?",
+      "start_time": 28.8,
+      "end_time": 29.07
+    },
+    {
+      "speaker": "Mira",
+      "text": "I never said",
+      "start_time": 29.07,
+      "end_time": 30.09
+    },
+    {
+      "speaker": "Mira",
+      "text": "I <vietnamese>thích</vietnamese> Pikachu!",
+      "start_time": 30.09,
+      "end_time": 31.270000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "You're scaring me.",
+      "start_time": 31.53,
+      "end_time": 32.56
+    },
+    {
+      "speaker": "Mira",
+      "text": "Charizard is fine",
+      "start_time": 32.94,
+      "end_time": 33.78
+    },
+    {
+      "speaker": "Mira",
+      "text": "too, but not",
+      "start_time": 33.78,
+      "end_time": 35.49
+    },
+    {
+      "speaker": "Mira",
+      "text": "as <vietnamese>thông minh</vietnamese> as",
+      "start_time": 35.49,
+      "end_time": 36.96
+    },
+    {
+      "speaker": "Mira",
+      "text": "Gengar. Why do",
+      "start_time": 36.96,
+      "end_time": 38.04
+    },
+    {
+      "speaker": "Mira",
+      "text": "you keep looking",
+      "start_time": 38.04,
+      "end_time": 38.76
+    },
+    {
+      "speaker": "Mira",
+      "text": "around like that?",
+      "start_time": 38.76,
+      "end_time": 39.730000000000004
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sorry, I just...",
+      "start_time": 39.9,
+      "end_time": 40.690000000000005
+    },
+    {
+      "speaker": "Michael",
+      "text": "feel something isn't",
+      "start_time": 41.28,
+      "end_time": 42.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "right. Do you",
+      "start_time": 42.0,
+      "end_time": 43.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "think Gengar could",
+      "start_time": 43.2,
+      "end_time": 43.77
+    },
+    {
+      "speaker": "Michael",
+      "text": "defeat Charizard",
+      "start_time": 43.78,
+      "end_time": 44.58
+    },
+    {
+      "speaker": "Michael",
+      "text": "in a battle?",
+      "start_time": 44.58,
+      "end_time": 45.4
+    }
+  ]
+}

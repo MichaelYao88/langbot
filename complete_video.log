@@ -1,0 +1,20 @@
+2025-03-26 22:14:55,977 - generate_complete_video - INFO - 
+Processing dialogue 1/1
+2025-03-26 22:14:55,978 - generate_complete_video - INFO - Running generate_audio.py with args: none
+2025-03-26 22:17:20,461 - generate_complete_video - INFO - Running generate_dialogue_timestamps.py with args: ['--count', '1']
+2025-03-26 22:17:29,459 - generate_complete_video - ERROR - Error running generate_dialogue_timestamps.py: Traceback (most recent call last):
+  File "C:\Users\Crims\code\langbot\generate_dialogue_timestamps.py", line 709, in <module>
+    main() 
+    ^^^^^^
+  File "C:\Users\Crims\code\langbot\generate_dialogue_timestamps.py", line 700, in main
+    process_audio_file(audio_file, skip_auto, skip_adjust)
+  File "C:\Users\Crims\code\langbot\generate_dialogue_timestamps.py", line 191, in process_audio_file
+    align_subtitles(auto_json_path, replace_original=True)
+  File "C:\Users\Crims\code\langbot\generate_dialogue_timestamps.py", line 599, in align_subtitles
+    current_time += duration + PAUSE_DURATION_MS
+                               ^^^^^^^^^^^^^^^^^
+NameError: name 'PAUSE_DURATION_MS' is not defined
+
+2025-03-26 22:17:29,461 - generate_complete_video - ERROR - Failed to process dialogue 1
+2025-03-26 22:17:29,461 - generate_complete_video - INFO - 
+Completed processing 0/1 dialogues successfully

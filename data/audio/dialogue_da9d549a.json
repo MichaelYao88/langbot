@@ -1,0 +1,76 @@
+{
+  "id": "da9d549a",
+  "topic_word": "bài hát",
+  "topic_word_translation": "song",
+  "common_words": [
+    {
+      "word": "thích",
+      "translation": "like"
+    },
+    {
+      "word": "viral",
+      "translation": "viral"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Hey Mira, have you heard the \"gwenchana ding ding ding ding ding\" bài hát? It's going viral all over social media.",
+      "start_time": 0.0,
+      "end_time": 11.4,
+      "viet_words": [
+        "viral",
+        "bài hát"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Of course I know it. That Korean bài hát is playing all over Saigon. But I don't understand why people thích it so much.",
+      "start_time": 11.9,
+      "end_time": 23.9,
+      "viet_words": [
+        "thích",
+        "bài hát"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Because it's fun and catchy! If you want, we could go to the new cafe in District 1, they often play that bài hát. Maybe you'll thích the atmosphere there.",
+      "start_time": 24.4,
+      "end_time": 39.9,
+      "viet_words": [
+        "thích",
+        "bài hát"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm not easily convinced. But... alright, I'll go. Only because I want to understand why that bài hát is so viral.",
+      "start_time": 40.4,
+      "end_time": 51.8,
+      "viet_words": [
+        "viral",
+        "bài hát"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Great! I knew you would thích it. That bài hát has something that makes people feel happy, just like when we played chess last week.",
+      "start_time": 52.3,
+      "end_time": 65.5,
+      "viet_words": [
+        "thích",
+        "bài hát"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't be so confident. I haven't said I'll thích it yet. But... when do you think we should go?",
+      "start_time": 66.0,
+      "end_time": 75.5,
+      "viet_words": [
+        "thích"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "62ed619c",
+  "topic_word": "không sao",
+  "topic_word_translation": "no problem",
+  "common_words": [
+    {
+      "word": "nói",
+      "translation": "to say/speak (verb)"
+    },
+    {
+      "word": "cảm thấy",
+      "translation": "to feel (verb)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael, do you feel it? We've been here before. It's not a coincidence that we keep meeting at this coffee shop.",
+      "start_time": 0.0,
+      "end_time": 11.700000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's right, Mira. I feel the same way. Maybe it's destiny. How do you say \"không sao\" in Russian?",
+      "start_time": 12.200000000000001,
+      "end_time": 22.1,
+      "viet_words": [
+        "không sao"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "In Russian, we say \"ничего страшного\" (nichevo strashova). What about Vietnamese? I still don't know how to nói \"không sao\" naturally.",
+      "start_time": 22.6,
+      "end_time": 36.0,
+      "viet_words": [
+        "nói",
+        "không sao"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Vietnamese people usually nói \"không sao\" or \"không có gì\". It's that simple. I like the way you pronounce Russian, it sounds very special.",
+      "start_time": 36.5,
+      "end_time": 50.4,
+      "viet_words": [
+        "nói",
+        "không sao"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Thank you, but I think tiếng Vietnamese is really difficult. Every time I say \"không sao\", people still look at me strangely. Can you teach me how to pronounce it correctly?",
+      "start_time": 50.9,
+      "end_time": 68.2,
+      "viet_words": [
+        "không sao"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Of course. But Mira, I have this kỳ lạ feeling that someone is watching us. Perhaps we should meet somewhere else to continue this Vietnamese lesson?",
+      "start_time": 68.7,
+      "end_time": 83.60000000000001,
+      "viet_words": []
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "id": "71a8bc58",
+  "topic_word": "Chúa hề",
+  "topic_word_translation": "God of clowns",
+  "common_words": [
+    {
+      "word": "thần",
+      "translation": "god/deity"
+    },
+    {
+      "word": "Việt Nam",
+      "translation": "Vietnam"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Chúa hề</vietnamese>?",
+      "start_time": 0.12,
+      "end_time": 1.32
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't talk nonsense.",
+      "start_time": 1.32,
+      "end_time": 2.28
+    },
+    {
+      "speaker": "Mira",
+      "text": "My friend told",
+      "start_time": 2.28,
+      "end_time": 2.7075
+    },
+    {
+      "speaker": "Mira",
+      "text": "me",
+      "start_time": 2.7075,
+      "end_time": 2.85
+    },
+    {
+      "speaker": "Mira",
+      "text": "that in",
+      "start_time": 2.85,
+      "end_time": 3.43
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Việt Nam</vietnamese> there",
+      "start_time": 3.45,
+      "end_time": 4.53
+    },
+    {
+      "speaker": "Mira",
+      "text": "is <vietnamese>Chúa hề</vietnamese>,",
+      "start_time": 4.53,
+      "end_time": 5.92
+    },
+    {
+      "speaker": "Mira",
+      "text": "a deity of",
+      "start_time": 6.0,
+      "end_time": 6.69
+    },
+    {
+      "speaker": "Mira",
+      "text": "clowns, but I",
+      "start_time": 6.69,
+      "end_time": 7.62
+    },
+    {
+      "speaker": "Mira",
+      "text": "don't",
+      "start_time": 7.62,
+      "end_time": 7.83
+    },
+    {
+      "speaker": "Michael",
+      "text": "believe it. <vietnamese>Chúa hề</vietnamese>",
+      "start_time": 7.83,
+      "end_time": 9.03
+    },
+    {
+      "speaker": "Michael",
+      "text": "doesn't actually",
+      "start_time": 9.03,
+      "end_time": 10.35
+    },
+    {
+      "speaker": "Michael",
+      "text": "exist. Your friend",
+      "start_time": 10.35,
+      "end_time": 11.67
+    },
+    {
+      "speaker": "Michael",
+      "text": "is just teasing",
+      "start_time": 11.67,
+      "end_time": 12.3
+    },
+    {
+      "speaker": "Michael",
+      "text": "you. But Vietnamese",
+      "start_time": 12.3,
+      "end_time": 13.53
+    },
+    {
+      "speaker": "Michael",
+      "text": "culture has many",
+      "start_time": 13.53,
+      "end_time": 14.4
+    },
+    {
+      "speaker": "Michael",
+      "text": "interesting <vietnamese>thần</vietnamese>.",
+      "start_time": 14.4,
+      "end_time": 15.129999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "I knew",
+      "start_time": 15.21,
+      "end_time": 16.38
+    },
+    {
+      "speaker": "Mira",
+      "text": "it! My friend",
+      "start_time": 16.38,
+      "end_time": 17.61
+    },
+    {
+      "speaker": "Mira",
+      "text": "always makes up",
+      "start_time": 17.61,
+      "end_time": 18.24
+    },
+    {
+      "speaker": "Mira",
+      "text": "stories about <vietnamese>Việt Nam</vietnamese>.",
+      "start_time": 18.24,
+      "end_time": 20.110000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "But I'd like",
+      "start_time": 20.16,
+      "end_time": 20.58
+    },
+    {
+      "speaker": "Mira",
+      "text": "to hear about",
+      "start_time": 20.58,
+      "end_time": 21.21
+    },
+    {
+      "speaker": "Mira",
+      "text": "the real <vietnamese>thần</vietnamese>",
+      "start_time": 21.21,
+      "end_time": 22.540000000000003
+    },
+    {
+      "speaker": "Michael",
+      "text": "of the Vietnamese",
+      "start_time": 22.68,
+      "end_time": 23.58
+    },
+    {
+      "speaker": "Michael",
+      "text": "people. Vietnamese people",
+      "start_time": 23.58,
+      "end_time": 24.96
+    },
+    {
+      "speaker": "Michael",
+      "text": "worship many different",
+      "start_time": 24.96,
+      "end_time": 26.110000000000003
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>thần</vietnamese>, like the",
+      "start_time": 26.22,
+      "end_time": 27.12
+    },
+    {
+      "speaker": "Michael",
+      "text": "God of Fortune",
+      "start_time": 27.12,
+      "end_time": 27.99
+    },
+    {
+      "speaker": "Michael",
+      "text": "or Quan Cong.",
+      "start_time": 27.99,
+      "end_time": 28.93
+    },
+    {
+      "speaker": "Michael",
+      "text": "Would you like",
+      "start_time": 29.37,
+      "end_time": 29.79
+    },
+    {
+      "speaker": "Michael",
+      "text": "to go to",
+      "start_time": 29.79,
+      "end_time": 30.18
+    },
+    {
+      "speaker": "Michael",
+      "text": "a temple with",
+      "start_time": 30.18,
+      "end_time": 30.72
+    },
+    {
+      "speaker": "Michael",
+      "text": "me this weekend?",
+      "start_time": 30.72,
+      "end_time": 31.57
+    },
+    {
+      "speaker": "Michael",
+      "text": "I could tell",
+      "start_time": 31.89,
+      "end_time": 32.31
+    },
+    {
+      "speaker": "Michael",
+      "text": "you more about",
+      "start_time": 32.31,
+      "end_time": 32.88
+    },
+    {
+      "speaker": "Michael",
+      "text": "the deities.",
+      "start_time": 32.88,
+      "end_time": 33.61
+    },
+    {
+      "speaker": "Mira",
+      "text": "Go to a",
+      "start_time": 33.81,
+      "end_time": 34.29
+    },
+    {
+      "speaker": "Mira",
+      "text": "temple? Aren't you",
+      "start_time": 34.29,
+      "end_time": 35.46
+    },
+    {
+      "speaker": "Mira",
+      "text": "trying to date",
+      "start_time": 35.46,
+      "end_time": 36.12
+    },
+    {
+      "speaker": "Mira",
+      "text": "me or something?",
+      "start_time": 36.12,
+      "end_time": 37.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "But... alright,",
+      "start_time": 37.23,
+      "end_time": 39.02
+    },
+    {
+      "speaker": "Mira",
+      "text": "I want to",
+      "start_time": 39.03,
+      "end_time": 39.42
+    },
+    {
+      "speaker": "Mira",
+      "text": "learn more about",
+      "start_time": 39.42,
+      "end_time": 40.11
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese people and",
+      "start_time": 40.11,
+      "end_time": 41.19
+    },
+    {
+      "speaker": "Mira",
+      "text": "their <vietnamese>thần</vietnamese>.",
+      "start_time": 41.19,
+      "end_time": 42.370000000000005
+    }
+  ]
+}

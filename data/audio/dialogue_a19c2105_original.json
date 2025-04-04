@@ -1,0 +1,81 @@
+{
+  "id": "a19c2105",
+  "topic_word": "cà phê",
+  "topic_word_translation": "coffee",
+  "common_words": [
+    {
+      "word": "uống (verb)",
+      "translation": "to drink"
+    },
+    {
+      "word": "mạnh (adjective)",
+      "translation": "strong"
+    },
+    {
+      "word": "thích (verb)",
+      "translation": "to like"
+    },
+    {
+      "word": "nghĩ (verb)",
+      "translation": "to think"
+    },
+    {
+      "word": "nguyên bản (noun)",
+      "translation": "original"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese cà phê is delicious, but too mạnh. I thích uống cà phê with milk more than drinking it black.",
+      "start_time": 0.0,
+      "end_time": 10.4,
+      "viet_words": [
+        "cà phê"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Milk iced cà phê is Vietnam's signature drink. I nghĩ it reflects Vietnamese character - mạnh but sweet.",
+      "start_time": 10.9,
+      "end_time": 21.3,
+      "viet_words": [
+        "cà phê"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "You nghĩ so? I find black cà phê truly shows real strength. We Russians thích nguyên bản things, not mixed.",
+      "start_time": 21.8,
+      "end_time": 32.5,
+      "viet_words": [
+        "cà phê"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's interesting. But I nghĩ mixing sometimes creates something more wonderful than the nguyên bản. Like my Vietnamese-American culture.",
+      "start_time": 33.0,
+      "end_time": 46.8,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "Maybe you're right... But I still thích uống cà phê my way. Have you ever wondered why we keep arguing about small things like cà phê?",
+      "start_time": 47.3,
+      "end_time": 60.699999999999996,
+      "viet_words": [
+        "cà phê"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Maybe because cà phê is just an excuse for us to talk to each other. I wonder if we actually care about something else?",
+      "start_time": 61.199999999999996,
+      "end_time": 73.1,
+      "viet_words": [
+        "cà phê"
+      ]
+    }
+  ]
+}

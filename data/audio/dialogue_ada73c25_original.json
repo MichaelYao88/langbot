@@ -1,0 +1,70 @@
+{
+  "id": "ada73c25",
+  "topic_word": "người phục vụ",
+  "topic_word_translation": "waiter/server",
+  "common_words": [
+    {
+      "word": "gọi",
+      "translation": "to call (verb)"
+    },
+    {
+      "word": "cậu",
+      "translation": "you (pronoun)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael, how do I call the người phục vụ here? I've been waiting for a while but no one has come.",
+      "start_time": 0.0,
+      "end_time": 10.100000000000001,
+      "viet_words": [
+        "người phục vụ"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "In Vietnam, you just need to say \"Em ơi\" or \"Anh ơi\". But if you want to be more polite, say \"Excuse me\".",
+      "start_time": 10.600000000000001,
+      "end_time": 21.1,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "\"Em ơi\"? That sounds strange. In Russia, we don't call strangers \"em\". Why do Vietnamese people gọi like that?",
+      "start_time": 21.6,
+      "end_time": 32.6,
+      "viet_words": [
+        "gọi"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "It's just a familiar way of addressing people. You can try saying \"chị ơi\" if the người phục vụ is an older woman. By the way, I think your tiếng Việt is getting better.",
+      "start_time": 33.1,
+      "end_time": 50.0,
+      "viet_words": [
+        "người phục vụ"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Really? Thanks. But I still find the xưng hô culture here very confusing. Do Vietnamese people have other ways to call người phục vụ?",
+      "start_time": 50.5,
+      "end_time": 63.8,
+      "viet_words": [
+        "người phục vụ"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Yes, depending on age and gender. For example, \"anh ơi\" for men, \"chị ơi\" for older women. Do you want to try gọi? The người phục vụ is coming toward us now.",
+      "start_time": 64.3,
+      "end_time": 80.0,
+      "viet_words": [
+        "gọi",
+        "người phục vụ"
+      ]
+    }
+  ]
+}

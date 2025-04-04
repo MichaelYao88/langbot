@@ -1,0 +1,84 @@
+{
+  "id": "509d7bdb",
+  "topic_word": "chiến tranh",
+  "topic_word_translation": "war",
+  "common_words": [
+    {
+      "word": "lịch sử",
+      "translation": "history (noun)"
+    },
+    {
+      "word": "đồng ý",
+      "translation": "agree (verb)"
+    },
+    {
+      "word": "quyết định",
+      "translation": "decisive (adjective)"
+    },
+    {
+      "word": "thực sự",
+      "translation": "really (adverb)"
+    },
+    {
+      "word": "bom nguyên tử",
+      "translation": "atomic bomb (noun phrase)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael, I find it hard to believe when you say the bom nguyên tử didn't thực sự end World War II. In Russia, lịch sử books taught us that the Soviet Union played a quyết định role in the victory.",
+      "start_time": 0.0,
+      "end_time": 19.6,
+      "viet_words": [
+        "lịch sử",
+        "quyết định",
+        "thực sự",
+        "bom nguyên tử"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "I understand. In America, we were taught that the bom nguyên tử forced Japan to surrender, but many historians now believe that Japan was actually ready to surrender when the Soviet Union declared war on them. Lịch sử is so complex.",
+      "start_time": 20.1,
+      "end_time": 43.300000000000004,
+      "viet_words": [
+        "lịch sử",
+        "bom nguyên tử"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't think you're wrong, but I don't completely đồng ý either. Chiến tranh is always a sensitive topic. Perhaps we should play chess instead of debating about lịch sử chiến tranh?",
+      "start_time": 43.800000000000004,
+      "end_time": 62.0,
+      "viet_words": [
+        "lịch sử",
+        "đồng ý",
+        "chiến tranh"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Chess? I'm not very good, but if I get to sit across from you, I'm ready to lose. But wait, I thực sự want to understand your perspective on chiến tranh and lịch sử.",
+      "start_time": 62.5,
+      "end_time": 79.0,
+      "viet_words": [
+        "lịch sử",
+        "thực sự",
+        "chiến tranh"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "*blushing* You always say such strange things. I just think each country has its own way of viewing lịch sử chiến tranh. Who's right and who's wrong? I'm not sure we can đồng ý.",
+      "start_time": 79.5,
+      "end_time": 97.2,
+      "viet_words": [
+        "lịch sử",
+        "đồng ý",
+        "chiến tranh"
+      ]
+    }
+  ]
+}

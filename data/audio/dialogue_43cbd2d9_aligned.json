@@ -1,0 +1,281 @@
+{
+  "id": "43cbd2d9",
+  "topic_word": "chỉ",
+  "topic_word_translation": "only",
+  "common_words": [
+    {
+      "word": "cờ",
+      "translation": "chess"
+    },
+    {
+      "word": "nhìn",
+      "translation": "look"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Hey Mira,",
+      "start_time": 0.06,
+      "end_time": 0.58
+    },
+    {
+      "speaker": "Michael",
+      "text": "do you think",
+      "start_time": 0.58,
+      "end_time": 1.1800000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "we're <vietnamese>chỉ</vietnamese> friends?",
+      "start_time": 1.32,
+      "end_time": 3.21
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sometimes I feel",
+      "start_time": 3.21,
+      "end_time": 3.57
+    },
+    {
+      "speaker": "Michael",
+      "text": "like we could",
+      "start_time": 3.57,
+      "end_time": 4.0425
+    },
+    {
+      "speaker": "Michael",
+      "text": "be",
+      "start_time": 4.0425,
+      "end_time": 4.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "something more.",
+      "start_time": 4.2,
+      "end_time": 5.6499999999999995
+    },
+    {
+      "speaker": "Mira",
+      "text": "What? We're",
+      "start_time": 5.79,
+      "end_time": 7.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>chỉ</vietnamese> friends!",
+      "start_time": 7.29,
+      "end_time": 9.06
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't imagine",
+      "start_time": 9.06,
+      "end_time": 10.2
+    },
+    {
+      "speaker": "Mira",
+      "text": "weird things.",
+      "start_time": 10.2,
+      "end_time": 10.35
+    },
+    {
+      "speaker": "Mira",
+      "text": "We <vietnamese>chỉ</vietnamese> play",
+      "start_time": 10.35,
+      "end_time": 11.79
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>cờ</vietnamese> and talk.",
+      "start_time": 11.79,
+      "end_time": 13.29
+    },
+    {
+      "speaker": "Mira",
+      "text": "Nothing special.",
+      "start_time": 13.29,
+      "end_time": 13.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "But every time",
+      "start_time": 13.5,
+      "end_time": 14.16
+    },
+    {
+      "speaker": "Michael",
+      "text": "we play <vietnamese>cờ</vietnamese>,",
+      "start_time": 14.16,
+      "end_time": 14.85
+    },
+    {
+      "speaker": "Michael",
+      "text": "I notice you",
+      "start_time": 14.85,
+      "end_time": 15.99
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>nhìn</vietnamese> at me",
+      "start_time": 15.99,
+      "end_time": 17.34
+    },
+    {
+      "speaker": "Michael",
+      "text": "for a long",
+      "start_time": 17.34,
+      "end_time": 18.1275
+    },
+    {
+      "speaker": "Michael",
+      "text": "time.",
+      "start_time": 18.1275,
+      "end_time": 18.39
+    },
+    {
+      "speaker": "Michael",
+      "text": "And you <vietnamese>chỉ</vietnamese> do",
+      "start_time": 18.39,
+      "end_time": 19.56
+    },
+    {
+      "speaker": "Michael",
+      "text": "that with me,",
+      "start_time": 19.56,
+      "end_time": 20.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "not with others.",
+      "start_time": 20.04,
+      "end_time": 20.98
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's <vietnamese>chỉ</vietnamese> a",
+      "start_time": 21.15,
+      "end_time": 22.78
+    },
+    {
+      "speaker": "Mira",
+      "text": "chess strategy!",
+      "start_time": 22.78,
+      "end_time": 23.14
+    },
+    {
+      "speaker": "Mira",
+      "text": "I <vietnamese>nhìn</vietnamese> to predict",
+      "start_time": 23.14,
+      "end_time": 25.8
+    },
+    {
+      "speaker": "Mira",
+      "text": "your next move.",
+      "start_time": 25.8,
+      "end_time": 27.94
+    },
+    {
+      "speaker": "Mira",
+      "text": "You <vietnamese>nghĩ</vietnamese> too much.",
+      "start_time": 28.02,
+      "end_time": 29.650000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "Then why do",
+      "start_time": 29.76,
+      "end_time": 30.21
+    },
+    {
+      "speaker": "Michael",
+      "text": "you <vietnamese>chỉ</vietnamese> play <vietnamese>cờ</vietnamese>",
+      "start_time": 30.21,
+      "end_time": 31.71
+    },
+    {
+      "speaker": "Michael",
+      "text": "with me?",
+      "start_time": 31.71,
+      "end_time": 33.15
+    },
+    {
+      "speaker": "Michael",
+      "text": "There are better",
+      "start_time": 33.15,
+      "end_time": 33.87
+    },
+    {
+      "speaker": "Michael",
+      "text": "players at the",
+      "start_time": 33.87,
+      "end_time": 34.207499999999996
+    },
+    {
+      "speaker": "Michael",
+      "text": "club,",
+      "start_time": 34.207499999999996,
+      "end_time": 34.31999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "but you <vietnamese>chỉ</vietnamese>",
+      "start_time": 34.32,
+      "end_time": 35.59
+    },
+    {
+      "speaker": "Michael",
+      "text": "invite me.",
+      "start_time": 35.61,
+      "end_time": 37.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "I...",
+      "start_time": 37.11,
+      "end_time": 37.54
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm <vietnamese>chỉ</vietnamese> used to",
+      "start_time": 37.65,
+      "end_time": 38.76
+    },
+    {
+      "speaker": "Mira",
+      "text": "playing with you.",
+      "start_time": 38.76,
+      "end_time": 40.06
+    },
+    {
+      "speaker": "Mira",
+      "text": "Why do you",
+      "start_time": 40.44,
+      "end_time": 41.01
+    },
+    {
+      "speaker": "Mira",
+      "text": "keep asking such",
+      "start_time": 41.01,
+      "end_time": 42.09
+    },
+    {
+      "speaker": "Mira",
+      "text": "strange questions?",
+      "start_time": 42.09,
+      "end_time": 44.35
+    },
+    {
+      "speaker": "Mira",
+      "text": "We're <vietnamese>chỉ</vietnamese> friends,",
+      "start_time": 44.52,
+      "end_time": 46.44
+    },
+    {
+      "speaker": "Mira",
+      "text": "understand?",
+      "start_time": 46.44,
+      "end_time": 46.84
+    }
+  ]
+}

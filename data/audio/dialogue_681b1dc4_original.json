@@ -1,0 +1,63 @@
+{
+  "id": "681b1dc4",
+  "topic_word": "giới tính",
+  "topic_word_translation": "gender",
+  "common_words": [
+    {
+      "word": "nói",
+      "translation": "to speak/talk"
+    },
+    {
+      "word": "hiểu",
+      "translation": "to understand"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Hey Mira, when talking about \"sex\" in English, what do you understand it as? I mean the action or giới tính?",
+      "start_time": 0.0,
+      "end_time": 10.8,
+      "viet_words": [
+        "giới tính"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Oh my god Michael, why are you asking that? Of course it's gender! I'm not the type of person who talks about... that other thing.",
+      "start_time": 11.3,
+      "end_time": 24.3,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "I'm sorry if I made you uncomfortable. But sometimes the word \"sex\" causes misunderstandings in Vietnamese. I just wanted to hiểu clearly.",
+      "start_time": 24.8,
+      "end_time": 38.6,
+      "viet_words": [
+        "hiểu"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "You always have such a clever way of explaining things. But if you want to talk about gender, why not use the word \"gender\" to be clear? Or... are you deliberately trying to make me embarrassed?",
+      "start_time": 39.1,
+      "end_time": 58.5,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's not it. I just find it interesting to discuss cultural differences. But I thích the way you blush when talking about this topic. It's very... cute.",
+      "start_time": 59.0,
+      "end_time": 74.4,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "Who's blushing! You think you know me so well? Sometimes I wonder if you're really interested in culture... or is it just your way of starting conversations with me?",
+      "start_time": 74.9,
+      "end_time": 91.4,
+      "viet_words": []
+    }
+  ]
+}

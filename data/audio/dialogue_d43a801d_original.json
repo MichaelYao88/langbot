@@ -1,0 +1,77 @@
+{
+  "id": "d43a801d",
+  "topic_word": "cái gì",
+  "topic_word_translation": "what",
+  "common_words": [
+    {
+      "word": "dùng",
+      "translation": "to use"
+    },
+    {
+      "word": "tiếng Việt",
+      "translation": "Vietnamese language"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Who, cái gì, where, when, tại sao - these words are so difficult to learn in tiếng Việt. Why do Vietnamese people have to dùng so many complex question words?",
+      "start_time": 0.0,
+      "end_time": 15.8,
+      "viet_words": [
+        "dùng",
+        "tiếng Việt",
+        "cái gì"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Actually, the question words in tiếng Việt are very logical. \"Who\" for people, \"cái gì\" for objects, and \"tại sao\" helps understand reasons. What part do you find difficult?",
+      "start_time": 16.3,
+      "end_time": 33.6,
+      "viet_words": [
+        "tiếng Việt",
+        "cái gì"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I understand cái gì is \"what,\" but sometimes Vietnamese people also dùng \"gì\" alone. And when do we dùng \"tại sao\" versus when to dùng \"vì sao\"? Too many ways to ask the same thing!",
+      "start_time": 34.1,
+      "end_time": 52.2,
+      "viet_words": [
+        "dùng",
+        "cái gì"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's true, but that richness makes tiếng Việt interesting. It's like chess, different moves but the same purpose. Would you like me to teach you how to dùng these words?",
+      "start_time": 52.7,
+      "end_time": 69.80000000000001,
+      "viet_words": [
+        "dùng",
+        "tiếng Việt"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "You're comparing language to chess? That's surprising... But I like it. Tại sao do you know so much about tiếng Việt? You can teach me, but don't act like a teacher.",
+      "start_time": 70.30000000000001,
+      "end_time": 86.80000000000001,
+      "viet_words": [
+        "tiếng Việt"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Because I'm Vietnamese-American, so tiếng Việt is part of who I am. I can help you understand \"cái gì\" and \"tại sao\" through real situations. Where would you like to học? There's a quiet café nearby...",
+      "start_time": 87.30000000000001,
+      "end_time": 107.4,
+      "viet_words": [
+        "tiếng Việt",
+        "cái gì"
+      ]
+    }
+  ]
+}

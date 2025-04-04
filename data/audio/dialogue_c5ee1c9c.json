@@ -1,0 +1,449 @@
+{
+  "id": "c5ee1c9c",
+  "topic_word": "hamburger",
+  "topic_word_translation": "hamburger",
+  "common_words": [
+    {
+      "word": "ăn",
+      "translation": "eat"
+    },
+    {
+      "word": "tệ",
+      "translation": "bad/worst"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Mira,",
+      "start_time": 0.03,
+      "end_time": 0.34
+    },
+    {
+      "speaker": "Michael",
+      "text": "are you",
+      "start_time": 0.34,
+      "end_time": 0.81
+    },
+    {
+      "speaker": "Michael",
+      "text": "really Russian?",
+      "start_time": 0.81,
+      "end_time": 1.56
+    },
+    {
+      "speaker": "Michael",
+      "text": "I hear you",
+      "start_time": 1.56,
+      "end_time": 2.05
+    },
+    {
+      "speaker": "Michael",
+      "text": "talk about",
+      "start_time": 2.05,
+      "end_time": 2.63
+    },
+    {
+      "speaker": "Michael",
+      "text": "American hamburger",
+      "start_time": 2.63,
+      "end_time": 4.21
+    },
+    {
+      "speaker": "Michael",
+      "text": "as if you've",
+      "start_time": 4.23,
+      "end_time": 4.93
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>ăn</vietnamese> it",
+      "start_time": 5.04,
+      "end_time": 5.25
+    },
+    {
+      "speaker": "Michael",
+      "text": "your whole life.",
+      "start_time": 5.25,
+      "end_time": 6.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "Idiot!",
+      "start_time": 6.9,
+      "end_time": 7.3
+    },
+    {
+      "speaker": "Mira",
+      "text": "Of course",
+      "start_time": 7.3,
+      "end_time": 7.8
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm Russian.",
+      "start_time": 7.8,
+      "end_time": 8.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "Just because",
+      "start_time": 8.5,
+      "end_time": 8.97
+    },
+    {
+      "speaker": "Mira",
+      "text": "I hate American",
+      "start_time": 8.97,
+      "end_time": 9.72
+    },
+    {
+      "speaker": "Mira",
+      "text": "fast food",
+      "start_time": 9.72,
+      "end_time": 10.2
+    },
+    {
+      "speaker": "Mira",
+      "text": "doesn't mean",
+      "start_time": 10.2,
+      "end_time": 10.77
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't know",
+      "start_time": 10.77,
+      "end_time": 11.4
+    },
+    {
+      "speaker": "Mira",
+      "text": "about it.",
+      "start_time": 11.4,
+      "end_time": 11.799999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hamburger is",
+      "start_time": 12.09,
+      "end_time": 12.9
+    },
+    {
+      "speaker": "Mira",
+      "text": "the <vietnamese>tệ</vietnamese> thing -",
+      "start_time": 12.9,
+      "end_time": 14.1
+    },
+    {
+      "speaker": "Mira",
+      "text": "all fat",
+      "start_time": 14.1,
+      "end_time": 14.73
+    },
+    {
+      "speaker": "Mira",
+      "text": "and no flavor.",
+      "start_time": 14.73,
+      "end_time": 15.52
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sorry,",
+      "start_time": 15.69,
+      "end_time": 16.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "I was just",
+      "start_time": 16.0,
+      "end_time": 16.6
+    },
+    {
+      "speaker": "Michael",
+      "text": "joking.",
+      "start_time": 16.6,
+      "end_time": 16.8
+    },
+    {
+      "speaker": "Michael",
+      "text": "But I don't",
+      "start_time": 16.8,
+      "end_time": 17.4
+    },
+    {
+      "speaker": "Michael",
+      "text": "think hamburger",
+      "start_time": 17.4,
+      "end_time": 18.24
+    },
+    {
+      "speaker": "Michael",
+      "text": "is the <vietnamese>tệ</vietnamese>",
+      "start_time": 18.24,
+      "end_time": 19.450000000000003
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>Mỹ</vietnamese> food.",
+      "start_time": 19.56,
+      "end_time": 20.33
+    },
+    {
+      "speaker": "Michael",
+      "text": "It must be",
+      "start_time": 20.34,
+      "end_time": 21.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "candy corn -",
+      "start_time": 21.0,
+      "end_time": 22.360000000000003
+    },
+    {
+      "speaker": "Michael",
+      "text": "that thing is",
+      "start_time": 22.47,
+      "end_time": 22.95
+    },
+    {
+      "speaker": "Michael",
+      "text": "so sweet",
+      "start_time": 22.95,
+      "end_time": 23.28
+    },
+    {
+      "speaker": "Michael",
+      "text": "it makes",
+      "start_time": 23.28,
+      "end_time": 23.8
+    },
+    {
+      "speaker": "Michael",
+      "text": "my teeth hurt.",
+      "start_time": 23.8,
+      "end_time": 25.23
+    },
+    {
+      "speaker": "Mira",
+      "text": "Candy corn?",
+      "start_time": 25.23,
+      "end_time": 26.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "Haven't you ever",
+      "start_time": 26.0,
+      "end_time": 27.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "tried American",
+      "start_time": 27.0,
+      "end_time": 27.66
+    },
+    {
+      "speaker": "Mira",
+      "text": "hot dogs?",
+      "start_time": 27.66,
+      "end_time": 28.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's a",
+      "start_time": 28.5,
+      "end_time": 29.04
+    },
+    {
+      "speaker": "Mira",
+      "text": "real disaster.",
+      "start_time": 29.04,
+      "end_time": 30.2
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't understand",
+      "start_time": 30.2,
+      "end_time": 31.1
+    },
+    {
+      "speaker": "Mira",
+      "text": "how you",
+      "start_time": 31.1,
+      "end_time": 31.8
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>người Mỹ</vietnamese>",
+      "start_time": 31.8,
+      "end_time": 32.71
+    },
+    {
+      "speaker": "Mira",
+      "text": "can <vietnamese>ăn</vietnamese> that",
+      "start_time": 32.79,
+      "end_time": 33.66
+    },
+    {
+      "speaker": "Mira",
+      "text": "stuff every day.",
+      "start_time": 33.66,
+      "end_time": 34.36
+    },
+    {
+      "speaker": "Michael",
+      "text": "Hey,",
+      "start_time": 34.53,
+      "end_time": 34.8
+    },
+    {
+      "speaker": "Michael",
+      "text": "I don't <vietnamese>ăn</vietnamese>",
+      "start_time": 34.8,
+      "end_time": 35.52
+    },
+    {
+      "speaker": "Michael",
+      "text": "hot dogs",
+      "start_time": 35.52,
+      "end_time": 36.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "every day either!",
+      "start_time": 36.0,
+      "end_time": 37.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "But I have",
+      "start_time": 37.5,
+      "end_time": 37.86
+    },
+    {
+      "speaker": "Michael",
+      "text": "to admit,",
+      "start_time": 37.86,
+      "end_time": 38.4
+    },
+    {
+      "speaker": "Michael",
+      "text": "hot dogs at",
+      "start_time": 38.4,
+      "end_time": 39.3
+    },
+    {
+      "speaker": "Michael",
+      "text": "baseball games are",
+      "start_time": 39.3,
+      "end_time": 40.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>thực tệ</vietnamese>.",
+      "start_time": 40.2,
+      "end_time": 41.28
+    },
+    {
+      "speaker": "Michael",
+      "text": "Hey Mira,",
+      "start_time": 41.28,
+      "end_time": 41.67
+    },
+    {
+      "speaker": "Michael",
+      "text": "would you like",
+      "start_time": 41.67,
+      "end_time": 42.06
+    },
+    {
+      "speaker": "Michael",
+      "text": "to go <vietnamese>ăn</vietnamese>",
+      "start_time": 42.06,
+      "end_time": 42.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "Vietnamese food with",
+      "start_time": 42.7,
+      "end_time": 43.45
+    },
+    {
+      "speaker": "Michael",
+      "text": "me?",
+      "start_time": 43.45,
+      "end_time": 43.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "I know",
+      "start_time": 43.7,
+      "end_time": 44.1
+    },
+    {
+      "speaker": "Michael",
+      "text": "a good <vietnamese>phở</vietnamese> place...",
+      "start_time": 44.1,
+      "end_time": 45.910000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "Why would you",
+      "start_time": 46.08,
+      "end_time": 46.59
+    },
+    {
+      "speaker": "Mira",
+      "text": "think I want",
+      "start_time": 46.59,
+      "end_time": 47.13
+    },
+    {
+      "speaker": "Mira",
+      "text": "to go <vietnamese>ăn</vietnamese>",
+      "start_time": 47.13,
+      "end_time": 47.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "with you?",
+      "start_time": 47.88,
+      "end_time": 48.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "Well...",
+      "start_time": 48.5,
+      "end_time": 49.870000000000005
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>phở</vietnamese> sounds okay.",
+      "start_time": 49.92,
+      "end_time": 51.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "But how do",
+      "start_time": 51.0,
+      "end_time": 51.51
+    },
+    {
+      "speaker": "Mira",
+      "text": "I know you",
+      "start_time": 51.51,
+      "end_time": 52.2
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>thực</vietnamese> understand",
+      "start_time": 52.2,
+      "end_time": 53.2
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese cuisine?",
+      "start_time": 53.2,
+      "end_time": 54.22
+    }
+  ]
+}

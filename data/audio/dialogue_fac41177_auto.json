@@ -1,0 +1,1014 @@
+{
+  "id": "fac41177",
+  "topic_word": "lắc lọ",
+  "topic_word_translation": "shake the jar",
+  "common_words": [
+    {
+      "word": "lọ",
+      "translation": "jar (noun)"
+    },
+    {
+      "word": "thử",
+      "translation": "try (verb)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "what's in this",
+      "start_time": 0.0,
+      "end_time": 0.63,
+      "word_timestamps": [
+        {
+          "word": "what's",
+          "start": 0.0,
+          "end": 0.33
+        },
+        {
+          "word": "in",
+          "start": 0.33,
+          "end": 0.42
+        },
+        {
+          "word": "this",
+          "start": 0.42,
+          "end": 0.63
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "jar i found",
+      "start_time": 0.63,
+      "end_time": 2.07,
+      "word_timestamps": [
+        {
+          "word": "jar",
+          "start": 0.63298,
+          "end": 1.11
+        },
+        {
+          "word": "i",
+          "start": 1.62,
+          "end": 1.77
+        },
+        {
+          "word": "found",
+          "start": 1.77,
+          "end": 2.07
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "it in the",
+      "start_time": 2.07,
+      "end_time": 2.37,
+      "word_timestamps": [
+        {
+          "word": "it",
+          "start": 2.07,
+          "end": 2.16
+        },
+        {
+          "word": "in",
+          "start": 2.16,
+          "end": 2.28
+        },
+        {
+          "word": "the",
+          "start": 2.28,
+          "end": 2.37
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "corner when cleaning",
+      "start_time": 2.37,
+      "end_time": 3.21,
+      "word_timestamps": [
+        {
+          "word": "corner",
+          "start": 2.37,
+          "end": 2.76
+        },
+        {
+          "word": "when",
+          "start": 2.76,
+          "end": 2.88
+        },
+        {
+          "word": "cleaning",
+          "start": 2.88,
+          "end": 3.21
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "your apartment it's",
+      "start_time": 3.21,
+      "end_time": 4.59,
+      "word_timestamps": [
+        {
+          "word": "your",
+          "start": 3.21,
+          "end": 3.39
+        },
+        {
+          "word": "apartment",
+          "start": 3.39,
+          "end": 4.11
+        },
+        {
+          "word": "it's",
+          "start": 4.41,
+          "end": 4.59
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "a jar",
+      "start_time": 4.59,
+      "end_time": 4.92,
+      "word_timestamps": [
+        {
+          "word": "a",
+          "start": 4.59,
+          "end": 4.62
+        },
+        {
+          "word": "jar",
+          "start": 4.62,
+          "end": 4.92
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "containing my written",
+      "start_time": 4.92,
+      "end_time": 5.7,
+      "word_timestamps": [
+        {
+          "word": "containing",
+          "start": 4.92,
+          "end": 5.34
+        },
+        {
+          "word": "my",
+          "start": 5.34,
+          "end": 5.46
+        },
+        {
+          "word": "written",
+          "start": 5.46,
+          "end": 5.7
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "wishes on paper",
+      "start_time": 5.7,
+      "end_time": 6.54,
+      "word_timestamps": [
+        {
+          "word": "wishes",
+          "start": 5.7,
+          "end": 6.09
+        },
+        {
+          "word": "on",
+          "start": 6.09,
+          "end": 6.24
+        },
+        {
+          "word": "paper",
+          "start": 6.24,
+          "end": 6.54
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "slips whenever i",
+      "start_time": 6.54,
+      "end_time": 8.07,
+      "word_timestamps": [
+        {
+          "word": "slips",
+          "start": 6.54,
+          "end": 6.96
+        },
+        {
+          "word": "whenever",
+          "start": 7.53,
+          "end": 7.89
+        },
+        {
+          "word": "i",
+          "start": 7.89,
+          "end": 8.07
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "like law i",
+      "start_time": 8.25,
+      "end_time": 9.06,
+      "word_timestamps": [
+        {
+          "word": "like",
+          "start": 8.25,
+          "end": 8.49
+        },
+        {
+          "word": "law",
+          "start": 8.494133,
+          "end": 8.82
+        },
+        {
+          "word": "i",
+          "start": 8.94,
+          "end": 9.06
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "pick one piece",
+      "start_time": 9.06,
+      "end_time": 9.69,
+      "word_timestamps": [
+        {
+          "word": "pick",
+          "start": 9.06,
+          "end": 9.3
+        },
+        {
+          "word": "one",
+          "start": 9.3,
+          "end": 9.48
+        },
+        {
+          "word": "piece",
+          "start": 9.48,
+          "end": 9.69
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "of paper and",
+      "start_time": 9.69,
+      "end_time": 10.23,
+      "word_timestamps": [
+        {
+          "word": "of",
+          "start": 9.69,
+          "end": 9.78
+        },
+        {
+          "word": "paper",
+          "start": 9.78,
+          "end": 10.14
+        },
+        {
+          "word": "and",
+          "start": 10.14,
+          "end": 10.23
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "try to fulfill",
+      "start_time": 10.23,
+      "end_time": 10.83,
+      "word_timestamps": [
+        {
+          "word": "try",
+          "start": 10.23,
+          "end": 10.41
+        },
+        {
+          "word": "to",
+          "start": 10.41,
+          "end": 10.5
+        },
+        {
+          "word": "fulfill",
+          "start": 10.5,
+          "end": 10.83
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "it luck lot",
+      "start_time": 10.83,
+      "end_time": 12.06,
+      "word_timestamps": [
+        {
+          "word": "it",
+          "start": 10.83,
+          "end": 11.01
+        },
+        {
+          "word": "luck",
+          "start": 11.43,
+          "end": 11.7
+        },
+        {
+          "word": "lot",
+          "start": 11.7,
+          "end": 12.06
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "to choose",
+      "start_time": 12.15,
+      "end_time": 12.81,
+      "word_timestamps": [
+        {
+          "word": "to",
+          "start": 12.15,
+          "end": 12.33
+        },
+        {
+          "word": "choose",
+          "start": 12.33,
+          "end": 12.81
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "which is i",
+      "start_time": 12.81,
+      "end_time": 14.31,
+      "word_timestamps": [
+        {
+          "word": "which",
+          "start": 12.81,
+          "end": 13.14
+        },
+        {
+          "word": "is",
+          "start": 13.2,
+          "end": 13.59
+        },
+        {
+          "word": "i",
+          "start": 14.16,
+          "end": 14.31
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "find this a",
+      "start_time": 14.31,
+      "end_time": 14.94,
+      "word_timestamps": [
+        {
+          "word": "find",
+          "start": 14.31,
+          "end": 14.67
+        },
+        {
+          "word": "this",
+          "start": 14.67,
+          "end": 14.88
+        },
+        {
+          "word": "a",
+          "start": 14.88,
+          "end": 14.94
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "bit silly we",
+      "start_time": 14.94,
+      "end_time": 16.32,
+      "word_timestamps": [
+        {
+          "word": "bit",
+          "start": 14.94,
+          "end": 15.12
+        },
+        {
+          "word": "silly",
+          "start": 15.12,
+          "end": 15.66
+        },
+        {
+          "word": "we",
+          "start": 16.14,
+          "end": 16.32
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "russians usually believe",
+      "start_time": 16.32,
+      "end_time": 17.61,
+      "word_timestamps": [
+        {
+          "word": "russians",
+          "start": 16.32,
+          "end": 16.83
+        },
+        {
+          "word": "usually",
+          "start": 16.83,
+          "end": 17.22
+        },
+        {
+          "word": "believe",
+          "start": 17.22,
+          "end": 17.61
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "in fate rather",
+      "start_time": 17.61,
+      "end_time": 18.72,
+      "word_timestamps": [
+        {
+          "word": "in",
+          "start": 17.61,
+          "end": 17.73
+        },
+        {
+          "word": "fate",
+          "start": 17.73,
+          "end": 18.27
+        },
+        {
+          "word": "rather",
+          "start": 18.33,
+          "end": 18.72
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "than you look",
+      "start_time": 18.72,
+      "end_time": 19.83,
+      "word_timestamps": [
+        {
+          "word": "than",
+          "start": 18.72,
+          "end": 19.02
+        },
+        {
+          "word": "you",
+          "start": 19.23,
+          "end": 19.5
+        },
+        {
+          "word": "look",
+          "start": 19.53,
+          "end": 19.83
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "but sometimes luck",
+      "start_time": 20.04,
+      "end_time": 21.3,
+      "word_timestamps": [
+        {
+          "word": "but",
+          "start": 20.04,
+          "end": 20.16
+        },
+        {
+          "word": "sometimes",
+          "start": 20.19,
+          "end": 20.82
+        },
+        {
+          "word": "luck",
+          "start": 21.06,
+          "end": 21.3
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "law helps us",
+      "start_time": 21.3,
+      "end_time": 22.11,
+      "word_timestamps": [
+        {
+          "word": "law",
+          "start": 21.3,
+          "end": 21.63
+        },
+        {
+          "word": "helps",
+          "start": 21.75,
+          "end": 22.02
+        },
+        {
+          "word": "us",
+          "start": 22.02,
+          "end": 22.11
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "make decisions when",
+      "start_time": 22.11,
+      "end_time": 22.92,
+      "word_timestamps": [
+        {
+          "word": "make",
+          "start": 22.11,
+          "end": 22.29
+        },
+        {
+          "word": "decisions",
+          "start": 22.29,
+          "end": 22.77
+        },
+        {
+          "word": "when",
+          "start": 22.77,
+          "end": 22.92
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "were hesitant to",
+      "start_time": 22.92,
+      "end_time": 24.24,
+      "word_timestamps": [
+        {
+          "word": "were",
+          "start": 22.92,
+          "end": 23.07
+        },
+        {
+          "word": "hesitant",
+          "start": 23.07,
+          "end": 23.55
+        },
+        {
+          "word": "to",
+          "start": 23.88,
+          "end": 24.24
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "it you might",
+      "start_time": 24.39,
+      "end_time": 24.99,
+      "word_timestamps": [
+        {
+          "word": "it",
+          "start": 24.39,
+          "end": 24.6
+        },
+        {
+          "word": "you",
+          "start": 24.6,
+          "end": 24.75
+        },
+        {
+          "word": "might",
+          "start": 24.75,
+          "end": 24.99
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "enjoy it",
+      "start_time": 24.99,
+      "end_time": 25.41,
+      "word_timestamps": [
+        {
+          "word": "enjoy",
+          "start": 24.99,
+          "end": 25.29
+        },
+        {
+          "word": "it",
+          "start": 25.29,
+          "end": 25.41
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "all right i'll",
+      "start_time": 25.71,
+      "end_time": 26.67,
+      "word_timestamps": [
+        {
+          "word": "all",
+          "start": 25.71,
+          "end": 25.92
+        },
+        {
+          "word": "right",
+          "start": 25.92,
+          "end": 26.25
+        },
+        {
+          "word": "i'll",
+          "start": 26.25,
+          "end": 26.67
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "to luck lot",
+      "start_time": 26.88,
+      "end_time": 27.57,
+      "word_timestamps": [
+        {
+          "word": "to",
+          "start": 26.88,
+          "end": 27.06
+        },
+        {
+          "word": "luck",
+          "start": 27.06,
+          "end": 27.3
+        },
+        {
+          "word": "lot",
+          "start": 27.3,
+          "end": 27.57
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "once if i",
+      "start_time": 27.66,
+      "end_time": 28.62,
+      "word_timestamps": [
+        {
+          "word": "once",
+          "start": 27.66,
+          "end": 28.14
+        },
+        {
+          "word": "if",
+          "start": 28.32,
+          "end": 28.5
+        },
+        {
+          "word": "i",
+          "start": 28.5,
+          "end": 28.62
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "draw a paper",
+      "start_time": 28.62,
+      "end_time": 29.64,
+      "word_timestamps": [
+        {
+          "word": "draw",
+          "start": 28.62,
+          "end": 28.98
+        },
+        {
+          "word": "a",
+          "start": 29.01,
+          "end": 29.13
+        },
+        {
+          "word": "paper",
+          "start": 29.13,
+          "end": 29.64
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "saying play chess",
+      "start_time": 29.64,
+      "end_time": 30.69,
+      "word_timestamps": [
+        {
+          "word": "saying",
+          "start": 29.64,
+          "end": 30.09
+        },
+        {
+          "word": "play",
+          "start": 30.09,
+          "end": 30.36
+        },
+        {
+          "word": "chess",
+          "start": 30.36,
+          "end": 30.69
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "with mirror do",
+      "start_time": 30.69,
+      "end_time": 31.74,
+      "word_timestamps": [
+        {
+          "word": "with",
+          "start": 30.69,
+          "end": 30.87
+        },
+        {
+          "word": "mirror",
+          "start": 30.87,
+          "end": 31.35
+        },
+        {
+          "word": "do",
+          "start": 31.59,
+          "end": 31.74
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "you dare to",
+      "start_time": 31.74,
+      "end_time": 32.46,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 31.74,
+          "end": 31.89
+        },
+        {
+          "word": "dare",
+          "start": 31.89,
+          "end": 32.31
+        },
+        {
+          "word": "to",
+          "start": 32.31,
+          "end": 32.46
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "play",
+      "start_time": 32.46,
+      "end_time": 32.73,
+      "word_timestamps": [
+        {
+          "word": "play",
+          "start": 32.46,
+          "end": 32.73
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "a game of",
+      "start_time": 32.73,
+      "end_time": 33.81,
+      "word_timestamps": [
+        {
+          "word": "a",
+          "start": 32.73,
+          "end": 32.85
+        },
+        {
+          "word": "game",
+          "start": 32.85,
+          "end": 33.42
+        },
+        {
+          "word": "of",
+          "start": 33.69,
+          "end": 33.81
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "course but what",
+      "start_time": 33.81,
+      "end_time": 35.07,
+      "word_timestamps": [
+        {
+          "word": "course",
+          "start": 33.81,
+          "end": 34.23
+        },
+        {
+          "word": "but",
+          "start": 34.77,
+          "end": 34.95
+        },
+        {
+          "word": "what",
+          "start": 34.95,
+          "end": 35.07
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "if the paper",
+      "start_time": 35.07,
+      "end_time": 35.55,
+      "word_timestamps": [
+        {
+          "word": "if",
+          "start": 35.07,
+          "end": 35.16
+        },
+        {
+          "word": "the",
+          "start": 35.16,
+          "end": 35.25
+        },
+        {
+          "word": "paper",
+          "start": 35.25,
+          "end": 35.55
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "says kiss the",
+      "start_time": 35.55,
+      "end_time": 36.27,
+      "word_timestamps": [
+        {
+          "word": "says",
+          "start": 35.55,
+          "end": 35.82
+        },
+        {
+          "word": "kiss",
+          "start": 35.82,
+          "end": 36.18
+        },
+        {
+          "word": "the",
+          "start": 36.18,
+          "end": 36.27
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "person you're thinking",
+      "start_time": 36.27,
+      "end_time": 37.11,
+      "word_timestamps": [
+        {
+          "word": "person",
+          "start": 36.27,
+          "end": 36.63
+        },
+        {
+          "word": "you're",
+          "start": 36.63,
+          "end": 36.75
+        },
+        {
+          "word": "thinking",
+          "start": 36.75,
+          "end": 37.11
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "about would you",
+      "start_time": 37.11,
+      "end_time": 38.55,
+      "word_timestamps": [
+        {
+          "word": "about",
+          "start": 37.11,
+          "end": 37.47
+        },
+        {
+          "word": "would",
+          "start": 38.19,
+          "end": 38.4
+        },
+        {
+          "word": "you",
+          "start": 38.4,
+          "end": 38.55
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "dare to do",
+      "start_time": 38.55,
+      "end_time": 39.24,
+      "word_timestamps": [
+        {
+          "word": "dare",
+          "start": 38.55,
+          "end": 38.91
+        },
+        {
+          "word": "to",
+          "start": 38.91,
+          "end": 39.03
+        },
+        {
+          "word": "do",
+          "start": 39.03,
+          "end": 39.24
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "it",
+      "start_time": 39.24,
+      "end_time": 39.42,
+      "word_timestamps": [
+        {
+          "word": "it",
+          "start": 39.24,
+          "end": 39.42
+        }
+      ],
+      "viet_words": []
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "ac29dc00",
+  "topic_word": "công bằng",
+  "topic_word_translation": "fairness/justice",
+  "common_words": [
+    {
+      "word": "giáo viên (noun)",
+      "translation": "teacher"
+    },
+    {
+      "word": "lương (noun)",
+      "translation": "salary"
+    },
+    {
+      "word": "nghĩ (verb)",
+      "translation": "think"
+    },
+    {
+      "word": "người (noun)",
+      "translation": "person/people"
+    },
+    {
+      "word": "làm (verb)",
+      "translation": "do/make"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael, I just discovered that I get paid more than my colleague, even though she's a native English speaker. Just because she looks Indian despite being born in Canada.",
+      "start_time": 0.0,
+      "end_time": 17.400000000000002,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's not công bằng. But unfortunately, this discrimination is quite common in Asia. Người often think that English giáo viên must have a Western appearance.",
+      "start_time": 17.900000000000002,
+      "end_time": 33.7,
+      "viet_words": [
+        "công bằng"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's true, but this makes me feel guilty. I'm not better than her, I just have whiter skin. What should I làm now?",
+      "start_time": 34.2,
+      "end_time": 45.800000000000004,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "You could talk to the manager about this issue. Or share some of your lương with her. But it's difficult to change social prejudices.",
+      "start_time": 46.300000000000004,
+      "end_time": 59.60000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "Share my lương? Do you nghĩ it's that simple? I need money to live too! But... I can't just do nothing. Maybe I should find a way to help her advance.",
+      "start_time": 60.10000000000001,
+      "end_time": 75.10000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "I understand. But I admire your sense of công bằng. Not many người would care about this issue. Hey, have you ever nghĩ about fighting together for công bằng in education?",
+      "start_time": 75.60000000000001,
+      "end_time": 92.70000000000002,
+      "viet_words": [
+        "công bằng"
+      ]
+    }
+  ]
+}

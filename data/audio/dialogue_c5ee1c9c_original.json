@@ -1,0 +1,75 @@
+{
+  "id": "c5ee1c9c",
+  "topic_word": "hamburger",
+  "topic_word_translation": "hamburger",
+  "common_words": [
+    {
+      "word": "ăn",
+      "translation": "eat"
+    },
+    {
+      "word": "tệ",
+      "translation": "bad/worst"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Mira, are you really Russian? I hear you talk about American hamburger as if you've ăn it your whole life.",
+      "start_time": 0.0,
+      "end_time": 10.600000000000001,
+      "viet_words": [
+        "ăn",
+        "hamburger"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Idiot! Of course I'm Russian. Just because I hate American fast food doesn't mean I don't know about it. Hamburger is the tệ thing - all fat and no flavor.",
+      "start_time": 11.100000000000001,
+      "end_time": 26.6,
+      "viet_words": [
+        "tệ",
+        "hamburger"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sorry, I was just joking. But I don't think hamburger is the tệ Mỹ food. It must be candy corn - that thing is so sweet it makes my teeth hurt.",
+      "start_time": 27.1,
+      "end_time": 41.400000000000006,
+      "viet_words": [
+        "tệ",
+        "hamburger"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Candy corn? Haven't you ever tried American hot dogs? That's a real disaster. I don't understand how you người Mỹ can ăn that stuff every day.",
+      "start_time": 41.900000000000006,
+      "end_time": 56.10000000000001,
+      "viet_words": [
+        "ăn"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Hey, I don't ăn hot dogs every day either! But I have to admit, hot dogs at baseball games are thực tệ. Hey Mira, would you like to go ăn Vietnamese food with me? I know a good phở place...",
+      "start_time": 56.60000000000001,
+      "end_time": 75.50000000000001,
+      "viet_words": [
+        "ăn",
+        "tệ"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Why would you think I want to go ăn with you? Well... phở sounds okay. But how do I know you thực understand Vietnamese cuisine?",
+      "start_time": 76.00000000000001,
+      "end_time": 88.80000000000001,
+      "viet_words": [
+        "ăn"
+      ]
+    }
+  ]
+}

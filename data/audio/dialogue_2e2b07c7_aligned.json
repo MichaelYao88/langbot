@@ -1,0 +1,287 @@
+{
+  "id": "2e2b07c7",
+  "topic_word": "giấc mơ",
+  "topic_word_translation": "dream",
+  "common_words": [
+    {
+      "word": "Sài Gòn",
+      "translation": "Saigon"
+    },
+    {
+      "word": "trùng hợp",
+      "translation": "coincidence"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "You know what,",
+      "start_time": 0.03,
+      "end_time": 0.73
+    },
+    {
+      "speaker": "Mira",
+      "text": "I dreamed about",
+      "start_time": 0.78,
+      "end_time": 1.53
+    },
+    {
+      "speaker": "Mira",
+      "text": "you last night.",
+      "start_time": 1.53,
+      "end_time": 2.33
+    },
+    {
+      "speaker": "Mira",
+      "text": "In that <vietnamese>giấc mơ</vietnamese>,",
+      "start_time": 2.34,
+      "end_time": 3.1100000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "we were",
+      "start_time": 3.12,
+      "end_time": 4.08
+    },
+    {
+      "speaker": "Mira",
+      "text": "walking along the",
+      "start_time": 4.08,
+      "end_time": 5.12
+    },
+    {
+      "speaker": "Mira",
+      "text": "Sài Gòn river",
+      "start_time": 5.13,
+      "end_time": 6.0075
+    },
+    {
+      "speaker": "Mira",
+      "text": "and",
+      "start_time": 6.0075,
+      "end_time": 6.300000000000001
+    },
+    {
+      "speaker": "Mira",
+      "text": "having a really",
+      "start_time": 6.3,
+      "end_time": 7.14
+    },
+    {
+      "speaker": "Mira",
+      "text": "pleasant conversation.",
+      "start_time": 7.14,
+      "end_time": 8.44
+    },
+    {
+      "speaker": "Michael",
+      "text": "What a <vietnamese>trùng hợp</vietnamese>!",
+      "start_time": 8.61,
+      "end_time": 9.39
+    },
+    {
+      "speaker": "Michael",
+      "text": "I also",
+      "start_time": 9.39,
+      "end_time": 10.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "dreamed about you",
+      "start_time": 10.41,
+      "end_time": 11.07
+    },
+    {
+      "speaker": "Michael",
+      "text": "last night. But",
+      "start_time": 11.07,
+      "end_time": 12.33
+    },
+    {
+      "speaker": "Michael",
+      "text": "in my <vietnamese>giấc mơ</vietnamese>,",
+      "start_time": 12.33,
+      "end_time": 13.45
+    },
+    {
+      "speaker": "Michael",
+      "text": "we were sitting",
+      "start_time": 13.65,
+      "end_time": 14.16
+    },
+    {
+      "speaker": "Michael",
+      "text": "in my room",
+      "start_time": 14.16,
+      "end_time": 14.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "and... oh actually",
+      "start_time": 14.7,
+      "end_time": 15.51
+    },
+    {
+      "speaker": "Michael",
+      "text": "I don't remember",
+      "start_time": 15.51,
+      "end_time": 16.240000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "How can",
+      "start_time": 16.29,
+      "end_time": 16.65
+    },
+    {
+      "speaker": "Mira",
+      "text": "there be such",
+      "start_time": 16.65,
+      "end_time": 17.4
+    },
+    {
+      "speaker": "Mira",
+      "text": "a strange <vietnamese>trùng hợp</vietnamese>?",
+      "start_time": 17.4,
+      "end_time": 18.46
+    },
+    {
+      "speaker": "Mira",
+      "text": "I",
+      "start_time": 18.46,
+      "end_time": 19.29
+    },
+    {
+      "speaker": "Mira",
+      "text": "find it a",
+      "start_time": 19.29,
+      "end_time": 19.92
+    },
+    {
+      "speaker": "Mira",
+      "text": "bit weird...",
+      "start_time": 19.92,
+      "end_time": 20.89
+    },
+    {
+      "speaker": "Michael",
+      "text": "I don't believe",
+      "start_time": 21.06,
+      "end_time": 21.57
+    },
+    {
+      "speaker": "Michael",
+      "text": "in fate, but",
+      "start_time": 21.57,
+      "end_time": 22.17
+    },
+    {
+      "speaker": "Michael",
+      "text": "this <vietnamese>trùng hợp</vietnamese>",
+      "start_time": 22.17,
+      "end_time": 23.23
+    },
+    {
+      "speaker": "Michael",
+      "text": "is interesting. How",
+      "start_time": 23.28,
+      "end_time": 24.48
+    },
+    {
+      "speaker": "Michael",
+      "text": "about we try",
+      "start_time": 24.48,
+      "end_time": 24.9
+    },
+    {
+      "speaker": "Michael",
+      "text": "going for a",
+      "start_time": 24.9,
+      "end_time": 25.38
+    },
+    {
+      "speaker": "Michael",
+      "text": "walk along the",
+      "start_time": 25.38,
+      "end_time": 26.209999999999997
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sài Gòn river",
+      "start_time": 26.22,
+      "end_time": 27.2325
+    },
+    {
+      "speaker": "Michael",
+      "text": "like",
+      "start_time": 27.2325,
+      "end_time": 27.57
+    },
+    {
+      "speaker": "Michael",
+      "text": "in your <vietnamese>giấc mơ</vietnamese>",
+      "start_time": 27.57,
+      "end_time": 28.26
+    },
+    {
+      "speaker": "Michael",
+      "text": "and see",
+      "start_time": 28.26,
+      "end_time": 29.01
+    },
+    {
+      "speaker": "Michael",
+      "text": "what happens?",
+      "start_time": 29.01,
+      "end_time": 29.71
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's a good",
+      "start_time": 29.88,
+      "end_time": 30.42
+    },
+    {
+      "speaker": "Mira",
+      "text": "idea! But why",
+      "start_time": 30.42,
+      "end_time": 31.35
+    },
+    {
+      "speaker": "Mira",
+      "text": "the Sài Gòn",
+      "start_time": 31.35,
+      "end_time": 32.519999999999996
+    },
+    {
+      "speaker": "Mira",
+      "text": "riverbank",
+      "start_time": 32.519999999999996,
+      "end_time": 32.91
+    },
+    {
+      "speaker": "Mira",
+      "text": "and not at",
+      "start_time": 32.91,
+      "end_time": 33.3
+    },
+    {
+      "speaker": "Mira",
+      "text": "your place in",
+      "start_time": 33.3,
+      "end_time": 33.99
+    },
+    {
+      "speaker": "Mira",
+      "text": "your <vietnamese>giấc mơ</vietnamese>?",
+      "start_time": 33.99,
+      "end_time": 35.11
+    },
+    {
+      "speaker": "Michael",
+      "text": "Well, because...",
+      "start_time": 35.25,
+      "end_time": 36.1
+    }
+  ]
+}

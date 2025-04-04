@@ -1,0 +1,67 @@
+{
+  "id": "e52ba1ee",
+  "topic_word": "gọi món",
+  "topic_word_translation": "order food",
+  "common_words": [
+    {
+      "word": "thích (verb)",
+      "translation": "like"
+    },
+    {
+      "word": "ớt (noun)",
+      "translation": "chili pepper"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael, can you teach me important words for gọi món in Vietnam? I want to order by myself without asking others for help.",
+      "start_time": 0.0,
+      "end_time": 12.700000000000001,
+      "viet_words": [
+        "gọi món"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Sure! The most basic term is \"gọi món\". When you enter a restaurant, you just need to say \"cho tôi gọi món\". What dish do you thích most in Vietnam?",
+      "start_time": 13.200000000000001,
+      "end_time": 28.0,
+      "viet_words": [
+        "gọi món"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmm, I thích pho, but every time I order I get confused with the word \"ớt\". You Vietnamese thích spicy food too much! I said \"không ớt\" but they still put chili in my dish.",
+      "start_time": 28.5,
+      "end_time": 45.7,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Is that so? You need to clearly say \"không ớt, không hành\" if you don't like them. We Vietnamese think food without seasoning lacks soul. To gọi món well, you also need to know words like \"tái\" and \"chín\".",
+      "start_time": 46.2,
+      "end_time": 66.7,
+      "viet_words": [
+        "gọi món"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "What is \"tái\"? I thought it meant \"come back\". Last time I said \"tái\" to the pho seller, she laughed at me. Your culture is so hard to understand!",
+      "start_time": 67.2,
+      "end_time": 81.80000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "\"Tái\" in food means rare meat, not fully cooked. If you want well-done meat, say \"thịt chín\". Hey, next weekend I could take you out to eat and show you how to gọi món properly? You won't be laughed at anymore.",
+      "start_time": 82.30000000000001,
+      "end_time": 103.30000000000001,
+      "viet_words": [
+        "gọi món"
+      ]
+    }
+  ]
+}

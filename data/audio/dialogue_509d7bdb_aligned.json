@@ -1,0 +1,443 @@
+{
+  "id": "509d7bdb",
+  "topic_word": "chiến tranh",
+  "topic_word_translation": "war",
+  "common_words": [
+    {
+      "word": "lịch sử",
+      "translation": "history (noun)"
+    },
+    {
+      "word": "đồng ý",
+      "translation": "agree (verb)"
+    },
+    {
+      "word": "quyết định",
+      "translation": "decisive (adjective)"
+    },
+    {
+      "word": "thực sự",
+      "translation": "really (adverb)"
+    },
+    {
+      "word": "bom nguyên tử",
+      "translation": "atomic bomb (noun phrase)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Michael,",
+      "start_time": 0.03,
+      "end_time": 0.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "I find it",
+      "start_time": 0.5,
+      "end_time": 1.32
+    },
+    {
+      "speaker": "Mira",
+      "text": "hard to",
+      "start_time": 1.32,
+      "end_time": 1.71
+    },
+    {
+      "speaker": "Mira",
+      "text": "believe when you",
+      "start_time": 1.71,
+      "end_time": 2.37
+    },
+    {
+      "speaker": "Mira",
+      "text": "say the <vietnamese>bom nguyên tử</vietnamese>",
+      "start_time": 2.37,
+      "end_time": 3.45
+    },
+    {
+      "speaker": "Mira",
+      "text": "didn't <vietnamese>thực sự</vietnamese>",
+      "start_time": 3.45,
+      "end_time": 4.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "end World",
+      "start_time": 4.74,
+      "end_time": 5.94
+    },
+    {
+      "speaker": "Mira",
+      "text": "War II.",
+      "start_time": 5.94,
+      "end_time": 6.72
+    },
+    {
+      "speaker": "Mira",
+      "text": "In Russia,",
+      "start_time": 6.72,
+      "end_time": 7.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>lịch sử</vietnamese> books",
+      "start_time": 7.5,
+      "end_time": 8.7
+    },
+    {
+      "speaker": "Mira",
+      "text": "taught us that",
+      "start_time": 8.7,
+      "end_time": 9.33
+    },
+    {
+      "speaker": "Mira",
+      "text": "the Soviet Union",
+      "start_time": 9.33,
+      "end_time": 10.26
+    },
+    {
+      "speaker": "Mira",
+      "text": "played a <vietnamese>quyết định</vietnamese>",
+      "start_time": 10.26,
+      "end_time": 11.13
+    },
+    {
+      "speaker": "Mira",
+      "text": "role in",
+      "start_time": 11.13,
+      "end_time": 12.09
+    },
+    {
+      "speaker": "Mira",
+      "text": "the victory.",
+      "start_time": 12.09,
+      "end_time": 12.879999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "I understand.",
+      "start_time": 13.02,
+      "end_time": 13.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "In America,",
+      "start_time": 13.5,
+      "end_time": 14.43
+    },
+    {
+      "speaker": "Michael",
+      "text": "we were taught",
+      "start_time": 14.43,
+      "end_time": 15.15
+    },
+    {
+      "speaker": "Michael",
+      "text": "that the",
+      "start_time": 15.15,
+      "end_time": 15.78
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>bom nguyên tử</vietnamese>",
+      "start_time": 15.78,
+      "end_time": 16.810000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "forced Japan",
+      "start_time": 16.86,
+      "end_time": 17.76
+    },
+    {
+      "speaker": "Michael",
+      "text": "to surrender,",
+      "start_time": 17.76,
+      "end_time": 18.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "but many",
+      "start_time": 18.5,
+      "end_time": 19.38
+    },
+    {
+      "speaker": "Michael",
+      "text": "historians now",
+      "start_time": 19.38,
+      "end_time": 20.46
+    },
+    {
+      "speaker": "Michael",
+      "text": "believe that Japan",
+      "start_time": 20.46,
+      "end_time": 21.42
+    },
+    {
+      "speaker": "Michael",
+      "text": "was actually ready",
+      "start_time": 21.42,
+      "end_time": 22.32
+    },
+    {
+      "speaker": "Michael",
+      "text": "to surrender when",
+      "start_time": 22.32,
+      "end_time": 23.55
+    },
+    {
+      "speaker": "Michael",
+      "text": "the Soviet Union",
+      "start_time": 23.55,
+      "end_time": 24.48
+    },
+    {
+      "speaker": "Michael",
+      "text": "declared war on",
+      "start_time": 24.48,
+      "end_time": 25.26
+    },
+    {
+      "speaker": "Michael",
+      "text": "them. <vietnamese>Lịch sử</vietnamese>",
+      "start_time": 25.26,
+      "end_time": 26.650000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "is so complex.",
+      "start_time": 26.7,
+      "end_time": 27.700000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't think",
+      "start_time": 27.87,
+      "end_time": 28.35
+    },
+    {
+      "speaker": "Mira",
+      "text": "you're wrong,",
+      "start_time": 28.35,
+      "end_time": 29.16
+    },
+    {
+      "speaker": "Mira",
+      "text": "but I don't",
+      "start_time": 29.16,
+      "end_time": 29.7
+    },
+    {
+      "speaker": "Mira",
+      "text": "completely <vietnamese>đồng ý</vietnamese>",
+      "start_time": 29.7,
+      "end_time": 30.48
+    },
+    {
+      "speaker": "Mira",
+      "text": "either.",
+      "start_time": 30.48,
+      "end_time": 31.1
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Chiến tranh</vietnamese> is",
+      "start_time": 32.13,
+      "end_time": 33.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "always a sensitive",
+      "start_time": 33.27,
+      "end_time": 34.47
+    },
+    {
+      "speaker": "Mira",
+      "text": "topic. Perhaps we",
+      "start_time": 34.47,
+      "end_time": 35.82
+    },
+    {
+      "speaker": "Mira",
+      "text": "should play chess",
+      "start_time": 35.82,
+      "end_time": 36.63
+    },
+    {
+      "speaker": "Mira",
+      "text": "instead of debating",
+      "start_time": 36.63,
+      "end_time": 37.59
+    },
+    {
+      "speaker": "Mira",
+      "text": "about <vietnamese>lịch sử</vietnamese>",
+      "start_time": 37.59,
+      "end_time": 38.67
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>chiến tranh</vietnamese>?",
+      "start_time": 38.67,
+      "end_time": 39.22
+    },
+    {
+      "speaker": "Michael",
+      "text": "Chess?",
+      "start_time": 39.39,
+      "end_time": 39.8
+    },
+    {
+      "speaker": "Michael",
+      "text": "I'm not very",
+      "start_time": 39.8,
+      "end_time": 41.1575
+    },
+    {
+      "speaker": "Michael",
+      "text": "good,",
+      "start_time": 41.1575,
+      "end_time": 41.61
+    },
+    {
+      "speaker": "Michael",
+      "text": "but if I",
+      "start_time": 41.61,
+      "end_time": 41.834999999999994
+    },
+    {
+      "speaker": "Michael",
+      "text": "get",
+      "start_time": 41.834999999999994,
+      "end_time": 41.91
+    },
+    {
+      "speaker": "Michael",
+      "text": "to sit across",
+      "start_time": 41.91,
+      "end_time": 42.51
+    },
+    {
+      "speaker": "Michael",
+      "text": "from you,",
+      "start_time": 42.51,
+      "end_time": 43.29
+    },
+    {
+      "speaker": "Michael",
+      "text": "I'm ready to",
+      "start_time": 43.29,
+      "end_time": 43.8075
+    },
+    {
+      "speaker": "Michael",
+      "text": "lose.",
+      "start_time": 43.8075,
+      "end_time": 44.08
+    },
+    {
+      "speaker": "Michael",
+      "text": "But wait,",
+      "start_time": 44.34,
+      "end_time": 45.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "I <vietnamese>thực sự</vietnamese> want",
+      "start_time": 45.0,
+      "end_time": 46.23
+    },
+    {
+      "speaker": "Michael",
+      "text": "to understand your",
+      "start_time": 46.23,
+      "end_time": 47.34
+    },
+    {
+      "speaker": "Michael",
+      "text": "perspective on <vietnamese>chiến tranh</vietnamese>",
+      "start_time": 47.34,
+      "end_time": 49.120000000000005
+    },
+    {
+      "speaker": "Michael",
+      "text": "and <vietnamese>lịch sử</vietnamese>.",
+      "start_time": 49.2,
+      "end_time": 49.9
+    },
+    {
+      "speaker": "Mira",
+      "text": "*blushing* You always",
+      "start_time": 50.04,
+      "end_time": 51.99
+    },
+    {
+      "speaker": "Mira",
+      "text": "say such strange",
+      "start_time": 51.99,
+      "end_time": 52.86
+    },
+    {
+      "speaker": "Mira",
+      "text": "things. I just",
+      "start_time": 52.86,
+      "end_time": 54.06
+    },
+    {
+      "speaker": "Mira",
+      "text": "think each country",
+      "start_time": 54.06,
+      "end_time": 55.11
+    },
+    {
+      "speaker": "Mira",
+      "text": "has its own",
+      "start_time": 55.11,
+      "end_time": 55.86
+    },
+    {
+      "speaker": "Mira",
+      "text": "way of viewing",
+      "start_time": 55.86,
+      "end_time": 57.07
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>lịch sử</vietnamese>",
+      "start_time": 57.15,
+      "end_time": 57.78
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>chiến tranh</vietnamese>.",
+      "start_time": 57.78,
+      "end_time": 58.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "Who's right",
+      "start_time": 58.5,
+      "end_time": 58.89
+    },
+    {
+      "speaker": "Mira",
+      "text": "and who's wrong?",
+      "start_time": 58.89,
+      "end_time": 59.61
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm not sure",
+      "start_time": 59.61,
+      "end_time": 60.21
+    },
+    {
+      "speaker": "Mira",
+      "text": "we can <vietnamese>đồng ý</vietnamese>.",
+      "start_time": 60.21,
+      "end_time": 61.6
+    }
+  ]
+}

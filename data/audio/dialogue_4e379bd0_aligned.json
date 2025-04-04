@@ -1,0 +1,377 @@
+{
+  "id": "4e379bd0",
+  "topic_word": "phẫu thuật thẩm mỹ",
+  "topic_word_translation": "cosmetic surgery",
+  "common_words": [
+    {
+      "word": "tự nhiên",
+      "translation": "natural (adjective)"
+    },
+    {
+      "word": "thích",
+      "translation": "like/prefer (verb)"
+    },
+    {
+      "word": "cảm giác",
+      "translation": "feeling (noun)"
+    },
+    {
+      "word": "thay đổi",
+      "translation": "change (verb)"
+    },
+    {
+      "word": "tự",
+      "translation": "self (part-of-speech: reflexive marker)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I have",
+      "start_time": 0.06,
+      "end_time": 0.39
+    },
+    {
+      "speaker": "Mira",
+      "text": "a strange <vietnamese>cảm giác</vietnamese>",
+      "start_time": 0.39,
+      "end_time": 1.99
+    },
+    {
+      "speaker": "Mira",
+      "text": "that we've talked",
+      "start_time": 2.01,
+      "end_time": 2.7
+    },
+    {
+      "speaker": "Mira",
+      "text": "about <vietnamese>phẫu thuật</vietnamese>",
+      "start_time": 2.7,
+      "end_time": 3.7
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>thẩm mỹ</vietnamese> before.",
+      "start_time": 3.7,
+      "end_time": 5.02
+    },
+    {
+      "speaker": "Mira",
+      "text": "Do you think",
+      "start_time": 5.91,
+      "end_time": 6.36
+    },
+    {
+      "speaker": "Mira",
+      "text": "it has become",
+      "start_time": 6.36,
+      "end_time": 6.84
+    },
+    {
+      "speaker": "Mira",
+      "text": "too common in",
+      "start_time": 6.84,
+      "end_time": 7.44
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnam?",
+      "start_time": 7.44,
+      "end_time": 8.02
+    },
+    {
+      "speaker": "Michael",
+      "text": "That <vietnamese>cảm giác</vietnamese>,",
+      "start_time": 8.22,
+      "end_time": 9.63
+    },
+    {
+      "speaker": "Michael",
+      "text": "I have it",
+      "start_time": 9.63,
+      "end_time": 10.62
+    },
+    {
+      "speaker": "Michael",
+      "text": "too.",
+      "start_time": 10.62,
+      "end_time": 10.95
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>Phẫu thuật thẩm mỹ</vietnamese> is",
+      "start_time": 10.95,
+      "end_time": 11.88
+    },
+    {
+      "speaker": "Michael",
+      "text": "growing rapidly here,",
+      "start_time": 11.88,
+      "end_time": 13.09
+    },
+    {
+      "speaker": "Michael",
+      "text": "but I think",
+      "start_time": 13.29,
+      "end_time": 13.74
+    },
+    {
+      "speaker": "Michael",
+      "text": "people should be",
+      "start_time": 13.74,
+      "end_time": 14.31
+    },
+    {
+      "speaker": "Michael",
+      "text": "free to choose",
+      "start_time": 14.31,
+      "end_time": 15.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "for their bodies.",
+      "start_time": 15.0,
+      "end_time": 15.879999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "Freedom to choose",
+      "start_time": 16.08,
+      "end_time": 16.89
+    },
+    {
+      "speaker": "Mira",
+      "text": "is one thing,",
+      "start_time": 16.89,
+      "end_time": 17.740000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "but I see",
+      "start_time": 18.06,
+      "end_time": 18.48
+    },
+    {
+      "speaker": "Mira",
+      "text": "many young girls",
+      "start_time": 18.48,
+      "end_time": 19.26
+    },
+    {
+      "speaker": "Mira",
+      "text": "being pressured to",
+      "start_time": 19.26,
+      "end_time": 19.98
+    },
+    {
+      "speaker": "Mira",
+      "text": "look alike. They",
+      "start_time": 19.98,
+      "end_time": 21.06
+    },
+    {
+      "speaker": "Mira",
+      "text": "lose their <vietnamese>tự nhiên</vietnamese>",
+      "start_time": 21.06,
+      "end_time": 22.13
+    },
+    {
+      "speaker": "Mira",
+      "text": "beauty and",
+      "start_time": 22.14,
+      "end_time": 23.25
+    },
+    {
+      "speaker": "Mira",
+      "text": "identity.",
+      "start_time": 23.25,
+      "end_time": 24.34
+    },
+    {
+      "speaker": "Michael",
+      "text": "I understand your",
+      "start_time": 24.48,
+      "end_time": 25.08
+    },
+    {
+      "speaker": "Michael",
+      "text": "perspective. But sometimes",
+      "start_time": 25.08,
+      "end_time": 26.650000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>phẫu thuật thẩm mỹ</vietnamese>",
+      "start_time": 26.7,
+      "end_time": 27.85
+    },
+    {
+      "speaker": "Michael",
+      "text": "helps people feel",
+      "start_time": 27.87,
+      "end_time": 28.53
+    },
+    {
+      "speaker": "Michael",
+      "text": "more confident. Have",
+      "start_time": 28.53,
+      "end_time": 29.97
+    },
+    {
+      "speaker": "Michael",
+      "text": "you ever thought",
+      "start_time": 29.97,
+      "end_time": 30.54
+    },
+    {
+      "speaker": "Michael",
+      "text": "about wanting to",
+      "start_time": 30.54,
+      "end_time": 31.6
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>thay đổi</vietnamese> something",
+      "start_time": 31.65,
+      "end_time": 32.64
+    },
+    {
+      "speaker": "Michael",
+      "text": "about yourself?",
+      "start_time": 32.64,
+      "end_time": 34.14
+    },
+    {
+      "speaker": "Mira",
+      "text": "Never! I believe",
+      "start_time": 34.14,
+      "end_time": 34.8825
+    },
+    {
+      "speaker": "Mira",
+      "text": "in",
+      "start_time": 34.8825,
+      "end_time": 35.13
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>tự nhiên</vietnamese>",
+      "start_time": 35.13,
+      "end_time": 35.9
+    },
+    {
+      "speaker": "Mira",
+      "text": "beauty. But I",
+      "start_time": 35.91,
+      "end_time": 37.17
+    },
+    {
+      "speaker": "Mira",
+      "text": "wonder, do you",
+      "start_time": 37.17,
+      "end_time": 38.17
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>thích</vietnamese> women who",
+      "start_time": 38.25,
+      "end_time": 39.09
+    },
+    {
+      "speaker": "Mira",
+      "text": "are natural or",
+      "start_time": 39.09,
+      "end_time": 39.93
+    },
+    {
+      "speaker": "Mira",
+      "text": "those who've had",
+      "start_time": 39.93,
+      "end_time": 40.44
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>phẫu thuật</vietnamese>",
+      "start_time": 40.44,
+      "end_time": 41.46
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>thẩm mỹ</vietnamese>?",
+      "start_time": 41.46,
+      "end_time": 42.58
+    },
+    {
+      "speaker": "Michael",
+      "text": "I <vietnamese>thích</vietnamese>",
+      "start_time": 42.63,
+      "end_time": 43.05
+    },
+    {
+      "speaker": "Michael",
+      "text": "people who are",
+      "start_time": 43.05,
+      "end_time": 43.62
+    },
+    {
+      "speaker": "Michael",
+      "text": "true to themselves.",
+      "start_time": 43.62,
+      "end_time": 44.68
+    },
+    {
+      "speaker": "Michael",
+      "text": "Like you, Mira...",
+      "start_time": 44.91,
+      "end_time": 45.82
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>tự nhiên</vietnamese> and",
+      "start_time": 46.11,
+      "end_time": 47.1
+    },
+    {
+      "speaker": "Michael",
+      "text": "not afraid to",
+      "start_time": 47.1,
+      "end_time": 47.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "express your views.",
+      "start_time": 47.7,
+      "end_time": 48.85
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>Phẫu thuật thẩm mỹ</vietnamese>",
+      "start_time": 49.02,
+      "end_time": 50.120000000000005
+    },
+    {
+      "speaker": "Michael",
+      "text": "can <vietnamese>thay đổi</vietnamese>",
+      "start_time": 50.13,
+      "end_time": 51.46
+    },
+    {
+      "speaker": "Michael",
+      "text": "a face, but",
+      "start_time": 51.51,
+      "end_time": 52.11
+    },
+    {
+      "speaker": "Michael",
+      "text": "it can't <vietnamese>thay đổi</vietnamese>",
+      "start_time": 52.11,
+      "end_time": 53.13
+    },
+    {
+      "speaker": "Michael",
+      "text": "the soul.",
+      "start_time": 53.13,
+      "end_time": 54.25
+    }
+  ]
+}

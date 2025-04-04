@@ -1,0 +1,395 @@
+{
+  "id": "ada73c25",
+  "topic_word": "người phục vụ",
+  "topic_word_translation": "waiter/server",
+  "common_words": [
+    {
+      "word": "gọi",
+      "translation": "to call (verb)"
+    },
+    {
+      "word": "cậu",
+      "translation": "you (pronoun)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey Michael,",
+      "start_time": 0.06,
+      "end_time": 1.17
+    },
+    {
+      "speaker": "Mira",
+      "text": "how do I",
+      "start_time": 1.17,
+      "end_time": 1.6425
+    },
+    {
+      "speaker": "Mira",
+      "text": "call",
+      "start_time": 1.6425,
+      "end_time": 1.8
+    },
+    {
+      "speaker": "Mira",
+      "text": "the <vietnamese>người phục vụ</vietnamese>",
+      "start_time": 1.8,
+      "end_time": 2.96
+    },
+    {
+      "speaker": "Mira",
+      "text": "here?",
+      "start_time": 3.06,
+      "end_time": 3.4
+    },
+    {
+      "speaker": "Mira",
+      "text": "I've been",
+      "start_time": 3.4,
+      "end_time": 4.41
+    },
+    {
+      "speaker": "Mira",
+      "text": "waiting for a",
+      "start_time": 4.41,
+      "end_time": 4.92
+    },
+    {
+      "speaker": "Mira",
+      "text": "while but no",
+      "start_time": 4.92,
+      "end_time": 5.64
+    },
+    {
+      "speaker": "Mira",
+      "text": "one has come.",
+      "start_time": 5.64,
+      "end_time": 6.52
+    },
+    {
+      "speaker": "Michael",
+      "text": "In Vietnam,",
+      "start_time": 6.69,
+      "end_time": 7.29
+    },
+    {
+      "speaker": "Michael",
+      "text": "you just need",
+      "start_time": 7.29,
+      "end_time": 7.71
+    },
+    {
+      "speaker": "Michael",
+      "text": "to say",
+      "start_time": 7.71,
+      "end_time": 8.53
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>Em ơi</vietnamese>",
+      "start_time": 8.64,
+      "end_time": 9.3
+    },
+    {
+      "speaker": "Michael",
+      "text": "or <vietnamese>Anh ơi</vietnamese>.",
+      "start_time": 9.3,
+      "end_time": 9.969999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "But if",
+      "start_time": 10.08,
+      "end_time": 11.01
+    },
+    {
+      "speaker": "Michael",
+      "text": "you want to",
+      "start_time": 11.01,
+      "end_time": 11.34
+    },
+    {
+      "speaker": "Michael",
+      "text": "be more polite,",
+      "start_time": 11.34,
+      "end_time": 12.219999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "say \"Excuse me\".",
+      "start_time": 12.33,
+      "end_time": 13.42
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Em ơi</vietnamese>?",
+      "start_time": 13.62,
+      "end_time": 14.95
+    },
+    {
+      "speaker": "Mira",
+      "text": "That sounds strange.",
+      "start_time": 15.0,
+      "end_time": 16.150000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "In Russia, we",
+      "start_time": 16.44,
+      "end_time": 17.34
+    },
+    {
+      "speaker": "Mira",
+      "text": "don't call strangers",
+      "start_time": 17.34,
+      "end_time": 18.55
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>em</vietnamese>.",
+      "start_time": 18.6,
+      "end_time": 19.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "Why do",
+      "start_time": 19.5,
+      "end_time": 20.54
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese people",
+      "start_time": 20.55,
+      "end_time": 21.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>gọi</vietnamese> like that?",
+      "start_time": 21.5,
+      "end_time": 22.83
+    },
+    {
+      "speaker": "Michael",
+      "text": "It's just",
+      "start_time": 22.83,
+      "end_time": 23.88
+    },
+    {
+      "speaker": "Michael",
+      "text": "a familiar way",
+      "start_time": 23.88,
+      "end_time": 24.48
+    },
+    {
+      "speaker": "Michael",
+      "text": "of addressing people.",
+      "start_time": 24.48,
+      "end_time": 25.450000000000003
+    },
+    {
+      "speaker": "Michael",
+      "text": "You can try",
+      "start_time": 25.56,
+      "end_time": 26.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "saying <vietnamese>chị ơi</vietnamese>",
+      "start_time": 26.04,
+      "end_time": 27.490000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "if the",
+      "start_time": 27.54,
+      "end_time": 28.53
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>người phục vụ</vietnamese> is an",
+      "start_time": 28.53,
+      "end_time": 29.37
+    },
+    {
+      "speaker": "Michael",
+      "text": "older woman.",
+      "start_time": 29.37,
+      "end_time": 30.0
+    },
+    {
+      "speaker": "Michael",
+      "text": "By the way,",
+      "start_time": 30.0,
+      "end_time": 30.427500000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "I",
+      "start_time": 30.427500000000002,
+      "end_time": 30.57
+    },
+    {
+      "speaker": "Michael",
+      "text": "think your",
+      "start_time": 30.57,
+      "end_time": 31.39
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>tiếng Việt</vietnamese> is getting",
+      "start_time": 31.39,
+      "end_time": 32.31
+    },
+    {
+      "speaker": "Michael",
+      "text": "better.",
+      "start_time": 32.31,
+      "end_time": 33.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "Really? Thanks.",
+      "start_time": 35.61,
+      "end_time": 36.78
+    },
+    {
+      "speaker": "Mira",
+      "text": "But I still",
+      "start_time": 36.78,
+      "end_time": 37.230000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "find",
+      "start_time": 37.230000000000004,
+      "end_time": 37.38
+    },
+    {
+      "speaker": "Mira",
+      "text": "the <vietnamese>xưng hô</vietnamese>",
+      "start_time": 37.38,
+      "end_time": 38.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "culture here very",
+      "start_time": 38.76,
+      "end_time": 39.57
+    },
+    {
+      "speaker": "Mira",
+      "text": "confusing.",
+      "start_time": 39.57,
+      "end_time": 40.5
+    },
+    {
+      "speaker": "Mira",
+      "text": "Do Vietnamese",
+      "start_time": 40.5,
+      "end_time": 41.7
+    },
+    {
+      "speaker": "Mira",
+      "text": "people have other",
+      "start_time": 41.7,
+      "end_time": 42.39
+    },
+    {
+      "speaker": "Mira",
+      "text": "ways to call",
+      "start_time": 42.39,
+      "end_time": 43.300000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>người phục vụ</vietnamese>?",
+      "start_time": 43.38,
+      "end_time": 44.77
+    },
+    {
+      "speaker": "Michael",
+      "text": "Yes,",
+      "start_time": 44.79,
+      "end_time": 45.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "depending on age",
+      "start_time": 45.2,
+      "end_time": 45.63
+    },
+    {
+      "speaker": "Michael",
+      "text": "and gender.",
+      "start_time": 45.63,
+      "end_time": 46.68
+    },
+    {
+      "speaker": "Michael",
+      "text": "For example,",
+      "start_time": 46.68,
+      "end_time": 47.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>anh ơi</vietnamese>",
+      "start_time": 47.5,
+      "end_time": 48.88
+    },
+    {
+      "speaker": "Michael",
+      "text": "for men,",
+      "start_time": 48.93,
+      "end_time": 50.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>chị ơi</vietnamese> for older",
+      "start_time": 50.04,
+      "end_time": 51.15
+    },
+    {
+      "speaker": "Michael",
+      "text": "women.",
+      "start_time": 51.15,
+      "end_time": 51.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "Do you",
+      "start_time": 51.5,
+      "end_time": 51.93
+    },
+    {
+      "speaker": "Michael",
+      "text": "want to try",
+      "start_time": 51.93,
+      "end_time": 52.78
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>gọi</vietnamese>?",
+      "start_time": 52.89,
+      "end_time": 53.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "The <vietnamese>người phục vụ</vietnamese>",
+      "start_time": 53.5,
+      "end_time": 54.35
+    },
+    {
+      "speaker": "Michael",
+      "text": "is coming",
+      "start_time": 54.35,
+      "end_time": 55.29
+    },
+    {
+      "speaker": "Michael",
+      "text": "toward us now.",
+      "start_time": 55.29,
+      "end_time": 56.11
+    }
+  ]
+}

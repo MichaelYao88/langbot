@@ -1,0 +1,299 @@
+{
+  "id": "5e5b7bad",
+  "topic_word": "trả tiền",
+  "topic_word_translation": "pay (for something)",
+  "common_words": [
+    {
+      "word": "hẹn",
+      "translation": "date (romantic meeting)"
+    },
+    {
+      "word": "nghĩ",
+      "translation": "think"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Do you think",
+      "start_time": 0.03,
+      "end_time": 0.51
+    },
+    {
+      "speaker": "Mira",
+      "text": "the man should",
+      "start_time": 0.51,
+      "end_time": 1.28
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>trả tiền</vietnamese>",
+      "start_time": 1.38,
+      "end_time": 2.17
+    },
+    {
+      "speaker": "Mira",
+      "text": "for the first",
+      "start_time": 2.25,
+      "end_time": 3.19
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>hẹn</vietnamese>?",
+      "start_time": 3.27,
+      "end_time": 4.11
+    },
+    {
+      "speaker": "Mira",
+      "text": "My ex-boyfriend",
+      "start_time": 4.11,
+      "end_time": 5.34
+    },
+    {
+      "speaker": "Mira",
+      "text": "always insisted",
+      "start_time": 5.34,
+      "end_time": 6.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "on paying,",
+      "start_time": 6.27,
+      "end_time": 6.81
+    },
+    {
+      "speaker": "Mira",
+      "text": "even when I",
+      "start_time": 6.81,
+      "end_time": 7.89
+    },
+    {
+      "speaker": "Mira",
+      "text": "wanted to share.",
+      "start_time": 7.89,
+      "end_time": 8.07
+    },
+    {
+      "speaker": "Michael",
+      "text": "I <vietnamese>nghĩ</vietnamese> paying",
+      "start_time": 8.07,
+      "end_time": 9.27
+    },
+    {
+      "speaker": "Michael",
+      "text": "should be flexible.",
+      "start_time": 9.27,
+      "end_time": 10.77
+    },
+    {
+      "speaker": "Michael",
+      "text": "In America,",
+      "start_time": 10.77,
+      "end_time": 11.97
+    },
+    {
+      "speaker": "Michael",
+      "text": "many couples",
+      "start_time": 11.97,
+      "end_time": 12.63
+    },
+    {
+      "speaker": "Michael",
+      "text": "split the bill,",
+      "start_time": 12.63,
+      "end_time": 13.38
+    },
+    {
+      "speaker": "Michael",
+      "text": "but I prefer",
+      "start_time": 13.38,
+      "end_time": 14.21
+    },
+    {
+      "speaker": "Michael",
+      "text": "to <vietnamese>trả tiền</vietnamese>",
+      "start_time": 14.22,
+      "end_time": 14.91
+    },
+    {
+      "speaker": "Michael",
+      "text": "for the",
+      "start_time": 14.91,
+      "end_time": 15.9
+    },
+    {
+      "speaker": "Michael",
+      "text": "first date.",
+      "start_time": 15.9,
+      "end_time": 16.59
+    },
+    {
+      "speaker": "Michael",
+      "text": "It shows respect.",
+      "start_time": 16.59,
+      "end_time": 17.28
+    },
+    {
+      "speaker": "Mira",
+      "text": "Really? I like",
+      "start_time": 17.28,
+      "end_time": 18.42
+    },
+    {
+      "speaker": "Mira",
+      "text": "traditions, but",
+      "start_time": 18.42,
+      "end_time": 18.99
+    },
+    {
+      "speaker": "Mira",
+      "text": "I also want",
+      "start_time": 18.99,
+      "end_time": 20.46
+    },
+    {
+      "speaker": "Mira",
+      "text": "fairness. If",
+      "start_time": 20.46,
+      "end_time": 21.310000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "I let you",
+      "start_time": 21.39,
+      "end_time": 22.62
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>trả tiền</vietnamese> for our",
+      "start_time": 22.62,
+      "end_time": 24.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "first <vietnamese>hẹn</vietnamese>,",
+      "start_time": 24.0,
+      "end_time": 24.96
+    },
+    {
+      "speaker": "Mira",
+      "text": "I would feel",
+      "start_time": 24.96,
+      "end_time": 25.59
+    },
+    {
+      "speaker": "Mira",
+      "text": "obligated to do",
+      "start_time": 25.59,
+      "end_time": 26.01
+    },
+    {
+      "speaker": "Mira",
+      "text": "something for you.",
+      "start_time": 26.01,
+      "end_time": 26.28
+    },
+    {
+      "speaker": "Michael",
+      "text": "Obligation? Not at",
+      "start_time": 26.28,
+      "end_time": 27.66
+    },
+    {
+      "speaker": "Michael",
+      "text": "all. Paying doesn't",
+      "start_time": 27.66,
+      "end_time": 28.89
+    },
+    {
+      "speaker": "Michael",
+      "text": "mean the other",
+      "start_time": 28.89,
+      "end_time": 29.31
+    },
+    {
+      "speaker": "Michael",
+      "text": "person owes you",
+      "start_time": 29.31,
+      "end_time": 29.94
+    },
+    {
+      "speaker": "Michael",
+      "text": "anything. It's just",
+      "start_time": 29.94,
+      "end_time": 31.08
+    },
+    {
+      "speaker": "Michael",
+      "text": "a way to",
+      "start_time": 31.08,
+      "end_time": 31.35
+    },
+    {
+      "speaker": "Michael",
+      "text": "show goodwill.",
+      "start_time": 31.35,
+      "end_time": 32.67
+    },
+    {
+      "speaker": "Mira",
+      "text": "But if you",
+      "start_time": 32.67,
+      "end_time": 33.61
+    },
+    {
+      "speaker": "Mira",
+      "text": "always <vietnamese>trả tiền</vietnamese>,",
+      "start_time": 33.99,
+      "end_time": 34.77
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'll feel uncomfortable.",
+      "start_time": 34.77,
+      "end_time": 37.72
+    },
+    {
+      "speaker": "Mira",
+      "text": "Maybe... we could",
+      "start_time": 38.43,
+      "end_time": 38.97
+    },
+    {
+      "speaker": "Mira",
+      "text": "see how it",
+      "start_time": 38.97,
+      "end_time": 39.63
+    },
+    {
+      "speaker": "Mira",
+      "text": "goes if we",
+      "start_time": 39.63,
+      "end_time": 40.02
+    },
+    {
+      "speaker": "Mira",
+      "text": "have dinner next",
+      "start_time": 40.02,
+      "end_time": 40.785
+    },
+    {
+      "speaker": "Mira",
+      "text": "week?",
+      "start_time": 40.785,
+      "end_time": 41.120000000000005
+    },
+    {
+      "speaker": "Mira",
+      "text": "Who do you",
+      "start_time": 41.13,
+      "end_time": 42.01
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>nghĩ</vietnamese> should pay?",
+      "start_time": 42.03,
+      "end_time": 43.480000000000004
+    }
+  ]
+}

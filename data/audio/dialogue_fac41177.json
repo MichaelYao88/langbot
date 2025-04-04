@@ -1,0 +1,281 @@
+{
+  "id": "fac41177",
+  "topic_word": "lắc lọ",
+  "topic_word_translation": "shake the jar",
+  "common_words": [
+    {
+      "word": "lọ",
+      "translation": "jar (noun)"
+    },
+    {
+      "word": "thử",
+      "translation": "try (verb)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "What's in",
+      "start_time": 0.0,
+      "end_time": 0.63
+    },
+    {
+      "speaker": "Mira",
+      "text": "this jar?",
+      "start_time": 0.63,
+      "end_time": 2.07
+    },
+    {
+      "speaker": "Mira",
+      "text": "I found",
+      "start_time": 2.07,
+      "end_time": 2.37
+    },
+    {
+      "speaker": "Mira",
+      "text": "it in the",
+      "start_time": 2.37,
+      "end_time": 3.21
+    },
+    {
+      "speaker": "Mira",
+      "text": "corner when cleaning",
+      "start_time": 3.21,
+      "end_time": 4.59
+    },
+    {
+      "speaker": "Mira",
+      "text": "your apartment.",
+      "start_time": 4.59,
+      "end_time": 4.92
+    },
+    {
+      "speaker": "Michael",
+      "text": "It's a jar",
+      "start_time": 4.92,
+      "end_time": 5.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "containing my written",
+      "start_time": 5.7,
+      "end_time": 6.54
+    },
+    {
+      "speaker": "Michael",
+      "text": "wishes on paper",
+      "start_time": 6.54,
+      "end_time": 8.17
+    },
+    {
+      "speaker": "Michael",
+      "text": "slips. Whenever I",
+      "start_time": 8.25,
+      "end_time": 9.06
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>lắc lọ</vietnamese>, I",
+      "start_time": 9.06,
+      "end_time": 9.69
+    },
+    {
+      "speaker": "Michael",
+      "text": "pick one piece",
+      "start_time": 9.69,
+      "end_time": 10.23
+    },
+    {
+      "speaker": "Michael",
+      "text": "of paper and",
+      "start_time": 10.23,
+      "end_time": 10.83
+    },
+    {
+      "speaker": "Michael",
+      "text": "try to fulfill",
+      "start_time": 10.83,
+      "end_time": 12.14
+    },
+    {
+      "speaker": "Michael",
+      "text": "it.",
+      "start_time": 12.15,
+      "end_time": 12.81
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>lắc lọ</vietnamese> to choose",
+      "start_time": 12.81,
+      "end_time": 14.31
+    },
+    {
+      "speaker": "Mira",
+      "text": "wishes?",
+      "start_time": 14.31,
+      "end_time": 14.94
+    },
+    {
+      "speaker": "Mira",
+      "text": "I find this",
+      "start_time": 14.94,
+      "end_time": 16.32
+    },
+    {
+      "speaker": "Mira",
+      "text": "a bit silly.",
+      "start_time": 16.32,
+      "end_time": 17.61
+    },
+    {
+      "speaker": "Mira",
+      "text": "We Russians usually",
+      "start_time": 17.61,
+      "end_time": 18.72
+    },
+    {
+      "speaker": "Mira",
+      "text": "believe in fate",
+      "start_time": 18.72,
+      "end_time": 19.93
+    },
+    {
+      "speaker": "Mira",
+      "text": "rather than <vietnamese>điều ước</vietnamese>.",
+      "start_time": 20.04,
+      "end_time": 21.3
+    },
+    {
+      "speaker": "Michael",
+      "text": "But sometimes <vietnamese>lắc lọ</vietnamese>",
+      "start_time": 21.3,
+      "end_time": 22.11
+    },
+    {
+      "speaker": "Michael",
+      "text": "helps us make",
+      "start_time": 22.11,
+      "end_time": 22.92
+    },
+    {
+      "speaker": "Michael",
+      "text": "decisions when we're",
+      "start_time": 22.92,
+      "end_time": 24.34
+    },
+    {
+      "speaker": "Michael",
+      "text": "hesitant. <vietnamese>thử</vietnamese> it,",
+      "start_time": 24.39,
+      "end_time": 24.99
+    },
+    {
+      "speaker": "Michael",
+      "text": "you might enjoy",
+      "start_time": 24.99,
+      "end_time": 25.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "it.",
+      "start_time": 25.41,
+      "end_time": 25.71
+    },
+    {
+      "speaker": "Mira",
+      "text": "Alright, I'll",
+      "start_time": 25.71,
+      "end_time": 26.770000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>thử</vietnamese> <vietnamese>lắc lọ</vietnamese>",
+      "start_time": 26.88,
+      "end_time": 27.65
+    },
+    {
+      "speaker": "Mira",
+      "text": "once. If I",
+      "start_time": 27.66,
+      "end_time": 28.62
+    },
+    {
+      "speaker": "Mira",
+      "text": "draw a paper",
+      "start_time": 28.62,
+      "end_time": 29.64
+    },
+    {
+      "speaker": "Mira",
+      "text": "saying \"play chess",
+      "start_time": 29.64,
+      "end_time": 30.69
+    },
+    {
+      "speaker": "Mira",
+      "text": "with Mira,\"",
+      "start_time": 30.69,
+      "end_time": 31.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "do you dare",
+      "start_time": 31.74,
+      "end_time": 32.46
+    },
+    {
+      "speaker": "Mira",
+      "text": "to play",
+      "start_time": 32.46,
+      "end_time": 32.73
+    },
+    {
+      "speaker": "Michael",
+      "text": "a game?",
+      "start_time": 32.73,
+      "end_time": 33.81
+    },
+    {
+      "speaker": "Michael",
+      "text": "Of course!",
+      "start_time": 33.81,
+      "end_time": 35.07
+    },
+    {
+      "speaker": "Michael",
+      "text": "But what if",
+      "start_time": 35.07,
+      "end_time": 35.55
+    },
+    {
+      "speaker": "Michael",
+      "text": "the paper says",
+      "start_time": 35.55,
+      "end_time": 36.27
+    },
+    {
+      "speaker": "Michael",
+      "text": "\"kiss the person",
+      "start_time": 36.27,
+      "end_time": 37.11
+    },
+    {
+      "speaker": "Michael",
+      "text": "you're thinking about\"?",
+      "start_time": 37.11,
+      "end_time": 38.55
+    },
+    {
+      "speaker": "Michael",
+      "text": "Would you dare",
+      "start_time": 38.55,
+      "end_time": 39.24
+    },
+    {
+      "speaker": "Michael",
+      "text": "to do it?",
+      "start_time": 39.24,
+      "end_time": 39.52
+    }
+  ]
+}

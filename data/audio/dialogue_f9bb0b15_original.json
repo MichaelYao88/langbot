@@ -1,0 +1,62 @@
+{
+  "id": "f9bb0b15",
+  "topic_word": "tới công chuyện",
+  "topic_word_translation": "to fight/to have a confrontation",
+  "common_words": [
+    {
+      "word": "nguy hiểm",
+      "translation": "dangerous"
+    },
+    {
+      "word": "đánh nhau",
+      "translation": "fight"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I saw those guys at the park yesterday. They were about to tới công chuyện with each other. Looked very nguy hiểm.",
+      "start_time": 0.0,
+      "end_time": 11.4,
+      "viet_words": [
+        "nguy hiểm",
+        "tới công chuyện"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tới công chuyện? You mean đánh nhau? You shouldn't go near such nguy hiểm places. In Vietnam, I sometimes see these things happen.",
+      "start_time": 11.9,
+      "end_time": 24.9,
+      "viet_words": [
+        "nguy hiểm",
+        "đánh nhau",
+        "tới công chuyện"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's right, đánh nhau. Perhaps you don't know, but in Russia, I've seen many more tới công chuyện scenes than that. My father... he used to be involved in such things.",
+      "start_time": 25.4,
+      "end_time": 42.3,
+      "viet_words": [
+        "đánh nhau",
+        "tới công chuyện"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? I wouldn't think a girl like you would be connected to things like that. What did your father do in Russia?",
+      "start_time": 42.8,
+      "end_time": 54.3,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "Not something I want to tell someone I just met. But if you really want to know about my father and why I came to Vietnam... maybe we should meet at a coffee shop. Do you want to hear about it?",
+      "start_time": 54.8,
+      "end_time": 74.1,
+      "viet_words": []
+    }
+  ]
+}

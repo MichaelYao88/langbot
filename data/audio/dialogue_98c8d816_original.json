@@ -1,0 +1,67 @@
+{
+  "id": "98c8d816",
+  "topic_word": "thích",
+  "topic_word_translation": "like",
+  "common_words": [
+    {
+      "word": "yêu",
+      "translation": "love (verb)"
+    },
+    {
+      "word": "người",
+      "translation": "person/people (noun)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Did you know, Vietnamese has the words \"thích\" and \"yêu\" but Russian only has one word \"любить\" for both. Vietnamese people distinguish feelings so clearly.",
+      "start_time": 0.0,
+      "end_time": 15.600000000000001,
+      "viet_words": [
+        "yêu",
+        "thích"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Yes, we Vietnamese are very careful when using the word \"yêu\". Saying \"I thích you\" and \"I yêu you\" are completely different. My grandmother used to tell me that my grandfather took three years before he dared to say the word \"yêu\".",
+      "start_time": 16.1,
+      "end_time": 39.300000000000004,
+      "viet_words": [
+        "yêu",
+        "thích"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's funny! In Russia, we say \"любить\" for everything, from food to people. But I thích how Vietnamese people value the word \"yêu\". It's... more special.",
+      "start_time": 39.800000000000004,
+      "end_time": 55.300000000000004,
+      "viet_words": [
+        "yêu",
+        "thích"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's right, \"yêu\" is a much deeper emotion than \"thích\". But you know, sometimes I find it difficult to distinguish the boundary between \"liking a lot\" and beginning to \"yêu\"...",
+      "start_time": 55.800000000000004,
+      "end_time": 73.7,
+      "viet_words": [
+        "yêu",
+        "thích"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm... having the same problem. Not knowing whether I thích or yêu someone. How do you think we can distinguish between these two emotions?",
+      "start_time": 74.2,
+      "end_time": 88.10000000000001,
+      "viet_words": [
+        "yêu",
+        "thích"
+      ]
+    }
+  ]
+}

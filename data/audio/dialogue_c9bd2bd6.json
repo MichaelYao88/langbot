@@ -1,0 +1,65 @@
+{
+  "id": "c9bd2bd6",
+  "topic_word": "phố Bùi Viện",
+  "topic_word_translation": "Bui Vien Street",
+  "common_words": [
+    {
+      "word": "cà phê",
+      "translation": "coffee"
+    },
+    {
+      "word": "yên tĩnh",
+      "translation": "quiet"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I hate phố Bùi Viện so much. Every time I go there, I feel like I've been there before, but it's always a terrible experience.",
+      "start_time": 0.0,
+      "end_time": 12.600000000000001,
+      "viet_words": [
+        "phố Bùi Viện"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? I think phố Bùi Viện has many interesting things. Maybe next time we should go together, I can show you some quieter cà phê places.",
+      "start_time": 13.100000000000001,
+      "end_time": 27.0,
+      "viet_words": [
+        "cà phê",
+        "phố Bùi Viện"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't like noise and crowds. I prefer yên tĩnh places where I can think, like when playing chess. But... if you know a yên tĩnh cà phê there, perhaps I'll consider it.",
+      "start_time": 27.5,
+      "end_time": 44.400000000000006,
+      "viet_words": [
+        "cà phê",
+        "yên tĩnh"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "I know a small place in the corner, away from the crowds. They serve Russian cà phê, which might make you feel nostalgic for home.",
+      "start_time": 44.900000000000006,
+      "end_time": 57.900000000000006,
+      "viet_words": [
+        "cà phê"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Russian cà phê on phố Bùi Viện? I'm skeptical, but I'm curious. When do you want to go?",
+      "start_time": 58.400000000000006,
+      "end_time": 67.10000000000001,
+      "viet_words": [
+        "cà phê",
+        "phố Bùi Viện"
+      ]
+    }
+  ]
+}

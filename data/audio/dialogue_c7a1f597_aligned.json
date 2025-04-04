@@ -1,0 +1,359 @@
+{
+  "id": "c7a1f597",
+  "topic_word": "Đà Lạt",
+  "topic_word_translation": "Da Lat (a city in Vietnam)",
+  "common_words": [
+    {
+      "word": "du lịch",
+      "translation": "travel/tourism"
+    },
+    {
+      "word": "thích",
+      "translation": "like/prefer"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I went to",
+      "start_time": 0.03,
+      "end_time": 0.5700000000000001
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Đà Lạt</vietnamese>",
+      "start_time": 0.5700000000000001,
+      "end_time": 0.85
+    },
+    {
+      "speaker": "Mira",
+      "text": "last week.",
+      "start_time": 0.96,
+      "end_time": 2.01
+    },
+    {
+      "speaker": "Mira",
+      "text": "I didn't",
+      "start_time": 2.01,
+      "end_time": 2.7
+    },
+    {
+      "speaker": "Mira",
+      "text": "expect Vietnam to",
+      "start_time": 2.7,
+      "end_time": 3.84
+    },
+    {
+      "speaker": "Mira",
+      "text": "have such a",
+      "start_time": 3.84,
+      "end_time": 4.32
+    },
+    {
+      "speaker": "Mira",
+      "text": "cool place. <vietnamese>Đà",
+      "start_time": 4.32,
+      "end_time": 5.73
+    },
+    {
+      "speaker": "Mira",
+      "text": "Lạt</vietnamese> is completely",
+      "start_time": 5.73,
+      "end_time": 6.78
+    },
+    {
+      "speaker": "Mira",
+      "text": "different from Saigon,",
+      "start_time": 6.78,
+      "end_time": 8.05
+    },
+    {
+      "speaker": "Mira",
+      "text": "beautiful scenery and",
+      "start_time": 8.1,
+      "end_time": 9.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "peaceful.",
+      "start_time": 9.27,
+      "end_time": 9.969999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>Đà Lạt</vietnamese> is truly",
+      "start_time": 10.29,
+      "end_time": 11.46
+    },
+    {
+      "speaker": "Michael",
+      "text": "a paradise for",
+      "start_time": 11.46,
+      "end_time": 12.37
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>du lịch</vietnamese>. I plan",
+      "start_time": 12.45,
+      "end_time": 13.47
+    },
+    {
+      "speaker": "Michael",
+      "text": "to go to",
+      "start_time": 13.47,
+      "end_time": 14.08
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>Đà Lạt</vietnamese> next",
+      "start_time": 14.16,
+      "end_time": 15.09
+    },
+    {
+      "speaker": "Michael",
+      "text": "month. Is there",
+      "start_time": 15.09,
+      "end_time": 16.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "anything interesting there",
+      "start_time": 16.41,
+      "end_time": 17.4
+    },
+    {
+      "speaker": "Michael",
+      "text": "that you'd like",
+      "start_time": 17.4,
+      "end_time": 17.85
+    },
+    {
+      "speaker": "Michael",
+      "text": "to recommend?",
+      "start_time": 17.85,
+      "end_time": 19.07
+    },
+    {
+      "speaker": "Mira",
+      "text": "Xuan Huong Lake",
+      "start_time": 19.22,
+      "end_time": 19.6775
+    },
+    {
+      "speaker": "Mira",
+      "text": "is",
+      "start_time": 19.6775,
+      "end_time": 19.83
+    },
+    {
+      "speaker": "Mira",
+      "text": "very beautiful, but",
+      "start_time": 19.83,
+      "end_time": 21.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "too crowded with",
+      "start_time": 21.0,
+      "end_time": 22.1025
+    },
+    {
+      "speaker": "Mira",
+      "text": "tourists.",
+      "start_time": 22.1025,
+      "end_time": 22.57
+    },
+    {
+      "speaker": "Mira",
+      "text": "I <vietnamese>thích</vietnamese> the",
+      "start_time": 22.68,
+      "end_time": 23.67
+    },
+    {
+      "speaker": "Mira",
+      "text": "small roads through",
+      "start_time": 23.67,
+      "end_time": 24.87
+    },
+    {
+      "speaker": "Mira",
+      "text": "pine forests more.",
+      "start_time": 24.87,
+      "end_time": 26.44
+    },
+    {
+      "speaker": "Mira",
+      "text": "If you <vietnamese>thích</vietnamese>",
+      "start_time": 26.7,
+      "end_time": 27.77
+    },
+    {
+      "speaker": "Mira",
+      "text": "quiet places, we",
+      "start_time": 27.78,
+      "end_time": 28.83
+    },
+    {
+      "speaker": "Mira",
+      "text": "could... oh no,",
+      "start_time": 28.83,
+      "end_time": 30.47
+    },
+    {
+      "speaker": "Mira",
+      "text": "I mean you",
+      "start_time": 30.48,
+      "end_time": 31.05
+    },
+    {
+      "speaker": "Mira",
+      "text": "should visit places",
+      "start_time": 31.05,
+      "end_time": 31.92
+    },
+    {
+      "speaker": "Mira",
+      "text": "that fewer people",
+      "start_time": 31.92,
+      "end_time": 32.64
+    },
+    {
+      "speaker": "Mira",
+      "text": "know about.",
+      "start_time": 32.64,
+      "end_time": 33.81
+    },
+    {
+      "speaker": "Michael",
+      "text": "\"We could\" sounds",
+      "start_time": 33.81,
+      "end_time": 34.3725
+    },
+    {
+      "speaker": "Michael",
+      "text": "good",
+      "start_time": 34.3725,
+      "end_time": 34.56
+    },
+    {
+      "speaker": "Michael",
+      "text": "to me. Why",
+      "start_time": 34.56,
+      "end_time": 35.13
+    },
+    {
+      "speaker": "Michael",
+      "text": "not <vietnamese>du lịch</vietnamese> to",
+      "start_time": 35.13,
+      "end_time": 36.88
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>Đà Lạt</vietnamese> together? I",
+      "start_time": 36.9,
+      "end_time": 38.61
+    },
+    {
+      "speaker": "Michael",
+      "text": "want to explore",
+      "start_time": 38.61,
+      "end_time": 39.33
+    },
+    {
+      "speaker": "Michael",
+      "text": "those pine forest",
+      "start_time": 39.33,
+      "end_time": 40.11
+    },
+    {
+      "speaker": "Michael",
+      "text": "roads with someone",
+      "start_time": 40.11,
+      "end_time": 40.86
+    },
+    {
+      "speaker": "Michael",
+      "text": "who knows the",
+      "start_time": 40.86,
+      "end_time": 41.31
+    },
+    {
+      "speaker": "Michael",
+      "text": "place well.",
+      "start_time": 41.31,
+      "end_time": 42.51
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't misunderstand!",
+      "start_time": 42.51,
+      "end_time": 43.61
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm not good",
+      "start_time": 43.62,
+      "end_time": 44.13
+    },
+    {
+      "speaker": "Mira",
+      "text": "at guiding. But...",
+      "start_time": 44.13,
+      "end_time": 45.43
+    },
+    {
+      "speaker": "Mira",
+      "text": "if you really",
+      "start_time": 46.11,
+      "end_time": 46.65
+    },
+    {
+      "speaker": "Mira",
+      "text": "want to <vietnamese>du",
+      "start_time": 46.65,
+      "end_time": 47.7
+    },
+    {
+      "speaker": "Mira",
+      "text": "lịch</vietnamese>, I might",
+      "start_time": 47.7,
+      "end_time": 48.45
+    },
+    {
+      "speaker": "Mira",
+      "text": "consider it. Only",
+      "start_time": 48.45,
+      "end_time": 50.64
+    },
+    {
+      "speaker": "Mira",
+      "text": "because I also",
+      "start_time": 50.64,
+      "end_time": 51.45
+    },
+    {
+      "speaker": "Mira",
+      "text": "want to go",
+      "start_time": 51.45,
+      "end_time": 51.93
+    },
+    {
+      "speaker": "Mira",
+      "text": "to <vietnamese>Đà Lạt</vietnamese>",
+      "start_time": 51.93,
+      "end_time": 53.08
+    },
+    {
+      "speaker": "Mira",
+      "text": "again, not for",
+      "start_time": 53.1,
+      "end_time": 54.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "any other reason!",
+      "start_time": 54.0,
+      "end_time": 55.18
+    }
+  ]
+}

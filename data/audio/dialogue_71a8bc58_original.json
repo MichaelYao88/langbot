@@ -1,0 +1,65 @@
+{
+  "id": "71a8bc58",
+  "topic_word": "Chúa hề",
+  "topic_word_translation": "God of clowns",
+  "common_words": [
+    {
+      "word": "thần",
+      "translation": "god/deity"
+    },
+    {
+      "word": "Việt Nam",
+      "translation": "Vietnam"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Chúa hề? Don't talk nonsense. My friend told me that in Việt Nam there is Chúa hề, a deity of clowns, but I don't believe it.",
+      "start_time": 0.0,
+      "end_time": 12.5,
+      "viet_words": [
+        "Việt Nam",
+        "Chúa hề"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Chúa hề doesn't actually exist. Your friend is just teasing you. But Vietnamese culture has many interesting thần.",
+      "start_time": 13.0,
+      "end_time": 24.4,
+      "viet_words": [
+        "thần",
+        "Chúa hề"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I knew it! My friend always makes up stories about Việt Nam. But I'd like to hear about the real thần of the Vietnamese people.",
+      "start_time": 24.9,
+      "end_time": 37.6,
+      "viet_words": [
+        "thần",
+        "Việt Nam"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Vietnamese people worship many different thần, like the God of Fortune or Quan Cong. Would you like to go to a temple with me this weekend? I could tell you more about the deities.",
+      "start_time": 38.1,
+      "end_time": 56.1,
+      "viet_words": [
+        "thần"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Go to a temple? Aren't you trying to date me or something? But... alright, I want to learn more about Vietnamese people and their thần.",
+      "start_time": 56.6,
+      "end_time": 70.1,
+      "viet_words": [
+        "thần"
+      ]
+    }
+  ]
+}

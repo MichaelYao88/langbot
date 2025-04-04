@@ -1,0 +1,1101 @@
+{
+  "id": "0a94e5e8",
+  "topic_word": "McDonald's",
+  "topic_word_translation": "McDonald's",
+  "common_words": [
+    {
+      "word": "người",
+      "translation": "people"
+    },
+    {
+      "word": "thích",
+      "translation": "like/prefer"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "hey don't look",
+      "start_time": 0.03,
+      "end_time": 0.84,
+      "word_timestamps": [
+        {
+          "word": "hey",
+          "start": 0.03,
+          "end": 0.27
+        },
+        {
+          "word": "don't",
+          "start": 0.27,
+          "end": 0.63
+        },
+        {
+          "word": "look",
+          "start": 0.63,
+          "end": 0.84
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "around but i",
+      "start_time": 0.84,
+      "end_time": 1.56,
+      "word_timestamps": [
+        {
+          "word": "around",
+          "start": 0.84,
+          "end": 1.2
+        },
+        {
+          "word": "but",
+          "start": 1.2,
+          "end": 1.38
+        },
+        {
+          "word": "i",
+          "start": 1.38,
+          "end": 1.56
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "think they're watching",
+      "start_time": 1.56,
+      "end_time": 2.4,
+      "word_timestamps": [
+        {
+          "word": "think",
+          "start": 1.56,
+          "end": 1.83
+        },
+        {
+          "word": "they're",
+          "start": 1.83,
+          "end": 1.98
+        },
+        {
+          "word": "watching",
+          "start": 1.98,
+          "end": 2.4
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "us just talk",
+      "start_time": 2.4,
+      "end_time": 3.0,
+      "word_timestamps": [
+        {
+          "word": "us",
+          "start": 2.4,
+          "end": 2.55
+        },
+        {
+          "word": "just",
+          "start": 2.55,
+          "end": 2.79
+        },
+        {
+          "word": "talk",
+          "start": 2.79,
+          "end": 3.0
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "normally what do",
+      "start_time": 3.0,
+      "end_time": 3.72,
+      "word_timestamps": [
+        {
+          "word": "normally",
+          "start": 3.0,
+          "end": 3.48
+        },
+        {
+          "word": "what",
+          "start": 3.48,
+          "end": 3.66
+        },
+        {
+          "word": "do",
+          "start": 3.66,
+          "end": 3.72
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "you think about",
+      "start_time": 3.72,
+      "end_time": 4.44,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 3.72,
+          "end": 3.81
+        },
+        {
+          "word": "think",
+          "start": 3.81,
+          "end": 4.08
+        },
+        {
+          "word": "about",
+          "start": 4.08,
+          "end": 4.44
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "mock know nam",
+      "start_time": 4.68,
+      "end_time": 5.49,
+      "word_timestamps": [
+        {
+          "word": "mock",
+          "start": 4.68,
+          "end": 4.92
+        },
+        {
+          "word": "know",
+          "start": 4.92,
+          "end": 5.07
+        },
+        {
+          "word": "nam",
+          "start": 5.07,
+          "end": 5.49
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "in vietnam really",
+      "start_time": 5.64,
+      "end_time": 7.11,
+      "word_timestamps": [
+        {
+          "word": "in",
+          "start": 5.64,
+          "end": 5.82
+        },
+        {
+          "word": "vietnam",
+          "start": 5.82,
+          "end": 6.51
+        },
+        {
+          "word": "really",
+          "start": 6.72,
+          "end": 7.11
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "who's watching",
+      "start_time": 7.14,
+      "end_time": 7.68,
+      "word_timestamps": [
+        {
+          "word": "who's",
+          "start": 7.14,
+          "end": 7.35
+        },
+        {
+          "word": "watching",
+          "start": 7.35,
+          "end": 7.68
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "us about model",
+      "start_time": 7.68,
+      "end_time": 8.84,
+      "word_timestamps": [
+        {
+          "word": "us",
+          "start": 7.68,
+          "end": 7.83
+        },
+        {
+          "word": "about",
+          "start": 7.83,
+          "end": 8.19
+        },
+        {
+          "word": "model",
+          "start": 8.43,
+          "end": 8.839438
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "none i think",
+      "start_time": 8.84,
+      "end_time": 9.72,
+      "word_timestamps": [
+        {
+          "word": "none",
+          "start": 8.839438,
+          "end": 9.24
+        },
+        {
+          "word": "i",
+          "start": 9.45,
+          "end": 9.54
+        },
+        {
+          "word": "think",
+          "start": 9.54,
+          "end": 9.72
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "it's not as",
+      "start_time": 9.72,
+      "end_time": 10.14,
+      "word_timestamps": [
+        {
+          "word": "it's",
+          "start": 9.72,
+          "end": 9.84
+        },
+        {
+          "word": "not",
+          "start": 9.84,
+          "end": 10.05
+        },
+        {
+          "word": "as",
+          "start": 10.05,
+          "end": 10.14
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "good as in",
+      "start_time": 10.14,
+      "end_time": 10.56,
+      "word_timestamps": [
+        {
+          "word": "good",
+          "start": 10.14,
+          "end": 10.35
+        },
+        {
+          "word": "as",
+          "start": 10.35,
+          "end": 10.44
+        },
+        {
+          "word": "in",
+          "start": 10.44,
+          "end": 10.56
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "america but be",
+      "start_time": 10.56,
+      "end_time": 11.58,
+      "word_timestamps": [
+        {
+          "word": "america",
+          "start": 10.56,
+          "end": 11.13
+        },
+        {
+          "word": "but",
+          "start": 11.28,
+          "end": 11.46
+        },
+        {
+          "word": "be",
+          "start": 11.46,
+          "end": 11.58
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "enemies you may",
+      "start_time": 11.58,
+      "end_time": 12.93,
+      "word_timestamps": [
+        {
+          "word": "enemies",
+          "start": 11.58,
+          "end": 12.12
+        },
+        {
+          "word": "you",
+          "start": 12.36,
+          "end": 12.57
+        },
+        {
+          "word": "may",
+          "start": 12.57,
+          "end": 12.93
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "seem to think",
+      "start_time": 13.08,
+      "end_time": 14.16,
+      "word_timestamps": [
+        {
+          "word": "seem",
+          "start": 13.08,
+          "end": 13.41
+        },
+        {
+          "word": "to",
+          "start": 13.41,
+          "end": 13.71
+        },
+        {
+          "word": "think",
+          "start": 13.86,
+          "end": 14.16
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "it those",
+      "start_time": 14.31,
+      "end_time": 15.21,
+      "word_timestamps": [
+        {
+          "word": "it",
+          "start": 14.31,
+          "end": 14.64
+        },
+        {
+          "word": "those",
+          "start": 14.97,
+          "end": 15.21
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "people wearing a",
+      "start_time": 15.21,
+      "end_time": 15.81,
+      "word_timestamps": [
+        {
+          "word": "people",
+          "start": 15.21,
+          "end": 15.48
+        },
+        {
+          "word": "wearing",
+          "start": 15.48,
+          "end": 15.78
+        },
+        {
+          "word": "a",
+          "start": 15.78,
+          "end": 15.81
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "black in that",
+      "start_time": 15.81,
+      "end_time": 16.38,
+      "word_timestamps": [
+        {
+          "word": "black",
+          "start": 15.81,
+          "end": 16.14
+        },
+        {
+          "word": "in",
+          "start": 16.14,
+          "end": 16.23
+        },
+        {
+          "word": "that",
+          "start": 16.23,
+          "end": 16.379048
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "corner i think",
+      "start_time": 16.38,
+      "end_time": 17.43,
+      "word_timestamps": [
+        {
+          "word": "corner",
+          "start": 16.379048,
+          "end": 16.8
+        },
+        {
+          "word": "i",
+          "start": 16.83,
+          "end": 16.98
+        },
+        {
+          "word": "think",
+          "start": 16.98,
+          "end": 17.43
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "not know nam",
+      "start_time": 17.64,
+      "end_time": 18.45,
+      "word_timestamps": [
+        {
+          "word": "not",
+          "start": 17.64,
+          "end": 17.88
+        },
+        {
+          "word": "know",
+          "start": 17.88,
+          "end": 18.03
+        },
+        {
+          "word": "nam",
+          "start": 18.03,
+          "end": 18.45
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "here is too",
+      "start_time": 18.6,
+      "end_time": 19.08,
+      "word_timestamps": [
+        {
+          "word": "here",
+          "start": 18.6,
+          "end": 18.78
+        },
+        {
+          "word": "is",
+          "start": 18.78,
+          "end": 18.93
+        },
+        {
+          "word": "too",
+          "start": 18.93,
+          "end": 19.08
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "expensive we the",
+      "start_time": 19.08,
+      "end_time": 20.22,
+      "word_timestamps": [
+        {
+          "word": "expensive",
+          "start": 19.08,
+          "end": 19.83
+        },
+        {
+          "word": "we",
+          "start": 20.01,
+          "end": 20.16
+        },
+        {
+          "word": "the",
+          "start": 20.16,
+          "end": 20.22
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "russians he traditional",
+      "start_time": 20.22,
+      "end_time": 21.96,
+      "word_timestamps": [
+        {
+          "word": "russians",
+          "start": 20.22,
+          "end": 20.91
+        },
+        {
+          "word": "he",
+          "start": 21.06,
+          "end": 21.33
+        },
+        {
+          "word": "traditional",
+          "start": 21.42,
+          "end": 21.96
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "food more than",
+      "start_time": 21.96,
+      "end_time": 22.74,
+      "word_timestamps": [
+        {
+          "word": "food",
+          "start": 21.96,
+          "end": 22.35
+        },
+        {
+          "word": "more",
+          "start": 22.38,
+          "end": 22.56
+        },
+        {
+          "word": "than",
+          "start": 22.56,
+          "end": 22.74
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "fast food",
+      "start_time": 22.74,
+      "end_time": 23.49,
+      "word_timestamps": [
+        {
+          "word": "fast",
+          "start": 22.74,
+          "end": 23.13
+        },
+        {
+          "word": "food",
+          "start": 23.13,
+          "end": 23.49
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "i understand the",
+      "start_time": 23.79,
+      "end_time": 24.75,
+      "word_timestamps": [
+        {
+          "word": "i",
+          "start": 23.79,
+          "end": 23.94
+        },
+        {
+          "word": "understand",
+          "start": 23.94,
+          "end": 24.48
+        },
+        {
+          "word": "the",
+          "start": 24.57,
+          "end": 24.75
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "enemies you really",
+      "start_time": 24.75,
+      "end_time": 26.04,
+      "word_timestamps": [
+        {
+          "word": "enemies",
+          "start": 24.75,
+          "end": 25.2
+        },
+        {
+          "word": "you",
+          "start": 25.44,
+          "end": 25.65
+        },
+        {
+          "word": "really",
+          "start": 25.65,
+          "end": 26.04
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "are the same",
+      "start_time": 26.22,
+      "end_time": 26.79,
+      "word_timestamps": [
+        {
+          "word": "are",
+          "start": 26.22,
+          "end": 26.37
+        },
+        {
+          "word": "the",
+          "start": 26.37,
+          "end": 26.46
+        },
+        {
+          "word": "same",
+          "start": 26.46,
+          "end": 26.79
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "they still prefer",
+      "start_time": 26.79,
+      "end_time": 28.05,
+      "word_timestamps": [
+        {
+          "word": "they",
+          "start": 26.79,
+          "end": 26.91
+        },
+        {
+          "word": "still",
+          "start": 26.91,
+          "end": 27.27
+        },
+        {
+          "word": "prefer",
+          "start": 27.48,
+          "end": 28.05
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "and them more",
+      "start_time": 28.2,
+      "end_time": 29.82,
+      "word_timestamps": [
+        {
+          "word": "and",
+          "start": 28.2,
+          "end": 28.59
+        },
+        {
+          "word": "them",
+          "start": 29.03399,
+          "end": 29.4
+        },
+        {
+          "word": "more",
+          "start": 29.58,
+          "end": 29.82
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "than burgers but",
+      "start_time": 29.82,
+      "end_time": 30.72,
+      "word_timestamps": [
+        {
+          "word": "than",
+          "start": 29.82,
+          "end": 29.97
+        },
+        {
+          "word": "burgers",
+          "start": 29.97,
+          "end": 30.42
+        },
+        {
+          "word": "but",
+          "start": 30.42,
+          "end": 30.72
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "mondo none is",
+      "start_time": 30.96,
+      "end_time": 32.13,
+      "word_timestamps": [
+        {
+          "word": "mondo",
+          "start": 30.96,
+          "end": 31.38
+        },
+        {
+          "word": "none",
+          "start": 31.38,
+          "end": 31.77
+        },
+        {
+          "word": "is",
+          "start": 31.98,
+          "end": 32.13
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "a symbol of",
+      "start_time": 32.13,
+      "end_time": 32.64,
+      "word_timestamps": [
+        {
+          "word": "a",
+          "start": 32.13,
+          "end": 32.16
+        },
+        {
+          "word": "symbol",
+          "start": 32.16,
+          "end": 32.55
+        },
+        {
+          "word": "of",
+          "start": 32.55,
+          "end": 32.64
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "modernity so people",
+      "start_time": 32.64,
+      "end_time": 33.81,
+      "word_timestamps": [
+        {
+          "word": "modernity",
+          "start": 32.64,
+          "end": 33.27
+        },
+        {
+          "word": "so",
+          "start": 33.36,
+          "end": 33.57
+        },
+        {
+          "word": "people",
+          "start": 33.57,
+          "end": 33.81
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "still visited maybe",
+      "start_time": 33.81,
+      "end_time": 35.07,
+      "word_timestamps": [
+        {
+          "word": "still",
+          "start": 33.81,
+          "end": 34.05
+        },
+        {
+          "word": "visited",
+          "start": 34.05,
+          "end": 34.5
+        },
+        {
+          "word": "maybe",
+          "start": 34.77,
+          "end": 35.07
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "so but i",
+      "start_time": 35.07,
+      "end_time": 36.03,
+      "word_timestamps": [
+        {
+          "word": "so",
+          "start": 35.07,
+          "end": 35.49
+        },
+        {
+          "word": "but",
+          "start": 35.76,
+          "end": 35.97
+        },
+        {
+          "word": "i",
+          "start": 35.97,
+          "end": 36.03
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "don't understand why",
+      "start_time": 36.03,
+      "end_time": 36.93,
+      "word_timestamps": [
+        {
+          "word": "don't",
+          "start": 36.03,
+          "end": 36.33
+        },
+        {
+          "word": "understand",
+          "start": 36.33,
+          "end": 36.81
+        },
+        {
+          "word": "why",
+          "start": 36.81,
+          "end": 36.93
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "people have to",
+      "start_time": 36.93,
+      "end_time": 37.47,
+      "word_timestamps": [
+        {
+          "word": "people",
+          "start": 36.93,
+          "end": 37.23
+        },
+        {
+          "word": "have",
+          "start": 37.23,
+          "end": 37.35
+        },
+        {
+          "word": "to",
+          "start": 37.35,
+          "end": 37.47
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "queue for so",
+      "start_time": 37.47,
+      "end_time": 38.04,
+      "word_timestamps": [
+        {
+          "word": "queue",
+          "start": 37.47,
+          "end": 37.71
+        },
+        {
+          "word": "for",
+          "start": 37.71,
+          "end": 37.83
+        },
+        {
+          "word": "so",
+          "start": 37.83,
+          "end": 38.04
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "long does to",
+      "start_time": 38.04,
+      "end_time": 38.58,
+      "word_timestamps": [
+        {
+          "word": "long",
+          "start": 38.04,
+          "end": 38.28
+        },
+        {
+          "word": "does",
+          "start": 38.28,
+          "end": 38.43
+        },
+        {
+          "word": "to",
+          "start": 38.439858,
+          "end": 38.58
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "eat low quality",
+      "start_time": 38.58,
+      "end_time": 39.42,
+      "word_timestamps": [
+        {
+          "word": "eat",
+          "start": 38.58,
+          "end": 38.79
+        },
+        {
+          "word": "low",
+          "start": 38.79,
+          "end": 39.0
+        },
+        {
+          "word": "quality",
+          "start": 39.0,
+          "end": 39.42
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "fast food do",
+      "start_time": 39.42,
+      "end_time": 40.38,
+      "word_timestamps": [
+        {
+          "word": "fast",
+          "start": 39.42,
+          "end": 39.75
+        },
+        {
+          "word": "food",
+          "start": 39.75,
+          "end": 40.02
+        },
+        {
+          "word": "do",
+          "start": 40.32,
+          "end": 40.38
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "you have to",
+      "start_time": 40.38,
+      "end_time": 40.8,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 40.38,
+          "end": 40.53
+        },
+        {
+          "word": "have",
+          "start": 40.53,
+          "end": 40.68
+        },
+        {
+          "word": "to",
+          "start": 40.68,
+          "end": 40.8
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "eat at mach",
+      "start_time": 40.89,
+      "end_time": 41.76,
+      "word_timestamps": [
+        {
+          "word": "eat",
+          "start": 40.89,
+          "end": 41.13
+        },
+        {
+          "word": "at",
+          "start": 41.13,
+          "end": 41.37
+        },
+        {
+          "word": "mach",
+          "start": 41.52,
+          "end": 41.76
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "know none",
+      "start_time": 41.76,
+      "end_time": 42.33,
+      "word_timestamps": [
+        {
+          "word": "know",
+          "start": 41.76,
+          "end": 41.91
+        },
+        {
+          "word": "none",
+          "start": 41.91,
+          "end": 42.33
+        }
+      ],
+      "viet_words": []
+    }
+  ]
+}

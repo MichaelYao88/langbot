@@ -1,0 +1,1021 @@
+{
+  "id": "a19c2105",
+  "topic_word": "cà phê",
+  "topic_word_translation": "coffee",
+  "common_words": [
+    {
+      "word": "uống (verb)",
+      "translation": "to drink"
+    },
+    {
+      "word": "mạnh (adjective)",
+      "translation": "strong"
+    },
+    {
+      "word": "thích (verb)",
+      "translation": "to like"
+    },
+    {
+      "word": "nghĩ (verb)",
+      "translation": "to think"
+    },
+    {
+      "word": "nguyên bản (noun)",
+      "translation": "original"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "vietnam is cafe",
+      "start_time": 0.06,
+      "end_time": 1.89,
+      "word_timestamps": [
+        {
+          "word": "vietnam",
+          "start": 0.06,
+          "end": 0.54
+        },
+        {
+          "word": "is",
+          "start": 0.54,
+          "end": 0.96
+        },
+        {
+          "word": "cafe",
+          "start": 1.08,
+          "end": 1.89
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "is delicious but",
+      "start_time": 1.98,
+      "end_time": 2.97,
+      "word_timestamps": [
+        {
+          "word": "is",
+          "start": 1.98,
+          "end": 2.19
+        },
+        {
+          "word": "delicious",
+          "start": 2.19,
+          "end": 2.79
+        },
+        {
+          "word": "but",
+          "start": 2.79,
+          "end": 2.97
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "to might have",
+      "start_time": 2.97,
+      "end_time": 4.47,
+      "word_timestamps": [
+        {
+          "word": "to",
+          "start": 2.97,
+          "end": 3.48
+        },
+        {
+          "word": "might",
+          "start": 3.63,
+          "end": 4.02
+        },
+        {
+          "word": "have",
+          "start": 4.14,
+          "end": 4.47
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "pick on coffee",
+      "start_time": 4.62,
+      "end_time": 5.7,
+      "word_timestamps": [
+        {
+          "word": "pick",
+          "start": 4.62,
+          "end": 4.83
+        },
+        {
+          "word": "on",
+          "start": 4.85801,
+          "end": 5.07
+        },
+        {
+          "word": "coffee",
+          "start": 5.07,
+          "end": 5.7
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "with milk more",
+      "start_time": 5.82,
+      "end_time": 6.63,
+      "word_timestamps": [
+        {
+          "word": "with",
+          "start": 5.82,
+          "end": 6.03
+        },
+        {
+          "word": "milk",
+          "start": 6.03,
+          "end": 6.36
+        },
+        {
+          "word": "more",
+          "start": 6.39,
+          "end": 6.63
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "than drinking",
+      "start_time": 6.63,
+      "end_time": 7.2,
+      "word_timestamps": [
+        {
+          "word": "than",
+          "start": 6.63,
+          "end": 6.81
+        },
+        {
+          "word": "drinking",
+          "start": 6.81,
+          "end": 7.2
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "at black milk",
+      "start_time": 7.2,
+      "end_time": 8.4,
+      "word_timestamps": [
+        {
+          "word": "at",
+          "start": 7.2,
+          "end": 7.29
+        },
+        {
+          "word": "black",
+          "start": 7.29,
+          "end": 7.83
+        },
+        {
+          "word": "milk",
+          "start": 8.13,
+          "end": 8.4
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "iced coffee is",
+      "start_time": 8.4,
+      "end_time": 10.02,
+      "word_timestamps": [
+        {
+          "word": "iced",
+          "start": 8.4,
+          "end": 8.76
+        },
+        {
+          "word": "coffee",
+          "start": 8.97,
+          "end": 9.69
+        },
+        {
+          "word": "is",
+          "start": 9.84,
+          "end": 10.02
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "vietnam's signature drink",
+      "start_time": 10.02,
+      "end_time": 11.52,
+      "word_timestamps": [
+        {
+          "word": "vietnam's",
+          "start": 10.02,
+          "end": 10.65
+        },
+        {
+          "word": "signature",
+          "start": 10.68,
+          "end": 11.16
+        },
+        {
+          "word": "drink",
+          "start": 11.16,
+          "end": 11.52
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "he it reflects",
+      "start_time": 11.88,
+      "end_time": 13.11,
+      "word_timestamps": [
+        {
+          "word": "he",
+          "start": 11.88,
+          "end": 12.51
+        },
+        {
+          "word": "it",
+          "start": 12.6,
+          "end": 12.72
+        },
+        {
+          "word": "reflects",
+          "start": 12.72,
+          "end": 13.11
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "vietnamese character",
+      "start_time": 13.11,
+      "end_time": 14.13,
+      "word_timestamps": [
+        {
+          "word": "vietnamese",
+          "start": 13.11,
+          "end": 13.62
+        },
+        {
+          "word": "character",
+          "start": 13.62,
+          "end": 14.13
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "mine but sweet",
+      "start_time": 14.49,
+      "end_time": 15.63,
+      "word_timestamps": [
+        {
+          "word": "mine",
+          "start": 14.49,
+          "end": 14.85
+        },
+        {
+          "word": "but",
+          "start": 15.0,
+          "end": 15.21
+        },
+        {
+          "word": "sweet",
+          "start": 15.21,
+          "end": 15.63
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "you me so",
+      "start_time": 15.9,
+      "end_time": 17.46,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 15.9,
+          "end": 16.23
+        },
+        {
+          "word": "me",
+          "start": 16.41,
+          "end": 16.95
+        },
+        {
+          "word": "so",
+          "start": 17.04,
+          "end": 17.46
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "i find black",
+      "start_time": 18.0,
+      "end_time": 18.78,
+      "word_timestamps": [
+        {
+          "word": "i",
+          "start": 18.0,
+          "end": 18.12
+        },
+        {
+          "word": "find",
+          "start": 18.12,
+          "end": 18.45
+        },
+        {
+          "word": "black",
+          "start": 18.45,
+          "end": 18.78
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "cafe to shows",
+      "start_time": 19.02,
+      "end_time": 20.52,
+      "word_timestamps": [
+        {
+          "word": "cafe",
+          "start": 19.02,
+          "end": 19.86
+        },
+        {
+          "word": "to",
+          "start": 19.95,
+          "end": 20.16
+        },
+        {
+          "word": "shows",
+          "start": 20.254484,
+          "end": 20.52
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "real strength",
+      "start_time": 20.52,
+      "end_time": 21.33,
+      "word_timestamps": [
+        {
+          "word": "real",
+          "start": 20.52,
+          "end": 20.73
+        },
+        {
+          "word": "strength",
+          "start": 20.73,
+          "end": 21.33
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "we russians pick",
+      "start_time": 21.69,
+      "end_time": 22.95,
+      "word_timestamps": [
+        {
+          "word": "we",
+          "start": 21.69,
+          "end": 21.93
+        },
+        {
+          "word": "russians",
+          "start": 21.93,
+          "end": 22.59
+        },
+        {
+          "word": "pick",
+          "start": 22.74,
+          "end": 22.95
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "when ban things",
+      "start_time": 22.95,
+      "end_time": 24.03,
+      "word_timestamps": [
+        {
+          "word": "when",
+          "start": 22.95,
+          "end": 23.16
+        },
+        {
+          "word": "ban",
+          "start": 23.16,
+          "end": 23.52
+        },
+        {
+          "word": "things",
+          "start": 23.67,
+          "end": 24.03
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "not mixed that's",
+      "start_time": 24.03,
+      "end_time": 25.23,
+      "word_timestamps": [
+        {
+          "word": "not",
+          "start": 24.03,
+          "end": 24.24
+        },
+        {
+          "word": "mixed",
+          "start": 24.24,
+          "end": 24.78
+        },
+        {
+          "word": "that's",
+          "start": 24.96,
+          "end": 25.23
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "interesting but i",
+      "start_time": 25.23,
+      "end_time": 26.02,
+      "word_timestamps": [
+        {
+          "word": "interesting",
+          "start": 25.23,
+          "end": 25.68
+        },
+        {
+          "word": "but",
+          "start": 25.68,
+          "end": 25.83
+        },
+        {
+          "word": "i",
+          "start": 25.83,
+          "end": 26.02389
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "he mixing sometimes",
+      "start_time": 26.22,
+      "end_time": 27.81,
+      "word_timestamps": [
+        {
+          "word": "he",
+          "start": 26.22,
+          "end": 26.85
+        },
+        {
+          "word": "mixing",
+          "start": 26.91,
+          "end": 27.36
+        },
+        {
+          "word": "sometimes",
+          "start": 27.36,
+          "end": 27.81
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "create something more",
+      "start_time": 27.81,
+      "end_time": 28.59,
+      "word_timestamps": [
+        {
+          "word": "create",
+          "start": 27.81,
+          "end": 28.08
+        },
+        {
+          "word": "something",
+          "start": 28.08,
+          "end": 28.41
+        },
+        {
+          "word": "more",
+          "start": 28.41,
+          "end": 28.59
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "wonderful than the",
+      "start_time": 28.59,
+      "end_time": 29.43,
+      "word_timestamps": [
+        {
+          "word": "wonderful",
+          "start": 28.59,
+          "end": 29.04
+        },
+        {
+          "word": "than",
+          "start": 29.04,
+          "end": 29.22
+        },
+        {
+          "word": "the",
+          "start": 29.22,
+          "end": 29.43
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "when been like",
+      "start_time": 29.61,
+      "end_time": 30.54,
+      "word_timestamps": [
+        {
+          "word": "when",
+          "start": 29.61,
+          "end": 29.88
+        },
+        {
+          "word": "been",
+          "start": 29.88,
+          "end": 30.21
+        },
+        {
+          "word": "like",
+          "start": 30.33,
+          "end": 30.54
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "my",
+      "start_time": 30.54,
+      "end_time": 30.66,
+      "word_timestamps": [
+        {
+          "word": "my",
+          "start": 30.54,
+          "end": 30.66
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "vietnamese american culture",
+      "start_time": 30.66,
+      "end_time": 31.92,
+      "word_timestamps": [
+        {
+          "word": "vietnamese",
+          "start": 30.66,
+          "end": 31.14
+        },
+        {
+          "word": "american",
+          "start": 31.14,
+          "end": 31.5
+        },
+        {
+          "word": "culture",
+          "start": 31.5,
+          "end": 31.92
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "maybe you're right",
+      "start_time": 32.19,
+      "end_time": 33.09,
+      "word_timestamps": [
+        {
+          "word": "maybe",
+          "start": 32.19,
+          "end": 32.49
+        },
+        {
+          "word": "you're",
+          "start": 32.49,
+          "end": 32.64
+        },
+        {
+          "word": "right",
+          "start": 32.64,
+          "end": 33.09
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "but i still",
+      "start_time": 33.39,
+      "end_time": 34.23,
+      "word_timestamps": [
+        {
+          "word": "but",
+          "start": 33.39,
+          "end": 33.54
+        },
+        {
+          "word": "i",
+          "start": 33.54,
+          "end": 33.66
+        },
+        {
+          "word": "still",
+          "start": 33.66,
+          "end": 34.23
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "pick on cafe",
+      "start_time": 34.38,
+      "end_time": 35.46,
+      "word_timestamps": [
+        {
+          "word": "pick",
+          "start": 34.38,
+          "end": 34.59
+        },
+        {
+          "word": "on",
+          "start": 34.62,
+          "end": 34.83
+        },
+        {
+          "word": "cafe",
+          "start": 34.83,
+          "end": 35.46
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "my way have",
+      "start_time": 35.58,
+      "end_time": 36.87,
+      "word_timestamps": [
+        {
+          "word": "my",
+          "start": 35.58,
+          "end": 35.79
+        },
+        {
+          "word": "way",
+          "start": 35.79,
+          "end": 36.21
+        },
+        {
+          "word": "have",
+          "start": 36.69,
+          "end": 36.87
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "you ever wondered",
+      "start_time": 36.87,
+      "end_time": 37.5,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 36.87,
+          "end": 36.96
+        },
+        {
+          "word": "ever",
+          "start": 36.96,
+          "end": 37.14
+        },
+        {
+          "word": "wondered",
+          "start": 37.14,
+          "end": 37.5
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "why we keep",
+      "start_time": 37.5,
+      "end_time": 38.04,
+      "word_timestamps": [
+        {
+          "word": "why",
+          "start": 37.5,
+          "end": 37.68
+        },
+        {
+          "word": "we",
+          "start": 37.68,
+          "end": 37.8
+        },
+        {
+          "word": "keep",
+          "start": 37.8,
+          "end": 38.04
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "arguing about small",
+      "start_time": 38.04,
+      "end_time": 39.27,
+      "word_timestamps": [
+        {
+          "word": "arguing",
+          "start": 38.04,
+          "end": 38.58
+        },
+        {
+          "word": "about",
+          "start": 38.58,
+          "end": 38.91
+        },
+        {
+          "word": "small",
+          "start": 38.91,
+          "end": 39.27
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "things like",
+      "start_time": 39.27,
+      "end_time": 39.96,
+      "word_timestamps": [
+        {
+          "word": "things",
+          "start": 39.27,
+          "end": 39.63
+        },
+        {
+          "word": "like",
+          "start": 39.63,
+          "end": 39.96
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "that cafe maybe",
+      "start_time": 40.2,
+      "end_time": 41.46,
+      "word_timestamps": [
+        {
+          "word": "that",
+          "start": 40.2,
+          "end": 40.32
+        },
+        {
+          "word": "cafe",
+          "start": 40.32,
+          "end": 40.98
+        },
+        {
+          "word": "maybe",
+          "start": 41.13,
+          "end": 41.46
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "because coffee is",
+      "start_time": 41.46,
+      "end_time": 43.17,
+      "word_timestamps": [
+        {
+          "word": "because",
+          "start": 41.46,
+          "end": 41.91
+        },
+        {
+          "word": "coffee",
+          "start": 42.15,
+          "end": 42.9
+        },
+        {
+          "word": "is",
+          "start": 43.02,
+          "end": 43.17
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "just an excuse",
+      "start_time": 43.17,
+      "end_time": 43.89,
+      "word_timestamps": [
+        {
+          "word": "just",
+          "start": 43.17,
+          "end": 43.38
+        },
+        {
+          "word": "an",
+          "start": 43.38,
+          "end": 43.5
+        },
+        {
+          "word": "excuse",
+          "start": 43.5,
+          "end": 43.89
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "for us to",
+      "start_time": 43.89,
+      "end_time": 44.25,
+      "word_timestamps": [
+        {
+          "word": "for",
+          "start": 43.89,
+          "end": 44.04
+        },
+        {
+          "word": "us",
+          "start": 44.04,
+          "end": 44.16
+        },
+        {
+          "word": "to",
+          "start": 44.16,
+          "end": 44.25
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "talk to each",
+      "start_time": 44.25,
+      "end_time": 44.82,
+      "word_timestamps": [
+        {
+          "word": "talk",
+          "start": 44.25,
+          "end": 44.55
+        },
+        {
+          "word": "to",
+          "start": 44.55,
+          "end": 44.67
+        },
+        {
+          "word": "each",
+          "start": 44.67,
+          "end": 44.82
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "other i wonder",
+      "start_time": 44.82,
+      "end_time": 46.11,
+      "word_timestamps": [
+        {
+          "word": "other",
+          "start": 44.82,
+          "end": 45.12
+        },
+        {
+          "word": "i",
+          "start": 45.72,
+          "end": 45.84
+        },
+        {
+          "word": "wonder",
+          "start": 45.84,
+          "end": 46.11
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "if we actually",
+      "start_time": 46.11,
+      "end_time": 46.74,
+      "word_timestamps": [
+        {
+          "word": "if",
+          "start": 46.11,
+          "end": 46.2
+        },
+        {
+          "word": "we",
+          "start": 46.2,
+          "end": 46.35
+        },
+        {
+          "word": "actually",
+          "start": 46.35,
+          "end": 46.74
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "care about something",
+      "start_time": 46.74,
+      "end_time": 47.55,
+      "word_timestamps": [
+        {
+          "word": "care",
+          "start": 46.74,
+          "end": 46.98
+        },
+        {
+          "word": "about",
+          "start": 46.98,
+          "end": 47.19
+        },
+        {
+          "word": "something",
+          "start": 47.19,
+          "end": 47.55
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "else",
+      "start_time": 47.55,
+      "end_time": 47.94,
+      "word_timestamps": [
+        {
+          "word": "else",
+          "start": 47.55,
+          "end": 47.94
+        }
+      ],
+      "viet_words": []
+    }
+  ]
+}

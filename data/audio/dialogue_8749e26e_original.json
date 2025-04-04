@@ -1,0 +1,71 @@
+{
+  "id": "8749e26e",
+  "topic_word": "bồn rửa",
+  "topic_word_translation": "sink",
+  "common_words": [
+    {
+      "word": "sức khỏe",
+      "translation": "health"
+    },
+    {
+      "word": "rửa",
+      "translation": "wash"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I can't believe you never wash your hands thoroughly! My ex-boyfriend in Russia always spent 2 minutes at the bồn rửa after using the bathroom. That's the minimum to maintain sức khỏe.",
+      "start_time": 0.0,
+      "end_time": 18.400000000000002,
+      "viet_words": [
+        "sức khỏe",
+        "rửa",
+        "bồn rửa"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Hey, I do rửa my hands! Just not always at public bồn rửa. Those bồn rửa are dirtier than my hands. But if you care so much about sức khỏe, why do I see you eating street food every day?",
+      "start_time": 18.900000000000002,
+      "end_time": 37.5,
+      "viet_words": [
+        "sức khỏe",
+        "rửa",
+        "bồn rửa"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Public bồn rửa are no excuse to neglect personal hygiene! And street food... that's different. As long as the vendor is clean... Do you know how long bacteria can live on hands? Go to the bồn rửa and rửa your hands properly!",
+      "start_time": 38.0,
+      "end_time": 60.400000000000006,
+      "viet_words": [
+        "rửa",
+        "bồn rửa"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Alright, fine! I'll spend more time at the bồn rửa. But hey, I notice you're coughing. Are you taking care of your sức khỏe? I have some herbal medicine my mom sent from America that could help boost immunity... If you want, I could bring it to you?",
+      "start_time": 60.900000000000006,
+      "end_time": 85.80000000000001,
+      "viet_words": [
+        "sức khỏe",
+        "rửa",
+        "bồn rửa"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't need your medicine... But... if you really want to help, maybe we could go drink ginger tea at that place near the park? They have clean bồn rửa and their tea is really good for sức khỏe. Not because I want to go with you, just...",
+      "start_time": 86.30000000000001,
+      "end_time": 110.10000000000001,
+      "viet_words": [
+        "sức khỏe",
+        "rửa",
+        "bồn rửa"
+      ]
+    }
+  ]
+}

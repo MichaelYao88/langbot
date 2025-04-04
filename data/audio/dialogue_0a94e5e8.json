@@ -1,0 +1,67 @@
+{
+  "id": "0a94e5e8",
+  "topic_word": "McDonald's",
+  "topic_word_translation": "McDonald's",
+  "common_words": [
+    {
+      "word": "người",
+      "translation": "people"
+    },
+    {
+      "word": "thích",
+      "translation": "like/prefer"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Hey, don't look around, but I think they're watching us. Just talk normally. What do you think about McDonald's in Vietnam?",
+      "start_time": 0.0,
+      "end_time": 12.3,
+      "viet_words": [
+        "McDonald's"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? Who's watching us? About McDonald's, I think it's not as good as in America, but Vietnamese người seem to thích it.",
+      "start_time": 12.8,
+      "end_time": 25.1,
+      "viet_words": [
+        "người",
+        "thích",
+        "McDonald's"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Those people wearing black in that corner. I think McDonald's here is too expensive. We Russians thích traditional food more than fast food.",
+      "start_time": 25.6,
+      "end_time": 39.6,
+      "viet_words": [
+        "thích",
+        "McDonald's"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "I understand. Vietnamese người are the same, they still thích phở and cơm tấm more than burgers. But McDonald's is a symbol of modernity, so people still visit it.",
+      "start_time": 40.1,
+      "end_time": 56.400000000000006,
+      "viet_words": [
+        "người",
+        "thích",
+        "McDonald's"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Maybe so, but I don't understand why people have to queue for so long just to eat low-quality fast food. Do you often eat at McDonald's?",
+      "start_time": 56.900000000000006,
+      "end_time": 70.5,
+      "viet_words": [
+        "McDonald's"
+      ]
+    }
+  ]
+}

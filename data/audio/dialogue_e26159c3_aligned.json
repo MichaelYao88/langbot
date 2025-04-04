@@ -1,0 +1,437 @@
+{
+  "id": "e26159c3",
+  "topic_word": "Nhật",
+  "topic_word_translation": "Japan",
+  "common_words": [
+    {
+      "word": "đầu hàng",
+      "translation": "surrender (verb)"
+    },
+    {
+      "word": "lịch sử",
+      "translation": "history (noun)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Hey,",
+      "start_time": 0.06,
+      "end_time": 0.48
+    },
+    {
+      "speaker": "Michael",
+      "text": "did you know",
+      "start_time": 0.48,
+      "end_time": 0.96
+    },
+    {
+      "speaker": "Michael",
+      "text": "there's a lot",
+      "start_time": 0.96,
+      "end_time": 1.53
+    },
+    {
+      "speaker": "Michael",
+      "text": "of debate about",
+      "start_time": 1.53,
+      "end_time": 2.62
+    },
+    {
+      "speaker": "Michael",
+      "text": "whether Japan",
+      "start_time": 2.73,
+      "end_time": 3.78
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>đầu hàng</vietnamese> in",
+      "start_time": 3.78,
+      "end_time": 4.26
+    },
+    {
+      "speaker": "Michael",
+      "text": "World War II",
+      "start_time": 4.26,
+      "end_time": 4.77
+    },
+    {
+      "speaker": "Michael",
+      "text": "was because of",
+      "start_time": 4.77,
+      "end_time": 5.58
+    },
+    {
+      "speaker": "Michael",
+      "text": "the atomic bombs",
+      "start_time": 5.58,
+      "end_time": 6.45
+    },
+    {
+      "speaker": "Michael",
+      "text": "or not?",
+      "start_time": 6.45,
+      "end_time": 7.6899999999999995
+    },
+    {
+      "speaker": "Mira",
+      "text": "Of course I",
+      "start_time": 8.31,
+      "end_time": 9.4575
+    },
+    {
+      "speaker": "Mira",
+      "text": "know!",
+      "start_time": 9.4575,
+      "end_time": 9.84
+    },
+    {
+      "speaker": "Mira",
+      "text": "In Russia,",
+      "start_time": 9.84,
+      "end_time": 10.41
+    },
+    {
+      "speaker": "Mira",
+      "text": "textbooks teach that",
+      "start_time": 10.41,
+      "end_time": 11.67
+    },
+    {
+      "speaker": "Mira",
+      "text": "the Soviet Union",
+      "start_time": 11.67,
+      "end_time": 12.24
+    },
+    {
+      "speaker": "Mira",
+      "text": "entering the war",
+      "start_time": 12.24,
+      "end_time": 13.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "was the main",
+      "start_time": 13.38,
+      "end_time": 14.34
+    },
+    {
+      "speaker": "Mira",
+      "text": "reason <vietnamese>Nhật</vietnamese> surrendered.",
+      "start_time": 14.34,
+      "end_time": 15.3
+    },
+    {
+      "speaker": "Mira",
+      "text": "The atomic bombs",
+      "start_time": 15.3,
+      "end_time": 16.26
+    },
+    {
+      "speaker": "Mira",
+      "text": "were just an",
+      "start_time": 16.26,
+      "end_time": 17.01
+    },
+    {
+      "speaker": "Mira",
+      "text": "excuse for America",
+      "start_time": 17.01,
+      "end_time": 17.82
+    },
+    {
+      "speaker": "Mira",
+      "text": "to show off",
+      "start_time": 17.82,
+      "end_time": 18.39
+    },
+    {
+      "speaker": "Mira",
+      "text": "its power.",
+      "start_time": 18.39,
+      "end_time": 19.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's interesting.",
+      "start_time": 19.41,
+      "end_time": 21.08
+    },
+    {
+      "speaker": "Michael",
+      "text": "In America,",
+      "start_time": 21.09,
+      "end_time": 21.87
+    },
+    {
+      "speaker": "Michael",
+      "text": "we're always taught",
+      "start_time": 21.87,
+      "end_time": 22.53
+    },
+    {
+      "speaker": "Michael",
+      "text": "that the atomic",
+      "start_time": 22.53,
+      "end_time": 23.22
+    },
+    {
+      "speaker": "Michael",
+      "text": "bombs were the",
+      "start_time": 23.22,
+      "end_time": 24.81
+    },
+    {
+      "speaker": "Michael",
+      "text": "decisive factor.",
+      "start_time": 24.81,
+      "end_time": 26.16
+    },
+    {
+      "speaker": "Michael",
+      "text": "But recently many",
+      "start_time": 26.16,
+      "end_time": 27.54
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>lịch sử</vietnamese> scholars",
+      "start_time": 27.55,
+      "end_time": 28.23
+    },
+    {
+      "speaker": "Michael",
+      "text": "suggest that the",
+      "start_time": 28.23,
+      "end_time": 29.4
+    },
+    {
+      "speaker": "Michael",
+      "text": "Soviet Union declaring",
+      "start_time": 29.4,
+      "end_time": 30.66
+    },
+    {
+      "speaker": "Michael",
+      "text": "war on <vietnamese>Nhật</vietnamese>",
+      "start_time": 30.66,
+      "end_time": 31.14
+    },
+    {
+      "speaker": "Michael",
+      "text": "might have been",
+      "start_time": 31.14,
+      "end_time": 31.98
+    },
+    {
+      "speaker": "Michael",
+      "text": "more important.",
+      "start_time": 31.98,
+      "end_time": 32.92
+    },
+    {
+      "speaker": "Mira",
+      "text": "Exactly!",
+      "start_time": 33.36,
+      "end_time": 34.2
+    },
+    {
+      "speaker": "Mira",
+      "text": "The Japanese had",
+      "start_time": 34.2,
+      "end_time": 35.49
+    },
+    {
+      "speaker": "Mira",
+      "text": "prepared mentally for",
+      "start_time": 35.49,
+      "end_time": 37.11
+    },
+    {
+      "speaker": "Mira",
+      "text": "civilian casualties,",
+      "start_time": 37.11,
+      "end_time": 38.37
+    },
+    {
+      "speaker": "Mira",
+      "text": "but they feared",
+      "start_time": 38.37,
+      "end_time": 39.4
+    },
+    {
+      "speaker": "Mira",
+      "text": "communism more than",
+      "start_time": 39.63,
+      "end_time": 40.71
+    },
+    {
+      "speaker": "Mira",
+      "text": "death. <vietnamese>Lịch sử</vietnamese>",
+      "start_time": 40.71,
+      "end_time": 41.79
+    },
+    {
+      "speaker": "Mira",
+      "text": "is always rewritten",
+      "start_time": 41.79,
+      "end_time": 42.06
+    },
+    {
+      "speaker": "Mira",
+      "text": "by the victors.",
+      "start_time": 42.06,
+      "end_time": 43.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "You know so",
+      "start_time": 43.2,
+      "end_time": 44.08
+    },
+    {
+      "speaker": "Michael",
+      "text": "much about",
+      "start_time": 44.19,
+      "end_time": 45.06
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>lịch sử</vietnamese>.",
+      "start_time": 45.06,
+      "end_time": 45.57
+    },
+    {
+      "speaker": "Michael",
+      "text": "I like the",
+      "start_time": 45.57,
+      "end_time": 45.99
+    },
+    {
+      "speaker": "Michael",
+      "text": "way you look",
+      "start_time": 45.99,
+      "end_time": 46.77
+    },
+    {
+      "speaker": "Michael",
+      "text": "at issues from",
+      "start_time": 46.77,
+      "end_time": 48.57
+    },
+    {
+      "speaker": "Michael",
+      "text": "different perspectives.",
+      "start_time": 48.57,
+      "end_time": 49.29
+    },
+    {
+      "speaker": "Michael",
+      "text": "Maybe we should",
+      "start_time": 49.29,
+      "end_time": 50.71
+    },
+    {
+      "speaker": "Michael",
+      "text": "discuss this topic",
+      "start_time": 50.94,
+      "end_time": 51.42
+    },
+    {
+      "speaker": "Michael",
+      "text": "more over coffee?",
+      "start_time": 51.42,
+      "end_time": 52.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't get ahead",
+      "start_time": 52.89,
+      "end_time": 53.82
+    },
+    {
+      "speaker": "Mira",
+      "text": "of yourself!",
+      "start_time": 53.82,
+      "end_time": 55.36
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm not easily",
+      "start_time": 55.68,
+      "end_time": 56.13
+    },
+    {
+      "speaker": "Mira",
+      "text": "swayed by compliments...",
+      "start_time": 56.13,
+      "end_time": 56.73
+    },
+    {
+      "speaker": "Mira",
+      "text": "but if you",
+      "start_time": 56.73,
+      "end_time": 57.36
+    },
+    {
+      "speaker": "Mira",
+      "text": "really want to",
+      "start_time": 57.36,
+      "end_time": 58.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "learn more about",
+      "start_time": 58.83,
+      "end_time": 59.37
+    },
+    {
+      "speaker": "Mira",
+      "text": "the Russian perspective,",
+      "start_time": 59.37,
+      "end_time": 61.59
+    },
+    {
+      "speaker": "Mira",
+      "text": "maybe I could",
+      "start_time": 61.59,
+      "end_time": 62.01
+    },
+    {
+      "speaker": "Mira",
+      "text": "consider it.",
+      "start_time": 62.01,
+      "end_time": 62.67
+    },
+    {
+      "speaker": "Mira",
+      "text": "What do you",
+      "start_time": 62.67,
+      "end_time": 63.97
+    },
+    {
+      "speaker": "Mira",
+      "text": "think about the",
+      "start_time": 64.02,
+      "end_time": 64.72999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "claim that <vietnamese>lịch sử</vietnamese>",
+      "start_time": 64.74,
+      "end_time": 65.31
+    },
+    {
+      "speaker": "Mira",
+      "text": "is just a",
+      "start_time": 65.31,
+      "end_time": 65.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "propaganda tool?",
+      "start_time": 65.88,
+      "end_time": 66.86
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "fac41177",
+  "topic_word": "lắc lọ",
+  "topic_word_translation": "shake the jar",
+  "common_words": [
+    {
+      "word": "lọ",
+      "translation": "jar (noun)"
+    },
+    {
+      "word": "thử",
+      "translation": "try (verb)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "What's in this jar? I found it in the corner when cleaning your apartment.",
+      "start_time": 0.0,
+      "end_time": 7.4,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "It's a jar containing my written wishes on paper slips. Whenever I lắc lọ, I pick one piece of paper and try to fulfill it.",
+      "start_time": 7.9,
+      "end_time": 20.200000000000003,
+      "viet_words": [
+        "lọ",
+        "lắc lọ"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "lắc lọ to choose wishes? I find this a bit silly. We Russians usually believe in fate rather than điều ước.",
+      "start_time": 20.700000000000003,
+      "end_time": 31.400000000000006,
+      "viet_words": [
+        "lọ",
+        "lắc lọ"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "But sometimes lắc lọ helps us make decisions when we're hesitant. thử it, you might enjoy it.",
+      "start_time": 31.900000000000006,
+      "end_time": 41.2,
+      "viet_words": [
+        "lọ",
+        "thử",
+        "lắc lọ"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Alright, I'll thử lắc lọ once. If I draw a paper saying \"play chess with Mira,\" do you dare to play a game?",
+      "start_time": 41.7,
+      "end_time": 52.400000000000006,
+      "viet_words": [
+        "lọ",
+        "thử",
+        "lắc lọ"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Of course! But what if the paper says \"kiss the person you're thinking about\"? Would you dare to do it?",
+      "start_time": 52.900000000000006,
+      "end_time": 63.2,
+      "viet_words": []
+    }
+  ]
+}

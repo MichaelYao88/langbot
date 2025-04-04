@@ -1,0 +1,73 @@
+{
+  "id": "6cdce730",
+  "topic_word": "mặc cả",
+  "topic_word_translation": "bargaining/haggling",
+  "common_words": [
+    {
+      "word": "giá",
+      "translation": "price (noun)"
+    },
+    {
+      "word": "biết",
+      "translation": "to know (verb)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Did you know, yesterday I tried to mặc cả at Ben Thanh market and got laughed at by the seller. I only knew how to say \"reduce it\" and \"too expensive.\"",
+      "start_time": 0.0,
+      "end_time": 15.100000000000001,
+      "viet_words": [
+        "mặc cả"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Really? I used to be like that too. In Russia, we don't mặc cả as much as in Vietnam. When I first came đây, I paid double the thực price for everything.",
+      "start_time": 15.600000000000001,
+      "end_time": 30.900000000000002,
+      "viet_words": [
+        "mặc cả"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Mặc cả is an important skill đây. Do you know the word \"discount\"? I find it more effective than \"reduce it.\"",
+      "start_time": 31.400000000000002,
+      "end_time": 42.300000000000004,
+      "viet_words": [
+        "mặc cả"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Discount? I'll try that. But more importantly is to biết the thực giá before you mặc cả. Mặc cả without knowing the real giá just makes you look silly... như you yesterday.",
+      "start_time": 42.800000000000004,
+      "end_time": 60.0,
+      "viet_words": [
+        "giá",
+        "biết",
+        "mặc cả"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Hey! I didn't look silly... just a bit awkward. Next time, would you go to the market with me? I want to learn how to mặc cả from someone who has lived đây as long as you.",
+      "start_time": 60.5,
+      "end_time": 77.6,
+      "viet_words": [
+        "mặc cả"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Me? Teach you how to mặc cả? Aren't you Vietnamese-American? But... fine, if you really need help. When do you want to go?",
+      "start_time": 78.1,
+      "end_time": 90.3,
+      "viet_words": [
+        "mặc cả"
+      ]
+    }
+  ]
+}

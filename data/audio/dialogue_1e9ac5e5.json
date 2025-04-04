@@ -1,0 +1,323 @@
+{
+  "id": "1e9ac5e5",
+  "topic_word": "vinahouse",
+  "topic_word_translation": "vinahouse (Vietnamese electronic dance music)",
+  "common_words": [
+    {
+      "word": "thấy (verb)",
+      "translation": "to see/feel"
+    },
+    {
+      "word": "ồn ào (adjective)",
+      "translation": "noisy"
+    },
+    {
+      "word": "nhảy (verb)",
+      "translation": "to dance"
+    },
+    {
+      "word": "âm nhạc (noun)",
+      "translation": "music"
+    },
+    {
+      "word": "trải nghiệm (noun)",
+      "translation": "experience"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I <vietnamese>thấy</vietnamese>",
+      "start_time": 0.06,
+      "end_time": 1.65
+    },
+    {
+      "speaker": "Mira",
+      "text": "reality is not",
+      "start_time": 1.65,
+      "end_time": 2.2125
+    },
+    {
+      "speaker": "Mira",
+      "text": "always",
+      "start_time": 2.2125,
+      "end_time": 2.4
+    },
+    {
+      "speaker": "Mira",
+      "text": "what it seems.",
+      "start_time": 2.4,
+      "end_time": 3.03
+    },
+    {
+      "speaker": "Mira",
+      "text": "Like <vietnamese>vinahouse</vietnamese>",
+      "start_time": 3.03,
+      "end_time": 3.93
+    },
+    {
+      "speaker": "Mira",
+      "text": "music, it's",
+      "start_time": 3.93,
+      "end_time": 5.619999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>ồn ào</vietnamese> and",
+      "start_time": 5.67,
+      "end_time": 6.81
+    },
+    {
+      "speaker": "Mira",
+      "text": "fast but some",
+      "start_time": 6.81,
+      "end_time": 7.62
+    },
+    {
+      "speaker": "Mira",
+      "text": "people still",
+      "start_time": 7.62,
+      "end_time": 8.13
+    },
+    {
+      "speaker": "Michael",
+      "text": "like it. That's",
+      "start_time": 8.13,
+      "end_time": 9.24
+    },
+    {
+      "speaker": "Michael",
+      "text": "true, but <vietnamese>vinahouse</vietnamese>",
+      "start_time": 9.24,
+      "end_time": 10.17
+    },
+    {
+      "speaker": "Michael",
+      "text": "is part",
+      "start_time": 10.17,
+      "end_time": 11.43
+    },
+    {
+      "speaker": "Michael",
+      "text": "of modern Vietnamese",
+      "start_time": 11.43,
+      "end_time": 12.33
+    },
+    {
+      "speaker": "Michael",
+      "text": "culture. It helps",
+      "start_time": 12.33,
+      "end_time": 13.65
+    },
+    {
+      "speaker": "Michael",
+      "text": "people release stress",
+      "start_time": 13.65,
+      "end_time": 14.61
+    },
+    {
+      "speaker": "Michael",
+      "text": "when they <vietnamese>nhảy</vietnamese>.",
+      "start_time": 14.62,
+      "end_time": 15.76
+    },
+    {
+      "speaker": "Michael",
+      "text": "Don't you like",
+      "start_time": 15.81,
+      "end_time": 16.51
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>vinahouse</vietnamese>?",
+      "start_time": 16.71,
+      "end_time": 17.62
+    },
+    {
+      "speaker": "Mira",
+      "text": "I",
+      "start_time": 17.73,
+      "end_time": 17.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "find it too",
+      "start_time": 17.88,
+      "end_time": 18.91
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>ồn ào</vietnamese> and",
+      "start_time": 18.99,
+      "end_time": 20.18
+    },
+    {
+      "speaker": "Mira",
+      "text": "repetitive. In",
+      "start_time": 20.19,
+      "end_time": 21.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "Russia, our traditional",
+      "start_time": 21.27,
+      "end_time": 22.900000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>âm nhạc</vietnamese> is",
+      "start_time": 22.98,
+      "end_time": 23.94
+    },
+    {
+      "speaker": "Mira",
+      "text": "deeper. But I",
+      "start_time": 23.94,
+      "end_time": 25.26
+    },
+    {
+      "speaker": "Mira",
+      "text": "must admit, sometimes",
+      "start_time": 25.26,
+      "end_time": 26.76
+    },
+    {
+      "speaker": "Mira",
+      "text": "I find myself",
+      "start_time": 26.76,
+      "end_time": 27.57
+    },
+    {
+      "speaker": "Mira",
+      "text": "wanting to <vietnamese>nhảy</vietnamese>",
+      "start_time": 27.57,
+      "end_time": 29.290000000000003
+    },
+    {
+      "speaker": "Michael",
+      "text": "to <vietnamese>vinahouse</vietnamese>",
+      "start_time": 29.34,
+      "end_time": 30.36
+    },
+    {
+      "speaker": "Michael",
+      "text": "beats. That's",
+      "start_time": 30.36,
+      "end_time": 32.19
+    },
+    {
+      "speaker": "Michael",
+      "text": "interesting! Each culture",
+      "start_time": 32.19,
+      "end_time": 33.72
+    },
+    {
+      "speaker": "Michael",
+      "text": "has its own",
+      "start_time": 33.72,
+      "end_time": 34.17
+    },
+    {
+      "speaker": "Michael",
+      "text": "entertainment. Maybe next",
+      "start_time": 34.17,
+      "end_time": 35.64
+    },
+    {
+      "speaker": "Michael",
+      "text": "time we could",
+      "start_time": 35.64,
+      "end_time": 36.15
+    },
+    {
+      "speaker": "Michael",
+      "text": "go listen to",
+      "start_time": 36.15,
+      "end_time": 36.85
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>vinahouse</vietnamese>",
+      "start_time": 36.93,
+      "end_time": 37.84
+    },
+    {
+      "speaker": "Michael",
+      "text": "together? You'll <vietnamese>thấy</vietnamese>",
+      "start_time": 37.89,
+      "end_time": 39.67
+    },
+    {
+      "speaker": "Michael",
+      "text": "it differently when",
+      "start_time": 39.72,
+      "end_time": 40.47
+    },
+    {
+      "speaker": "Michael",
+      "text": "you <vietnamese>trải nghiệm</vietnamese>",
+      "start_time": 40.47,
+      "end_time": 41.65
+    },
+    {
+      "speaker": "Michael",
+      "text": "it",
+      "start_time": 41.7,
+      "end_time": 41.85
+    },
+    {
+      "speaker": "Mira",
+      "text": "directly. Are you",
+      "start_time": 41.85,
+      "end_time": 42.93
+    },
+    {
+      "speaker": "Mira",
+      "text": "asking me out?",
+      "start_time": 42.93,
+      "end_time": 43.9
+    },
+    {
+      "speaker": "Mira",
+      "text": "I'm not sure",
+      "start_time": 44.04,
+      "end_time": 44.61
+    },
+    {
+      "speaker": "Mira",
+      "text": "I can handle",
+      "start_time": 44.61,
+      "end_time": 45.43
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>vinahouse</vietnamese>",
+      "start_time": 45.51,
+      "end_time": 46.08
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>âm nhạc</vietnamese> for",
+      "start_time": 46.08,
+      "end_time": 46.95
+    },
+    {
+      "speaker": "Mira",
+      "text": "too long. But...",
+      "start_time": 46.95,
+      "end_time": 48.13
+    },
+    {
+      "speaker": "Mira",
+      "text": "what if you're",
+      "start_time": 48.96,
+      "end_time": 49.38
+    },
+    {
+      "speaker": "Mira",
+      "text": "there with me?",
+      "start_time": 49.38,
+      "end_time": 50.230000000000004
+    }
+  ]
+}

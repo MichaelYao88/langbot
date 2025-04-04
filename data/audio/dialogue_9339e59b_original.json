@@ -1,0 +1,72 @@
+{
+  "id": "9339e59b",
+  "topic_word": "trẻ trâu",
+  "topic_word_translation": "disobedient/unruly children (literally \"buffalo kids\")",
+  "common_words": [
+    {
+      "word": "dễ thương",
+      "translation": "cute/adorable"
+    },
+    {
+      "word": "văn hóa",
+      "translation": "culture"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Michael",
+      "text": "Did you see those trẻ trâu in the park yesterday? They were screaming so loudly I couldn't read my book.",
+      "start_time": 0.0,
+      "end_time": 10.4,
+      "viet_words": [
+        "trẻ trâu"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "The trẻ trâu in Vietnam are different from those in Russia. In my homeland, children are rarely allowed to be noisy in public places. But I find them dễ thương, they seem to be having fun.",
+      "start_time": 10.9,
+      "end_time": 29.700000000000003,
+      "viet_words": [
+        "dễ thương",
+        "trẻ trâu"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Dễ thương? Those trẻ trâu made me spill my coffee! I really don't understand why Vietnamese parents let their children run around uncontrolled like that.",
+      "start_time": 30.200000000000003,
+      "end_time": 45.5,
+      "viet_words": [
+        "dễ thương",
+        "trẻ trâu"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Not all Vietnamese children are trẻ trâu. You shouldn't judge other people's văn hóa based on a few cases. Maybe you don't fully understand life here yet.",
+      "start_time": 46.0,
+      "end_time": 61.4,
+      "viet_words": [
+        "văn hóa",
+        "trẻ trâu"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Perhaps you're right. I notice you seem to care a lot about children. Do you like kids?",
+      "start_time": 61.9,
+      "end_time": 70.6,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "I... I just think each văn hóa has its own way of raising children. Why are you asking if I like children?",
+      "start_time": 71.1,
+      "end_time": 81.69999999999999,
+      "viet_words": [
+        "văn hóa"
+      ]
+    }
+  ]
+}
