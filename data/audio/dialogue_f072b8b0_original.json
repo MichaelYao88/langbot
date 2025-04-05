@@ -1,0 +1,79 @@
+{
+  "id": "f072b8b0",
+  "topic_word": "đàn ông",
+  "topic_word_translation": "men",
+  "common_words": [
+    {
+      "word": "thích (verb)",
+      "translation": "like/prefer"
+    },
+    {
+      "word": "nghĩ (verb)",
+      "translation": "think"
+    },
+    {
+      "word": "ngực (noun)",
+      "translation": "breasts/chest"
+    },
+    {
+      "word": "mông (noun)",
+      "translation": "butt"
+    },
+    {
+      "word": "văn hóa (noun)",
+      "translation": "culture"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Have you heard Vietnamese girls saying whether Vietnamese đàn ông prefer nghĩ or mông more?",
+      "start_time": 0.0,
+      "end_time": 9.1,
+      "viet_words": [
+        "đàn ông"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "I nghĩ Vietnamese đàn ông usually thích nghĩ more, but it also depends on the individual. Why are you asking?",
+      "start_time": 9.6,
+      "end_time": 20.5,
+      "viet_words": [
+        "đàn ông"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Just curious! My friend told me that Vietnamese đàn ông are different from Russian men. In Russia, men thích mông more.",
+      "start_time": 21.0,
+      "end_time": 32.9,
+      "viet_words": [
+        "đàn ông"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's interesting. I didn't know văn hóa could influence such preferences. What do you nghĩ about this?",
+      "start_time": 33.4,
+      "end_time": 43.8,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "I nghĩ đàn ông are the same everywhere, but maybe văn hóa influences a little. What do you thích more... ah, I shouldn't ask that.",
+      "start_time": 44.3,
+      "end_time": 57.3,
+      "viet_words": [
+        "đàn ông"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "I... um... that's hard to answer. I nghĩ I appreciate both, but what's more important is the person who possesses them. Do you think it's strange that we're discussing this topic? TITLE_CARD: Boobs or Butt Debate?",
+      "start_time": 57.8,
+      "end_time": 79.1,
+      "viet_words": []
+    }
+  ]
+}

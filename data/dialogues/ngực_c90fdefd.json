@@ -1,0 +1,73 @@
+{
+  "id": "c90fdefd",
+  "timestamp": 1743769927,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Tôi thấy người phương Tây như anh thường thích mông hơn ngực. Đàn ông Nga chúng tôi lại khác."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thật ra tôi không phải người phương Tây thuần túy đâu. Nhưng đúng là vấn đề mông và ngực làm tôi nghĩ nhiều về sự khác biệt văn hóa."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Thú vị thật đấy! Đàn ông Nga thường thích ngực hơn. Có lẽ vì nó gợi cảm giác ấm áp trong thời tiết lạnh?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tôi chưa bao giờ nghĩ về điều đó. Nhưng nếu chúng ta cùng đi Nga một ngày nào đó, cô có thể giải thích thêm về văn hóa này không?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Anh muốn đi Nga với tôi à? Thật táo bạo khi nói về ngực, mông rồi lại rủ đi du lịch... Nhưng tôi thấy thú vị đấy."
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I notice Westerners like you usually thích mông more than ngực. Russian men like us are different."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Actually, I'm not purely Western. But it's true that the question of mông and ngực makes me think a lot about văn hóa differences."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Thú vị indeed! Russian men usually thích ngực more. Perhaps because it evokes warmth in cold weather?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "I've never thật thought about that. But if we go to Russia together someday, could you explain more about this văn hóa?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "You want to go to Russia with me? It's bold to talk about ngực, mông and then invite me traveling... But I find it thú vị."
+    }
+  ],
+  "topic_word": "ngực",
+  "topic_word_translation": "breasts",
+  "common_words": [
+    {
+      "word": "thích (verb)",
+      "translation": "to like"
+    },
+    {
+      "word": "thú vị (adjective)",
+      "translation": "interesting"
+    },
+    {
+      "word": "thật (adverb)",
+      "translation": "really/truly"
+    },
+    {
+      "word": "văn hóa (noun)",
+      "translation": "culture"
+    },
+    {
+      "word": "mông (noun)",
+      "translation": "buttocks"
+    }
+  ],
+  "title_card": "Chest or Butt?"
+}

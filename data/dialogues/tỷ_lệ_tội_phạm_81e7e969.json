@@ -1,0 +1,81 @@
+{
+  "id": "81e7e969",
+  "timestamp": 1743802386,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Tôi thấy tỷ lệ tội phạm ở Sài Gòn thấp hơn nhiều so với Moscow. Anh cảm thấy an toàn khi sống ở đây không?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Đúng vậy, tỷ lệ tội phạm ở đây khá thấp so với nhiều thành phố lớn khác. Tôi cảm thấy an toàn khi đi bộ buổi tối, không giống như ở Mỹ."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hừm, nhưng anh không thể phủ nhận vấn đề cướp giật vẫn còn. Tuần trước tôi suýt bị giật điện thoại khi đang đi bộ gần nhà."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tôi xin lỗi vì điều đó. Có lẽ... tôi nên đi cùng cô nhiều hơn để đảm bảo an toàn? Tôi biết vài đường tắt an toàn."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Anh nghĩ tôi cần người bảo vệ sao? Tôi từng sống ở Moscow đấy! Nhưng... có lẽ đi cùng nhau sẽ thú vị hơn."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tôi không nghĩ cô cần bảo vệ, nhưng tôi muốn có thêm thời gian bên cô. Cô nghĩ tỷ lệ tội phạm ở đâu đáng sợ hơn - Sài Gòn hay Moscow?"
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I find the tỷ lệ tội phạm in Saigon much lower than in Moscow. Do you cảm thấy an toàn living here?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's right, the tỷ lệ tội phạm here is quite low compared to many other big cities. I cảm thấy an toàn when đi bộ at night, unlike in America."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmph, but you can't deny that snatching issues still exist. Last week I almost had my phone snatched while đi bộ near my home."
+    },
+    {
+      "speaker": "Michael",
+      "text": "I'm sorry about that. Perhaps... I should accompany you more often to ensure safety? I know some an toàn shortcuts."
+    },
+    {
+      "speaker": "Mira",
+      "text": "You nghĩ I need a protector? I've sống in Moscow! But... perhaps going together would be more interesting."
+    },
+    {
+      "speaker": "Michael",
+      "text": "I don't nghĩ you need protection, but I want to spend more time with you. Where do you think the tỷ lệ tội phạm is scarier - Saigon or Moscow? TITLE_CARD: Dangerous Streets or Date Excuse?"
+    }
+  ],
+  "topic_word": "tỷ lệ tội phạm",
+  "topic_word_translation": "crime rate",
+  "common_words": [
+    {
+      "word": "cảm thấy (verb)",
+      "translation": "to feel"
+    },
+    {
+      "word": "an toàn (adjective)",
+      "translation": "safe"
+    },
+    {
+      "word": "đi bộ (verb)",
+      "translation": "to walk"
+    },
+    {
+      "word": "nghĩ (verb)",
+      "translation": "to think"
+    },
+    {
+      "word": "sống (verb)",
+      "translation": "to live"
+    }
+  ],
+  "title_card": "Dangerous Streets or Date Excuse?"
+}

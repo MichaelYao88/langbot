@@ -1,0 +1,72 @@
+{
+  "id": "9148bae6",
+  "topic_word": "khi nào",
+  "topic_word_translation": "when",
+  "common_words": [
+    {
+      "word": "nghĩ (verb)",
+      "translation": "think"
+    },
+    {
+      "word": "thích (verb)",
+      "translation": "like"
+    },
+    {
+      "word": "thời gian (noun)",
+      "translation": "time"
+    },
+    {
+      "word": "đợi (verb)",
+      "translation": "wait"
+    },
+    {
+      "word": "hiểu (verb)",
+      "translation": "understand"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Do you khi nào we can go see that movie? It's been three weeks since you promised.",
+      "start_time": 0.0,
+      "end_time": 8.200000000000001,
+      "viet_words": [
+        "khi nào"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "We'll go when you're free. But honestly, I nghĩ waiting a bit longer might be better because the theater will be less crowded.",
+      "start_time": 8.700000000000001,
+      "end_time": 21.300000000000004,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't thích đợi that long. Khi nào will you hiểu that I hate delays? We Russians thích everything on time.",
+      "start_time": 21.800000000000004,
+      "end_time": 32.60000000000001,
+      "viet_words": [
+        "khi nào"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Maybe khi nào you hiểu that sometimes patience brings better experiences. I want to have thời gian alone with you, not squeeze in with crowds.",
+      "start_time": 33.10000000000001,
+      "end_time": 47.30000000000001,
+      "viet_words": [
+        "khi nào"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Thời gian alone? You nghĩ I want... oh, I mean... khi nào will you stop saying things that make me flustered like that?",
+      "start_time": 47.80000000000001,
+      "end_time": 59.70000000000001,
+      "viet_words": [
+        "khi nào"
+      ]
+    }
+  ]
+}

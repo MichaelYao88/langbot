@@ -1,0 +1,73 @@
+{
+  "id": "9148bae6",
+  "timestamp": 1743768754,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Anh có nghĩ khi nào chúng ta mới có thể đi xem bộ phim đó không? Đã ba tuần từ khi anh hứa rồi."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Khi nào em rảnh thì chúng ta sẽ đi. Nhưng thực sự, tôi nghĩ việc đợi thêm một thời gian có thể tốt hơn vì phòng chiếu sẽ bớt đông."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tôi không thích đợi lâu như vậy. Khi nào anh mới hiểu là tôi ghét sự trì hoãn? Người Nga chúng tôi thích mọi thứ đúng giờ."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Có lẽ khi nào em hiểu rằng đôi khi sự kiên nhẫn mang lại trải nghiệm tốt hơn. Tôi muốn có thời gian riêng với em, không phải chen chúc với đám đông."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Thời gian riêng? Anh nghĩ tôi muốn... à, ý tôi là... Khi nào anh mới thôi nói những điều khiến tôi bối rối như vậy?"
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Do you khi nào we can go see that movie? It's been three weeks since you promised."
+    },
+    {
+      "speaker": "Michael",
+      "text": "We'll go when you're free. But honestly, I nghĩ waiting a bit longer might be better because the theater will be less crowded."
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't thích đợi that long. Khi nào will you hiểu that I hate delays? We Russians thích everything on time."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Maybe khi nào you hiểu that sometimes patience brings better experiences. I want to have thời gian alone with you, not squeeze in with crowds."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Thời gian alone? You nghĩ I want... oh, I mean... khi nào will you stop saying things that make me flustered like that?"
+    }
+  ],
+  "topic_word": "khi nào",
+  "topic_word_translation": "when",
+  "common_words": [
+    {
+      "word": "nghĩ (verb)",
+      "translation": "think"
+    },
+    {
+      "word": "thích (verb)",
+      "translation": "like"
+    },
+    {
+      "word": "thời gian (noun)",
+      "translation": "time"
+    },
+    {
+      "word": "đợi (verb)",
+      "translation": "wait"
+    },
+    {
+      "word": "hiểu (verb)",
+      "translation": "understand"
+    }
+  ],
+    "title_card": "You promised!"
+}

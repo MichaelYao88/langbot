@@ -1,0 +1,437 @@
+{
+  "id": "bbb94285",
+  "topic_word": "đợi",
+  "topic_word_translation": "wait",
+  "common_words": [
+    {
+      "word": "kết hôn",
+      "translation": "marriage (noun)"
+    },
+    {
+      "word": "người",
+      "translation": "person/people (noun)"
+    },
+    {
+      "word": "nghĩ",
+      "translation": "think (verb)"
+    },
+    {
+      "word": "đúng đắn",
+      "translation": "right/correct (adjective)"
+    },
+    {
+      "word": "không",
+      "translation": "no/not (negation)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "They're watching us.",
+      "start_time": 0.0,
+      "end_time": 1.2100000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "Act normal!",
+      "start_time": 1.29,
+      "end_time": 2.7
+    },
+    {
+      "speaker": "Mira",
+      "text": "Don't look,",
+      "start_time": 2.7,
+      "end_time": 3.48
+    },
+    {
+      "speaker": "Mira",
+      "text": "but there are",
+      "start_time": 3.48,
+      "end_time": 4.17
+    },
+    {
+      "speaker": "Mira",
+      "text": "two men in",
+      "start_time": 4.17,
+      "end_time": 4.8
+    },
+    {
+      "speaker": "Mira",
+      "text": "black over there.",
+      "start_time": 4.8,
+      "end_time": 5.83
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? I don't",
+      "start_time": 6.21,
+      "end_time": 6.69
+    },
+    {
+      "speaker": "Michael",
+      "text": "see anyone.",
+      "start_time": 6.69,
+      "end_time": 8.4
+    },
+    {
+      "speaker": "Michael",
+      "text": "Maybe you've been",
+      "start_time": 8.4,
+      "end_time": 9.06
+    },
+    {
+      "speaker": "Michael",
+      "text": "reading too many",
+      "start_time": 9.06,
+      "end_time": 10.33
+    },
+    {
+      "speaker": "Michael",
+      "text": "detective novels.",
+      "start_time": 10.59,
+      "end_time": 11.46
+    },
+    {
+      "speaker": "Mira",
+      "text": "Idiot! I'm not",
+      "start_time": 11.46,
+      "end_time": 11.865
+    },
+    {
+      "speaker": "Mira",
+      "text": "joking.",
+      "start_time": 11.865,
+      "end_time": 12.02
+    },
+    {
+      "speaker": "Mira",
+      "text": "It's just like",
+      "start_time": 12.03,
+      "end_time": 12.4125
+    },
+    {
+      "speaker": "Mira",
+      "text": "how",
+      "start_time": 12.4125,
+      "end_time": 12.54
+    },
+    {
+      "speaker": "Mira",
+      "text": "you <vietnamese>nghĩ</vietnamese> about",
+      "start_time": 12.54,
+      "end_time": 13.78
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>kết hôn</vietnamese>.",
+      "start_time": 13.86,
+      "end_time": 15.38
+    },
+    {
+      "speaker": "Mira",
+      "text": "Do you believe",
+      "start_time": 15.39,
+      "end_time": 16.0425
+    },
+    {
+      "speaker": "Mira",
+      "text": "in",
+      "start_time": 16.0425,
+      "end_time": 16.279999999999998
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>đợi</vietnamese> until",
+      "start_time": 16.29,
+      "end_time": 18.040000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>kết hôn</vietnamese>?",
+      "start_time": 18.12,
+      "end_time": 19.17
+    },
+    {
+      "speaker": "Michael",
+      "text": "Wait for what?",
+      "start_time": 19.17,
+      "end_time": 19.819999999999997
+    },
+    {
+      "speaker": "Michael",
+      "text": "Oh, that...",
+      "start_time": 19.83,
+      "end_time": 21.91
+    },
+    {
+      "speaker": "Michael",
+      "text": "I <vietnamese>nghĩ</vietnamese> each",
+      "start_time": 21.96,
+      "end_time": 23.01
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>người</vietnamese> has the right",
+      "start_time": 23.01,
+      "end_time": 23.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "to decide for",
+      "start_time": 23.7,
+      "end_time": 24.5325
+    },
+    {
+      "speaker": "Michael",
+      "text": "themselves.",
+      "start_time": 24.5325,
+      "end_time": 24.81
+    },
+    {
+      "speaker": "Michael",
+      "text": "But I respect",
+      "start_time": 24.81,
+      "end_time": 25.86
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>những người</vietnamese> who want",
+      "start_time": 25.86,
+      "end_time": 26.82
+    },
+    {
+      "speaker": "Michael",
+      "text": "to <vietnamese>đợi</vietnamese> until",
+      "start_time": 26.82,
+      "end_time": 28.08
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>kết hôn</vietnamese>.",
+      "start_time": 28.08,
+      "end_time": 29.290000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "I've always believed",
+      "start_time": 29.37,
+      "end_time": 29.9775
+    },
+    {
+      "speaker": "Mira",
+      "text": "that",
+      "start_time": 29.9775,
+      "end_time": 30.18
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>đợi</vietnamese> until",
+      "start_time": 30.18,
+      "end_time": 31.93
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>kết hôn</vietnamese> is",
+      "start_time": 32.01,
+      "end_time": 33.22
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>đúng đắn</vietnamese>.",
+      "start_time": 33.3,
+      "end_time": 34.32
+    },
+    {
+      "speaker": "Mira",
+      "text": "In Russia,",
+      "start_time": 34.32,
+      "end_time": 35.46
+    },
+    {
+      "speaker": "Mira",
+      "text": "my family is",
+      "start_time": 35.46,
+      "end_time": 36.52
+    },
+    {
+      "speaker": "Mira",
+      "text": "very traditional.",
+      "start_time": 36.66,
+      "end_time": 38.14
+    },
+    {
+      "speaker": "Mira",
+      "text": "But many <vietnamese>người</vietnamese>",
+      "start_time": 38.19,
+      "end_time": 38.82
+    },
+    {
+      "speaker": "Mira",
+      "text": "think this view",
+      "start_time": 38.82,
+      "end_time": 39.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "is outdated.",
+      "start_time": 39.6,
+      "end_time": 39.84
+    },
+    {
+      "speaker": "Michael",
+      "text": "It's <vietnamese>không</vietnamese> outdated,",
+      "start_time": 39.84,
+      "end_time": 41.89
+    },
+    {
+      "speaker": "Michael",
+      "text": "just cultural differences.",
+      "start_time": 41.91,
+      "end_time": 43.300000000000004
+    },
+    {
+      "speaker": "Michael",
+      "text": "I <vietnamese>nghĩ</vietnamese> if",
+      "start_time": 43.68,
+      "end_time": 45.01
+    },
+    {
+      "speaker": "Michael",
+      "text": "two <vietnamese>người</vietnamese> truly",
+      "start_time": 45.09,
+      "end_time": 46.17
+    },
+    {
+      "speaker": "Michael",
+      "text": "love each other,",
+      "start_time": 46.17,
+      "end_time": 46.910000000000004
+    },
+    {
+      "speaker": "Michael",
+      "text": "they'll respect each",
+      "start_time": 46.92,
+      "end_time": 47.67
+    },
+    {
+      "speaker": "Michael",
+      "text": "other's boundaries.",
+      "start_time": 47.67,
+      "end_time": 48.67
+    },
+    {
+      "speaker": "Michael",
+      "text": "What do you",
+      "start_time": 48.81,
+      "end_time": 49.035
+    },
+    {
+      "speaker": "Michael",
+      "text": "think",
+      "start_time": 49.035,
+      "end_time": 49.11
+    },
+    {
+      "speaker": "Michael",
+      "text": "about <vietnamese>những người</vietnamese>",
+      "start_time": 49.11,
+      "end_time": 50.22
+    },
+    {
+      "speaker": "Michael",
+      "text": "who don't <vietnamese>đợi</vietnamese>?",
+      "start_time": 50.22,
+      "end_time": 52.06
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Người</vietnamese> have the",
+      "start_time": 52.26,
+      "end_time": 53.34
+    },
+    {
+      "speaker": "Mira",
+      "text": "right to choose,",
+      "start_time": 53.34,
+      "end_time": 54.31
+    },
+    {
+      "speaker": "Mira",
+      "text": "but I find",
+      "start_time": 54.39,
+      "end_time": 55.300000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>đợi</vietnamese> until",
+      "start_time": 55.41,
+      "end_time": 57.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>kết hôn</vietnamese> creates",
+      "start_time": 57.0,
+      "end_time": 58.44
+    },
+    {
+      "speaker": "Mira",
+      "text": "something special.",
+      "start_time": 58.44,
+      "end_time": 59.91
+    },
+    {
+      "speaker": "Mira",
+      "text": "Like a chess",
+      "start_time": 59.91,
+      "end_time": 61.0575
+    },
+    {
+      "speaker": "Mira",
+      "text": "game,",
+      "start_time": 61.0575,
+      "end_time": 61.44
+    },
+    {
+      "speaker": "Mira",
+      "text": "sometimes you have",
+      "start_time": 61.44,
+      "end_time": 61.8
+    },
+    {
+      "speaker": "Mira",
+      "text": "to be patient",
+      "start_time": 61.8,
+      "end_time": 63.160000000000004
+    },
+    {
+      "speaker": "Mira",
+      "text": "and <vietnamese>đợi</vietnamese> for",
+      "start_time": 63.24,
+      "end_time": 64.05
+    },
+    {
+      "speaker": "Mira",
+      "text": "the perfect move.",
+      "start_time": 64.05,
+      "end_time": 65.52
+    },
+    {
+      "speaker": "Mira",
+      "text": "Those men are",
+      "start_time": 65.52,
+      "end_time": 66.09
+    },
+    {
+      "speaker": "Mira",
+      "text": "still looking at",
+      "start_time": 66.09,
+      "end_time": 66.7875
+    },
+    {
+      "speaker": "Mira",
+      "text": "us!",
+      "start_time": 66.7875,
+      "end_time": 67.11999999999999
+    }
+  ]
+}

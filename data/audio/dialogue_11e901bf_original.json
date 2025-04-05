@@ -1,0 +1,79 @@
+{
+  "id": "11e901bf",
+  "topic_word": "an toàn",
+  "topic_word_translation": "safe/safety",
+  "common_words": [
+    {
+      "word": "cảm thấy (verb)",
+      "translation": "to feel"
+    },
+    {
+      "word": "đường phố (noun)",
+      "translation": "streets"
+    },
+    {
+      "word": "phụ nữ (noun)",
+      "translation": "women"
+    },
+    {
+      "word": "đi (verb)",
+      "translation": "to go/walk"
+    },
+    {
+      "word": "buổi tối (noun)",
+      "translation": "evening"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I cảm thấy an toàn when đi walking on đường phố in Saigon during buổi tối. Phụ nữ in Russia don't dare to go out alone.",
+      "start_time": 0.0,
+      "end_time": 11.9,
+      "viet_words": [
+        "an toàn"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? America is the same, many areas aren't an toàn for phụ nữ. I like that Vietnam has many people on đường phố at night.",
+      "start_time": 12.4,
+      "end_time": 24.9,
+      "viet_words": [
+        "an toàn"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's right, the đường phố here are always crowded. But sometimes I find the way Vietnamese men look at me... a bit strange.",
+      "start_time": 25.4,
+      "end_time": 37.9,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Maybe because you're a beautiful foreigner. But I understand that uncomfortable cảm thấy. I could đi with you during buổi tối if you want to feel more an toàn.",
+      "start_time": 38.4,
+      "end_time": 54.3,
+      "viet_words": [
+        "an toàn"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "You think I need protection? I play chess, I know how to calculate every situation. But... if you want to đi with me, I won't refuse.",
+      "start_time": 54.8,
+      "end_time": 68.1,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "So tomorrow buổi tối would you like to take a walk and tell me more about your thoughts on an toàn for phụ nữ in Vietnam? TITLE_CARD: Safe Streets for Women?",
+      "start_time": 68.6,
+      "end_time": 84.3,
+      "viet_words": [
+        "an toàn"
+      ]
+    }
+  ]
+}

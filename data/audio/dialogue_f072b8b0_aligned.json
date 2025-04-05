@@ -1,0 +1,323 @@
+{
+  "id": "f072b8b0",
+  "topic_word": "đàn ông",
+  "topic_word_translation": "men",
+  "common_words": [
+    {
+      "word": "thích (verb)",
+      "translation": "like/prefer"
+    },
+    {
+      "word": "nghĩ (verb)",
+      "translation": "think"
+    },
+    {
+      "word": "ngực (noun)",
+      "translation": "breasts/chest"
+    },
+    {
+      "word": "mông (noun)",
+      "translation": "butt"
+    },
+    {
+      "word": "văn hóa (noun)",
+      "translation": "culture"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Have you heard",
+      "start_time": 0.06,
+      "end_time": 0.51
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese girls saying",
+      "start_time": 0.51,
+      "end_time": 1.77
+    },
+    {
+      "speaker": "Mira",
+      "text": "whether Vietnamese",
+      "start_time": 1.77,
+      "end_time": 2.83
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>đàn ông</vietnamese> prefer",
+      "start_time": 2.97,
+      "end_time": 4.23
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>nghĩ</vietnamese> or",
+      "start_time": 4.23,
+      "end_time": 5.859999999999999
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>mông</vietnamese> more?",
+      "start_time": 5.94,
+      "end_time": 6.58
+    },
+    {
+      "speaker": "Michael",
+      "text": "I <vietnamese>nghĩ</vietnamese> Vietnamese",
+      "start_time": 6.69,
+      "end_time": 9.49
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>đàn ông</vietnamese> usually",
+      "start_time": 9.6,
+      "end_time": 11.049999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>thích nghĩ</vietnamese> more,",
+      "start_time": 11.16,
+      "end_time": 12.36
+    },
+    {
+      "speaker": "Michael",
+      "text": "but it also",
+      "start_time": 12.36,
+      "end_time": 12.9
+    },
+    {
+      "speaker": "Michael",
+      "text": "depends on the",
+      "start_time": 12.9,
+      "end_time": 13.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "individual. Why are",
+      "start_time": 13.41,
+      "end_time": 14.46
+    },
+    {
+      "speaker": "Michael",
+      "text": "you",
+      "start_time": 14.46,
+      "end_time": 14.61
+    },
+    {
+      "speaker": "Mira",
+      "text": "asking? Just curious!",
+      "start_time": 14.61,
+      "end_time": 16.330000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "My friend told",
+      "start_time": 16.59,
+      "end_time": 17.25
+    },
+    {
+      "speaker": "Mira",
+      "text": "me that Vietnamese",
+      "start_time": 17.25,
+      "end_time": 18.43
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>đàn ông</vietnamese> are",
+      "start_time": 18.54,
+      "end_time": 19.56
+    },
+    {
+      "speaker": "Mira",
+      "text": "different from Russian",
+      "start_time": 19.56,
+      "end_time": 20.58
+    },
+    {
+      "speaker": "Mira",
+      "text": "men. In Russia,",
+      "start_time": 20.58,
+      "end_time": 21.47
+    },
+    {
+      "speaker": "Mira",
+      "text": "men <vietnamese>thích mông</vietnamese>",
+      "start_time": 21.48,
+      "end_time": 22.84
+    },
+    {
+      "speaker": "Mira",
+      "text": "more.",
+      "start_time": 22.92,
+      "end_time": 23.53
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's interesting. I",
+      "start_time": 23.67,
+      "end_time": 24.48
+    },
+    {
+      "speaker": "Michael",
+      "text": "didn't know <vietnamese>văn hóa</vietnamese>",
+      "start_time": 24.48,
+      "end_time": 26.05
+    },
+    {
+      "speaker": "Michael",
+      "text": "could influence such",
+      "start_time": 26.1,
+      "end_time": 26.94
+    },
+    {
+      "speaker": "Michael",
+      "text": "preferences. What do",
+      "start_time": 26.94,
+      "end_time": 27.84
+    },
+    {
+      "speaker": "Michael",
+      "text": "you <vietnamese>nghĩ</vietnamese> about",
+      "start_time": 27.85,
+      "end_time": 29.31
+    },
+    {
+      "speaker": "Michael",
+      "text": "this?",
+      "start_time": 29.31,
+      "end_time": 30.790000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "I <vietnamese>nghĩ</vietnamese> <vietnamese>đàn ông</vietnamese> are the",
+      "start_time": 30.87,
+      "end_time": 31.59
+    },
+    {
+      "speaker": "Mira",
+      "text": "same everywhere, but",
+      "start_time": 31.59,
+      "end_time": 32.79
+    },
+    {
+      "speaker": "Mira",
+      "text": "maybe <vietnamese>văn hóa</vietnamese>",
+      "start_time": 32.79,
+      "end_time": 34.42
+    },
+    {
+      "speaker": "Mira",
+      "text": "influences a little.",
+      "start_time": 34.47,
+      "end_time": 35.74
+    },
+    {
+      "speaker": "Mira",
+      "text": "What do you",
+      "start_time": 36.84,
+      "end_time": 37.72
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>thích</vietnamese> more...",
+      "start_time": 37.86,
+      "end_time": 39.59
+    },
+    {
+      "speaker": "Mira",
+      "text": "ah, I shouldn't",
+      "start_time": 39.6,
+      "end_time": 40.185
+    },
+    {
+      "speaker": "Mira",
+      "text": "ask",
+      "start_time": 40.185,
+      "end_time": 40.38
+    },
+    {
+      "speaker": "Michael",
+      "text": "that. I...",
+      "start_time": 40.38,
+      "end_time": 42.76
+    },
+    {
+      "speaker": "Michael",
+      "text": "um...",
+      "start_time": 43.62,
+      "end_time": 44.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "that's hard to",
+      "start_time": 44.04,
+      "end_time": 46.43
+    },
+    {
+      "speaker": "Michael",
+      "text": "answer. I <vietnamese>nghĩ</vietnamese>",
+      "start_time": 46.44,
+      "end_time": 47.620000000000005
+    },
+    {
+      "speaker": "Michael",
+      "text": "I appreciate both,",
+      "start_time": 47.7,
+      "end_time": 48.24
+    },
+    {
+      "speaker": "Michael",
+      "text": "but what's more",
+      "start_time": 48.24,
+      "end_time": 48.9
+    },
+    {
+      "speaker": "Michael",
+      "text": "important is the",
+      "start_time": 48.9,
+      "end_time": 49.83
+    },
+    {
+      "speaker": "Michael",
+      "text": "person who possesses",
+      "start_time": 49.83,
+      "end_time": 50.91
+    },
+    {
+      "speaker": "Michael",
+      "text": "them. Do you",
+      "start_time": 50.91,
+      "end_time": 51.6
+    },
+    {
+      "speaker": "Michael",
+      "text": "think it's strange",
+      "start_time": 51.6,
+      "end_time": 52.29
+    },
+    {
+      "speaker": "Michael",
+      "text": "that we're discussing",
+      "start_time": 52.29,
+      "end_time": 54.09
+    },
+    {
+      "speaker": "Michael",
+      "text": "this topic?",
+      "start_time": 54.09,
+      "end_time": 55.26
+    },
+    {
+      "speaker": "TITLE_CARD",
+      "text": "Boobs or Butt",
+      "start_time": 55.26,
+      "end_time": 55.7325
+    },
+    {
+      "speaker": "TITLE_CARD",
+      "text": "Debate?",
+      "start_time": 55.7325,
+      "end_time": 55.99
+    }
+  ]
+}

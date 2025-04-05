@@ -1,0 +1,341 @@
+{
+  "id": "81e7e969",
+  "topic_word": "tỷ lệ tội phạm",
+  "topic_word_translation": "crime rate",
+  "common_words": [
+    {
+      "word": "cảm thấy (verb)",
+      "translation": "to feel"
+    },
+    {
+      "word": "an toàn (adjective)",
+      "translation": "safe"
+    },
+    {
+      "word": "đi bộ (verb)",
+      "translation": "to walk"
+    },
+    {
+      "word": "nghĩ (verb)",
+      "translation": "to think"
+    },
+    {
+      "word": "sống (verb)",
+      "translation": "to live"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I find the",
+      "start_time": 0.03,
+      "end_time": 1.155
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>tỷ lệ tội phạm</vietnamese>",
+      "start_time": 1.155,
+      "end_time": 1.53
+    },
+    {
+      "speaker": "Mira",
+      "text": "in Saigon",
+      "start_time": 1.53,
+      "end_time": 2.64
+    },
+    {
+      "speaker": "Mira",
+      "text": "much lower than",
+      "start_time": 2.64,
+      "end_time": 3.39
+    },
+    {
+      "speaker": "Mira",
+      "text": "in Moscow.",
+      "start_time": 3.39,
+      "end_time": 4.26
+    },
+    {
+      "speaker": "Mira",
+      "text": "Do you <vietnamese>cảm thấy an toàn</vietnamese>",
+      "start_time": 4.26,
+      "end_time": 5.59
+    },
+    {
+      "speaker": "Mira",
+      "text": "living here?",
+      "start_time": 5.67,
+      "end_time": 7.17
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's right,",
+      "start_time": 7.17,
+      "end_time": 8.41
+    },
+    {
+      "speaker": "Michael",
+      "text": "the <vietnamese>tỷ lệ tội phạm</vietnamese>",
+      "start_time": 8.43,
+      "end_time": 10.38
+    },
+    {
+      "speaker": "Michael",
+      "text": "here is quite",
+      "start_time": 10.38,
+      "end_time": 11.122499999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "low",
+      "start_time": 11.122499999999999,
+      "end_time": 11.369999999999997
+    },
+    {
+      "speaker": "Michael",
+      "text": "compared to many",
+      "start_time": 11.37,
+      "end_time": 11.97
+    },
+    {
+      "speaker": "Michael",
+      "text": "other big cities.",
+      "start_time": 11.97,
+      "end_time": 13.959999999999999
+    },
+    {
+      "speaker": "Michael",
+      "text": "I <vietnamese>cảm thấy an toàn</vietnamese>",
+      "start_time": 13.98,
+      "end_time": 15.7
+    },
+    {
+      "speaker": "Michael",
+      "text": "when <vietnamese>đi bộ</vietnamese>",
+      "start_time": 15.81,
+      "end_time": 16.62
+    },
+    {
+      "speaker": "Michael",
+      "text": "at night, unlike",
+      "start_time": 16.62,
+      "end_time": 17.49
+    },
+    {
+      "speaker": "Michael",
+      "text": "in America.",
+      "start_time": 17.49,
+      "end_time": 18.0
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmph, but you",
+      "start_time": 18.0,
+      "end_time": 20.34
+    },
+    {
+      "speaker": "Mira",
+      "text": "can't deny that",
+      "start_time": 20.34,
+      "end_time": 21.75
+    },
+    {
+      "speaker": "Mira",
+      "text": "snatching issues still",
+      "start_time": 21.75,
+      "end_time": 22.919999999999998
+    },
+    {
+      "speaker": "Mira",
+      "text": "exist.",
+      "start_time": 22.919999999999998,
+      "end_time": 23.31
+    },
+    {
+      "speaker": "Mira",
+      "text": "Last week I",
+      "start_time": 23.31,
+      "end_time": 24.21
+    },
+    {
+      "speaker": "Mira",
+      "text": "almost had my",
+      "start_time": 24.21,
+      "end_time": 25.08
+    },
+    {
+      "speaker": "Mira",
+      "text": "phone snatched while",
+      "start_time": 25.08,
+      "end_time": 26.2275
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>đi bộ</vietnamese>",
+      "start_time": 26.2275,
+      "end_time": 26.61
+    },
+    {
+      "speaker": "Mira",
+      "text": "near my home.",
+      "start_time": 26.61,
+      "end_time": 27.66
+    },
+    {
+      "speaker": "Michael",
+      "text": "I'm sorry about",
+      "start_time": 27.66,
+      "end_time": 28.8975
+    },
+    {
+      "speaker": "Michael",
+      "text": "that.",
+      "start_time": 28.8975,
+      "end_time": 29.310000000000002
+    },
+    {
+      "speaker": "Michael",
+      "text": "Perhaps... I should",
+      "start_time": 29.31,
+      "end_time": 31.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "accompany you more",
+      "start_time": 31.2,
+      "end_time": 31.92
+    },
+    {
+      "speaker": "Michael",
+      "text": "often to ensure",
+      "start_time": 31.92,
+      "end_time": 32.61
+    },
+    {
+      "speaker": "Michael",
+      "text": "safety? I know",
+      "start_time": 32.61,
+      "end_time": 34.38
+    },
+    {
+      "speaker": "Michael",
+      "text": "some <vietnamese>an toàn</vietnamese>",
+      "start_time": 34.38,
+      "end_time": 35.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "shortcuts.",
+      "start_time": 35.04,
+      "end_time": 36.49
+    },
+    {
+      "speaker": "Mira",
+      "text": "You <vietnamese>nghĩ</vietnamese> I",
+      "start_time": 36.6,
+      "end_time": 38.07
+    },
+    {
+      "speaker": "Mira",
+      "text": "need a protector?",
+      "start_time": 38.07,
+      "end_time": 38.88
+    },
+    {
+      "speaker": "Mira",
+      "text": "I've <vietnamese>sống</vietnamese> in",
+      "start_time": 38.88,
+      "end_time": 40.29
+    },
+    {
+      "speaker": "Mira",
+      "text": "Moscow! But...",
+      "start_time": 40.29,
+      "end_time": 42.33
+    },
+    {
+      "speaker": "Mira",
+      "text": "perhaps going",
+      "start_time": 42.33,
+      "end_time": 42.66
+    },
+    {
+      "speaker": "Mira",
+      "text": "together would be",
+      "start_time": 42.66,
+      "end_time": 43.35
+    },
+    {
+      "speaker": "Mira",
+      "text": "more interesting.",
+      "start_time": 43.35,
+      "end_time": 44.61
+    },
+    {
+      "speaker": "Michael",
+      "text": "I don't <vietnamese>nghĩ</vietnamese> you",
+      "start_time": 44.61,
+      "end_time": 46.17
+    },
+    {
+      "speaker": "Michael",
+      "text": "need protection, but",
+      "start_time": 46.17,
+      "end_time": 47.37
+    },
+    {
+      "speaker": "Michael",
+      "text": "I want to",
+      "start_time": 47.37,
+      "end_time": 47.67
+    },
+    {
+      "speaker": "Michael",
+      "text": "spend more time",
+      "start_time": 47.67,
+      "end_time": 48.39
+    },
+    {
+      "speaker": "Michael",
+      "text": "with you. Where",
+      "start_time": 48.39,
+      "end_time": 49.2
+    },
+    {
+      "speaker": "Michael",
+      "text": "do you think",
+      "start_time": 49.2,
+      "end_time": 49.65
+    },
+    {
+      "speaker": "Michael",
+      "text": "the <vietnamese>tỷ lệ tội phạm</vietnamese>",
+      "start_time": 49.65,
+      "end_time": 50.76
+    },
+    {
+      "speaker": "Michael",
+      "text": "is scarier -",
+      "start_time": 50.76,
+      "end_time": 52.02
+    },
+    {
+      "speaker": "Michael",
+      "text": "Saigon or Moscow?",
+      "start_time": 52.02,
+      "end_time": 53.26
+    },
+    {
+      "speaker": "TITLE_CARD",
+      "text": "Dangerous Streets",
+      "start_time": 53.67,
+      "end_time": 55.56
+    },
+    {
+      "speaker": "TITLE_CARD",
+      "text": "or Date Excuse?",
+      "start_time": 55.56,
+      "end_time": 56.17
+    }
+  ]
+}

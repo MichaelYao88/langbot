@@ -1,0 +1,911 @@
+{
+  "id": "9148bae6",
+  "topic_word": "khi nào",
+  "topic_word_translation": "when",
+  "common_words": [
+    {
+      "word": "nghĩ (verb)",
+      "translation": "think"
+    },
+    {
+      "word": "thích (verb)",
+      "translation": "like"
+    },
+    {
+      "word": "thời gian (noun)",
+      "translation": "time"
+    },
+    {
+      "word": "đợi (verb)",
+      "translation": "wait"
+    },
+    {
+      "word": "hiểu (verb)",
+      "translation": "understand"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "do you see",
+      "start_time": 0.06,
+      "end_time": 0.9,
+      "word_timestamps": [
+        {
+          "word": "do",
+          "start": 0.06,
+          "end": 0.18
+        },
+        {
+          "word": "you",
+          "start": 0.18,
+          "end": 0.51
+        },
+        {
+          "word": "see",
+          "start": 0.66,
+          "end": 0.9
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "now we can",
+      "start_time": 0.9,
+      "end_time": 1.77,
+      "word_timestamps": [
+        {
+          "word": "now",
+          "start": 0.9,
+          "end": 1.32
+        },
+        {
+          "word": "we",
+          "start": 1.44,
+          "end": 1.62
+        },
+        {
+          "word": "can",
+          "start": 1.62,
+          "end": 1.77
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "go see that",
+      "start_time": 1.77,
+      "end_time": 2.22,
+      "word_timestamps": [
+        {
+          "word": "go",
+          "start": 1.77,
+          "end": 1.89
+        },
+        {
+          "word": "see",
+          "start": 1.89,
+          "end": 2.07
+        },
+        {
+          "word": "that",
+          "start": 2.07,
+          "end": 2.22
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "movie it's been",
+      "start_time": 2.22,
+      "end_time": 3.27,
+      "word_timestamps": [
+        {
+          "word": "movie",
+          "start": 2.22,
+          "end": 2.79
+        },
+        {
+          "word": "it's",
+          "start": 2.91,
+          "end": 3.09
+        },
+        {
+          "word": "been",
+          "start": 3.09,
+          "end": 3.27
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "three weeks since",
+      "start_time": 3.27,
+      "end_time": 3.99,
+      "word_timestamps": [
+        {
+          "word": "three",
+          "start": 3.27,
+          "end": 3.51
+        },
+        {
+          "word": "weeks",
+          "start": 3.51,
+          "end": 3.81
+        },
+        {
+          "word": "since",
+          "start": 3.81,
+          "end": 3.99
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "you promised will",
+      "start_time": 3.99,
+      "end_time": 5.22,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 3.99,
+          "end": 4.11
+        },
+        {
+          "word": "promised",
+          "start": 4.11,
+          "end": 4.8
+        },
+        {
+          "word": "will",
+          "start": 5.01,
+          "end": 5.22
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "go",
+      "start_time": 5.22,
+      "end_time": 5.4,
+      "word_timestamps": [
+        {
+          "word": "go",
+          "start": 5.22,
+          "end": 5.401394
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "when you're free",
+      "start_time": 5.4,
+      "end_time": 5.97,
+      "word_timestamps": [
+        {
+          "word": "when",
+          "start": 5.401394,
+          "end": 5.52
+        },
+        {
+          "word": "you're",
+          "start": 5.52,
+          "end": 5.67
+        },
+        {
+          "word": "free",
+          "start": 5.67,
+          "end": 5.97
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "but honestly i",
+      "start_time": 5.97,
+      "end_time": 6.84,
+      "word_timestamps": [
+        {
+          "word": "but",
+          "start": 5.97,
+          "end": 6.15
+        },
+        {
+          "word": "honestly",
+          "start": 6.15,
+          "end": 6.63
+        },
+        {
+          "word": "i",
+          "start": 6.66,
+          "end": 6.84
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "e waiting a",
+      "start_time": 7.05,
+      "end_time": 8.1,
+      "word_timestamps": [
+        {
+          "word": "e",
+          "start": 7.05,
+          "end": 7.65
+        },
+        {
+          "word": "waiting",
+          "start": 7.71,
+          "end": 8.07
+        },
+        {
+          "word": "a",
+          "start": 8.07,
+          "end": 8.1
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "bit longer might",
+      "start_time": 8.1,
+      "end_time": 8.94,
+      "word_timestamps": [
+        {
+          "word": "bit",
+          "start": 8.1,
+          "end": 8.34
+        },
+        {
+          "word": "longer",
+          "start": 8.34,
+          "end": 8.73
+        },
+        {
+          "word": "might",
+          "start": 8.73,
+          "end": 8.94
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "be better because",
+      "start_time": 8.94,
+      "end_time": 9.72,
+      "word_timestamps": [
+        {
+          "word": "be",
+          "start": 8.94,
+          "end": 9.06
+        },
+        {
+          "word": "better",
+          "start": 9.06,
+          "end": 9.39
+        },
+        {
+          "word": "because",
+          "start": 9.39,
+          "end": 9.72
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "the theater will",
+      "start_time": 9.72,
+      "end_time": 10.26,
+      "word_timestamps": [
+        {
+          "word": "the",
+          "start": 9.72,
+          "end": 9.81
+        },
+        {
+          "word": "theater",
+          "start": 9.81,
+          "end": 10.11
+        },
+        {
+          "word": "will",
+          "start": 10.11,
+          "end": 10.26
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "be less crowded",
+      "start_time": 10.26,
+      "end_time": 11.19,
+      "word_timestamps": [
+        {
+          "word": "be",
+          "start": 10.26,
+          "end": 10.38
+        },
+        {
+          "word": "less",
+          "start": 10.38,
+          "end": 10.65
+        },
+        {
+          "word": "crowded",
+          "start": 10.65,
+          "end": 11.19
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "i don't pick",
+      "start_time": 11.46,
+      "end_time": 12.51,
+      "word_timestamps": [
+        {
+          "word": "i",
+          "start": 11.46,
+          "end": 11.61
+        },
+        {
+          "word": "don't",
+          "start": 11.61,
+          "end": 12.12
+        },
+        {
+          "word": "pick",
+          "start": 12.27,
+          "end": 12.51
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "note that long",
+      "start_time": 12.51,
+      "end_time": 13.65,
+      "word_timestamps": [
+        {
+          "word": "note",
+          "start": 12.51,
+          "end": 12.839999
+        },
+        {
+          "word": "that",
+          "start": 12.99,
+          "end": 13.23
+        },
+        {
+          "word": "long",
+          "start": 13.23,
+          "end": 13.65
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "he now will",
+      "start_time": 13.89,
+      "end_time": 14.94,
+      "word_timestamps": [
+        {
+          "word": "he",
+          "start": 13.89,
+          "end": 14.13
+        },
+        {
+          "word": "now",
+          "start": 14.13,
+          "end": 14.55
+        },
+        {
+          "word": "will",
+          "start": 14.76,
+          "end": 14.94
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "you heal that",
+      "start_time": 14.94,
+      "end_time": 16.38,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 14.94,
+          "end": 15.27
+        },
+        {
+          "word": "heal",
+          "start": 15.45,
+          "end": 16.02
+        },
+        {
+          "word": "that",
+          "start": 16.17,
+          "end": 16.38
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "i hate delays",
+      "start_time": 16.38,
+      "end_time": 17.37,
+      "word_timestamps": [
+        {
+          "word": "i",
+          "start": 16.38,
+          "end": 16.44
+        },
+        {
+          "word": "hate",
+          "start": 16.44,
+          "end": 16.71
+        },
+        {
+          "word": "delays",
+          "start": 16.71,
+          "end": 17.37
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "we russians pick",
+      "start_time": 17.52,
+      "end_time": 18.93,
+      "word_timestamps": [
+        {
+          "word": "we",
+          "start": 17.52,
+          "end": 17.7
+        },
+        {
+          "word": "russians",
+          "start": 17.7,
+          "end": 18.45
+        },
+        {
+          "word": "pick",
+          "start": 18.63,
+          "end": 18.93
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "everything on time",
+      "start_time": 19.02,
+      "end_time": 20.1,
+      "word_timestamps": [
+        {
+          "word": "everything",
+          "start": 19.02,
+          "end": 19.5
+        },
+        {
+          "word": "on",
+          "start": 19.5,
+          "end": 19.65
+        },
+        {
+          "word": "time",
+          "start": 19.65,
+          "end": 20.1
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "maybe",
+      "start_time": 20.34,
+      "end_time": 20.79,
+      "word_timestamps": [
+        {
+          "word": "maybe",
+          "start": 20.34,
+          "end": 20.79
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "he now you",
+      "start_time": 21.03,
+      "end_time": 22.26,
+      "word_timestamps": [
+        {
+          "word": "he",
+          "start": 21.03,
+          "end": 21.24
+        },
+        {
+          "word": "now",
+          "start": 21.24,
+          "end": 21.72
+        },
+        {
+          "word": "you",
+          "start": 21.87,
+          "end": 22.26
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "heal that sometimes",
+      "start_time": 22.44,
+      "end_time": 23.55,
+      "word_timestamps": [
+        {
+          "word": "heal",
+          "start": 22.44,
+          "end": 22.83
+        },
+        {
+          "word": "that",
+          "start": 23.01,
+          "end": 23.16
+        },
+        {
+          "word": "sometimes",
+          "start": 23.16,
+          "end": 23.55
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "patients brings better",
+      "start_time": 23.55,
+      "end_time": 24.48,
+      "word_timestamps": [
+        {
+          "word": "patients",
+          "start": 23.55,
+          "end": 23.91
+        },
+        {
+          "word": "brings",
+          "start": 23.91,
+          "end": 24.21
+        },
+        {
+          "word": "better",
+          "start": 24.21,
+          "end": 24.48
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "experiences i want",
+      "start_time": 24.48,
+      "end_time": 25.77,
+      "word_timestamps": [
+        {
+          "word": "experiences",
+          "start": 24.48,
+          "end": 25.29
+        },
+        {
+          "word": "i",
+          "start": 25.53,
+          "end": 25.62
+        },
+        {
+          "word": "want",
+          "start": 25.62,
+          "end": 25.77
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "to have hae",
+      "start_time": 25.77,
+      "end_time": 26.97,
+      "word_timestamps": [
+        {
+          "word": "to",
+          "start": 25.77,
+          "end": 25.86
+        },
+        {
+          "word": "have",
+          "start": 25.86,
+          "end": 26.25
+        },
+        {
+          "word": "hae",
+          "start": 26.43,
+          "end": 26.97
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "jin alone with",
+      "start_time": 27.12,
+      "end_time": 27.78,
+      "word_timestamps": [
+        {
+          "word": "jin",
+          "start": 27.12,
+          "end": 27.33
+        },
+        {
+          "word": "alone",
+          "start": 27.33,
+          "end": 27.57
+        },
+        {
+          "word": "with",
+          "start": 27.57,
+          "end": 27.78
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "you not squeezing",
+      "start_time": 27.78,
+      "end_time": 28.68,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 27.78,
+          "end": 28.02
+        },
+        {
+          "word": "not",
+          "start": 28.05,
+          "end": 28.26
+        },
+        {
+          "word": "squeezing",
+          "start": 28.26,
+          "end": 28.68
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "with crowds pay",
+      "start_time": 28.68,
+      "end_time": 30.21,
+      "word_timestamps": [
+        {
+          "word": "with",
+          "start": 28.68,
+          "end": 28.8
+        },
+        {
+          "word": "crowds",
+          "start": 28.8,
+          "end": 29.28
+        },
+        {
+          "word": "pay",
+          "start": 29.64,
+          "end": 30.21
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "john alone you",
+      "start_time": 30.36,
+      "end_time": 31.41,
+      "word_timestamps": [
+        {
+          "word": "john",
+          "start": 30.36,
+          "end": 30.63
+        },
+        {
+          "word": "alone",
+          "start": 30.63,
+          "end": 31.05
+        },
+        {
+          "word": "you",
+          "start": 31.14,
+          "end": 31.41
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "me i want",
+      "start_time": 31.65,
+      "end_time": 32.88,
+      "word_timestamps": [
+        {
+          "word": "me",
+          "start": 31.65,
+          "end": 32.16
+        },
+        {
+          "word": "i",
+          "start": 32.31,
+          "end": 32.46
+        },
+        {
+          "word": "want",
+          "start": 32.46,
+          "end": 32.88
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "oh i mean",
+      "start_time": 32.97,
+      "end_time": 34.05,
+      "word_timestamps": [
+        {
+          "word": "oh",
+          "start": 32.97,
+          "end": 33.33
+        },
+        {
+          "word": "i",
+          "start": 33.42,
+          "end": 33.54
+        },
+        {
+          "word": "mean",
+          "start": 33.54,
+          "end": 34.05
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "he now will",
+      "start_time": 34.32,
+      "end_time": 35.37,
+      "word_timestamps": [
+        {
+          "word": "he",
+          "start": 34.32,
+          "end": 34.56
+        },
+        {
+          "word": "now",
+          "start": 34.56,
+          "end": 35.01
+        },
+        {
+          "word": "will",
+          "start": 35.16,
+          "end": 35.37
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "you stop saying",
+      "start_time": 35.37,
+      "end_time": 36.24,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 35.37,
+          "end": 35.43
+        },
+        {
+          "word": "stop",
+          "start": 35.43,
+          "end": 35.76
+        },
+        {
+          "word": "saying",
+          "start": 35.76,
+          "end": 36.24
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "things that make",
+      "start_time": 36.24,
+      "end_time": 36.87,
+      "word_timestamps": [
+        {
+          "word": "things",
+          "start": 36.24,
+          "end": 36.54
+        },
+        {
+          "word": "that",
+          "start": 36.54,
+          "end": 36.69
+        },
+        {
+          "word": "make",
+          "start": 36.69,
+          "end": 36.87
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "me flustered like",
+      "start_time": 36.87,
+      "end_time": 37.71,
+      "word_timestamps": [
+        {
+          "word": "me",
+          "start": 36.87,
+          "end": 36.99
+        },
+        {
+          "word": "flustered",
+          "start": 36.99,
+          "end": 37.5
+        },
+        {
+          "word": "like",
+          "start": 37.5,
+          "end": 37.71
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "that",
+      "start_time": 37.71,
+      "end_time": 38.07,
+      "word_timestamps": [
+        {
+          "word": "that",
+          "start": 37.71,
+          "end": 38.07
+        }
+      ],
+      "viet_words": []
+    }
+  ]
+}

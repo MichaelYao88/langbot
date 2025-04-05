@@ -1,0 +1,89 @@
+{
+  "id": "bbb94285",
+  "timestamp": 1743768808,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Họ đang theo dõi chúng ta. Cư xử bình thường đi! Đừng nhìn, nhưng có hai người đàn ông mặc đồ đen đằng kia."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thật sao? Tôi không thấy ai cả. Có lẽ cô đọc quá nhiều tiểu thuyết trinh thám rồi đấy."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Đồ ngốc! Tôi không đùa đâu. Giống như cách bạn nghĩ về hôn nhân vậy. Bạn có tin vào việc đợi đến khi kết hôn không?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Đợi cái gì? À, chuyện đó... Tôi nghĩ mỗi người có quyền tự quyết định. Nhưng tôi tôn trọng những người muốn đợi đến khi kết hôn."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tôi luôn tin rằng đợi đến khi kết hôn là điều đúng đắn. Ở Nga, gia đình tôi rất truyền thống. Nhưng nhiều người cho rằng quan điểm này lỗi thời."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Không lỗi thời đâu, chỉ là khác biệt văn hóa thôi. Tôi nghĩ nếu hai người thực sự yêu nhau, họ sẽ tôn trọng ranh giới của nhau. Cô nghĩ sao về những người không đợi?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Người ta có quyền lựa chọn, nhưng tôi thấy việc đợi đến khi kết hôn tạo nên điều gì đó đặc biệt. Giống như ván cờ vua, đôi khi bạn phải kiên nhẫn chờ đợi nước đi hoàn hảo. Những người đàn ông đó vẫn đang nhìn chúng ta!"
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "They're watching us. Act normal! Don't look, but there are two men in black over there."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? I don't see anyone. Maybe you've been reading too many detective novels."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Idiot! I'm not joking. It's just like how you nghĩ about kết hôn. Do you believe in đợi until kết hôn?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Wait for what? Oh, that... I nghĩ each người has the right to decide for themselves. But I respect những người who want to đợi until kết hôn."
+    },
+    {
+      "speaker": "Mira",
+      "text": "I've always believed that đợi until kết hôn is đúng đắn. In Russia, my family is very traditional. But many người think this view is outdated."
+    },
+    {
+      "speaker": "Michael",
+      "text": "It's không outdated, just cultural differences. I nghĩ if two người truly love each other, they'll respect each other's boundaries. What do you think about những người who don't đợi?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Người have the right to choose, but I find đợi until kết hôn creates something special. Like a chess game, sometimes you have to be patient and đợi for the perfect move. Those men are still looking at us!"
+    }
+  ],
+  "topic_word": "đợi",
+  "topic_word_translation": "wait",
+  "common_words": [
+    {
+      "word": "kết hôn",
+      "translation": "marriage (noun)"
+    },
+    {
+      "word": "người",
+      "translation": "person/people (noun)"
+    },
+    {
+      "word": "nghĩ",
+      "translation": "think (verb)"
+    },
+    {
+      "word": "đúng đắn",
+      "translation": "right/correct (adjective)"
+    },
+    {
+      "word": "không",
+      "translation": "no/not (negation)"
+    }
+  ],
+    "title_card": "waiting until marriage"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "11e901bf",
+  "timestamp": 1743803064,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Tôi cảm thấy an toàn khi đi bộ ở Sài Gòn vào buổi tối. Phụ nữ ở Nga không dám ra đường một mình đâu."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thật sao? Ở Mỹ cũng vậy, nhiều khu vực không an toàn cho phụ nữ. Tôi thích việc Việt Nam có nhiều người trên đường phố vào ban đêm."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Đúng vậy, đường phố ở đây luôn đông đúc. Nhưng đôi khi tôi thấy cách đàn ông Việt nhìn tôi... hơi kỳ lạ."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Có lẽ vì cô là người nước ngoài xinh đẹp. Nhưng tôi hiểu cảm giác không thoải mái đó. Tôi có thể đi cùng cô vào buổi tối nếu cô muốn cảm thấy an toàn hơn."
+    },
+    {
+      "speaker": "Mira",
+      "text": "Anh nghĩ tôi cần người bảo vệ sao? Tôi chơi cờ vua, tôi biết cách tính toán mọi tình huống. Nhưng... nếu anh muốn đi cùng tôi, tôi cũng không từ chối."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Vậy tối mai cô có muốn đi dạo và kể cho tôi nghe thêm về cảm nhận của cô về sự an toàn ở Việt Nam không?"
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I cảm thấy an toàn when đi walking on đường phố in Saigon during buổi tối. Phụ nữ in Russia don't dare to go out alone."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? America is the same, many areas aren't an toàn for phụ nữ. I like that Vietnam has many people on đường phố at night."
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's right, the đường phố here are always crowded. But sometimes I find the way Vietnamese men look at me... a bit strange."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Maybe because you're a beautiful foreigner. But I understand that uncomfortable cảm thấy. I could đi with you during buổi tối if you want to feel more an toàn."
+    },
+    {
+      "speaker": "Mira",
+      "text": "You think I need protection? I play chess, I know how to calculate every situation. But... if you want to đi with me, I won't refuse."
+    },
+    {
+      "speaker": "Michael",
+      "text": "So tomorrow buổi tối would you like to take a walk and tell me more about your thoughts on an toàn for phụ nữ in Vietnam? TITLE_CARD: Safe Streets for Women?"
+    }
+  ],
+  "topic_word": "an toàn",
+  "topic_word_translation": "safe/safety",
+  "common_words": [
+    {
+      "word": "cảm thấy (verb)",
+      "translation": "to feel"
+    },
+    {
+      "word": "đường phố (noun)",
+      "translation": "streets"
+    },
+    {
+      "word": "phụ nữ (noun)",
+      "translation": "women"
+    },
+    {
+      "word": "đi (verb)",
+      "translation": "to go/walk"
+    },
+    {
+      "word": "buổi tối (noun)",
+      "translation": "evening"
+    }
+  ],
+  "title_card": "Safe Streets for Women?"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "f072b8b0",
+  "timestamp": 1743770156,
+  "vietnamese_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Cậu có nghe mấy cô gái Việt Nam nói rằng đàn ông Việt thích ngực hay mông hơn không?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tớ nghĩ đàn ông Việt thường thích ngực hơn, nhưng cũng phụ thuộc vào từng người. Sao cậu lại hỏi vậy?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Chỉ tò mò thôi! Bạn gái tớ nói rằng đàn ông Việt Nam khác với đàn ông Nga. Ở Nga, đàn ông thích mông hơn."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Thú vị đấy. Tớ không biết văn hóa có ảnh hưởng đến sở thích như vậy. Cậu nghĩ gì về điều này?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Tớ nghĩ đàn ông ở đâu cũng giống nhau cả, nhưng có lẽ văn hóa ảnh hưởng một chút. Cậu thích gì hơn... à, tớ không nên hỏi thế."
+    },
+    {
+      "speaker": "Michael",
+      "text": "Tớ... ừm... thật khó để trả lời. Tớ nghĩ tớ đánh giá cao cả hai, nhưng quan trọng hơn là người sở hữu chúng. Cậu có nghĩ là kỳ lạ khi chúng ta thảo luận về chủ đề này không?"
+    }
+  ],
+  "english_dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Have you heard Vietnamese girls saying whether Vietnamese đàn ông prefer nghĩ or mông more?"
+    },
+    {
+      "speaker": "Michael",
+      "text": "I nghĩ Vietnamese đàn ông usually thích nghĩ more, but it also depends on the individual. Why are you asking?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "Just curious! My friend told me that Vietnamese đàn ông are different from Russian men. In Russia, men thích mông more."
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's interesting. I didn't know văn hóa could influence such preferences. What do you nghĩ about this?"
+    },
+    {
+      "speaker": "Mira",
+      "text": "I nghĩ đàn ông are the same everywhere, but maybe văn hóa influences a little. What do you thích more... ah, I shouldn't ask that."
+    },
+    {
+      "speaker": "Michael",
+      "text": "I... um... that's hard to answer. I nghĩ I appreciate both, but what's more important is the person who possesses them. Do you think it's strange that we're discussing this topic? TITLE_CARD: Boobs or Butt Debate?"
+    }
+  ],
+  "topic_word": "đàn ông",
+  "topic_word_translation": "men",
+  "common_words": [
+    {
+      "word": "thích (verb)",
+      "translation": "like/prefer"
+    },
+    {
+      "word": "nghĩ (verb)",
+      "translation": "think"
+    },
+    {
+      "word": "ngực (noun)",
+      "translation": "breasts/chest"
+    },
+    {
+      "word": "mông (noun)",
+      "translation": "butt"
+    },
+    {
+      "word": "văn hóa (noun)",
+      "translation": "culture"
+    }
+  ],
+  "title_card": "Boobs or Butt?"
+}

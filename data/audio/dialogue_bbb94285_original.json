@@ -1,0 +1,101 @@
+{
+  "id": "bbb94285",
+  "topic_word": "đợi",
+  "topic_word_translation": "wait",
+  "common_words": [
+    {
+      "word": "kết hôn",
+      "translation": "marriage (noun)"
+    },
+    {
+      "word": "người",
+      "translation": "person/people (noun)"
+    },
+    {
+      "word": "nghĩ",
+      "translation": "think (verb)"
+    },
+    {
+      "word": "đúng đắn",
+      "translation": "right/correct (adjective)"
+    },
+    {
+      "word": "không",
+      "translation": "no/not (negation)"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "They're watching us. Act normal! Don't look, but there are two men in black over there.",
+      "start_time": 0.0,
+      "end_time": 8.700000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? I don't see anyone. Maybe you've been reading too many detective novels.",
+      "start_time": 9.200000000000001,
+      "end_time": 17.200000000000003,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "Idiot! I'm not joking. It's just like how you nghĩ about kết hôn. Do you believe in đợi until kết hôn?",
+      "start_time": 17.700000000000003,
+      "end_time": 27.900000000000006,
+      "viet_words": [
+        "kết hôn",
+        "nghĩ",
+        "đợi"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Wait for what? Oh, that... I nghĩ each người has the right to decide for themselves. But I respect những người who want to đợi until kết hôn.",
+      "start_time": 28.400000000000006,
+      "end_time": 42.50000000000001,
+      "viet_words": [
+        "kết hôn",
+        "người",
+        "nghĩ",
+        "đợi"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "I've always believed that đợi until kết hôn is đúng đắn. In Russia, my family is very traditional. But many người think this view is outdated.",
+      "start_time": 43.00000000000001,
+      "end_time": 57.20000000000001,
+      "viet_words": [
+        "kết hôn",
+        "người",
+        "đúng đắn",
+        "đợi"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "It's không outdated, just cultural differences. I nghĩ if two người truly love each other, they'll respect each other's boundaries. What do you think about những người who don't đợi?",
+      "start_time": 57.70000000000001,
+      "end_time": 75.9,
+      "viet_words": [
+        "người",
+        "nghĩ",
+        "không",
+        "đợi"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Người have the right to choose, but I find đợi until kết hôn creates something special. Like a chess game, sometimes you have to be patient and đợi for the perfect move. Those men are still looking at us!",
+      "start_time": 76.4,
+      "end_time": 96.80000000000001,
+      "viet_words": [
+        "kết hôn",
+        "người",
+        "đợi"
+      ]
+    }
+  ]
+}

@@ -130,6 +130,7 @@ def generate_dialogue_with_openai(topic=None, topic_word=None):
     COMMON_WORD_3: [third common word] - [English translation]
     COMMON_WORD_4: [fourth common word] - [English translation]
     COMMON_WORD_5: [fifth common word] - [English translation]
+    TITLE_CARD: [the topic of conversation in English] + "(in vietnamese)"
     
     If there are not 5 common words, create another dialogue.
 
@@ -213,6 +214,9 @@ def generate_dialogue_with_anthropic(topic=None, topic_word=None):
     Format the English translation as:
     Mira: [English dialogue with Vietnamese words left untranslated]
     Michael: [English dialogue with Vietnamese words left untranslated]
+
+    Then provide:
+    TITLE_CARD: [Topic of the conversation to appear on title in English. Make it a hook in <5 words, ie "Boobs or Butt?", "What did she say?","Food-ordering words"]
     """
     
     # If a specific topic word is provided, modify the prompt
@@ -240,7 +244,8 @@ def parse_dialogue_response(response_text):
         "english_dialogue": [],
         "topic_word": "",
         "topic_word_translation": "",
-        "common_words": []
+        "common_words": [],
+        "title_card": ""  # Just a simple string for the title
     }
     
     # Split the response into sections
@@ -287,6 +292,14 @@ def parse_dialogue_response(response_text):
                 "word": word_match.group(1).strip(),
                 "translation": word_match.group(2).strip()
             })
+    
+    # Extract title card
+    title_card_match = re.search(r'TITLE_CARD:\s*([^\n]+)', rest_of_response)
+    if title_card_match:
+        title_text = title_card_match.group(1).strip()
+        # Remove "(in vietnamese)" if present
+        title_text = re.sub(r'\s*\(in vietnamese\)\s*$', '', title_text, flags=re.IGNORECASE)
+        dialogue_data["title_card"] = title_text.strip()
     
     # Extract English dialogue
     # Find where the English dialogue starts

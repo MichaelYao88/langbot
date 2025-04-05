@@ -1,0 +1,359 @@
+{
+  "id": "11e901bf",
+  "topic_word": "an toàn",
+  "topic_word_translation": "safe/safety",
+  "common_words": [
+    {
+      "word": "cảm thấy (verb)",
+      "translation": "to feel"
+    },
+    {
+      "word": "đường phố (noun)",
+      "translation": "streets"
+    },
+    {
+      "word": "phụ nữ (noun)",
+      "translation": "women"
+    },
+    {
+      "word": "đi (verb)",
+      "translation": "to go/walk"
+    },
+    {
+      "word": "buổi tối (noun)",
+      "translation": "evening"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I <vietnamese>cảm thấy</vietnamese>",
+      "start_time": 0.06,
+      "end_time": 0.9
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>an toàn</vietnamese> when",
+      "start_time": 0.9,
+      "end_time": 2.06
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>đi</vietnamese> walking on",
+      "start_time": 2.07,
+      "end_time": 3.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>đường phố</vietnamese> in Saigon",
+      "start_time": 3.28,
+      "end_time": 4.59
+    },
+    {
+      "speaker": "Mira",
+      "text": "during <vietnamese>buổi tối</vietnamese>.",
+      "start_time": 4.59,
+      "end_time": 6.01
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Phụ nữ</vietnamese> in",
+      "start_time": 6.3,
+      "end_time": 7.29
+    },
+    {
+      "speaker": "Mira",
+      "text": "Russia don't dare",
+      "start_time": 7.29,
+      "end_time": 8.4
+    },
+    {
+      "speaker": "Mira",
+      "text": "to go out",
+      "start_time": 8.4,
+      "end_time": 8.94
+    },
+    {
+      "speaker": "Mira",
+      "text": "alone.",
+      "start_time": 8.94,
+      "end_time": 9.5
+    },
+    {
+      "speaker": "Michael",
+      "text": "Really? America is",
+      "start_time": 9.5,
+      "end_time": 10.59
+    },
+    {
+      "speaker": "Michael",
+      "text": "the same, many",
+      "start_time": 10.59,
+      "end_time": 11.37
+    },
+    {
+      "speaker": "Michael",
+      "text": "areas aren't <vietnamese>an toàn</vietnamese>",
+      "start_time": 11.37,
+      "end_time": 12.48
+    },
+    {
+      "speaker": "Michael",
+      "text": "for <vietnamese>phụ nữ</vietnamese>.",
+      "start_time": 12.48,
+      "end_time": 13.96
+    },
+    {
+      "speaker": "Michael",
+      "text": "I like",
+      "start_time": 13.97,
+      "end_time": 14.85
+    },
+    {
+      "speaker": "Michael",
+      "text": "that Vietnam has",
+      "start_time": 14.85,
+      "end_time": 15.6
+    },
+    {
+      "speaker": "Michael",
+      "text": "many people on",
+      "start_time": 15.6,
+      "end_time": 16.29
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>đường phố</vietnamese>",
+      "start_time": 16.29,
+      "end_time": 16.83
+    },
+    {
+      "speaker": "Michael",
+      "text": "at night.",
+      "start_time": 16.84,
+      "end_time": 18.19
+    },
+    {
+      "speaker": "Mira",
+      "text": "That's right, the",
+      "start_time": 18.39,
+      "end_time": 19.450000000000003
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>đường phố</vietnamese> here",
+      "start_time": 19.53,
+      "end_time": 20.67
+    },
+    {
+      "speaker": "Mira",
+      "text": "are always crowded.",
+      "start_time": 20.67,
+      "end_time": 22.21
+    },
+    {
+      "speaker": "Mira",
+      "text": "But sometimes I",
+      "start_time": 22.47,
+      "end_time": 23.37
+    },
+    {
+      "speaker": "Mira",
+      "text": "find the way",
+      "start_time": 23.37,
+      "end_time": 23.94
+    },
+    {
+      "speaker": "Mira",
+      "text": "Vietnamese men look",
+      "start_time": 23.94,
+      "end_time": 25.02
+    },
+    {
+      "speaker": "Mira",
+      "text": "at me...",
+      "start_time": 25.02,
+      "end_time": 25.6
+    },
+    {
+      "speaker": "Mira",
+      "text": "a bit strange.",
+      "start_time": 26.04,
+      "end_time": 27.16
+    },
+    {
+      "speaker": "Michael",
+      "text": "Maybe because you're",
+      "start_time": 27.36,
+      "end_time": 28.38
+    },
+    {
+      "speaker": "Michael",
+      "text": "a beautiful foreigner.",
+      "start_time": 28.38,
+      "end_time": 29.44
+    },
+    {
+      "speaker": "Michael",
+      "text": "But I understand",
+      "start_time": 30.42,
+      "end_time": 31.08
+    },
+    {
+      "speaker": "Michael",
+      "text": "that uncomfortable <vietnamese>cảm thấy</vietnamese>.",
+      "start_time": 31.08,
+      "end_time": 33.04
+    },
+    {
+      "speaker": "Michael",
+      "text": "I could <vietnamese>đi</vietnamese>",
+      "start_time": 33.06,
+      "end_time": 33.93
+    },
+    {
+      "speaker": "Michael",
+      "text": "with you during",
+      "start_time": 33.93,
+      "end_time": 35.59
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>buổi tối</vietnamese> if",
+      "start_time": 35.64,
+      "end_time": 36.06
+    },
+    {
+      "speaker": "Michael",
+      "text": "you want to",
+      "start_time": 36.06,
+      "end_time": 36.69
+    },
+    {
+      "speaker": "Michael",
+      "text": "feel more <vietnamese>an toàn</vietnamese>.",
+      "start_time": 36.69,
+      "end_time": 37.95
+    },
+    {
+      "speaker": "Mira",
+      "text": "You think I",
+      "start_time": 37.95,
+      "end_time": 39.12
+    },
+    {
+      "speaker": "Mira",
+      "text": "need protection?",
+      "start_time": 39.12,
+      "end_time": 39.87
+    },
+    {
+      "speaker": "Mira",
+      "text": "I play chess,",
+      "start_time": 39.87,
+      "end_time": 40.65
+    },
+    {
+      "speaker": "Mira",
+      "text": "I know how",
+      "start_time": 40.65,
+      "end_time": 41.1
+    },
+    {
+      "speaker": "Mira",
+      "text": "to calculate every",
+      "start_time": 41.1,
+      "end_time": 42.18
+    },
+    {
+      "speaker": "Mira",
+      "text": "situation. But...",
+      "start_time": 42.18,
+      "end_time": 44.58
+    },
+    {
+      "speaker": "Mira",
+      "text": "if you want",
+      "start_time": 44.58,
+      "end_time": 45.14
+    },
+    {
+      "speaker": "Mira",
+      "text": "to <vietnamese>đi</vietnamese> with me,",
+      "start_time": 45.15,
+      "end_time": 45.99
+    },
+    {
+      "speaker": "Mira",
+      "text": "I won't refuse.",
+      "start_time": 45.99,
+      "end_time": 47.28
+    },
+    {
+      "speaker": "Michael",
+      "text": "So tomorrow <vietnamese>buổi tối</vietnamese>",
+      "start_time": 47.28,
+      "end_time": 49.11
+    },
+    {
+      "speaker": "Michael",
+      "text": "would you like",
+      "start_time": 49.11,
+      "end_time": 49.47
+    },
+    {
+      "speaker": "Michael",
+      "text": "to take a",
+      "start_time": 49.47,
+      "end_time": 49.92
+    },
+    {
+      "speaker": "Michael",
+      "text": "walk",
+      "start_time": 49.92,
+      "end_time": 50.07
+    },
+    {
+      "speaker": "Michael",
+      "text": "and tell me",
+      "start_time": 50.07,
+      "end_time": 50.43
+    },
+    {
+      "speaker": "Michael",
+      "text": "more about your",
+      "start_time": 50.43,
+      "end_time": 51.06
+    },
+    {
+      "speaker": "Michael",
+      "text": "thoughts on <vietnamese>an toàn</vietnamese>",
+      "start_time": 51.06,
+      "end_time": 52.23
+    },
+    {
+      "speaker": "Michael",
+      "text": "for <vietnamese>phụ nữ</vietnamese>",
+      "start_time": 52.23,
+      "end_time": 53.78
+    },
+    {
+      "speaker": "Michael",
+      "text": "in Vietnam?",
+      "start_time": 53.79,
+      "end_time": 55.04
+    },
+    {
+      "speaker": "TITLE_CARD",
+      "text": "Safe Streets",
+      "start_time": 55.05,
+      "end_time": 56.25
+    },
+    {
+      "speaker": "TITLE_CARD",
+      "text": "for Women?",
+      "start_time": 56.25,
+      "end_time": 57.07
+    }
+  ]
+}

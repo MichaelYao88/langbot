@@ -1,0 +1,287 @@
+{
+  "id": "9148bae6",
+  "topic_word": "khi nào",
+  "topic_word_translation": "when",
+  "common_words": [
+    {
+      "word": "nghĩ (verb)",
+      "translation": "think"
+    },
+    {
+      "word": "thích (verb)",
+      "translation": "like"
+    },
+    {
+      "word": "thời gian (noun)",
+      "translation": "time"
+    },
+    {
+      "word": "đợi (verb)",
+      "translation": "wait"
+    },
+    {
+      "word": "hiểu (verb)",
+      "translation": "understand"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "Do you <vietnamese>khi nào</vietnamese>",
+      "start_time": 0.06,
+      "end_time": 0.9
+    },
+    {
+      "speaker": "Mira",
+      "text": "we can",
+      "start_time": 0.9,
+      "end_time": 1.77
+    },
+    {
+      "speaker": "Mira",
+      "text": "go see that",
+      "start_time": 1.77,
+      "end_time": 2.22
+    },
+    {
+      "speaker": "Mira",
+      "text": "movie?",
+      "start_time": 2.22,
+      "end_time": 3.27
+    },
+    {
+      "speaker": "Mira",
+      "text": "It's been",
+      "start_time": 3.27,
+      "end_time": 3.99
+    },
+    {
+      "speaker": "Mira",
+      "text": "three weeks since",
+      "start_time": 3.99,
+      "end_time": 5.22
+    },
+    {
+      "speaker": "Mira",
+      "text": "you promised.",
+      "start_time": 5.22,
+      "end_time": 5.4
+    },
+    {
+      "speaker": "Michael",
+      "text": "We'll go",
+      "start_time": 5.4,
+      "end_time": 5.97
+    },
+    {
+      "speaker": "Michael",
+      "text": "when you're free.",
+      "start_time": 5.97,
+      "end_time": 6.84
+    },
+    {
+      "speaker": "Michael",
+      "text": "But honestly,",
+      "start_time": 6.84,
+      "end_time": 7.05
+    },
+    {
+      "speaker": "Michael",
+      "text": "I <vietnamese>nghĩ</vietnamese>",
+      "start_time": 7.05,
+      "end_time": 8.1
+    },
+    {
+      "speaker": "Michael",
+      "text": "waiting a",
+      "start_time": 8.1,
+      "end_time": 8.94
+    },
+    {
+      "speaker": "Michael",
+      "text": "bit longer might",
+      "start_time": 8.94,
+      "end_time": 9.72
+    },
+    {
+      "speaker": "Michael",
+      "text": "be better because",
+      "start_time": 9.72,
+      "end_time": 10.26
+    },
+    {
+      "speaker": "Michael",
+      "text": "the theater will",
+      "start_time": 10.26,
+      "end_time": 11.19
+    },
+    {
+      "speaker": "Michael",
+      "text": "be less crowded.",
+      "start_time": 11.19,
+      "end_time": 11.46
+    },
+    {
+      "speaker": "Mira",
+      "text": "I don't",
+      "start_time": 11.46,
+      "end_time": 12.51
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>thích đợi</vietnamese> that long.",
+      "start_time": 12.51,
+      "end_time": 13.89
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Khi nào</vietnamese> will",
+      "start_time": 13.89,
+      "end_time": 14.94
+    },
+    {
+      "speaker": "Mira",
+      "text": "you <vietnamese>hiểu</vietnamese> that",
+      "start_time": 14.94,
+      "end_time": 16.38
+    },
+    {
+      "speaker": "Mira",
+      "text": "I hate delays?",
+      "start_time": 16.38,
+      "end_time": 17.470000000000002
+    },
+    {
+      "speaker": "Mira",
+      "text": "We Russians",
+      "start_time": 17.52,
+      "end_time": 19.009999999999998
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>thích</vietnamese> everything on time.",
+      "start_time": 19.02,
+      "end_time": 20.34
+    },
+    {
+      "speaker": "Michael",
+      "text": "Maybe",
+      "start_time": 20.34,
+      "end_time": 21.03
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>khi nào</vietnamese> you",
+      "start_time": 21.03,
+      "end_time": 22.360000000000003
+    },
+    {
+      "speaker": "Michael",
+      "text": "<vietnamese>hiểu</vietnamese> that sometimes",
+      "start_time": 22.44,
+      "end_time": 23.55
+    },
+    {
+      "speaker": "Michael",
+      "text": "patience brings better",
+      "start_time": 23.55,
+      "end_time": 24.48
+    },
+    {
+      "speaker": "Michael",
+      "text": "experiences.",
+      "start_time": 24.48,
+      "end_time": 25.77
+    },
+    {
+      "speaker": "Michael",
+      "text": "I want",
+      "start_time": 25.77,
+      "end_time": 26.97
+    },
+    {
+      "speaker": "Michael",
+      "text": "to have <vietnamese>thời gian</vietnamese>",
+      "start_time": 26.97,
+      "end_time": 27.78
+    },
+    {
+      "speaker": "Michael",
+      "text": "alone with",
+      "start_time": 27.78,
+      "end_time": 28.68
+    },
+    {
+      "speaker": "Michael",
+      "text": "you, not squeeze",
+      "start_time": 28.68,
+      "end_time": 29.8275
+    },
+    {
+      "speaker": "Michael",
+      "text": "in",
+      "start_time": 29.8275,
+      "end_time": 30.21
+    },
+    {
+      "speaker": "Michael",
+      "text": "with crowds.",
+      "start_time": 30.21,
+      "end_time": 30.36
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>Thời gian</vietnamese> alone?",
+      "start_time": 30.36,
+      "end_time": 31.51
+    },
+    {
+      "speaker": "Mira",
+      "text": "You <vietnamese>nghĩ</vietnamese>",
+      "start_time": 31.65,
+      "end_time": 32.96
+    },
+    {
+      "speaker": "Mira",
+      "text": "I want...",
+      "start_time": 32.97,
+      "end_time": 34.05
+    },
+    {
+      "speaker": "Mira",
+      "text": "oh, I mean...",
+      "start_time": 34.05,
+      "end_time": 34.32
+    },
+    {
+      "speaker": "Mira",
+      "text": "<vietnamese>khi nào</vietnamese> will",
+      "start_time": 34.32,
+      "end_time": 35.37
+    },
+    {
+      "speaker": "Mira",
+      "text": "you stop saying",
+      "start_time": 35.37,
+      "end_time": 36.24
+    },
+    {
+      "speaker": "Mira",
+      "text": "things that make",
+      "start_time": 36.24,
+      "end_time": 36.87
+    },
+    {
+      "speaker": "Mira",
+      "text": "me flustered like",
+      "start_time": 36.87,
+      "end_time": 37.71
+    },
+    {
+      "speaker": "Mira",
+      "text": "that?",
+      "start_time": 37.71,
+      "end_time": 38.17
+    }
+  ]
+}

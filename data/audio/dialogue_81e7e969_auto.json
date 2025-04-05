@@ -1,0 +1,1213 @@
+{
+  "id": "81e7e969",
+  "topic_word": "tỷ lệ tội phạm",
+  "topic_word_translation": "crime rate",
+  "common_words": [
+    {
+      "word": "cảm thấy (verb)",
+      "translation": "to feel"
+    },
+    {
+      "word": "an toàn (adjective)",
+      "translation": "safe"
+    },
+    {
+      "word": "đi bộ (verb)",
+      "translation": "to walk"
+    },
+    {
+      "word": "nghĩ (verb)",
+      "translation": "to think"
+    },
+    {
+      "word": "sống (verb)",
+      "translation": "to live"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "i find the",
+      "start_time": 0.03,
+      "end_time": 0.81,
+      "word_timestamps": [
+        {
+          "word": "i",
+          "start": 0.03,
+          "end": 0.18
+        },
+        {
+          "word": "find",
+          "start": 0.18,
+          "end": 0.51
+        },
+        {
+          "word": "the",
+          "start": 0.51,
+          "end": 0.81
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "the late but",
+      "start_time": 0.96,
+      "end_time": 1.53,
+      "word_timestamps": [
+        {
+          "word": "the",
+          "start": 0.96,
+          "end": 1.14
+        },
+        {
+          "word": "late",
+          "start": 1.14,
+          "end": 1.38
+        },
+        {
+          "word": "but",
+          "start": 1.38,
+          "end": 1.53
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "fat in saigon",
+      "start_time": 1.53,
+      "end_time": 2.64,
+      "word_timestamps": [
+        {
+          "word": "fat",
+          "start": 1.53,
+          "end": 1.86
+        },
+        {
+          "word": "in",
+          "start": 1.95,
+          "end": 2.13
+        },
+        {
+          "word": "saigon",
+          "start": 2.13,
+          "end": 2.64
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "much lower than",
+      "start_time": 2.64,
+      "end_time": 3.39,
+      "word_timestamps": [
+        {
+          "word": "much",
+          "start": 2.64,
+          "end": 2.91
+        },
+        {
+          "word": "lower",
+          "start": 2.91,
+          "end": 3.18
+        },
+        {
+          "word": "than",
+          "start": 3.18,
+          "end": 3.39
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "in moscow do",
+      "start_time": 3.39,
+      "end_time": 4.26,
+      "word_timestamps": [
+        {
+          "word": "in",
+          "start": 3.39,
+          "end": 3.48
+        },
+        {
+          "word": "moscow",
+          "start": 3.48,
+          "end": 4.11
+        },
+        {
+          "word": "do",
+          "start": 4.11,
+          "end": 4.26
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "you can pay",
+      "start_time": 4.26,
+      "end_time": 5.49,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 4.26,
+          "end": 4.59
+        },
+        {
+          "word": "can",
+          "start": 4.74,
+          "end": 5.04
+        },
+        {
+          "word": "pay",
+          "start": 5.04,
+          "end": 5.49
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "on been living",
+      "start_time": 5.67,
+      "end_time": 7.17,
+      "word_timestamps": [
+        {
+          "word": "on",
+          "start": 5.67,
+          "end": 5.88
+        },
+        {
+          "word": "been",
+          "start": 6.03,
+          "end": 6.63
+        },
+        {
+          "word": "living",
+          "start": 6.81,
+          "end": 7.17
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "here that's right",
+      "start_time": 7.17,
+      "end_time": 8.31,
+      "word_timestamps": [
+        {
+          "word": "here",
+          "start": 7.17,
+          "end": 7.59
+        },
+        {
+          "word": "that's",
+          "start": 7.8,
+          "end": 8.01
+        },
+        {
+          "word": "right",
+          "start": 8.01,
+          "end": 8.31
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "the the little",
+      "start_time": 8.43,
+      "end_time": 9.48,
+      "word_timestamps": [
+        {
+          "word": "the",
+          "start": 8.43,
+          "end": 8.76
+        },
+        {
+          "word": "the",
+          "start": 8.91,
+          "end": 9.09
+        },
+        {
+          "word": "little",
+          "start": 9.09,
+          "end": 9.48
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "fun here is",
+      "start_time": 9.48,
+      "end_time": 10.38,
+      "word_timestamps": [
+        {
+          "word": "fun",
+          "start": 9.48,
+          "end": 9.87
+        },
+        {
+          "word": "here",
+          "start": 9.96,
+          "end": 10.2
+        },
+        {
+          "word": "is",
+          "start": 10.2,
+          "end": 10.38
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "quite low compared",
+      "start_time": 10.38,
+      "end_time": 11.37,
+      "word_timestamps": [
+        {
+          "word": "quite",
+          "start": 10.38,
+          "end": 10.68
+        },
+        {
+          "word": "low",
+          "start": 10.68,
+          "end": 10.95
+        },
+        {
+          "word": "compared",
+          "start": 10.95,
+          "end": 11.37
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "to many other",
+      "start_time": 11.37,
+      "end_time": 11.97,
+      "word_timestamps": [
+        {
+          "word": "to",
+          "start": 11.37,
+          "end": 11.49
+        },
+        {
+          "word": "many",
+          "start": 11.49,
+          "end": 11.76
+        },
+        {
+          "word": "other",
+          "start": 11.76,
+          "end": 11.97
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "big cities county",
+      "start_time": 11.97,
+      "end_time": 13.86,
+      "word_timestamps": [
+        {
+          "word": "big",
+          "start": 11.97,
+          "end": 12.21
+        },
+        {
+          "word": "cities",
+          "start": 12.21,
+          "end": 12.69
+        },
+        {
+          "word": "county",
+          "start": 13.17,
+          "end": 13.86
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "am gone when",
+      "start_time": 13.98,
+      "end_time": 15.6,
+      "word_timestamps": [
+        {
+          "word": "am",
+          "start": 13.98,
+          "end": 14.34
+        },
+        {
+          "word": "gone",
+          "start": 14.55,
+          "end": 15.03
+        },
+        {
+          "word": "when",
+          "start": 15.21,
+          "end": 15.6
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "the ball at",
+      "start_time": 15.81,
+      "end_time": 16.62,
+      "word_timestamps": [
+        {
+          "word": "the",
+          "start": 15.81,
+          "end": 16.02
+        },
+        {
+          "word": "ball",
+          "start": 16.02,
+          "end": 16.35
+        },
+        {
+          "word": "at",
+          "start": 16.47,
+          "end": 16.62
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "night and like",
+      "start_time": 16.62,
+      "end_time": 17.43,
+      "word_timestamps": [
+        {
+          "word": "night",
+          "start": 16.62,
+          "end": 16.92
+        },
+        {
+          "word": "and",
+          "start": 17.16,
+          "end": 17.28
+        },
+        {
+          "word": "like",
+          "start": 17.28,
+          "end": 17.43
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "in",
+      "start_time": 17.43,
+      "end_time": 17.49,
+      "word_timestamps": [
+        {
+          "word": "in",
+          "start": 17.43,
+          "end": 17.49
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "america but you",
+      "start_time": 17.5,
+      "end_time": 19.5,
+      "word_timestamps": [
+        {
+          "word": "america",
+          "start": 17.502684,
+          "end": 18.0
+        },
+        {
+          "word": "but",
+          "start": 19.23,
+          "end": 19.38
+        },
+        {
+          "word": "you",
+          "start": 19.38,
+          "end": 19.5
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "can't deny that",
+      "start_time": 19.5,
+      "end_time": 20.34,
+      "word_timestamps": [
+        {
+          "word": "can't",
+          "start": 19.5,
+          "end": 19.736957
+        },
+        {
+          "word": "deny",
+          "start": 19.736957,
+          "end": 20.13
+        },
+        {
+          "word": "that",
+          "start": 20.13,
+          "end": 20.34
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "snatching issues still",
+      "start_time": 20.34,
+      "end_time": 21.75,
+      "word_timestamps": [
+        {
+          "word": "snatching",
+          "start": 20.34,
+          "end": 20.97
+        },
+        {
+          "word": "issues",
+          "start": 20.97,
+          "end": 21.470301
+        },
+        {
+          "word": "still",
+          "start": 21.470301,
+          "end": 21.75
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "exist last week",
+      "start_time": 21.75,
+      "end_time": 23.31,
+      "word_timestamps": [
+        {
+          "word": "exist",
+          "start": 21.75,
+          "end": 22.47
+        },
+        {
+          "word": "last",
+          "start": 22.8,
+          "end": 23.1
+        },
+        {
+          "word": "week",
+          "start": 23.1,
+          "end": 23.31
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "i almost had",
+      "start_time": 23.31,
+      "end_time": 24.21,
+      "word_timestamps": [
+        {
+          "word": "i",
+          "start": 23.31,
+          "end": 23.46
+        },
+        {
+          "word": "almost",
+          "start": 23.46,
+          "end": 24.06
+        },
+        {
+          "word": "had",
+          "start": 24.06,
+          "end": 24.21
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "my phone snatched",
+      "start_time": 24.21,
+      "end_time": 25.08,
+      "word_timestamps": [
+        {
+          "word": "my",
+          "start": 24.21,
+          "end": 24.33
+        },
+        {
+          "word": "phone",
+          "start": 24.33,
+          "end": 24.6
+        },
+        {
+          "word": "snatched",
+          "start": 24.6,
+          "end": 25.08
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "while nibble near",
+      "start_time": 25.08,
+      "end_time": 26.61,
+      "word_timestamps": [
+        {
+          "word": "while",
+          "start": 25.08,
+          "end": 25.47
+        },
+        {
+          "word": "nibble",
+          "start": 25.71,
+          "end": 26.28
+        },
+        {
+          "word": "near",
+          "start": 26.4,
+          "end": 26.61
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "my home i'm",
+      "start_time": 26.61,
+      "end_time": 27.66,
+      "word_timestamps": [
+        {
+          "word": "my",
+          "start": 26.61,
+          "end": 26.76
+        },
+        {
+          "word": "home",
+          "start": 26.76,
+          "end": 27.27
+        },
+        {
+          "word": "i'm",
+          "start": 27.51,
+          "end": 27.66
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "sorry about that",
+      "start_time": 27.66,
+      "end_time": 28.47,
+      "word_timestamps": [
+        {
+          "word": "sorry",
+          "start": 27.66,
+          "end": 27.99
+        },
+        {
+          "word": "about",
+          "start": 27.99,
+          "end": 28.2
+        },
+        {
+          "word": "that",
+          "start": 28.2,
+          "end": 28.47
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "perhaps i should",
+      "start_time": 29.31,
+      "end_time": 31.2,
+      "word_timestamps": [
+        {
+          "word": "perhaps",
+          "start": 29.31,
+          "end": 29.82
+        },
+        {
+          "word": "i",
+          "start": 30.87,
+          "end": 30.99
+        },
+        {
+          "word": "should",
+          "start": 30.99,
+          "end": 31.2
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "accompany you more",
+      "start_time": 31.2,
+      "end_time": 31.92,
+      "word_timestamps": [
+        {
+          "word": "accompany",
+          "start": 31.2,
+          "end": 31.56
+        },
+        {
+          "word": "you",
+          "start": 31.56,
+          "end": 31.68
+        },
+        {
+          "word": "more",
+          "start": 31.68,
+          "end": 31.92
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "often to ensure",
+      "start_time": 31.92,
+      "end_time": 32.61,
+      "word_timestamps": [
+        {
+          "word": "often",
+          "start": 31.92,
+          "end": 32.22
+        },
+        {
+          "word": "to",
+          "start": 32.22,
+          "end": 32.31
+        },
+        {
+          "word": "ensure",
+          "start": 32.31,
+          "end": 32.61
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "safety i know",
+      "start_time": 32.61,
+      "end_time": 34.38,
+      "word_timestamps": [
+        {
+          "word": "safety",
+          "start": 32.61,
+          "end": 33.06
+        },
+        {
+          "word": "i",
+          "start": 34.11,
+          "end": 34.23
+        },
+        {
+          "word": "know",
+          "start": 34.23,
+          "end": 34.38
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "someone",
+      "start_time": 34.38,
+      "end_time": 34.86,
+      "word_timestamps": [
+        {
+          "word": "someone",
+          "start": 34.38,
+          "end": 34.86
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "gone short cuts",
+      "start_time": 35.04,
+      "end_time": 36.39,
+      "word_timestamps": [
+        {
+          "word": "gone",
+          "start": 35.04,
+          "end": 35.52
+        },
+        {
+          "word": "short",
+          "start": 35.7,
+          "end": 36.0
+        },
+        {
+          "word": "cuts",
+          "start": 36.0,
+          "end": 36.39
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "you me i",
+      "start_time": 36.6,
+      "end_time": 38.07,
+      "word_timestamps": [
+        {
+          "word": "you",
+          "start": 36.6,
+          "end": 37.08
+        },
+        {
+          "word": "me",
+          "start": 37.26,
+          "end": 37.8
+        },
+        {
+          "word": "i",
+          "start": 37.95,
+          "end": 38.07
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "need a protector",
+      "start_time": 38.07,
+      "end_time": 38.88,
+      "word_timestamps": [
+        {
+          "word": "need",
+          "start": 38.07,
+          "end": 38.25
+        },
+        {
+          "word": "a",
+          "start": 38.25,
+          "end": 38.31
+        },
+        {
+          "word": "protector",
+          "start": 38.31,
+          "end": 38.88
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "of some in",
+      "start_time": 38.88,
+      "end_time": 40.29,
+      "word_timestamps": [
+        {
+          "word": "of",
+          "start": 38.88,
+          "end": 39.09
+        },
+        {
+          "word": "some",
+          "start": 39.27,
+          "end": 39.9
+        },
+        {
+          "word": "in",
+          "start": 40.08,
+          "end": 40.29
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "moscow but perhaps",
+      "start_time": 40.29,
+      "end_time": 42.3,
+      "word_timestamps": [
+        {
+          "word": "moscow",
+          "start": 40.29,
+          "end": 40.95
+        },
+        {
+          "word": "but",
+          "start": 41.37,
+          "end": 41.64
+        },
+        {
+          "word": "perhaps",
+          "start": 41.7,
+          "end": 42.3
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "going",
+      "start_time": 42.33,
+      "end_time": 42.66,
+      "word_timestamps": [
+        {
+          "word": "going",
+          "start": 42.33,
+          "end": 42.66
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "together would be",
+      "start_time": 42.66,
+      "end_time": 43.35,
+      "word_timestamps": [
+        {
+          "word": "together",
+          "start": 42.66,
+          "end": 43.08
+        },
+        {
+          "word": "would",
+          "start": 43.08,
+          "end": 43.23
+        },
+        {
+          "word": "be",
+          "start": 43.23,
+          "end": 43.35
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "more interesting i",
+      "start_time": 43.35,
+      "end_time": 44.61,
+      "word_timestamps": [
+        {
+          "word": "more",
+          "start": 43.35,
+          "end": 43.56
+        },
+        {
+          "word": "interesting",
+          "start": 43.56,
+          "end": 44.19
+        },
+        {
+          "word": "i",
+          "start": 44.43,
+          "end": 44.61
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "don't he you",
+      "start_time": 44.61,
+      "end_time": 46.17,
+      "word_timestamps": [
+        {
+          "word": "don't",
+          "start": 44.61,
+          "end": 45.12
+        },
+        {
+          "word": "he",
+          "start": 45.3,
+          "end": 45.93
+        },
+        {
+          "word": "you",
+          "start": 45.99,
+          "end": 46.17
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "need protection but",
+      "start_time": 46.17,
+      "end_time": 47.37,
+      "word_timestamps": [
+        {
+          "word": "need",
+          "start": 46.17,
+          "end": 46.38
+        },
+        {
+          "word": "protection",
+          "start": 46.38,
+          "end": 47.04
+        },
+        {
+          "word": "but",
+          "start": 47.22,
+          "end": 47.37
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "i want to",
+      "start_time": 47.37,
+      "end_time": 47.67,
+      "word_timestamps": [
+        {
+          "word": "i",
+          "start": 47.37,
+          "end": 47.43
+        },
+        {
+          "word": "want",
+          "start": 47.43,
+          "end": 47.61
+        },
+        {
+          "word": "to",
+          "start": 47.61,
+          "end": 47.67
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "spend more time",
+      "start_time": 47.67,
+      "end_time": 48.39,
+      "word_timestamps": [
+        {
+          "word": "spend",
+          "start": 47.67,
+          "end": 47.91
+        },
+        {
+          "word": "more",
+          "start": 47.91,
+          "end": 48.09
+        },
+        {
+          "word": "time",
+          "start": 48.09,
+          "end": 48.39
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "with you where",
+      "start_time": 48.39,
+      "end_time": 49.2,
+      "word_timestamps": [
+        {
+          "word": "with",
+          "start": 48.39,
+          "end": 48.54
+        },
+        {
+          "word": "you",
+          "start": 48.54,
+          "end": 48.81
+        },
+        {
+          "word": "where",
+          "start": 49.02,
+          "end": 49.2
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "do you think",
+      "start_time": 49.2,
+      "end_time": 49.65,
+      "word_timestamps": [
+        {
+          "word": "do",
+          "start": 49.2,
+          "end": 49.29
+        },
+        {
+          "word": "you",
+          "start": 49.29,
+          "end": 49.41
+        },
+        {
+          "word": "think",
+          "start": 49.41,
+          "end": 49.65
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "the the little",
+      "start_time": 49.65,
+      "end_time": 50.76,
+      "word_timestamps": [
+        {
+          "word": "the",
+          "start": 49.65,
+          "end": 50.01
+        },
+        {
+          "word": "the",
+          "start": 50.19,
+          "end": 50.34
+        },
+        {
+          "word": "little",
+          "start": 50.34,
+          "end": 50.76
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "fun is scarier",
+      "start_time": 50.76,
+      "end_time": 51.93,
+      "word_timestamps": [
+        {
+          "word": "fun",
+          "start": 50.76,
+          "end": 51.15
+        },
+        {
+          "word": "is",
+          "start": 51.24,
+          "end": 51.42
+        },
+        {
+          "word": "scarier",
+          "start": 51.42,
+          "end": 51.93
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "saigon or moscow",
+      "start_time": 52.02,
+      "end_time": 53.16,
+      "word_timestamps": [
+        {
+          "word": "saigon",
+          "start": 52.02,
+          "end": 52.56
+        },
+        {
+          "word": "or",
+          "start": 52.59,
+          "end": 52.65
+        },
+        {
+          "word": "moscow",
+          "start": 52.65,
+          "end": 53.16
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "title card dangerous",
+      "start_time": 53.67,
+      "end_time": 54.99,
+      "word_timestamps": [
+        {
+          "word": "title",
+          "start": 53.67,
+          "end": 54.0
+        },
+        {
+          "word": "card",
+          "start": 54.0,
+          "end": 54.3
+        },
+        {
+          "word": "dangerous",
+          "start": 54.57,
+          "end": 54.99
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "streets or date",
+      "start_time": 54.99,
+      "end_time": 55.56,
+      "word_timestamps": [
+        {
+          "word": "streets",
+          "start": 54.99,
+          "end": 55.29
+        },
+        {
+          "word": "or",
+          "start": 55.32,
+          "end": 55.41
+        },
+        {
+          "word": "date",
+          "start": 55.41,
+          "end": 55.56
+        }
+      ],
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "excuse",
+      "start_time": 55.56,
+      "end_time": 56.07,
+      "word_timestamps": [
+        {
+          "word": "excuse",
+          "start": 55.56,
+          "end": 56.07
+        }
+      ],
+      "viet_words": []
+    }
+  ]
+}

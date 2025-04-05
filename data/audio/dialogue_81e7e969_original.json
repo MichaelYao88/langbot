@@ -1,0 +1,77 @@
+{
+  "id": "81e7e969",
+  "topic_word": "tỷ lệ tội phạm",
+  "topic_word_translation": "crime rate",
+  "common_words": [
+    {
+      "word": "cảm thấy (verb)",
+      "translation": "to feel"
+    },
+    {
+      "word": "an toàn (adjective)",
+      "translation": "safe"
+    },
+    {
+      "word": "đi bộ (verb)",
+      "translation": "to walk"
+    },
+    {
+      "word": "nghĩ (verb)",
+      "translation": "to think"
+    },
+    {
+      "word": "sống (verb)",
+      "translation": "to live"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I find the tỷ lệ tội phạm in Saigon much lower than in Moscow. Do you cảm thấy an toàn living here?",
+      "start_time": 0.0,
+      "end_time": 9.9,
+      "viet_words": [
+        "tỷ lệ tội phạm"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "That's right, the tỷ lệ tội phạm here is quite low compared to many other big cities. I cảm thấy an toàn when đi bộ at night, unlike in America.",
+      "start_time": 10.4,
+      "end_time": 24.8,
+      "viet_words": [
+        "tỷ lệ tội phạm"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Hmph, but you can't deny that snatching issues still exist. Last week I almost had my phone snatched while đi bộ near my home.",
+      "start_time": 25.3,
+      "end_time": 37.900000000000006,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "I'm sorry about that. Perhaps... I should accompany you more often to ensure safety? I know some an toàn shortcuts.",
+      "start_time": 38.400000000000006,
+      "end_time": 49.900000000000006,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "You nghĩ I need a protector? I've sống in Moscow! But... perhaps going together would be more interesting.",
+      "start_time": 50.400000000000006,
+      "end_time": 61.00000000000001,
+      "viet_words": []
+    },
+    {
+      "speaker": "Michael",
+      "text": "I don't nghĩ you need protection, but I want to spend more time with you. Where do you think the tỷ lệ tội phạm is scarier - Saigon or Moscow? TITLE_CARD: Dangerous Streets or Date Excuse?",
+      "start_time": 61.50000000000001,
+      "end_time": 80.30000000000001,
+      "viet_words": [
+        "tỷ lệ tội phạm"
+      ]
+    }
+  ]
+}

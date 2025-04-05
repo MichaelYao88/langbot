@@ -1,0 +1,72 @@
+{
+  "id": "c90fdefd",
+  "topic_word": "ngực",
+  "topic_word_translation": "breasts",
+  "common_words": [
+    {
+      "word": "thích (verb)",
+      "translation": "to like"
+    },
+    {
+      "word": "thú vị (adjective)",
+      "translation": "interesting"
+    },
+    {
+      "word": "thật (adverb)",
+      "translation": "really/truly"
+    },
+    {
+      "word": "văn hóa (noun)",
+      "translation": "culture"
+    },
+    {
+      "word": "mông (noun)",
+      "translation": "buttocks"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "Mira",
+      "text": "I notice Westerners like you usually thích mông more than ngực. Russian men like us are different.",
+      "start_time": 0.0,
+      "end_time": 9.8,
+      "viet_words": [
+        "ngực"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "Actually, I'm not purely Western. But it's true that the question of mông and ngực makes me think a lot about văn hóa differences.",
+      "start_time": 10.3,
+      "end_time": 23.3,
+      "viet_words": [
+        "ngực"
+      ]
+    },
+    {
+      "speaker": "Mira",
+      "text": "Thú vị indeed! Russian men usually thích ngực more. Perhaps because it evokes warmth in cold weather?",
+      "start_time": 23.8,
+      "end_time": 33.900000000000006,
+      "viet_words": [
+        "ngực"
+      ]
+    },
+    {
+      "speaker": "Michael",
+      "text": "I've never thật thought about that. But if we go to Russia together someday, could you explain more about this văn hóa?",
+      "start_time": 34.400000000000006,
+      "end_time": 46.300000000000004,
+      "viet_words": []
+    },
+    {
+      "speaker": "Mira",
+      "text": "You want to go to Russia with me? It's bold to talk about ngực, mông and then invite me traveling... But I find it thú vị.",
+      "start_time": 46.800000000000004,
+      "end_time": 59.00000000000001,
+      "viet_words": [
+        "ngực"
+      ]
+    }
+  ]
+}
